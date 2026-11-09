@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 7.
+Keeper #13, as the chapter prints it in "Rank the sources before Claude searches", with the five slot values listed there for Lena Brooks's rain-barrel questions filled in. Lena and the garden are invented. New prompt text written for this book; it is neither practice-pack text nor Jason's words.
+Copy everything below the line of dashes into a new chat, then replace the last line with everything below the line of dashes in maple-street-rain-barrels.txt (from "MAPLE STREET" down).
+----------------------------------------
+Job: Research the Ohio and City of Columbus rules and official guidance on rain barrels at a community garden, and write a report for our garden's volunteer committee, who will use it to decide at our next meeting whether to put rain barrels on the tool shed. My notes, with the situation and the questions, are below.
+
+Material: Search the web. Don't use my email, calendar, drive or other connected apps for this. Rank sources in this order:
+1. Official: Ohio state agencies, the City of Columbus, then Franklin County.
+2. Groups: universities and their extension services, nonprofits, and news reports about a rule.
+3. Other: anything else, used only when nothing above covers a point.
+
+Shape: A report in this chat, as plain text, that answers my questions in order. For each point, give:
+- The answer in one to three plain sentences.
+- For a point about a rule: Rule if the source says it's required, Guidance if it only recommends.
+- The source's tier (Official, Group or Other), its full link, and the date printed on the page, or "no date".
+- The sentence from that page that supports the point, quoted word for word.
+Then a short checklist of next steps, in order. Last, a list headed "Pages I could not open".
+
+Check: If no official page covers a point, write Not confirmed, and say which lower tier you used, if any. Don't estimate a fee, a date or any other number the sources don't give. If two sources disagree, write CONFLICT, quote both and don't choose between them. If you couldn't open a page, add it to the last list and don't quote it.
+
+MY NOTES
+[PASTE maple-street-rain-barrels.txt HERE, EVERYTHING BELOW ITS LINE OF DASHES]

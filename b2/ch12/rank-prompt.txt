@@ -1,0 +1,17 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 12.
+The ranking card for "Try this: Your everything-else list". New prompt text written for this book. Matches the chapter's card word for word below the line of dashes. Paste your list (or Dana's, from dana-list.txt) in place of the last line.
+----------------------------------------
+I'm deciding which part of my week to hand to Claude first. Below is my everything-else list: the tasks from one ordinary week that weren't my core work, each with its hours per week and my three marks.
+P = public: someone besides me reads or hears the result.
+$ = money: the result states or decides a price, a charge or a payment.
+U = can't undo: once it's out, I can't take it back for free.
+
+Job: Rank the list so I can see which task to hand over first.
+
+Material: Only the list below. Keep my hours and my marks exactly as I wrote them.
+
+Shape: A numbered list, one line per task: the task, its hours, its marks, and a short reason for its place. Mark the top three. Then a heading "Split first" for every task that carries all three marks, with one line each: the step that could come off it, and the step that stays with me.
+
+Check: Rank by hours, most first, among the tasks that don't carry all three marks. On a tie, fewer marks go first. If a mark looks wrong to you, say so in one line under the list, and leave it as I wrote it.
+
+[PASTE YOUR LIST]

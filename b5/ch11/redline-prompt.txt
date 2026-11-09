@@ -1,0 +1,9 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 11, Proposal, Contract, Invoice.
+The prompt card for "Try this: Read a counter with three lists". Paste everything below the line of dashes, then both versions (or marcus-sow-v1.txt and marcus-sow-v2.txt) in place of the last line. Matches the chapter's prompt card word for word. Written for this book.
+----------------------------------------
+Job: Compare the statement of work I sent with the version that came back, and list every difference.
+Material: Version 1 (mine) and Version 2 (theirs), pasted below. Nothing else.
+Shape: Go section by section, in order. Three lists. Changed: section, Version 1 wording, Version 2 wording, and one line on what it means for me (money, dates, ownership or risk). Cosmetic: wording or order only, meaning the same. Unchanged: section numbers only.
+Check: Compare every number, date, name and phrase about who owns what. If a section moved, match it by its content and say where it went. Quote; do not summarize. Do not give legal advice.
+
+[PASTE VERSION 1, THEN VERSION 2]

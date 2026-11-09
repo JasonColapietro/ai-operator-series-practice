@@ -1,0 +1,7 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 15, Rent the Tool, Own the Work.
+The four lines to add under "## My settings" in library/keepers.md, below the ones from earlier chapters. Every word in capitals inside brackets is a slot. Matches the chapter's Save this listing word for word below this header.
+----------------------------------------
+Last Claude export: [DATE], library/exports/[DATE]/
+Rebuild drill: [PROJECT], [MINUTES] minutes, canaries [PASSED OR FAILED], [DATE]
+Shared work: [PERSONAL ACCOUNTS OR TEAM PLAN], because [WHY]. Revisit when [WHAT WOULD CHANGE IT].
+Book 2 test: [NUMBER] of 4, run [DATE]

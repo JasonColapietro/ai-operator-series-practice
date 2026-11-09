@@ -1,0 +1,15 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 15.
+The template for library/weekly.md, the ten-minute Friday review. Copy everything below the line into a plain text file called weekly.md in your library folder. Words in capitals inside brackets are slots: fill them each week.
+
+---
+library/weekly.md
+
+# Weekly review
+Same day every week, ten minutes. Newest entry on top.
+
+## [FRIDAY'S DATE]
+What worked: [ONE JOB THAT WENT WELL, AND THE KEEPER OR HABIT BEHIND IT]
+What failed, and my rule now: [WHAT WENT WRONG OR NEARLY DID] · Rule: [WHAT I DO NOW]
+One keeper to add: [ONE JOB THAT CAME BACK WITHOUT A KEEPER, OR "none this week"]
+One setting to check: [WHICH ONE, WHAT I FOUND, WHAT I CHANGED]
+Next review: [DATE]

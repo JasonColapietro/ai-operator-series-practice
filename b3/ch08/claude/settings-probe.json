@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      { "matcher": "*",
+        "hooks": [ { "type": "command", "command": "python3",
+                     "args": ["${CLAUDE_PROJECT_DIR}/hooks/probe.py"] } ] }
+    ],
+    "PostToolUse": [
+      { "matcher": "*",
+        "hooks": [ { "type": "command", "command": "python3",
+                     "args": ["${CLAUDE_PROJECT_DIR}/hooks/probe.py"] } ] }
+    ]
+  }
+}

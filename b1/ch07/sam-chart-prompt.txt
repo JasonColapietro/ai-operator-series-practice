@@ -1,0 +1,16 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 7.
+Sam's second try at the Bayside Bakery chart. Copied unchanged from the practice pack's chart lesson. Attach the chart and the assignment, then paste everything below the line.
+---
+I'm taking an evening bookkeeping course. Attached are a chart from my practice set and the assignment questions. I want to understand the chart well enough to answer the questions myself.
+
+Use only what is in the image and the assignment. Do not add reasons, causes or outside facts. Do not answer the assignment questions yet.
+
+Give me these sections:
+1. What the chart is: the title, what each axis measures, the time period, and every note or footnote, word for word.
+2. A table of every value you can read, with one row per category: dollar amount and percentage label. Add a total row. If a value is hard to read, write "unclear" instead of guessing.
+3. Three things the chart clearly shows, each with the numbers behind it.
+4. What this chart can't tell me, in two or three bullets.
+
+Before you write section 3, reread the footnotes and the axis labels. If anything there affects how the numbers add up, say so.
+
+After this, I'll send you my answers. Then tell me which ones are right, show the math for any that are wrong, and don't just give me the answer without the steps.

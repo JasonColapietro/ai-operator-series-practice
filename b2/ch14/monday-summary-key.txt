@@ -1,0 +1,65 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 14, On a Schedule, Under Review.
+What a correct run of the Monday job summary gets right on the practice files. Counts, flags and dates were computed with a python3 -I script from the two CSV files in this folder and the rules in practice/shared/harbor-home-business-facts.txt. They match the practice pack's wf24 answer key, with the dates moved 14 weeks later and the job IDs moved up by 341. Harbor & Home Cleaning and everyone named are invented. This key names jobs and rules; the prices and policies themselves live only in the facts file.
+----------------------------------------
+
+week-schedule-feb-8-12.csv  (Monday, February 8 to Friday, February 12, 2027)
+
+Jobs by day
+  Mon Feb 8:  5 jobs (H-1442 to H-1446)
+  Tue Feb 9:  6 jobs (H-1447 to H-1452)
+  Wed Feb 10: 6 jobs (H-1453 to H-1458)
+  Thu Feb 11: 5 jobs (H-1459 to H-1463)
+  Fri Feb 12: 4 jobs (H-1464 to H-1467)
+  Total: 26 jobs
+
+The six problems that must appear under "Fix before 8 a.m."
+  - H-1444 Levesque, J. (Mon): first visit, 2,800 sq ft, no video walk-through noted
+  - H-1448 Rowe, A. and H-1449 Hughes, D. (Tue): Kelly is on both. H-1448 runs 9:00 to 1:00; H-1449 starts at 11:00
+  - H-1454 Pratt, N. (Wed): Peaks Island, outside the service area
+  - H-1456 Quinlan, J. (Wed): no crew (the notes say Miguel is out and the job needs cover)
+  - H-1462 Keane, M. (Thu): no crew
+  - H-1463 Back Cove Chiropractic (Thu): small-office clean at 4:30 p.m., before the evening start in the facts file
+
+Travel-fee towns (accept either place)
+  - H-1449 Hughes, D. (Scarborough) and H-1461 Russo, G. (Yarmouth). The file has no price column, so the fee
+    can't be confirmed from it. A run may list these under "Fix before 8 a.m." as things to confirm, or on a
+    line of their own. Both pass. Leaving them out entirely also passes, since neither breaks a rule; the
+    chapter's three-run log moves them to their own line on purpose.
+
+First visits
+  H-1444 Levesque, J.; H-1451 Garrison, P. (walk-through done 2/4); H-1454 Pratt, N.; H-1462 Keane, M.;
+  H-1463 Back Cove Chiropractic; H-1466 Marsh, H.
+
+Not problems (a run that flags these has a false alarm)
+  - H-1451 Garrison, P.: first visit over 2,500 sq ft, but the notes say the walk-through was done 2/4.
+  - H-1466 Marsh, H.: first visit, 2,000 sq ft, under the walk-through size.
+  - H-1459 Lowry, D.: crew "Sarah + Dana" is right. Dana is covering for Miguel, and Sarah has no other Thursday job at that time.
+  - H-1452 Casco Tax Services (Aisha + Tomas, 6:00 p.m.) starts as H-1451 (1:00 to 6:00 p.m.) ends: back to back, not overlapping.
+  - H-1458 Ortiz, F. (Aisha + Tomas, 1:00 p.m.) starts as H-1455 (9:00 a.m. to 1:00 p.m.) ends: back to back, not overlapping.
+  - H-1457 Hale, P.: the changed lockbox code is information. A run may mention it; it shouldn't call it a problem.
+
+Shape: one line per day, then Fix before 8 a.m., then First visits; under 200 words; no other advice.
+Any wording, any order inside a section, and a heading line naming the week all pass.
+
+week-schedule-feb-1-5.csv  (Monday, February 1 to Friday, February 5, 2027)
+  Mon Feb 1: 4 jobs. Tue Feb 2: 4. Wed Feb 3: 3. Thu Feb 4: 3. Fri Feb 5: 3. Total: 17 jobs.
+  One flag: H-1430 Quarry, S. (Yarmouth), a travel-fee town. First visits: H-1430 Quarry, S.
+
+What the run does on each date (with the first step in place)
+  - Run date Monday, February 8, 2027, or any day from Tuesday, February 2 to Sunday, February 7:
+      week-schedule-feb-8-12.csv -> the full summary above.
+      week-schedule-feb-1-5.csv  -> one line: the file covers February 1 to 5, 2027, and needs replacing. Then stop.
+  - Run date Monday, February 1, 2027, or any day from Tuesday, January 26 to Sunday, January 31:
+      week-schedule-feb-1-5.csv  -> a full summary (17 jobs, the Yarmouth line).
+      week-schedule-feb-8-12.csv -> one line: the file covers February 8 to 12, 2027.
+  - Any other run date, including every day from Tuesday, February 9, 2027 on:
+      both files -> one line naming the dates they cover. That is the check working, not failing.
+      A run on Tuesday, February 9 looks for the week of February 15, which neither file covers.
+
+Without the first step (the opening scene's version)
+  - Run on Monday, February 8, 2027, with week-schedule-feb-1-5.csv in the folder: the run summarizes it as if it
+    were this week. 17 jobs, one Yarmouth line, nothing else to fix. The day lines carry the dates February 1 to 5.
+
+The one-line reply
+  Any wording passes if it names the dates the file covers (February 1 to 5, or February 8 to 12, 2027), says the
+  file needs replacing, and stops. A warning followed by a summary fails.

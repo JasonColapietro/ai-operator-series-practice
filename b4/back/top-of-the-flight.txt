@@ -1,0 +1,194 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Back of the Book: Top of the Flight.
+A worksheet for your own library/ folder. You can keep a filled copy in library/reviews/; it holds no secrets. Never write a password, a key, a token or a recovery code on it. Any practice-cast name you meet here is fiction.
+
+======================================================================
+PART 1. THE CAN-DO LEDGER
+======================================================================
+Read each line as a question: could I do this tomorrow, with the book closed?
+Tick yes, or tick not yet and redo that chapter's Try this.
+
+                                                                yes  not yet
+4.1  List every AI tool you use and what you
+     would lose if each one disappeared.          chapter 1     [ ]  [ ]
+4.2  Make a one-page terms card for each tool
+     with the setting you chose and why.          chapter 2     [ ]  [ ]
+4.3  Label each piece of your work human-made,
+     AI-assisted or AI-generated, with the
+     evidence for each label.                     chapter 3     [ ]  [ ]
+4.4  Put one real project under a dated record
+     in twenty minutes.                           chapter 4     [ ]  [ ]
+4.5  Publish a receipts page with five dated,
+     checkable items and automate one receipt.    chapter 5     [ ]  [ ]
+4.6  Write the disclosure line you will use on
+     your work and your site.                     chapter 6     [ ]  [ ]
+4.7  Write a one-page voice and likeness policy.  chapter 7     [ ]  [ ]
+4.8  Export every AI account you use and store
+     the exports where you control them.          chapter 8     [ ]  [ ]
+4.9  Add a license to your library repo and set
+     your site's crawler rules on purpose.        chapter 9     [ ]  [ ]
+4.10 Redline the ownership, payment and indemnity
+     clauses of a contract and list questions
+     for a lawyer.                                chapter 10    [ ]  [ ]
+4.11 Publish one canonical page and fix every
+     profile that points elsewhere.               chapter 11    [ ]  [ ]
+4.12 Score your setup on prove, terms and
+     transfer, and move one dependency to an
+     open format.                                 chapter 12    [ ]  [ ]
+4.13 Write OWNERSHIP.md, your balance sheet,
+     with one dependency to fix this month.       chapter 13    [ ]  [ ]
+4.14 Finish the three-part estate plan in one
+     afternoon.                                   chapter 14    [ ]  [ ]
+
+======================================================================
+PART 2. LIBRARY/ AT THE END OF BOOK 4
+======================================================================
+Tick each line you can open today. Names are the practice route's.
+Where yours differ, go by what's inside.
+
+[ ] OWNERSHIP.md: tools and what each holds, the sovereignty
+    score, the balance sheet, the audit dates               ch 1, 12, 13
+[ ] ledger/terms/: one dated card per tool                 ch 2
+[ ] ledger/labels.md                                       ch 3
+[ ] ledger/TEMPLATE.md and one ledger per project          ch 4
+[ ] receipts/[PROJECT]/: exports, fingerprints, dates      ch 4
+[ ] receipts/evidence-room/[OFFER]/                        ch 5
+[ ] receipts/public.md and receipts/log.md                 ch 5
+[ ] disclosure.md                                          ch 6
+[ ] voice-policy.md, consent/, voice.md with owner lines   ch 7
+[ ] exports/[DATE]/ for this month (kept out of git)       ch 8
+[ ] backups.md, with this month's restore                  ch 8
+[ ] data/register.md                                       ch 8
+[ ] LICENSE and terms.md                                   ch 9
+[ ] contracts/clauses.md                                   ch 10
+[ ] identity.md                                            ch 11
+[ ] estate.md, pointers only                               ch 14
+
+Beside any line you can't tick, write the chapter number.
+
+======================================================================
+PART 3. THE BOOK 1 TEST, AIMED AT EVERYTHING
+======================================================================
+Tick a box only when every line it covers passes all three
+questions (prove it, use it, hand it on), and you can show it today.
+
+[ ] 1. A terms card for every tool. Every tool and account on
+       OWNERSHIP.md's list has a dated card in ledger/terms/.     ch 2
+[ ] 2. Receipts captured at creation. The last finished piece
+       of your main project has a ledger entry, a fingerprint
+       and an outside date, all from the day it was finished.    ch 4, 5
+[ ] 3. A license and a crawler policy, published. LICENSE is in
+       the repo, your terms page is live, and terms.md holds the
+       date you last read robots.txt from the live site.          ch 9
+[ ] 4. Exports and two backups. This month's exports folder
+       exists, both backups hold it, and backups.md logs a
+       restore from each this month.                             ch 8
+[ ] 5. A balance sheet. Every line of OWNERSHIP.md passes the
+       three questions, or says "leaves with me" on purpose.
+       Until then the box stays open, and the Fix first line
+       carries a date this month.                                ch 13
+[ ] 6. An estate plan. estate.md holds pointers only, your
+       executor can say where the plan is and how they would get
+       in without you in the room, and the lawyer's review is
+       booked or done.                                           ch 14
+
+Then add or update this line in keepers.md, under ## My settings,
+below the Book 3 test line:
+
+   Book 4 test: [NUMBER] of 6, run [DATE]
+
+======================================================================
+PART 4. THE QUARTERLY OWNERSHIP AUDIT
+======================================================================
+Sixty minutes, four times a year. Copy the four dates from the bottom
+of OWNERSHIP.md (chapter 13) and check each is in your calendar, with
+an alert the week before.
+
+Date 1: ____________   Date 2: ____________
+Date 3: ____________   Date 4: ____________
+
+Each time:
+[ ] Exports current: this quarter's sweeps dated in exports/, and
+    three records traced from the data register
+[ ] Ledgers kept
+[ ] Terms cards re-read after any vendor email about terms
+[ ] Backups restored: a restore this quarter from each backup
+[ ] Identity unchanged
+[ ] Estate pointers current: new accounts in estate.md, no secrets
+[ ] One dependency fixed: close the Fix first line, rescore, date it,
+    pick the next one
+
+======================================================================
+PART 5. THE THREE QUESTIONS, AGAIN
+======================================================================
+Open library/reviews/book-4-start.md. Under the first answers, add a
+new heading with today's date, and ask the same three questions of
+the same one thing. Don't change the first answers.
+
+1. Could I still prove it's mine, and show how it was made?
+2. Could I still use it?
+3. Could I hand it on (to a partner, a client, a buyer or an heir)?
+
+For each: yes, no or partly, one line on what you can show now, and
+the file that shows it.
+
+PRACTICE ROUTE: SAM'S CHECKER AT THE END OF BOOK 4 (fiction)
+Read this beside sam-checker-card.txt in the b4/front folder, which
+says where the checker stood when the book began. This card states
+only what the story settled in Book 4. Where it is silent, write
+[CHECK: what is missing].
+
+What changed in the records
+  ledger/labels.md labels each of Sam's pieces, with the evidence
+  for each label (chapter 3).
+  The checker's project has an AI-use ledger, written at the end of
+  each session, with older entries marked "reconstructed", and its
+  finished files carry fingerprints and outside dates (chapter 4).
+
+What changed in the copies
+  data/register.md names Dana as the owner of every row about her
+  customers, with a keep-until she chose (chapter 8).
+  Each month's exports folder holds a checked bundle of the repo,
+  stored like the data it holds, and two encrypted backups each
+  passed a restore test (chapter 8).
+  The tests no longer type real customers' names (chapter 8).
+
+What changed in the agreement (chapter 10, section 4, signed)
+  Harbor & Home owns its records wherever a copy sits, including
+  Sam's repository, its history and any backup or bundle.
+  Harbor & Home's copy of the checker and the Monday report belongs
+  to Harbor & Home and runs from an account it controls.
+  Sam's prompt library, skills, rules files and the checker's code
+  stay Sam's. Harbor & Home has a nonexclusive license to use them
+  in its copy for as long as it uses that copy.
+
+What changed in the name and the formats (chapters 11 and 12)
+  identity.md records one name for Sam's work, and the plugin's
+  author line now says "Sam Rivera" in place of a placeholder.
+  The night job's agent step was replaced by a plain Python script,
+  tested on two computers.
+
+What changed on the balance sheet (chapter 13)
+  The checker's line split in two. The method (code, tests and the
+  briefs) sits under Assets as Sam's, with Harbor & Home's license
+  noted. Harbor & Home's running copy sits under Held for others as
+  Dana's. One dependency is still the dated Fix first line, to close
+  before Harbor & Home's copy runs without Sam.
+
+What changed in the estate plan (chapter 14)
+  estate.md names an executor for everything that is Sam's. The
+  letter gives Dana three lines: her Monday report is hers to keep
+  or stop; Backup 2 sits at her office and its drive password is now
+  in her own password manager; every other copy of her records is
+  deleted once she confirms she has hers.
+
+======================================================================
+PART 6. WHAT TO BRING TO BOOK 5
+======================================================================
+[ ] OWNERSHIP.md, with the three lines a buyer would pay for most
+    marked (chapter 13)
+[ ] A plain list of the people and businesses you can reach: former
+    employers, clients, neighbors, groups you belong to. Names and
+    how you know them. Book 5, chapter 1, starts from it.
+
+Last step: save what changed. If library/ is a repository, add each
+changed file by name, commit and push. exports/ stays out of git.

@@ -1,0 +1,7 @@
+PRACTICE FILE. The AI Operator Series, Book 3, Chapter 11. The prompt card for the status line, if you'd rather /statusline wrote the script than copy statusline.py.
+----------------------------------------
+/statusline Show the model, the git branch, context used,
+and the date and result of the last run of
+scripts/reconcile.py, read from reports/last-run.json in
+the folder where Claude Code started. If that file is
+missing, show "reconcile: no run yet".

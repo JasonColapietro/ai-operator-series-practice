@@ -1,0 +1,23 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 11.
+The answer key for Sam's Practice Set 3A, copied unchanged from the practice pack. Read it after the grading run in "Put the room to work". Do not upload it to the Project: a Project that holds the answers can't check your work honestly.
+
+PRACTICE SET 3A: CORRECT ENTRIES AND SAM'S MARKS
+1. Dr Cash 5,000 / Cr Owner's Capital 5,000   Sam: RIGHT
+2. Dr Supplies 300 / Cr Cash 300   Sam: RIGHT
+3. Dr Equipment 1,200 / Cr Accounts Payable 1,200   Sam: WRONG
+     Sam wrote: Dr Equipment 1,200 / Cr Cash 1,200. Bought on account: no cash paid yet, so credit Accounts Payable (a liability goes up), not Cash.
+4. Dr Cash 450 / Cr Service Revenue 450   Sam: RIGHT
+5. Dr Accounts Receivable 600 / Cr Service Revenue 600   Sam: RIGHT
+6. Dr Rent Expense 800 / Cr Cash 800   Sam: WRONG
+     Sam wrote: Dr Cash 800 / Cr Rent Expense 800. Entry is reversed. Paying rent increases Rent Expense (debit) and decreases Cash (credit).
+7. Dr Accounts Payable 500 / Cr Cash 500   Sam: RIGHT
+8. Dr Cash 600 / Cr Accounts Receivable 600   Sam: WRONG
+     Sam wrote: Dr Cash 600 / Cr Service Revenue 600. Revenue was already recorded on Sept 12. Collecting the bill reduces Accounts Receivable (credit), not Service Revenue. Crediting revenue again counts the same $600 twice.
+9. Dr Owner's Drawing 200 / Cr Cash 200   Sam: WRONG
+     Sam wrote: Dr Cash 200 / Cr Owner's Drawing 200. Entry is reversed. Owner's Drawing goes up with a DEBIT (the D in DEALER), and Cash goes down (credit). Sam's notes list Owner's Drawing as Credit, which is the mistake in the notes.
+Score: 5 of 9 right. Wrong: 3, 6, 8, 9
+
+BONUS: correct Cash balance on Sept 30 = $4,250
+  5,000 - 300 + 450 - 800 - 500 + 600 - 200 = 4,250
+  Sam wrote $5,050, which matches Sam's own entries ($5,050). It is wrong only because entries 3, 6 and 9 move Cash the wrong way.
+  Effect of each wrong entry on Cash (Sam minus correct): entry 3: -1,200; entry 6: +1,600; entry 9: +400; total +800 = 5,050 - 4,250

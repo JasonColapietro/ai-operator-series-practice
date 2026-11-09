@@ -1,0 +1,17 @@
+FICTION. Practice file for Book 5, chapter 15. Sam Rivera, Harbor & Home, Marcus Lee Design and every result below are invented.
+
+SAM'S RUN OF THE TWENTY-YEAR TEST FOR THE PRACTICE
+
+1. Client systems in client accounts, open formats. PASS for Harbor & Home: the weekend quote desk runs in Dana's accounts, its rules are Markdown, its skill is an Agent Skills folder. PASS for Marcus Lee Design: nothing of his keeps running; each report goes to him with its dated captures, and it is his once paid.
+2. Skills in more than one tool. PASS: the weekend-quotes skill passed the trigger test in Claude Code and in Codex this week.
+3. Prices and terms written down. PASS: pricing.md (chapter 4) and the terms page (Book 4, chapter 9).
+4. Client list in pipeline.md. PASS, with a note: two waiting-list names were only in Sam's phone. Moved into pipeline.md under "Waiting".
+5. Runbooks that passed a cold read. PASS for Harbor & Home (chapter 14). Marcus Lee Design needs none: nothing keeps running for him.
+6. Nothing running for a client under Sam's personal account. FAIL. The monthly visibility reading behind the last line of Dana's report runs as a scheduled task in Sam's own account, on Sam's AI plan. If Sam stopped, the reading would stop the same day, and nobody at Harbor & Home would know where it came from.
+   Redesign (the second question: "only while I'm still here?" was yes): move the scheduled task into an account Harbor & Home owns, add its steps to clients/harbor-home/runbook.md, and have Dana run one reading herself. Date set for the week before the next monthly report.
+
+WHAT ELSE COUNTS AS RIGHT
+- Any line marked FAIL with a next step and a date is a correct result. A blank line is the only wrong one.
+- Line 4 can pass even if you use a CRM, as long as pipeline.md lists every client and prospect with a pointer to where the rest lives.
+- Line 2 can read "one tool, second tool planned for <date>" if you work only in a Claude Project (the no-code path). That is a next step, and it counts.
+- If you have no client yet, run lines 3, 4 and 6 on your own setup and write lines 1, 2 and 5 as rules for the first client.

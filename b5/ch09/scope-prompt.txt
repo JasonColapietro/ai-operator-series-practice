@@ -1,0 +1,9 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 9, The Audit-First Call.
+The prompt card for "Try this: One call, one scope". Paste everything below the line of dashes, then your call notes (or dana-call-notes.txt) in place of the last line. Matches the chapter's prompt card word for word.
+----------------------------------------
+Job: Turn my call notes into a one-page, thirty-day pilot scope for the owner to correct.
+Material: Only my notes below. Use the owner's words where I quoted them.
+Shape: Objective (one sentence); what the agent does on its own; what waits for the owner; what it never does; whose accounts it works in; the one number, with today's figure and where that came from; three tests the owner can run without me; who handles exceptions; review dates; what ends the pilot early; what is not in this pilot.
+Check: If my notes don't cover one of those parts, write [CHECK: ask the owner about <that part>] in its place. Promise no result, and no time, date or number my notes don't contain.
+
+[PASTE YOUR CALL NOTES HERE]

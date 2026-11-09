@@ -1,0 +1,17 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 10, Contracts That Move Ownership.
+Harbor & Home Cleaning, Dana Ruiz and Sam Rivera are invented. This is the section Sam and Dana signed on Monday, August 23, 2027, in place of section 4 of sam-agreement.txt. Read it after your own try. It shows one way to split the work by kind. It is practice material, not a model contract: every clause here is marked for attorney review before reuse, and nothing here tells you what any state's law requires.
+----------------------------------------
+4. WHO OWNS WHAT  [attorney review before reuse]
+
+4.1 Harbor & Home's records. Harbor & Home owns its business records and the reports made from them: bank and invoice exports, customer lists, the weekly numbers and the Monday summaries. Wherever a copy sits, including Sam's repository, its history and any backup or bundle of it, Sam keeps it only to do this work, stores it the way Dana sets out in writing, and returns or deletes it within 30 days after this agreement ends, or sooner if Dana asks.
+
+4.2 Harbor & Home's accounts. Accounts in Harbor & Home's name, and their passwords and keys, stay Harbor & Home's. Sam uses them only for this work and never shares them.
+
+4.3 Harbor & Home's copy of the checker. The copy of the deposit checker and the Monday report that runs Harbor & Home's books, with its settings and the matching rules Dana decided, belongs to Harbor & Home and runs from an account Harbor & Home controls. Harbor & Home may keep using and changing that copy for its own business after this agreement ends.
+
+4.4 Sam's method. Sam's prompt library, skills, rules files and the checker's code, including the parts Sam made before this work began, stay Sam's. Sam gives Harbor & Home a nonexclusive license to use them as part of its copy of the checker for as long as Harbor & Home uses that copy. Harbor & Home won't sell them or share them outside the business. Sam may use the same method for other clients, never with Harbor & Home's records or settings.
+
+4.5 AI tools. Sam names each AI tool used for this work, with the date its terms were read, in a list Dana can see. No agent sends, publishes or pays anything for Harbor & Home without Dana's written approval of that action.
+
+Signed: Dana Ruiz, for Harbor & Home Cleaning      Date: August 23, 2027
+Signed: Sam Rivera                                 Date: August 23, 2027

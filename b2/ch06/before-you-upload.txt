@@ -1,0 +1,17 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 6.
+Four questions to answer before a contract, a health record or a money document goes into Claude, and the three answers you can reach. The same card the chapter prints. It isn't legal advice.
+----------------------------------------
+BEFORE YOU UPLOAD
+1. Who else is in it? Names, addresses, health, money. Their details are partly their decision.
+2. Does this account train on it? Read the training setting in Settings > Privacy and decide on purpose.
+3. How long will it be kept, and where? The chat, any memory made from it, and any file you added to a Project are three places, and each one is deleted separately.
+4. Is this account the right home? A personal account runs under personal terms, whoever the work is for. Patient information needs a plan sold with a Business Associate Agreement.
+
+THREE ANSWERS
+- Upload it as it is.
+- Trim it first: replace what the job doesn't need with a placeholder in capitals and square brackets, such as [ACCOUNT NUMBER].
+- Keep it out of this account, or move the job to an account that fits.
+
+TWO QUESTIONS TO ASK
+- The person or business the document belongs to: may this go into an AI tool, and what should come out first?
+- A lawyer, your employer or the plan's admin: does an agreement or a rule in your field limit where this information can go?

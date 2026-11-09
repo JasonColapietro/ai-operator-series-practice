@@ -1,0 +1,150 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 2.
+Marcus Lee Design, Bramblewood Pottery Studio, Claire Bennett and everyone named here are invented, and so are the emails and amounts. Copied unchanged below the line of dashes from the practice pack's compare-two-versions lesson. It is not a model for a real contract.
+----------------------------------------
+WEBSITE DESIGN SERVICES AGREEMENT
+Version 2. Returned by Client to Designer on October 26, 2026, with Client's edits.
+
+This Website Design Services Agreement (the "Agreement") is made between Marcus Lee, doing business as Marcus Lee Design ("Designer"), and Bramblewood Pottery Studio LLC ("Client"). Designer and Client are each a "Party" and together the "Parties."
+
+1. PARTIES AND EFFECTIVE DATE
+
+1.1 This Agreement takes effect on the date the last Party signs it (the "Effective Date").
+
+1.2 Client's main contact for this project is Claire Bennett, Owner, claire@bramblewoodpottery.example.com. Designer's contact is Marcus Lee, marcus@marcusleedesign.example.com. Either Party may change its contact by email.
+
+2. SCOPE OF WORK
+
+2.1 Designer will redesign and rebuild Client's public website (the "Project"). The new site will include the following 8 pages: Home, Classes, Open Studio, Private Events, Gallery, About Us, Frequently Asked Questions, and Contact.
+
+2.2 The site will be mobile responsive, meaning it will display and work properly on current versions of common phone, tablet and desktop browsers.
+
+2.3 Designer will set up class sign-up with online payment on the Classes and Open Studio pages, using the sign-up and payment service Client chooses. Designer is not responsible for that service itself, its fees, or its outages.
+
+2.4 Designer will complete basic on-page search setup for each page: page titles, meta descriptions, image alt text, and a submitted sitemap.
+
+2.5 Designer will install a site analytics tool chosen by Client and confirm that it records visits. Designer will hold one 1-hour training call so Client can edit hours, banners, class listings and simple text.
+
+2.6 Designer will build a blog section and move the 12 existing blog posts from the current site into it, with their photos.
+
+2.7 The following are not included in the Project: writing new copy, photography or video, logo or brand identity work, an online store, and ongoing maintenance after the support period in Section 8. Designer can quote any of these separately.
+
+3. PROJECT TIMELINE
+
+3.1 The Project start date is Monday, November 30, 2026. Designer will hold a 60-minute kickoff call with Client that week.
+
+3.2 Designer will deliver the homepage design within 10 business days after receiving all Client Materials (defined in Section 4.1). Designer will deliver designs for the remaining page types within 10 business days after Client approves the homepage design.
+
+3.3 Designer will deliver a working version of the full site on a private test address for Client review within 15 business days after Client approves all page designs.
+
+3.4 The launch date is January 22, 2027. If the site is not launched by that date, Designer will credit Client 5% of the Project Fee for each full week of delay.
+
+4. CLIENT RESPONSIBILITIES
+
+4.1 Client will provide all text, photos, logo files, class descriptions, class prices, and logins for the current hosting account and sign-up service ("Client Materials") by the Project start date.
+
+4.2 Client will review each deliverable and send consolidated feedback within 10 business days after Designer delivers it.
+
+4.3 Client is responsible for the accuracy of all Client Materials, including prices, class times, studio safety rules and policies shown on the site.
+
+5. REVISIONS
+
+5.1 The Project fee includes three (3) rounds of revisions on the page designs and one (1) round of revisions on the working site before launch.
+
+5.2 Additional revisions, and any changes requested after Client approves a design, will be billed at Designer's hourly rate of $90 per hour. Designer will give Client a time estimate before starting additional revision work.
+
+6. FEES AND PAYMENT
+
+6.1 The total fee for the Project is $4,350 (the "Project Fee"). This is a 6-page redesign ($3,600), one additional page ($300), and class sign-up with online payment ($450).
+
+6.2 Client will pay the Project Fee as follows:
+(a) 25% ($1,087.50) as a deposit, due when Client signs this Agreement. The start date is held when the deposit is received.
+(b) 25% ($1,087.50) due when Client approves all page designs.
+(c) 50% ($2,175) due at launch.
+
+6.3 Designer will send an invoice for each payment. Invoices are due within 45 days of the invoice date (net 45).
+
+6.4 Designer may pause work while any invoice is more than 30 days overdue.
+
+6.5 Client may pay by bank transfer or card. Card payments include the card processor's fee.
+
+6.6 Client pays its hosting, domain, and sign-up and payment service fees directly to those providers.
+
+7. EXPENSES
+
+7.1 Client will reimburse Designer for third-party costs that Client approves in advance, such as premium fonts, stock photos, or paid plugins. Designer will not buy any single item over $50 without Client's approval.
+
+7.2 Designer will list approved expenses on the next invoice, with receipts.
+
+8. HOSTING, LAUNCH AND SUPPORT
+
+8.1 Client will keep its own hosting account and domain name and will pay for them directly. Designer will launch the site on Client's existing hosting account.
+
+8.2 After launch, Designer will provide 90 days of support, at no extra charge, to fix bugs and errors in the work Designer delivered and to make minor content updates requested by Client. Support does not include new features or new pages.
+
+8.3 After the support period, Client may choose Designer's optional care plan at $85 per month (12-month minimum) under a separate agreement.
+
+9. INTELLECTUAL PROPERTY
+
+9.1 Upon delivery of each deliverable, Client will own the final site design, the page layouts made for Client, and all Client Materials.
+
+9.2 Designer keeps ownership of Designer's pre-existing tools, code snippets, templates and working methods that Designer used to build the site ("Designer Tools"). Designer grants Client a permanent, non-exclusive license to use the Designer Tools as part of Client's website.
+
+9.3 Third-party items, such as fonts, stock photos and plugins, remain subject to their own license terms.
+
+10. CONFIDENTIALITY
+
+10.1 Each Party will keep confidential any non-public business information it receives from the other Party, including student lists, sign-up data, pricing plans and login credentials.
+
+10.2 Each Party will use that information only to perform this Agreement and will not share it with anyone except employees or contractors who need it for the Project.
+
+10.3 These duties continue for two (2) years after this Agreement ends.
+
+11. PORTFOLIO USE
+
+11.1 Designer may display the completed site, screenshots of it, and a short description of the Project in Designer's portfolio and marketing materials.
+
+11.2 No credit link or designer name will appear on Client's site.
+
+12. TERMINATION
+
+12.1 Either Party may end this Agreement by giving the other Party seven (7) days' written notice by email.
+
+12.2 If Client ends this Agreement, Client will pay for work completed up to the end date at Designer's hourly rate of $90 per hour, less any amounts already paid.
+
+12.3 If Designer ends this Agreement for a reason other than Client's breach, Designer will refund any amount paid for work not yet started and will deliver all completed work to Client.
+
+12.4 Sections 9, 10, 13 and 14 continue after this Agreement ends.
+
+13. WARRANTIES AND LIMITATION OF LIABILITY
+
+13.1 Designer warrants that the work will be performed in a professional manner and that the original design work will not knowingly copy anyone else's work.
+
+13.2 Except as stated in Section 13.1, the work is provided "as is." Designer does not guarantee any particular search ranking, number of visitors, or number of class sign-ups.
+
+13.3 Designer's total liability under this Agreement will not exceed the total fees Client has paid to Designer under this Agreement.
+
+14. INDEMNIFICATION
+
+14.1 Designer will defend and hold harmless Client against any third-party claim arising from the website, including its design, code and content.
+
+15. INDEPENDENT CONTRACTOR
+
+15.1 Designer is an independent contractor, not an employee of Client. Designer controls how and when the work is done, provides Designer's own equipment, and is responsible for Designer's own taxes.
+
+16. GOVERNING LAW
+
+16.1 This Agreement is governed by the laws of the state in which Client's principal place of business is located.
+
+16.2 The Parties will try in good faith to resolve any dispute by talking first, before taking any formal action.
+
+17. ENTIRE AGREEMENT
+
+17.1 This Agreement is the complete agreement between the Parties about the Project and replaces any earlier proposals or discussions.
+
+17.2 Any change to this Agreement must be in writing and accepted by both Parties. An email that both Parties reply to with "agreed" counts as writing.
+
+SIGNATURES
+
+Designer: ______________________  Marcus Lee, Marcus Lee Design    Date: __________
+
+Client: ________________________  Claire Bennett, Owner, Bramblewood Pottery Studio LLC    Date: __________

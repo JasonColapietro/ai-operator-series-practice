@@ -1,0 +1,31 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 10.
+Corinne Walsh, Blue Heron Pottery, Coastline Kayak Tours and Marcus Lee are invented. Copied from the practice pack's customer-reply lesson (the transfer case) with one change: "their sunset tour" now reads "one of their tours", so this email agrees with the rest of the practice files about Coastline. Nothing the answer key checks was changed. Paste it where Keeper #1 says [EMAIL].
+
+From: Corinne Walsh <corinne@blueheronpottery.example.com>
+To: marcus@marcusleedesign.example.com
+Date: Monday, October 26, 2026, 9:14 a.m.
+Subject: Website for a small pottery studio
+
+Hi Marcus,
+
+I found you through the Coastline Kayak Tours site (I take one of their tours every summer and noticed your name at the bottom). I own Blue Heron Pottery. We're a small studio: me, one other teacher, and about 10 wheel and handbuilding classes a week.
+
+Our current website was set up years ago by a company that charges us every time we want to change anything, so the class schedule is out of date half the time. People also can't sign up or pay for classes online. They have to email us and then mail a check or pay at the door, which nobody loves.
+
+What I think we need:
+- Home, About, Classes, Schedule, Gallery, Contact. Plus a page for our January workshop series, so 7 pages?
+- Online class sign-up where people pay when they book
+- Something I can update myself without calling anyone
+
+Questions:
+1. Roughly what would this cost? We're a small business, so I'd like to know if there's a way to spread out the payments.
+2. Could you write the text for the pages? Writing is not my strength.
+3. We also need a new logo. Ours is clip art, I'm not kidding. Is that something you do?
+4. The workshop series starts January 9 and I'd love the new site live before then. Is that realistic?
+5. Do you host the site too, or is that separate?
+
+Happy to hop on a call this week if that's easier. Thursday after 1 is best for me.
+
+Thanks,
+Corinne Walsh
+Blue Heron Pottery

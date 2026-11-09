@@ -1,0 +1,43 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 5. Answer key for the practice site.
+Harbor & Home Cleaning, Dana Ruiz and Sam Rivera are invented. Bot names and roles are as of November 2026 (Figure 5.1); check each vendor's crawler page before you rely on one.
+----------------------------------------
+
+TRY THIS: AN ACCESS CHECK, BOT BY BOT
+
+The rules file (practice-site/robots.txt)
+The file has two groups. A bot named in a group follows only that group. A bot named nowhere follows the * group.
+- PerplexityBot: blocked, by the second group. It is Perplexity's search crawler, so this block is the accident. Fix: delete the line "User-agent: PerplexityBot" from the second group. Dana approves the change.
+- GPTBot, ClaudeBot, CCBot: blocked, by the second group, on purpose (Book 4, chapter 9: training crawlers out).
+- Google-Extended: blocked, by the second group, on purpose. Also counts as correct: a note that Google-Extended is a token rather than a crawler, or that blocking it also keeps Gemini Apps from grounding answers in the site.
+- OAI-SearchBot, Claude-SearchBot, Googlebot, Bingbot: allowed, by the * group.
+- ChatGPT-User, Claude-User, Perplexity-User: allowed, by the * group. Also correct: "allowed; OpenAI and Perplexity say their user fetchers may not follow robots.txt anyway."
+Any status written with its group and a reason passes. "Everything allowed" is the wrong first answer the chapter's Sam's step shows.
+
+What the bot receives
+- Firewall or CDN: unverified. A folder on your computer has no firewall. On a real site, look at your host's or CDN's bot settings and write down what you find.
+- index.html, raw source: the service names and the towns are not there. They live only in images/services.png. The FAQ answers are not there either; faq.js writes them into the page only after someone clicks "Learn more".
+- move-out.html, raw source: the paragraph is there, but nothing in it can be checked (see the extraction test below).
+Also correct: noting that the image's alt text, "Our services", says nothing about the services.
+
+Discovery
+- sitemap.xml lists only the home page. move-out.html is missing.
+- move-out.html carries <meta name="robots" content="noindex">, which asks search engines to leave it out of their indexes.
+- move-out.html's canonical link points at staging.harborhome.example.com instead of the live address.
+- robots.txt does list the sitemap. That part passes.
+A full answer finds all three discovery problems. Finding two of three and the robots.txt accident still counts as a working check; go back for the third.
+
+TRY THIS: ONE PAGE, THREE ANSWERS, VALID MARKUP
+
+Extraction test on move-out.html
+- The paragraph fails. Nothing in it can be checked, it names no service, town, price or way to book, and "our caring team" could be any company.
+- Compare your rewrite with Figure 5.2 in the chapter. Any rewrite passes if every fact is a line on the facts file, it names Harbor & Home Cleaning and at least one town, and it says how to book.
+- The trap: the facts file gives no move-out price for a home over 1,500 square feet. A rewrite that states one has made it up. Send it to Dana as [CHECK: move-out price for a home over 1,500 square feet] instead.
+
+Questions and markup
+- markup-example.html shows one finished version: the passing paragraph, three questions and answers as visible text, and JSON-LD that repeats them word for word. It returned 0 errors and 0 warnings in the Schema Markup Validator on 2026-11-06.
+- Your three questions can differ. Any set passes if each answer traces to the facts file, names the business, and appears on the page word for word in both the text and the markup.
+- The old FAQ answers in faq.js fail the attributable test ("we" could be anyone) and one is incomplete ("to avoid a fee" never says what the fee is). The facts file says $50.
+
+ONE BUSINESS, ONE RECORD (directory-listings.txt)
+- The chamber directory shows 207-555-0186. The facts file says 207-555-0142. Fix the chamber listing.
+- Bing Places writes "214 Fore St" and "(207) 555-0142". Same address, same number, different formatting. That passes; don't count it as a mismatch.

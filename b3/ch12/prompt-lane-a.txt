@@ -1,0 +1,8 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 12, prompt card A, word for word below the dashed line.
+----------------------------------------
+Lane A. Make scripts/reconcile.py stop with one plain
+line, naming the file, when an export is missing, has
+no rows, or lacks a column the checker reads. Keep every
+other line it prints exactly as it is. Touch only
+scripts/reconcile.py and tests/test_reconcile.py. Run
+the tests. Commit on this branch.

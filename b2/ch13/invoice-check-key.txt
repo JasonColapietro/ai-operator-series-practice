@@ -1,0 +1,43 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 13, The Long Job.
+What a correct run of january-invoices-brief.txt gets right, for "Try this: A long job with a brief". Written for this book. Every figure below is printed on an invoice or in the order log in this folder, or is a total or difference of them. Wording, column order and layout will differ from run to run. Everyone named is invented.
+----------------------------------------
+THE SPREADSHEET (january-invoices.xlsx)
+
+Four rows, one per invoice.
+
+  Supplier                        Invoice    Date        Order     Invoice    Order      Difference  From file(s)
+  Casco Bay Janitorial Supply     INV-31188  01/07/2027  PO-0105    303.00     303.00       0.00     casco-bay-jan-7.txt and portal-download-03.txt
+  Pine State Paper Co.            7904       01/08/2027  PO-0106    242.50     209.38      33.12     pine-state-jan-8.txt
+  Northeast Green Clean Products  NGC-1031   01/14/2027  PO-0112    177.48     177.48       0.00     northeast-green-jan-14.txt  (matched by items)
+  Casco Bay Janitorial Supply     INV-31402  01/22/2027  PO-0120    285.27     285.27       0.00     casco-bay-jan-22.txt
+  Totals                                                          1,008.25     975.13      33.12
+
+The order column's total, $975.13, is the same as the total printed at the bottom of orders-january.txt.
+
+Accept any of these:
+- Columns in another order, with other headings.
+- Totals written as formulas or as numbers.
+- NGC-1031's row marked "matched by items", "no order number on invoice" or similar, as long as it names PO-0112.
+- The Pine State difference shown as +33.12, 33.12 or as two figures side by side.
+
+THE EXCEPTIONS LIST (in the reply, below the file)
+
+It should name:
+- Pine State Paper Co. invoice 7904: paper towels billed at 5 cases, PO-0106 ordered 4. The difference is one case at $31.40 plus $1.72 tax, $33.12. Dana decides whether to pay it, ask for a credit or take the case.
+It may also name, here or in a note beside it:
+- Northeast Green Clean Products NGC-1031: no order number on the invoice; matched to PO-0112 by supplier and items. The row in the spreadsheet has to say so either way.
+- portal-download-03.txt as a second copy of INV-31188, counted once. Listing it is good. Counting it twice is the mistake this job is built to catch.
+
+THE ACCEPTANCE LINES
+
+All five pass on this data, and the reply marks each one pass or fail:
+1. No invoice number in two rows: INV-31188 is one row with both file names.
+2. No order matched twice: four rows, four orders, one each.
+3. Every line checked: the only line that differs is Pine State's paper towels, and it is on the Exceptions list with both quantities.
+4. NGC-1031 matched by items to PO-0112, and marked.
+5. The invoice column, $1,008.25, against the order log's $975.13: the $33.12 between them is the Pine State line on the Exceptions list.
+
+TOTALS THAT MEAN SOMETHING WENT WRONG
+- $1,311.25 in the invoice column: INV-31188 was counted twice (Sam's first run in the chapter's opening scene).
+- $975.13 in the invoice column: Claude changed Pine State's invoice to match the order. That decision is Dana's.
+If Claude marked every Acceptance line pass and the invoice total is one of these, your own check caught what the pass marks missed. Tell Claude which line fails and ask for a recheck from the files.

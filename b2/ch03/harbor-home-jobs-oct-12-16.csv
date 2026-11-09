@@ -1,0 +1,31 @@
+job_id,date,day,start,client,town,service,sq_ft,frequency,add_ons,price,crew,crew_hours,status,payment,notes
+H-1021,10/12/2026,Mon,9:00 AM,"Alvarez, M.",Portland,Standard,1200,Weekly,,126.00,Sarah + Ben,4.0,Completed,Paid,
+H-1022,10/12/2026,Mon,9:00 AM,"Chen, L.",South Portland,Standard,1900,Every 2 weeks,,148.50,Miguel + Jess,5.0,Completed,Paid,"dog in back room, keep door shut"
+H-1023,10/12/2026,Mon,9:00 AM,"Patel, R.",Falmouth,Deep,1800,One-time,,285.00,Aisha + Tomas,9.0,Completed,Paid,
+H-1024,10/12/2026,Mon,1:00 PM,"Okonjo, F.",Westbrook,Standard,1400,One-time,Fridge,175.00,Kelly + Ben,4.5,Completed,Paid,first visit
+H-1025,10/12/2026,Mon,6:00 PM,Dunlap Insurance,Portland,Small office,,Weekly,,210.00,Miguel + Jess,5.0,Completed,Paid,quoted rate
+H-1026,10/12/2026,Mon,1:00 PM,"Fischer, A.",Cape Elizabeth,Standard,2300,One-time,Laundry x1,215.00,Sarah + Ben,6.5,Completed,Unpaid,invoice sent 10/13
+H-1027,10/13/2026,Tue,9:00 AM,"Grant, P.",Portland,Move-out,1100,One-time,"Fridge, Cabinets",400.00,Aisha + Tomas,10.0,Completed,Paid,"empty unit, landlord let us in"
+H-1028,10/13/2026,Tue,9:00 AM,"Hughes, D.",Scarborough,Standard,1500,One-time,,140.00,Kelly + Ben,4.0,Completed,Paid,
+H-1029,10/13/2026,Tue,9:00 AM,"Ito, K.",Falmouth,Standard,1600,Weekly,,148.50,Sarah + Miguel,4.5,Completed,Paid,
+H-1030,10/13/2026,Tue,1:00 PM,"Jensen, T.",South Portland,Deep,1300,One-time,Cabinets,305.00,Jess + Kelly,8.0,Completed,Unpaid,pet-safe products
+H-1031,10/13/2026,Tue,1:00 PM,"Kowalski, B.",Westbrook,Standard,1000,Every 2 weeks,,126.00,Sarah + Miguel,3.5,Completed,Paid,
+H-1031,10/13/2026,Tue,1:00 PM,"Kowalski, B.",Westbrook,Standard,1000,Every 2 weeks,,126.00,Sarah + Miguel,3.5,Completed,Paid,
+H-1032,10/13/2026,Tue,6:00 PM,Casco Tax Services,Portland,Small office,,Weekly,,180.00,Aisha + Tomas,4.0,Completed,Paid,quoted rate
+H-1033,10/14/2026,Wed,9:00 AM,"Lindqvist, E.",Portland,Standard,900,Weekly,,126.00,Sarah + Ben,3.0,Completed,Paid,
+H-1034,10/14/2026,Wed,9:00 AM,"Moreau, J.",Cape Elizabeth,Deep,2100,One-time,,310.00,Aisha + Tomas,10.5,Completed,Paid,client supplied own products
+H-1035,10/14/2026,Wed,9:00 AM,"Nguyen, H.",South Portland,Move-out,1450,One-time,Fridge,355.00,Miguel + Jess,9.0,Completed,Unpaid,
+H-1036,10/14/2026,Wed,1:00 PM,"O'Brien, T.",Portland,Standard,1700,Every 2 weeks,,148.50,Kelly + Ben,1.0,Lockout,Unpaid,"no one home, lockbox empty. waited 30 min"
+H-1037,10/14/2026,Wed,1:00 PM,"Russo, G.",Yarmouth,Standard,1300,One-time,,155.00,Sarah + Kelly,4.0,Completed,Paid,travel fee incl.
+H-1038,10/14/2026,Wed,6:00 PM,Fore River Design,Portland,Small office,,Every 2 weeks,,240.00,Miguel + Jess,5.5,Completed,Paid,quoted rate
+H-1039,10/15/2026,Thu,9:00 AM,"Santos, V.",Westbrook,Deep,1500,One-time,Fridge,295.00,Aisha + Tomas,8.5,Completed,Paid,
+H-1040,10/15/2026,Thu,9:00 AM,"Tran, Q.",Portland,Standard,1200,Weekly,,126.00,Sarah + Ben,3.5,Completed,Paid,
+H-1041,10/15/2026,Thu,9:00 AM,"Underwood, S.",Falmouth,Deep,1400,One-time,,240.00,Kelly + Jess,7.5,Completed,Paid,
+H-1042,10/15/2026,Thu,1:00 PM,"Vance, R.",South Portland,Standard,1100,One-time,,50.00,,0,Late cancel,Unpaid,cancelled 10/14 at 4pm. rebook?
+H-1043,10/15/2026,Thu,1:00 PM,"Walsh, C.",Portland,Standard,2000,One-time,Laundry x2,215.00,Miguel + Ben,,Completed,Paid,
+H-1044,10/15/2026,Thu,6:00 PM,Salt Line Architects,Portland,Small office,,One-time,,195.00,Aisha + Tomas,4.5,Completed,Unpaid,after walk-through 10/8
+H-1045,10/16/2026,Fri,9:00 AM,"Young, A.",Cape Elizabeth,Standard,1800,Weekly,,148.50,Sarah + Ben,4.5,Completed,Paid,
+H-1046,10/16/2026,Fri,9:00 AM,"Zimmer, P.",Portland,Move-out,1250,One-time,Cabinets,365.00,Aisha + Tomas,9.5,Completed,Unpaid,
+H-1047,10/16/2026,Fri,9:00 AM,"Abbott, N.",Westbrook,Standard,1350,Every 2 weeks,,126.00,Kelly + Jess,3.5,Completed,Paid,
+H-1048,10/16/2026,Fri,1:00 PM,"Bergeron, L.",South Portland,Deep,1700,One-time,,285.00,Miguel + Ben,9.0,Completed,Paid,
+H-1049,10/16/2026,Fri,1:00 PM,"Duarte, S.",Falmouth,Standard,1500,One-time,"Fridge, Laundry x1",200.00,Sarah + Jess,5.0,Completed,Unpaid,key returned to office

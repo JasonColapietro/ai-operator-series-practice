@@ -1,0 +1,15 @@
+DEPOSIT CHECKER: LAST TEST RUN
+
+Run on: 2028-04-10, Sam's laptop (macOS), Python 3
+Command: python3 -m unittest
+Result: OK. Every test in the repo passed.
+
+What this shows: on this date, the checker's tests passed on the code in Sam's library repo.
+What it doesn't show: that the checker is right on data it hasn't seen, or that Harbor & Home
+still uses it. Dana's confirmation covers the second point.
+
+Why it lives here and not on the proof page: a stranger can read this file but can't check it
+without access to Sam's repo. A buyer who wants to can watch Sam run the tests on a call.
+
+(Fiction. Practice file for Book 5, chapter 7. The checker itself is Book 3's, in
+practice/b3/.)

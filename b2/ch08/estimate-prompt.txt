@@ -1,0 +1,14 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 8.
+The estimate template filled in for Helen Marsh, the same card the chapter prints in "Try this: An estimate the client can approve". Helen, Dana and Harbor & Home are invented. New prompt text written for this book; it is neither practice-pack text nor Jason's words.
+Start a new chat from your Harbor & Home Project page, paste everything below the line of dashes, then replace the last line with the whole of helen-marsh-request.txt (from "From:" down).
+----------------------------------------
+Job: Make a one-page estimate as a document for Helen Marsh, a possible new client, from me, Dana Ruiz, owner of Harbor & Home Cleaning. Her husband will read it too, so it has to make sense to someone who never saw the request.
+
+Material: Use only the business facts file and the project brief, plus the request below. Every price must come from the business facts file.
+
+Shape: One page. A price table with a separate total for the first visit and for each regular visit, showing each line item and its price. Then an answer to every question in the request, in the order asked. Then what the price includes, what it doesn't, and how to book. Warm and plain, no exclamation points.
+
+Check: Put every assumption you made about a price in a numbered Assumptions section at the end, one per line, and nowhere else. If the request asks for something Harbor & Home doesn't do, say so in one sentence and suggest no one else. Don't promise a day, a time or a result the files don't give. If a fact is missing, write [CHECK: what is missing] where it would go, and list every [CHECK] under the Assumptions.
+
+The request:
+[PASTE HELEN'S EMAIL HERE]

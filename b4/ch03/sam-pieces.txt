@@ -1,0 +1,37 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 3.
+Sam Rivera, Dana Ruiz and Harbor & Home Cleaning are invented, and so is every file named below.
+Four of Sam's pieces, as Sam described them on Tuesday, August 3, 2027, before labeling anything. Two lines each, what Sam did and what a tool did, plus the records Sam knows about. Label each one, name the evidence and mark what is missing.
+----------------------------------------
+
+1. scripts/reconcile.py, the deposit checker (built in Book 3)
+I did: wrote the brief in briefs/reconcile.md, with Dana's answers
+  dated in March 2027. Wrote the prompt cards that said which folders
+  the agent could change and what counts as a match. Set the rules
+  for split payments and for the second bank's dates with Dana.
+  Rewound the first version because it skipped rows. Read every diff
+  before committing.
+The tool did: Claude Code wrote nearly all the code and all of the
+  tests.
+Records I know of: briefs/reconcile.md; the git log for scripts/ and
+  tests/; the notes in handoffs/.
+
+2. Dana's Monday summary
+I did: set up the scheduled task in Book 2. I don't edit the
+  summaries, and neither does anyone else.
+The tool did: Claude writes the whole summary every Monday from the
+  week's schedule.
+Records I know of: the scheduled task's run history; the summaries
+  themselves.
+
+3. keepers.md, my fifteen saved prompts (Books 1 and 2)
+I did: wrote every keeper myself and tested each one on real work
+  before saving it.
+The tool did: ran the prompts and returned answers. I kept the
+  prompts, not the answers.
+Records I know of: the file itself; the repo's history, which starts
+  in March 2027; dated exports from Books 1 and 2.
+
+4. The Harbor & Home FAQ
+I did: worked on it.
+The tool did: Claude helped.
+Records I know of: not sure.

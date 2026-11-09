@@ -1,0 +1,33 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 10, Sell Staffing.
+Harbor & Home Cleaning, Dana Ruiz, Sam Rivera and every customer below are invented. The towns are real places around Portland, Maine. Prices come from practice/shared/harbor-home-business-facts.txt.
+
+WEEKEND QUOTE REQUESTS, LAST MONTH
+Pulled by Dana from the hello@ inbox, where web form copies land too. Customer names removed.
+"Weekend" means from 5:00 p.m. Friday, when the office closes, to 8:00 a.m. Monday.
+Hours to first reply are from arrival to the first answer a person sent.
+----------------------------------------------------------------------------------------------
+#   Wknd  Arrived         Channel     Job asked               Town            First reply      By     Hours  Outcome
+01  1     Fri 7:52 p.m.   web form    standard clean          Westbrook       Sat 8:10 a.m.    Dana   12.3   booked
+02  1     Sat 7:40 a.m.   email       deep clean              Falmouth        Sat 8:15 a.m.    Dana    0.6   booked
+03  1     Sat 9:20 a.m.   web form    move-out clean          South Portland  Mon 8:30 a.m.    office 47.2   lost: "we booked someone yesterday"
+04  2     Sat 2:15 p.m.   web form    standard clean, weekly  Portland        Mon 8:20 a.m.    office 42.1   booked
+05  2     Sat 6:05 p.m.   email       move-out clean          Portland        Mon 8:40 a.m.    office 38.6   no answer to the Monday reply
+06  2     Sun 10:30 a.m.  email       deep clean              Cape Elizabeth  Sun 11:05 a.m.   Dana    0.6   booked
+07  3     Fri 6:20 p.m.   email       move-out clean          Westbrook       Mon 9:10 a.m.    office 62.8   no answer to the Monday reply
+08  3     Sat 9:00 a.m.   web form    deep clean, 2,700 sq ft Scarborough     Mon 9:00 a.m.    office 48.0   still talking (video walk-through set)
+09  4     Sat 11:45 a.m.  web form    standard clean          South Portland  Mon 9:25 a.m.    office 45.7   booked
+10  4     Sat 3:10 p.m.   web form    deep clean              Falmouth        Mon 9:40 a.m.    office 42.5   booked
+11  4     Sat 4:30 p.m.   email       small-office clean      Portland        Sat 5:10 p.m.    Dana    0.7   walk-through booked
+----------------------------------------------------------------------------------------------
+Requests: 11
+First reply before Monday: 4 (01, 02, 06, 11), all from Dana's phone
+Waited until Monday: 7
+Known lost to a faster company: 1 (03, the move-out Dana told Sam about on the call in chapter 9)
+Went quiet after the Monday reply: 2 (05, 07)
+Median hours to first reply: 42.1 (the sixth of the eleven, sorted), almost two days
+
+DANA'S NOTES, IN HER WORDS
+"I answer from my phone when I see it. Saturdays I'm on a job until two, and some weekends I don't look at all."
+"The move-out ones are the ones I lose. Renters are on a deadline and they book whoever answers."
+"A move-out starts at $320. That's what I'd put on a lost one."
+"I'd guess I lose two a month. The one I know about, and probably one of the quiet ones."

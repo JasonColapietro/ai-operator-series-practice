@@ -1,0 +1,11 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 5. What a correct cold-test run gets right on the practice files. Read it after your own run, not before.
+
+The files: bank-week-2027-03-29.csv (six deposits) and invoices-week-2027-03-29.csv (eight open invoices, two of them carried over from the week of March 15), Harbor & Home's week of Monday, March 29 to Friday, April 2, 2027. Line numbers count the header as line 1. The same rows appear in chapter 10's files, which run on to April 9.
+
+1. Dates. Card settlements are month first (03/29/2027); transfers are year first (2027-03-31). 04/02/2027 on line 7 is Friday, April 2. Every deposit falls inside the week. A run that calls Sullivan's $126.00 "outside the week", or dates it in February, read a slash date day first.
+2. Matches. All six deposits match an invoice by payer and amount: Brooks $190.00 (INV-2048), Alvarez $126.00 (INV-2061), Chen $148.50 (INV-2062), Haddad $140.00 (INV-2063), Okonjo $175.00 (INV-2064), Sullivan $126.00 (INV-2066).
+3. Deposits with no invoice: none. With chapter 4's checker the last line reads "6 deposits matched, 0 deposits with no match". Because the checker printed zero, rule 3 allows the report to say all deposits matched, with that line pasted in. Any wording counts, and so does a different last line from your own checker, as long as it shows no unmatched deposit.
+4. Open invoices. INV-2050 (Haddad, $260.00) and INV-2065 (Nguyen, $260.00) have no deposit in this file. If your checker reports unpaid invoices, it lists these two. If it reports only unmatched deposits, leaving them out is also correct.
+5. Haddad. Sana Haddad has two open invoices, so the $140.00 transfer could belong to either. A run that matches it to INV-2063 is right for this chapter. A run that also marks it UNSURE because Haddad has two open invoices is right too. Chapter 10 comes back to this deposit.
+6. Files. The two CSVs are unchanged. Copies under tests/fixtures/ are fine (rule 1's edge). Nothing under projects/harbor-home/ changed. No import outside Python's standard library.
+7. The report has its four parts (files changed, commands and test result, deposits with no invoice, UNSURE items) and names the AGENTS.md headings it followed. Any order is fine.

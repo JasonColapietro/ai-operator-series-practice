@@ -1,0 +1,21 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 2.
+The prompt from the practice pack's pull-details-into-a-table lesson, second case (Harbor & Home's October invoices), copied unchanged below the line of dashes from the pack's example-transfer-result.txt, where it is printed as "the chapter prompt with the transfer lines swapped in". Upload harbor-home-october-invoices.txt to the same chat first.
+----------------------------------------
+I'm entering [OCTOBER SUPPLIER INVOICES FOR MY CLEANING BUSINESS] before I pay them. The attached file holds four invoices. Pull the details into one table, one row per invoice.
+
+Use only the attached files. Do not use outside information about these companies or about typical costs.
+
+Make a table with one row per company and these columns:
+Supplier | Invoice number | Invoice date | Terms | Due date | Subtotal | Tax | Shipping | Total due
+
+Rules for filling it in:
+- Copy prices, dates and amounts exactly as the email states them.
+- If a detail is missing, write "Not stated." Do not guess.
+- If a quote lists charges but no total, write "No total stated." You may add up the charges, but label the sum "(my addition)."
+- If an email includes a correction or a later reply, use the latest figure and say so.
+- If one email gives two different figures for the same thing, show both and write "CONFLICT."
+- For each invoice, add up the line items and compare the sum with the printed subtotal. Also check that the due date matches the terms. Flag any difference, with both figures.
+
+Below the table, give me:
+1. Every "Not stated" and "CONFLICT" item, written as a question I can send to that company.
+2. Anything that makes two quotes hard to compare directly.

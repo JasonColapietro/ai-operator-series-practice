@@ -1,0 +1,25 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 2.
+Keeper #11, ready to copy into library/keepers.md below Keeper #10 (or below Keeper #1 if you started with Book 2). It names no real or fictional person: every word in capitals inside brackets is a slot you fill each time. [Section 4.2] only shows the citation format; leave it as written.
+Copy everything from the "## Keeper #11" line down, then put today's date on the "Saved:" line. Leave the last two lines blank until a run needs a repair and you have a transfer run to record.
+----------------------------------------
+## Keeper #11: Summary with section receipts
+Saved: [TODAY'S DATE]
+Use it for: a long document someone has to decide about
+
+Job: I uploaded [DOCUMENT]. Summarize it in about one page of plain English for [READER], who has to decide [DECISION].
+
+Material: Use only the uploaded document. End every point with the section it comes from, in brackets, like this: [Section 4.2]. If you can't tie a point to a section, it stays out of the summary.
+
+Shape: Six parts, in this order.
+1. Overview in five lines: who, what, how long, how much, and how it ends.
+2. Key dates and deadlines, as a table: Date or deadline | What happens | Section.
+3. Money, as a table: every fee, charge and credit, with its amount.
+4. Two short lists: what we have to do, and what [OTHER PARTY] has to do.
+5. Things to watch: terms that could cost us money or take us by surprise.
+6. Problems in the document: sections that contradict each other, and references to a section or attachment that isn't there. Quote the exact words, and don't decide which one wins.
+When you use a legal term, explain it in a few plain words.
+
+Check: Under each row of the Key dates table, quote the sentence from the document that supports it, word for word. Where the document is silent on something a reader would expect, such as a start date or a price, write "Not stated." No legal advice. Where a point needs a lawyer's opinion, flag it in one line.
+
+Repair that fixed it:
+Transfer run:

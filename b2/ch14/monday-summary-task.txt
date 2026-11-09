@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 14, On a Schedule, Under Review.
+Listing 14.1: the Monday job summary task, filled in for Harbor & Home's practice route. Harbor & Home Cleaning, Dana Ruiz and everyone named are invented. Adapted from the practice pack's wf24 prompt and repair: the repair's freshness rule is the first step, the five rules the pack typed into the prompt are read from the facts file instead (one home for every fact), and the file name and folder are this book's. The text below the dashes matches the chapter's listing word for word. Words in capitals inside brackets are slots.
+----------------------------------------
+Set up a scheduled task for me.
+Name: Monday job summary
+When: every Monday at [6:30 A.M.], [EASTERN] time
+
+First step of every run: find the Monday this summary is for. That's the run date if it's a Monday, otherwise the next Monday. If none of the file's jobs fall in the week that starts on that Monday, reply with one line only, saying which dates the file covers and that it needs replacing. Then stop.
+
+Job: each run, write a short summary of this week's cleaning jobs for [HARBOR & HOME CLEANING], so I can fix problems before the crews leave. It's for me only.
+
+Material: read two files in my [HARBOR HOME MONDAY] folder in [GOOGLE DRIVE]: [week-schedule.csv], which lists this week's jobs, and [facts.md], my business facts. Check every job against the facts file's service area and travel fees, its video walk-through rule for first visits, and its hours for small-office cleans. A walk-through counts as done if the job's notes say so.
+
+Shape:
+1. One line per day: weekday, date, number of jobs.
+2. "Fix before 8 a.m.": each problem with job ID, client and what's wrong. A problem is a broken rule, a job with no crew, or one person on two jobs at once (start time plus est_hours).
+3. "First visits": job ID and client for each.
+Under [200] words. No other advice.
+
+Check: if a value you need is blank, list that job under "Fix before 8 a.m." instead of guessing.
+
+Limits: read only. Don't change, move, rename or delete any file. Don't draft or send messages to anyone.

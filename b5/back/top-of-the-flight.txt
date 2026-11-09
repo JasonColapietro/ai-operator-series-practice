@@ -1,0 +1,110 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Back of the Book: Top of the Flight.
+A worksheet for your own library/ and your own practice. You can keep a filled copy in library/; it holds no secrets. Never write a password, a key, a token, a code or a client's records on it. Any practice-cast name you meet here is fiction.
+
+======================================================================
+PART 1. THE CAN-DO LEDGER
+======================================================================
+Read each line as a question: could I do this tomorrow, with the book closed?
+Tick yes, or tick not yet and redo that chapter's Try this.
+
+                                                                yes  not yet
+5.1  List ten businesses you can reach and the one
+     job each is understaffed for.                chapter 1     [ ]  [ ]
+5.2  Write the offer one-pager and the one-sentence
+     offer.                                       chapter 2     [ ]  [ ]
+5.3  Run a one-week demand test with five buyer
+     conversations and write the decision.        chapter 3     [ ]  [ ]
+5.4  Build a price sheet with a free entry point,
+     a pilot and a retainer.                      chapter 4     [ ]  [ ]
+5.5  Fix your site's crawler access and add one FAQ
+     block with valid JSON-LD.                    chapter 5     [ ]  [ ]
+5.6  Run ten buyer prompts across four engines for
+     one business and capture the evidence.       chapter 6     [ ]  [ ]
+5.7  Publish a proof page with three checkable
+     receipts and a disclosure line.              chapter 7     [ ]  [ ]
+5.8  Send five screenshot messages from your own
+     account and set the follow-ups.              chapter 8     [ ]  [ ]
+5.9  Run a discovery call from a script and write a
+     thirty-day pilot scope.                      chapter 9     [ ]  [ ]
+5.10 Write a one-agent staffing offer for one
+     business and the cost-of-not-having-it math. chapter 10    [ ]  [ ]
+5.11 Send a one-page proposal, a short SOW and your
+     first invoice.                               chapter 11    [ ]  [ ]
+5.12 Deliver one pilot deliverable through your
+     agent stack with a planted-flaw test and
+     evidence of done.                            chapter 12    [ ]  [ ]
+5.13 Send a client report with three measured
+     changes and the next decision.               chapter 13    [ ]  [ ]
+5.14 Write a runbook and a ten-case eval set for one
+     productized agent.                           chapter 14    [ ]  [ ]
+5.15 Write your operating file (offer, prices,
+     playbooks, service standard, estate plan) and
+     the next ninety days.                        chapter 15    [ ]  [ ]
+
+Book 5: ____ of 15 yes.
+Books 1 to 4 (from your earlier Top of the Flight pages): ____ of 60 yes.
+The whole climb: ____ of 75.
+
+======================================================================
+PART 2. library/ AT THE SUMMIT (Figure B.1)
+======================================================================
+Tick each one you have. Beside any you don't, write the chapter that makes it.
+
+[ ] pipeline.md                         ch 1, 2, 8
+[ ] offers/ (one-pager, demand test, staffing offer)   ch 2, 3, 10
+[ ] pricing.md                          ch 4
+[ ] playbooks/visibility/               ch 5
+[ ] playbooks/visibility-scan/          ch 6
+[ ] scans/<business>/<date>/            ch 6
+[ ] receipts/proof-page.md              ch 7
+[ ] case-studies/ with DISCLOSURE.md    ch 7
+[ ] playbooks/outreach/                 ch 8
+[ ] playbooks/discovery-call.md         ch 9
+[ ] proposals/<client>/                 ch 9, 11
+[ ] playbooks/receptionist/rules.md     ch 10
+[ ] invoices/log.md                     ch 11
+[ ] service-standard.md                 ch 12
+[ ] playbooks/<offer>/ (checks/, fixtures/, evals/cases.md,
+        report-template.md, the productized agent)  ch 12, 13, 14
+[ ] clients/<client>/ (evidence/, incidents.md, decisions.md,
+        runbook.md, arc.md, the-test.md)  ch 10, 12, 13, 14
+[ ] reports/<client>/                   ch 13
+[ ] reviews/business-review.md          ch 13
+[ ] playbooks/ packaged as one plugin   ch 15
+[ ] operating-file.md, dated            ch 15
+
+Search library/ for any client's password, key or code. Found one? Stop and follow
+chapter 12's Watch out before anything else.   [ ] none found
+
+======================================================================
+PART 3. THE BOOK 1 TEST, AIMED AT ONE CLIENT
+======================================================================
+Client: ______________________   (no client yet? use the practice client, Harbor & Home)
+If I disappeared tomorrow, could this client still run, change and prove
+everything I built for them? Tick a box only if you can show it today.
+
+[ ] 1. The client's data, accounts and keys are the client's.
+       Shown by: _______________________________________________
+[ ] 2. The method is licensed to the client, never transferred.
+       Shown by: _______________________________________________
+[ ] 3. Every delivery shipped with a runbook.
+       Shown by: _______________________________________________
+[ ] 4. The handoff makes the next change possible.
+       Shown by: _______________________________________________
+
+For each box left open, the fix and its date: ____________________________
+Copy the dated card into clients/<client>/the-test.md, as chapter 14 did.
+
+In keepers.md, under ## My settings, add or update:
+Book 5 test: [NUMBER] of 4, [CLIENT], run [DATE]
+
+======================================================================
+PART 4. TWO DATES, FOR GOOD
+======================================================================
+Next weekly business review (sixty minutes in four blocks: money and pipeline,
+delivery across clients, one opportunity, maintenance and decisions; chapter 13): ______________
+Next client report (monthly, five blocks, chapter 13): ________________
+Both on the calendar?   [ ] yes
+
+Last step: save what changed, one file at a time, the way Book 3 taught, and push.
+On the no-code route, save each file into the folder you keep library/ in.

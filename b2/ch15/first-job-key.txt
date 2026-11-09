@@ -1,0 +1,41 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 15, Rent the Tool, Own the Work.
+What a good pass through Dana's list looks like, for "Try this: Name the first job for an agent". Written for this book. Your reasons will be worded differently; the letters and the pick are what to check. Harbor & Home Cleaning, Dana and Sam are invented. The list is practice/b2/ch12/dana-everything-else.txt; the marks are the ones in practice/b2/ch12/dana-list-key.txt.
+----------------------------------------
+THE THREE QUESTIONS
+Files: does the job work through files that keep arriving, a new batch every week or month?
+Check: could you write one test that a right result passes and a wrong one fails?
+Rules: will the method change over time, so you'd want last month's version kept beside this month's?
+
+STEP 3. CROSSED OUT FOR THE P MARK, UNLESS A STEP NO ONE OUTSIDE THE BUSINESS SEES SPLITS OFF
+Follow-ups on quiet quotes       crossed out: every draft goes to a customer
+Posts                            crossed out
+Review requests                  crossed out
+Quote replies                    crossed out: the draft that comes off is still read by the customer
+Phone questions                  crossed out
+Rescheduling                     crossed out: the message that comes off goes to a customer
+Invoices and payment reminders   kept, for two steps no one outside the business sees: checking each invoice against the job record (the step the list already marks to come off), and matching each deposit in the bank's export to the invoice it pays (the step under "who still owes", which stays Dana's)
+Crew timesheets                  kept, for one step: adding up the hours, before anything goes to payroll
+
+STEP 2. THE THREE LETTERS (Files, Check, Rules), AND WHAT RUNS IT NOW
+Supplier invoices                                  Y Y Y   runs now: the long job and its brief (chapter 13)
+Monday schedule check                              Y Y Y   runs now: the scheduled task (chapter 14)
+Filing job notes                                   Y N N   nothing yet
+Monday numbers                                     Y Y Y   runs now: the weekly-numbers skill (chapter 11)
+Invoices: matching deposits to invoices            Y Y Y   nothing yet
+Invoices: checking each invoice against its job    Y Y Y   nothing yet
+Crew timesheets: adding up the hours               Y Y Y   nothing yet
+
+STEP 4. THE PICK
+Three steps have three Ys and nothing running them yet. Two of them sit inside "Invoices and payment reminders" (2 hours) and one inside "Crew timesheets" (1 hour), so the tie on hours goes to the invoices line.
+Dana's pick: matching deposits to invoices. Sam does it by hand every Monday, in about forty minutes, and a miss there is money Harbor & Home is owed.
+
+ALSO CORRECT
+- Checking each invoice against its job record. Same line, same hours, and its Check is easy to plant: one invoice with a visit the job record doesn't show.
+- Adding up the crews' hours. It loses the tie on hours, but it passes all three questions, and its Check is a total that must match the schedule.
+- The Monday schedule check marked Y Y N, if you don't expect its rules to change. It's already running either way, so it isn't the pick.
+
+A COMMON MISREADING
+Picking supplier invoices or the Monday numbers. Both pass the three questions, and both make good agent jobs later. Something already runs each of them, which leaves one of the three steps above as the job nobody does yet.
+
+WHAT DANA WROTE
+See dana-first-agent-job.txt. Her Check line names a planted mistake: a practice week with one deposit that matches no invoice, which the run must name.

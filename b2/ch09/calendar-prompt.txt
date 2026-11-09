@@ -1,0 +1,15 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 9.
+The content-calendar card from the practice pack's content-calendar lesson, copied unchanged below the line of dashes (the pack calls it prompt.txt). Copy everything below the line of dashes, send it in a new chat outside any Project, and replace its last line with everything in content-brief.txt from "CONTENT PLAN BRIEF" down. For your own plan, change the words in square brackets. Harbor & Home Cleaning is invented.
+----------------------------------------
+I run [Harbor & Home Cleaning, a house-cleaning business in Portland, Maine]. I need a content calendar for [our business page] that I can actually keep up with.
+
+Job: Plan [8 posts over 4 weeks, on Tuesdays and Thursdays, starting the week of Monday, February 22, 2027]. The main goal is [launching our move-out package for renters on March 1]. Every week has to fit in the time I have.
+
+Material: Use only my brief below. It lists my time budget, how long each kind of post takes me, the photos I already have, the facts I can use and my rules. Don't add offers, prices or photos that aren't in the brief, and don't plan anything my rules forbid.
+
+Shape: A table with these columns: Date, Post idea, Main message (one sentence), Photo (number from my list, or "new photo"), Facts used, Minutes. After each week, add a row with that week's total minutes, including [5 minutes for scheduling]. No week can go over [60 minutes]. Below the table, list the ideas from my brief that you left out, with a one-line reason for each.
+
+Check: Flag anything that needs someone's permission before it can be posted, and anything in my brief that conflicts. Don't guess at facts that aren't in the brief.
+
+My brief:
+[PASTE YOUR BRIEF HERE]

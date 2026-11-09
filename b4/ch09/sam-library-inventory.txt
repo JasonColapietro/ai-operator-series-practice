@@ -1,0 +1,26 @@
+PRACTICE FILE, FICTION. Book 4, Chapter 9. What Sam's private library repo holds (August 2027).
+Folder names follow Books 1 to 3. Use it to practise steps 1 to 6 of "Decide, then license your library".
+
+FOLDER OR FILE                         WHERE IT CAME FROM
+keepers.md, about-me.md, voice.md      Sam wrote them (Books 1 and 2). voice.md describes Sam's own writing.
+briefs/                                Sam wrote them (Book 3).
+scripts/reconcile.py, tests/           Sam wrote the checker and its tests, with Claude Code (Book 3).
+scripts/monday_report.py, checks/      Sam (Book 3).
+AGENTS.md, CLAUDE.md, decisions.md,    Sam (Book 3).
+  incidents.md, reviews/, handoffs/
+plugins/harbor-ops/                    Sam's plugin: the harbor-reply and weekly-numbers skills, hooks,
+                                       the reviewer and eval cases (Book 3). The skills read Dana's
+                                       facts file; the method in them is Sam's.
+.claude-plugin/marketplace.json        Sam (Book 3).
+scan/ (runner, prompts.md, names.txt)  Sam wrote the runner and the ten questions (Book 3).
+scan/results.jsonl, scan/raw/          Answers about Harbor & Home, collected for Dana (Book 3).
+projects/harbor-home/                  Dana's business facts, prices, voice spec and Project
+                                       instructions (Book 2).
+practice/harbor-home/                  Dana's real bank and invoice exports, with her customers'
+                                       names in them, committed in Book 3. Chapter 8 deals with
+                                       where they live now; they are still in the repo's history.
+
+Questions to answer before you write the LICENSE:
+1. Which folders are Sam's to license, and which belong to Harbor & Home?
+2. Sam plans to license the method to other service businesses in Book 5. What does that rule out?
+3. Which folders can travel on their own and need their own copy of the LICENSE?

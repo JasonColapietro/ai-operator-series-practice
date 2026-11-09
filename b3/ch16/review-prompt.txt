@@ -1,0 +1,7 @@
+PRACTICE FILE, FICTION LABEL: The AI Operator Series, Book 3, Chapter 16. The prompt card for "Try this: Your first weekly agent review". Replace <date> with last week's review date, or the date you finished chapter 14.
+
+Prepare my weekly agent review. List every report in
+reports/ and scan/ since <date> with its date and result,
+every new row in incidents.md, and usage per day from the
+logs. Do not judge quality and do not recommend changes.
+I will read the outputs myself.

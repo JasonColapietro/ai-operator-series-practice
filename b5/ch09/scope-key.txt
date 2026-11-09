@@ -1,0 +1,23 @@
+PRACTICE FILE, FICTION LABEL: The AI Operator Series, Book 5, Chapter 9. What a good scope from dana-call-notes.txt contains. Read it after your own draft.
+----------------------------------------
+A SCOPE FROM DANA'S NOTES COUNTS AS RIGHT WHEN
+- It has one objective, about weekend email quote requests. Any wording passes.
+- Every send stays with Dana. The agent reads and drafts; it never replies to a customer.
+- The number is time to first reply on weekend requests (median or average both pass), with "about two days" as Dana's estimate and the call named as its source.
+- It gives three tests Dana can run herself and check by looking. Different tests pass, as long as each one needs no help from Sam.
+- Exceptions go to Dana. Reviews are Fridays at 4:30 p.m.
+- The phone, the FAQ and the Monday summary sit under "not in this pilot", or are left out entirely.
+- "What ends the pilot early" shows a [CHECK], because the notes never say. This is the one gap in the notes.
+
+ALSO RIGHT
+- Extra [CHECK] marks where you think the notes are thin, for example on how Sam counts last month's requests. Asking the owner is never wrong.
+- Weekday quotes under "not in this pilot".
+- A line saying the agent works in Dana's own accounts. The notes support it ("That inbox is mine").
+- Tests built from the facts file's other rules: an island address (no service on the islands), a mold question (not a service), a Scarborough address (the travel fee in the facts file).
+
+SIGNS THE DRAFT NEEDS ANOTHER PASS
+- A second objective (the FAQ, the Monday summary, the phone).
+- Any reply time the notes don't contain: "within 5 minutes", "24/7", "same hour". The ten minutes is for the draft, and it comes from Sam's question and Dana's yes.
+- Any result: more bookings, fewer lost jobs, a target for the number.
+- A price, a discount, a start date or a booking.
+- A test only Sam can run.

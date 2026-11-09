@@ -1,0 +1,3 @@
+# .codex/config.toml (Codex reads it only after you trust this project)
+sandbox_mode = "read-only"
+approval_policy = "on-request"

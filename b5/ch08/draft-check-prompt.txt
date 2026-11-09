@@ -1,0 +1,8 @@
+PRACTICE FILE. Book 5, Chapter 8. The prompt card from "Try this: Five messages from your own account". Paste everything below the line of dashes into ChatGPT or Claude, then paste your register rows and your five drafts where the last line says.
+----------------------------------------
+Job: Check five outreach drafts before I send them myself. Do not rewrite them and do not send anything.
+Material: The register row behind each draft, the five drafts, and my voice.md, all pasted below.
+Shape: For each draft, a short list: any sentence that says something about a business beyond the name the engine gave; any fact that is not in that draft's register row; whether it ends on exactly one question; any line that doesn't sound like voice.md; and a rough word count of the message above the signature.
+Check: If a draft has no register row, write [CHECK: no register row] for that draft and stop there. Quote the exact words for every problem you list.
+
+[PASTE REGISTER ROWS, THEN THE FIVE DRAFTS, THEN voice.md]

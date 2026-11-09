@@ -1,0 +1,49 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 9.
+Which questions in customer-questions.txt the Harbor & Home facts answer, for the practice route of "Try this: An FAQ from facts, plus the gap list". Written for this book; it matches the practice pack's answer key. Every fact lives in practice/shared/harbor-home-business-facts.txt, and this key names the section each answer comes from instead of repeating prices. Wording will differ from run to run. Everyone named is invented.
+----------------------------------------
+COUNT
+32 questions are listed (14 email, 8 voicemail, 10 contact form). The price of a regular clean is asked three times, so there are 30 distinct questions: the facts answer 19, answer 5 in part, and don't answer 6.
+
+Section names a [Source] tag may use: SERVICE AREA, SERVICES AND PRICES, HOW BOOKING WORKS, SUPPLIES, WHAT WE DO NOT DO, GUARANTEE, NEW IN SPRING. The block at the top of the file (owner, office, phone, hours, team, insurance) has no heading, so any clear label passes, such as "top of the facts file".
+
+A. ANSWERED BY THE FACTS (19)
+1. Price of a regular clean (asked three times): the Standard home clean line. 1,100 sq ft is inside the size that line covers, so the answer is its "from" price. SERVICES AND PRICES
+2. Do you bring supplies: yes. SUPPLIES
+3. Allergies, using our own products: fragrance-free by default, and clients may supply their own. SUPPLIES
+4. Pets: pet-safe products on request. SUPPLIES (the pet-waste line answers a different question)
+5. Peaks Island: no service on the islands. SERVICE AREA
+6. Scarborough: by request, with the travel fee. SERVICE AREA
+7. Cash: no; card or bank transfer after each visit. HOW BOOKING WORKS
+8. Insured: yes, insured and bonded, with a certificate on request. Top of the file
+9. What's in a deep clean: the Deep clean line. "Is it worth it" asks for a judgment, so the FAQ describes the clean and doesn't judge. SERVICES AND PRICES
+10. Moving out of an apartment: the Move-out / move-in clean line, plus the renters' package and its launch date. SERVICES AND PRICES, NEW IN SPRING
+11. Employees or people from an app: all seven cleaners are employees. Top of the file
+12. First clean of a 3,200 sq ft house: the free 15-minute video walk-through for homes over 2,500 sq ft. HOW BOOKING WORKS
+13. Carpets: no carpet shampooing. WHAT WE DO NOT DO
+14. Outside windows: no exterior windows (a deep clean includes interior windows). WHAT WE DO NOT DO
+15. An office during the day: no; small offices are cleaned in the evening only, after 5:30 p.m., and quoted after a free walk-through. SERVICES AND PRICES
+16. Weekly discount: the Recurring discount line. SERVICES AND PRICES
+17. Laundry: the laundry fold add-on. SERVICES AND PRICES
+18. Forgot to unlock: the Lockouts line. HOW BOOKING WORKS
+19. Cabinet tops 9 feet up: no work above 8 feet on a ladder. WHAT WE DO NOT DO
+
+B. ANSWERED IN PART (5). The FAQ gives the supported part, and the question also goes on the could-not-answer list with its gap named.
+20. Moving tomorrow's cleaning: the Cancellation line. Gap: the facts cover cancelling, not rescheduling.
+21. Black mildew on the bathroom ceiling: no mold remediation. Gap: whether ordinary mildew counts as mold.
+22. Missed the inside of the microwave: the 24-hour guarantee. Gap: whether the inside of a microwave is part of any clean.
+23. Drop off a key and pay at the office: no walk-in service, and payment is by card or bank transfer after the visit. Gap: how keys and access work.
+24. Only a kitchen and one bathroom: the Minimum visit line. Gap: whether a partial-home clean is offered.
+
+C. NOT ANSWERED (6). These go on the could-not-answer list only, never in the FAQ.
+25. Do I need to be home while you clean?
+26. Can I get the same cleaner every time?
+27. Do you do vacation-rental turnovers between guests?
+28. How long does a cleaning take?
+29. Do you work weekends? The office hours line describes the office. An FAQ that answers with those hours has guessed.
+30. Should I tip the cleaners? How much?
+
+PRICES
+Every dollar figure in the FAQ must be printed in the facts file, on the line its tag names. None may be worked out, and none may come from an example email.
+
+A MORE CAREFUL RUN PASSES TOO
+A run that moves more questions into the partly answered list (for example, the exact price for a 1,100 sq ft home, or whether a deep clean is "worth it") passes, as long as the FAQ still answers the supported part. A run fails if it answers any question in group C, or keeps any sentence no line of the facts file supports.

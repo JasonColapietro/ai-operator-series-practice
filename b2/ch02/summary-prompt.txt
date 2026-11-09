@@ -1,0 +1,17 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 2.
+The summary card from "Try this: A summary with receipts", written for this book and modeled on the practice pack's document-summary lesson. Northfield Physical Therapy and Kestrel Commercial Cleaning are invented. The words after each colon inside the brackets are Northfield's; change them for your own document. Upload the document first, then send everything below the line of dashes.
+----------------------------------------
+Job: I uploaded [DOCUMENT: our cleaning services agreement with Kestrel Commercial Cleaning]. Summarize it in about one page of plain English for [READER: our clinic director], who has to decide [DECISION: whether to renew it or look for a new vendor].
+
+Material: Use only the uploaded document. End every point with the section it comes from, in brackets, like this: [Section 4.2]. If you can't tie a point to a section, it stays out of the summary.
+
+Shape: Six parts, in this order.
+1. Overview in five lines: who, what, how long, how much, and how it ends.
+2. Key dates and deadlines, as a table: Date or deadline | What happens | Section.
+3. Money, as a table: every fee, charge and credit, with its amount.
+4. Two short lists: what we have to do, and what [OTHER PARTY: the vendor] has to do.
+5. Things to watch: terms that could cost us money or take us by surprise.
+6. Problems in the document: sections that contradict each other, and references to a section or attachment that isn't there. Quote the exact words, and don't decide which one wins.
+When you use a legal term, explain it in a few plain words.
+
+Check: Under each row of the Key dates table, quote the sentence from the document that supports it, word for word. Where the document is silent on something a reader would expect, such as a start date or a price, write "Not stated." No legal advice. Where a point needs a lawyer's opinion, flag it in one line.

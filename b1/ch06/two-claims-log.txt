@@ -1,0 +1,25 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 6.
+A blank log for chapter 6's two exercises, "Two claims, checked" and "Three questions before it goes out". Copy it into a note and fill it in. The Okafors and their lease are invented.
+
+TWO CLAIMS, CHECKED
+Document: 
+Date checked: 
+
+CLAIM 1
+What the answer says: 
+Where it says it comes from (section, page or link): 
+The sentence I found, copied exactly: 
+Result (verified / wrong / not in the document): 
+
+CLAIM 2
+What the answer says: 
+Where it says it comes from (section, page or link): 
+The sentence I found, copied exactly: 
+Result (verified / wrong / not in the document): 
+
+THREE QUESTIONS (one line each: yes, or no and where)
+Is the result right? 
+Did it skip steps? 
+Did it follow my rules? 
+
+Repair I sent, if any: 

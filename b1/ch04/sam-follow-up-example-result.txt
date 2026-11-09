@@ -1,0 +1,24 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 4.
+Copied unchanged from the practice pack's follow-up lesson: its example result for Sam's case, the one chapter 4's "Sam's step" describes. Sam Rivera, Janelle Ortiz, Kessler & Moore CPAs, Denise and the store are invented.
+This is sample output from one run, made in Claude for the practice pack with the same prompt, notes and thank-you email that chapter 4 prints. A ChatGPT reply will be worded differently, and its list may catch more loose ends or fewer. Every fact the email repeats lives in Sam's notes, printed in chapter 4.
+Everything below the dashed line is the pack's text.
+------------------------------------------------------------
+Subject: Reference details for the bookkeeping assistant role
+
+Hi Janelle,
+
+Here are the reference details I promised. My store manager, Denise, is happy to speak with you. You can reach her at the store, 555-0144, and ask for Denise. Weekday mornings before 11 are the best time to catch her.
+
+I'm still very interested in the part-time bookkeeping assistant role. Is there anything else you need from me for the next step?
+
+Best,
+Sam Rivera
+sam.rivera@example.com
+
+---
+
+Things to sort out before you send
+1. Denise's last name and the store's name. Your notes don't include either, and Janelle may want both when she calls. Add them if Denise is fine with that.
+2. Your January to April availability. In the interview you said "probably more hours" but weren't sure. Your notes say Part 2 of your certificate is Tuesday and Thursday evenings, so it doesn't clash with a daytime job. Decide how many hours you could offer before she asks again. I left it out of the email so you don't commit to something by accident.
+3. The store number has no area code in your notes. Check whether Janelle would need one to call it.
+4. You don't know whether they've chosen someone else. The email doesn't guess. If she replies that the role is filled, a short thank-you keeps the door open for busy season.

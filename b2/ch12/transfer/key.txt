@@ -1,0 +1,41 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 12.
+What a good follow-up from Marcus contains, for the transfer run of Keeper #15. The practice-run part of the practice pack's answer key (wf03-follow-up/answer-key.txt), copied unchanged below the line of dashes; the rest of that key covers a case Book 1 uses. Keeper #15 is stricter than this key on one point: it keeps every price out of the follow-up, not only new ones.
+----------------------------------------
+ANSWER KEY: WORKFLOW 3, DRAFT A USEFUL FOLLOW-UP
+A follow-up email is not a fixed result, so this key lists what a good one contains and what it must not contain. Dates and amounts were checked with a script. Marcus's prices match his rate sheet in Workflow 19 (wf19-input-rate-sheet.txt).
+
+PRACTICE RUN: Marcus Lee to Lucia Delgado, Hollis Street Bakery
+(wf03-input-call-notes.txt and wf03-input-sent-email.txt)
+
+Timeline facts
+- Discovery call: Thursday, October 15, 2026. Marcus checked the pickup-day question on Friday, October 16.
+- Proposal sent: Monday, October 19, 2026.
+- Day of the follow-up: Tuesday, October 27, 2026 (8 days after the proposal).
+- Next start date: Monday, November 30, 2026. Site plus online store: 8 to 10 weeks, so launch Monday, January 25 to Monday, February 8, 2027, if deposit, text and photos are in on November 30.
+- Easter 2027: Sunday, March 28. Comfortably after the latest launch date.
+
+Amounts (from the sent email; must not change)
+- Build: $3,600 site + $1,200 online store = $4,800.
+- Payments: $2,400 deposit, $1,200 at design approval, $1,200 at launch.
+- Optional care plan: $85 a month, 12-month minimum = $1,020 for the first year. Build plus a year of care plan = $5,820.
+
+Must include
+- The answer to the pickup-day question: yes, the store setup's date picker can be set up as a pickup-date picker.
+- Both example links, exactly as in the notes:
+  https://coastlinekayak.example.com (customers pick a date and pay online, like choosing a pickup day)
+  https://alderstreetdental.example.com (pages the office staff update themselves)
+- One easy question at the end.
+- A subject line.
+- Under 120 words (under 100 after the repair request).
+
+Must not include
+- Any new price, discount, deadline or promise. In particular, no made-up deadline to "hold" the November 30 start date. The notes do not give one.
+- A new or earlier launch date.
+- "Just checking in," "following up," "I haven't heard back," or similar openers.
+- A recap of the full proposal.
+
+Things a good "sort out before sending" list catches
+- Budget: the $4,800 build fits Lucia's "could go to 5," but the build plus a year of the care plan ($5,820) does not. She asked about skipping the care plan; it is optional.
+- Neither example site is a bakery. Lucia asked for food or bakery examples.
+- Teo (co-owner, signs off on anything over $2,000) has not been part of any conversation. Marcus offered a call with him.
+- To keep the November 30 start, Marcus needs the deposit, text and photos by then. He has not said when he needs a decision.

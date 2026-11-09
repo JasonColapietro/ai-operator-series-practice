@@ -1,0 +1,16 @@
+PRACTICE FILE, FICTION (see README.txt). The prompt card for "Try this: Map where your data lives", Book 4, Chapter 8.
+Paste everything below the line into Claude Code or Codex, started in your library repo. Start Claude Code in plan mode (claude --permission-mode plan, or press Shift+Tab until plan mode shows), or start Codex with codex --sandbox read-only (Book 3, chapter 3).
+On the practice route, keep the bracketed line under Material and delete only its brackets. On your own repo, delete the whole bracketed line.
+------------------------------------------------------------
+Job: List every file in this repo that holds data about a real
+person, now or in its history.
+Material: The files in this folder, and the file names in the
+history from git log --all --name-only.
+[Practice route only: Treat every name in practice/ and tests/
+as a real customer's.]
+Shape: A table: path; what it holds (names, emails, amounts,
+addresses); in today's files or only in history; whose data it
+is, if a file or commit message says.
+Check: Read only. Change, move, delete and commit nothing. Where
+you can't tell whether a name is a real person, write
+[CHECK: real or made up?] in that row.

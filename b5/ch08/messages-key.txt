@@ -1,0 +1,48 @@
+PRACTICE FILE, FICTION. Book 5, Chapter 8. Answer key for "Try this: Five messages from your own account".
+Sam Rivera and every business and owner here are invented. Engine and competitor names are placeholders; see README.txt.
+
+WHAT ANY CORRECT MESSAGE HAS
+- Under seventy words above the signature (Sam's run from 46 to 49 words; yours may run longer than Sam's and still pass, as long as it stays under seventy).
+- The buyer's question in quotation marks, exactly as written in prospects.txt.
+- Both engines named (here, Engine 1 and Engine 2).
+- Only the businesses the engine named, with nothing said about them. "They named" and "Both named" both pass. Naming the national service an engine added for prospects 2 and 4 also passes.
+- "This morning", or the capture date, in the text.
+- Exactly one question at the end that the owner can answer with one word. "Want the list of what would change that?", "Want the list?" and "Should I send you the three fixes?" all pass.
+- The footer: full name, postal address and the stop line.
+- One attachment: the dated capture.
+- On the practice route, send only one, to your own email address. The four you don't send pass on everything else.
+
+WHAT FAILS
+- Two questions, or none.
+- A compliment or a claim you can't show ("love your work", "you're losing customers every day").
+- Anything said about a named business beyond its name ("they're paying for reviews", "a big chain").
+- A price, a booking link, a report or a deck.
+- The free check offered in the first message.
+- Sent from a brand, shared or bot account.
+
+SAM'S FIVE MESSAGES (sent Tuesday, May 2, 2028, each with the footer below)
+
+1. Hi Nadia, I asked Engine 1 and Engine 2 "Who's a good dog groomer in Westbrook for a nervous dog?" this morning. Both named Competitor A and Competitor B, and yours didn't come up in either answer. Screenshot attached, dated today. Want the list of what would change that?
+
+2. Hi Curt, I asked Engine 1 and Engine 2 "Who does spring cleanup and mulching in Falmouth, Maine?" this morning. They named Competitor A and Competitor B. Your crew did not come up in either answer. Screenshot attached, dated. Want the list of what would change that?
+
+3. Hi Joy, I asked Engine 1 and Engine 2 "Who cuts curly hair well in South Portland?" this morning. Both named Competitor A and Competitor B. Your salon did not come up in either answer. Screenshot attached, dated. Want the list of what would change that?
+
+4. Hi Martin, I asked Engine 1 and Engine 2 "Who does monthly bookkeeping for a small contractor in Portland, Maine?" this morning. Both named Competitor A and Competitor B. Your office did not come up in either answer. Screenshot attached, dated. Want the list of what would change that?
+
+5. Hi Theo, I asked Engine 1 and Engine 2 "Who's a home inspector near Cape Elizabeth who can come this week?" this morning. Both named Competitor A and Competitor B. You did not come up in either answer. Screenshot attached, dated. Want the list of what would change that?
+
+Footer under each:
+Sam Rivera · [link to Sam's proof page]
+[postal address]
+This is a sales note. Reply "stop" and I won't write again.
+
+CURT'S TWO FOLLOW-UPS (no reply to message 2)
+
+Follow-up 1, Tuesday, May 9, 2028 (adds a second engine):
+Hi Curt, one more picture. I asked Engine 3 the same question this morning, and it named Competitor A. Your crew wasn't in that answer either. Screenshot attached, dated. Want the list?
+
+Follow-up 2, Tuesday, May 16, 2028 (adds the one-line fix):
+Hi Curt, last note from me. The biggest gap I found: your services page says "seasonal property services," and the words "spring cleanup" and "Falmouth" appear nowhere in its text. Putting both in the first paragraph is a fix you can make today without me. Want the rest of the list?
+
+After follow-up 2 the row closes with its date. No third message.

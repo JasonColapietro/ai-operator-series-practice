@@ -1,0 +1,5 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 7.
+The repair to send, in the same chat, for each citation that fails its audit. Fill the two slots from your audit card. It's written for a not-on-the-page mark; for a page that wouldn't open or a wrong tier, change only its first sentence, as the chapter shows. New prompt text written for this book; it is neither practice-pack text nor Jason's words.
+Copy everything below the line of dashes.
+----------------------------------------
+Point [NUMBER] cites [LINK], and I can't find the sentence you quoted on that page. Search again for the highest-tier page you can find that supports this point. Quote its sentence word for word, with its link and the date printed on the page. If no page supports it, mark the point Not confirmed. Change nothing else in the report, and list what you changed.

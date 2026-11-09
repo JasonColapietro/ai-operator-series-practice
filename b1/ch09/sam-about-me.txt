@@ -1,0 +1,33 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 9.
+Sam Rivera, the store and the course are invented. The course facts come from the practice pack's study-plan and hard-conversation lessons; the habits come from Sam's week notes (practice/b1/ch05/sams-week.txt). This is Sam's second try. The first one said only "I'm a student."
+
+# About me
+Updated: November 8, 2026
+
+## Who I am
+Sam Rivera. I work retail and I'm halfway through an evening bookkeeping certificate.
+
+## What I do
+Part 1, Intro to Bookkeeping, meets Tuesdays and Thursdays, 6:30 to 9:00 p.m. Part 2, Payroll and Small Business Accounts, runs January 12 to April 29. I'm working toward a job as a bookkeeping assistant and want to be ready for one when the certificate ends in April.
+
+## Who I write to
+My instructor and classmates, my store manager, and people I hope will hire me.
+
+## How I sound
+Polite and plain, with short sentences. I don't oversell myself.
+
+## Words I never use
+"Just checking in." "Following up." No emoji in anything to an instructor or an employer.
+
+## Formats I like
+Plans as a table: task, hours needed, hours planned, deadline. Explain a new term in plain words first, then give the textbook name.
+
+## How I work best
+Mornings are my best study time. Two hours at most in one sitting. Nothing after 10 p.m.
+
+## Ask me before guessing
+My shifts change every week. Ask for this week's shifts before you plan anything.
+
+---
+Pasted into custom instructions: November 8, 2026
+Memory last read: [DATE]

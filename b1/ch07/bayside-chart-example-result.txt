@@ -1,0 +1,46 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 7.
+Copied unchanged from the practice pack's chart lesson: its example result for Sam's chart, the reply chapter 7 describes after Sam's second try. Sam Rivera, the course and Bayside Bakery are invented.
+This is sample output from one run, made in Claude for the practice pack with sam-chart-prompt.txt, the chart (bayside-expense-chart.png) and the assignment (the text of module-4-assignment.pdf). A ChatGPT reply will be worded differently. Check yours against bayside-chart-key.txt.
+Everything below the dashed line is the pack's text.
+------------------------------------------------------------
+**1. What the chart is**
+
+- **Title:** "Bayside Bakery: operating expenses by category"
+- **Subtitle:** "Third quarter (July to September). Total expenses: $57,750"
+- **Type:** horizontal bar chart, one bar per expense category, sorted from largest to smallest. Each bar has its dollar amount and a percentage printed at the end.
+- **Horizontal axis:** "Dollars spent in the quarter," labeled from $0 to $25,000 in steps of $5,000.
+- **Vertical axis:** the expense categories. It has no separate axis title.
+- **Time period:** the third quarter, July to September. The chart does not give a year.
+- **Footnote, word for word:** "Module 4 practice set. Percentages are rounded to the nearest whole number."
+
+**2. Every value on the chart**
+
+| Category | Dollars | Percentage label |
+|---|---|---|
+| Wages | $24,600 | 43% |
+| Ingredients | $18,400 | 32% |
+| Rent | $7,200 | 12% |
+| Utilities | $2,150 | 4% |
+| Packaging | $1,980 | 3% |
+| Other | $1,310 | 2% |
+| Marketing | $1,250 | 2% |
+| Equipment repairs | $860 | 1% |
+| **Total** | **$57,750** | **99%** |
+
+Every value is printed on the chart, so none were unclear. The totals are my sums of the printed values.
+
+**3. Three things the chart clearly shows**
+
+- **The dollar amounts add up exactly.** The eight bars total $57,750, the same figure the subtitle gives for total expenses.
+- **The percentage labels add up to 99%, not 100%.** That isn't a mistake in the chart. The footnote says each percentage is rounded to the nearest whole number, and small rounding differences can leave the labels a point short (or over) when you add them. Use the dollar amounts if you need exact shares.
+- **A few categories hold most of the spending.** The three biggest bars (Wages $24,600, Ingredients $18,400 and Rent $7,200) are far longer than the rest. The other five (Utilities, Packaging, Other, Marketing and Equipment repairs) are each under $2,500. Together those five total $7,550, only a little more than Rent alone.
+
+Some of these numbers touch your assignment questions. I've described what's on the chart and stopped short of answering them, so you can work them out yourself.
+
+**4. What this chart can't tell me**
+
+- How spending was split across July, August and September. The chart only shows quarter totals.
+- Why the bakery spent what it did, or whether any of the spending was too high, too low or worth it.
+- How this quarter compares with any other quarter or year, or what the bakery earned.
+
+When you're ready, send me your answers to the five questions and I'll go through them one at a time, with the math for any that need fixing.

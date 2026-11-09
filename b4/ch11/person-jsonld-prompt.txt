@@ -1,0 +1,9 @@
+PRACTICE FILE. Book 4, Chapter 11. The prompt card from "Try this: One canonical page, three fixes".
+Paste it into ChatGPT or Claude, then paste your facts and links under it.
+
+Job: Write Person JSON-LD for my canonical page.
+Material: Only the facts and links I paste below. Use each link exactly as given.
+Shape: One JSON-LD block using schema.org Person, with name, url, jobTitle, worksFor and sameAs.
+Check: Do not add any property or link I did not give you. If a fact I gave is not shown on the page itself, list it under "Not on the page" so I can add it or remove it.
+
+For a business page, change "Person" to "Organization" and "jobTitle and worksFor" to "email and telephone".

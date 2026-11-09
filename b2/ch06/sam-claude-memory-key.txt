@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 6.
+The key for sam-claude-memory.txt. Read it after you've marked every topic. Everyone named is invented.
+----------------------------------------
+Keep: 1, 2 and 3. Each is true, Sam's own, and useful in most chats.
+
+Keep, or move to a file: 6. It's how Dana asked for reminders in Sam's first week, and it helps every reminder. Better still, copy it into the Project's brief.md as one of Dana's standing rules, so it holds in a chat with memory off and survives a reset. Keeping the topic and moving it to brief.md (then deleting the topic) are both right.
+
+Wrong: 5. Sam keeps the books part time, and Dana runs the office. Topic 2 already says it right, so delete 5, or edit it to match 2. Either is right.
+
+Delete:
+- 7. True for one week only. The totals live in that week's summary in Sam's library folder, and a chat that needs them gets them pasted fresh. A remembered total is out of date by the next Monday.
+- 8. A price picked up from the Patel email in Dana's voice sample, which quoted one home. Prices come only from the business facts file, and that file gives deep cleans "from $260 (up to 1,500 sq ft)" with no price above that size. Left in memory, this topic can put $285 into a reply where the Project's Check line would have put a [CHECK] marker.
+- 9. A customer's private news. Who pays Joan's invoices belongs in the booking app, where the job needs it. Her house sale belongs nowhere in Sam's Claude account.
+If you marked 7 or 9 "move to a file", that's right too, as long as the topic comes out of memory: the week's summary already holds 7's totals, and only the payer from 9 goes into the booking app. 8 moves nowhere. Its price must never reach facts.md.
+
+Ask Dana, then delete: 10. Nobody decided this. Sam sent two reminders on Fridays in early December, and the topic turned that into a rule. If Dana says Fridays are her rule, it goes in brief.md in her words. Either way the topic goes.
+
+Sam's call: 4. It's Sam's own fact, and private. Deleting it is what Sam does in the chapter. Keeping it is also right, as long as the Harbor & Home Project is set to keep its memory separate (Use account memory off on the Project's page), so the rent can't reach Dana's chats again. What isn't right is leaving it where it was without deciding.
+
+Also check:
+- Turning on Pause, or deleting the rent chat, removes none of these topics. Delete each topic on the memory page.
+- After you delete or edit a topic, start a new chat before you test. Changes apply to the next conversation.

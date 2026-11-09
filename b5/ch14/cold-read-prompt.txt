@@ -1,0 +1,11 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 14, Retain and Expand.
+The prompt card for the cold read in "Try this: A runbook and ten cases". Paste everything below the line of dashes into a fresh session, with the runbook in place of the last line. Matches the chapter's card word for word.
+----------------------------------------
+You are covering this agent for one weekend. You have never seen it before, and nobody is available to answer questions.
+
+Job: Read the runbook below and say where you would get stuck.
+Material: Only the runbook. Do not use anything you know about the business or the tool.
+Shape: A numbered list. For each item, quote the line you stopped at and write the question you would have to ask, or the guess you would have to make.
+Check: If a step names a file, an account, a person or a setting without saying where to find it, that is an item. If a check has no pass-or-fail line, that is an item. If you would not stall anywhere, say "No stalls" and nothing else.
+
+[PASTE THE RUNBOOK HERE]

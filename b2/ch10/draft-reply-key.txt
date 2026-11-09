@@ -1,0 +1,23 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 10.
+What a good draft reply to Nora Bastien gets right, for the practice route of "Try this: Draft, don't send". Written for this book. Every fact lives in practice/shared/harbor-home-business-facts.txt (the same facts as facts.md in the chapter 4 Project), and this key names the section each answer comes from instead of repeating prices. Wording will differ from run to run. Everyone named is invented.
+----------------------------------------
+WHICH EMAIL
+The oldest customer email is Nora Bastien's, "Cleaning every other week in Cape Elizabeth?", the first of the three you sent. Tidewell Supply is a supplier, and Graham Leclair's email came last. If your practice inbox also holds a welcome message from your mail provider, that message isn't from a customer, and a run that skips it is right.
+
+A GOOD DRAFT
+1. Says Harbor & Home serves Cape Elizabeth. (SERVICE AREA)
+2. Gives the standard clean's "from" price and the size it covers, which takes in her 1,300 sq ft. (SERVICES AND PRICES)
+3. Mentions the recurring discount, since she wants a clean every other week. A draft that gives the discount as a percentage passes. So does one that works out the discounted "from" price, as long as it says that's what it did. (SERVICES AND PRICES)
+4. Answers both halves of her supplies question from the SUPPLIES section, including its line about pets. (SUPPLIES)
+5. Leaves next Thursday as a [CHECK], because no file holds the schedule (rule 1 in the project brief), and lists it under the draft. A draft that offers to confirm a day once Dana checks the schedule passes too, as long as it names no day or time.
+6. Ends with one next step, such as asking her to reply or call to set up the first visit, stays under 175 words, and signs off the way the voice file says for a first contact.
+7. Names the email it used: Nora Bastien, the subject line and the date you sent it.
+
+A DRAFT THAT NEEDS A REPAIR
+- Confirms Thursday or offers any day or time.
+- Offers a discount other than the recurring one, or adds a fee for pets.
+- Leaves out the pet-safe products she asked about.
+- Was sent, or Claude asked to send it. Your Sent folder should hold nothing new from this run.
+
+WHERE THE DRAFT LANDS
+In the chat, as the card asks. If Claude asked to save it to the inbox's Drafts folder and you allowed it, that passes too. Either way, nothing new is in Sent.

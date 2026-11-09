@@ -1,0 +1,116 @@
+PRACTICE FILE: FICTION, AND ONE REAL RUN. The AI Operator Series, Book 2, Chapter 9.
+One Claude run of faq-prompt.txt on customer-questions.txt and the Harbor & Home facts, made for the practice pack before this book (October 2026), copied unchanged below the line of dashes. Read it for its shape, especially the last section. Your run will differ, and where it repeats a fact, the facts file wins. It lists more questions as partly answered than faq-key.txt requires; a more careful list like that one passes too. Harbor & Home Cleaning and everyone it names are invented.
+----------------------------------------
+Here's a draft FAQ built only from your facts file. I combined the repeated price questions into one, and the source tag after each answer shows which section of the facts file it came from.
+
+# Frequently asked questions
+
+## Prices and discounts
+
+**How much does a regular cleaning cost?**
+A standard home clean starts at $140 for homes up to 1,500 square feet. Larger homes add $25 for each extra 500 square feet. [Source: SERVICES AND PRICES]
+
+**Is there a discount if I book every week?**
+Yes. Standard cleans booked weekly or every two weeks are 10% off. [Source: SERVICES AND PRICES]
+
+**Is there a minimum? I only need a small part of my home cleaned.**
+Our minimum visit is $120. [Source: SERVICES AND PRICES]
+
+**What's in a deep clean?**
+A deep clean includes the inside of the oven, baseboards and interior windows. It starts at $260 for homes up to 1,500 square feet. [Source: SERVICES AND PRICES]
+
+**Can you fold laundry while you're here?**
+Yes, laundry folding is an add-on at $25 per load. [Source: SERVICES AND PRICES]
+
+## Where we clean
+
+**Which towns do you serve?**
+We clean in Portland, South Portland, Westbrook, Falmouth and Cape Elizabeth. [Source: SERVICE AREA]
+
+**Is Scarborough too far for you?**
+We come to Scarborough and Yarmouth by request, with a $15 travel fee per visit. [Source: SERVICE AREA]
+
+**Do you come out to Peaks Island?**
+No. We don't provide service on the islands. [Source: SERVICE AREA]
+
+## Booking, payment and changes
+
+**How do I book my first cleaning?**
+Call us at 207-555-0142 or email hello@harborhome.example.com. [Source: HOW BOOKING WORKS; contact details from the top of the facts file]
+
+**I have a big house. How does a first clean work?**
+For homes over 2,500 square feet, the first visit starts with a free 15-minute video walk-through. [Source: HOW BOOKING WORKS]
+
+**Can I pay in cash?**
+No, we don't take cash. You pay by card or bank transfer after each visit. [Source: HOW BOOKING WORKS]
+
+**Is there a charge if I cancel?**
+Cancelling is free up to 48 hours before your visit. Inside 48 hours, there's a $50 fee. [Source: HOW BOOKING WORKS]
+
+**What happens if I forget to unlock the door?**
+If our team can't get in, the visit is charged at the full price. [Source: HOW BOOKING WORKS]
+
+**Can I come by your office?**
+Our office is at 214 Fore Street, Suite 3, but we don't offer walk-in service. [Source: top of the facts file]
+
+## Moving and offices
+
+**We're moving out of our apartment. Do you do move-out cleans?**
+Yes. A move-out or move-in clean starts at $320 for homes up to 1,500 square feet, and the home needs to be empty. Starting March 1, renters can also book our move-out package: the move-out clean plus the inside of the fridge and cabinets for $380, for homes up to 1,500 square feet. [Source: SERVICES AND PRICES; NEW IN SPRING]
+
+**Do you clean offices? Can you come during the day?**
+We clean small offices in the evenings only, after 5:30 p.m. We give you a price after a free walk-through. [Source: SERVICES AND PRICES]
+
+## What we do and don't clean
+
+**Do you shampoo carpets or rugs?**
+No, we don't do carpet shampooing. [Source: WHAT WE DO NOT DO]
+
+**Do you clean the outside of windows?**
+No. We don't clean exterior windows. A deep clean does include interior windows. [Source: WHAT WE DO NOT DO; SERVICES AND PRICES]
+
+**Can you dust the top of our kitchen cabinets? They're about 9 feet up.**
+We don't do any work above 8 feet on a ladder. [Source: WHAT WE DO NOT DO]
+
+**Can you clean the mildew on our bathroom ceiling?**
+We don't do mold remediation. [Source: WHAT WE DO NOT DO]
+
+## Supplies, your team and our guarantee
+
+**Do you bring your own supplies?**
+Yes. Our team brings all supplies and equipment. [Source: SUPPLIES]
+
+**Someone in my home has allergies. Can you use our products?**
+Yes, you're welcome to supply your own products. Our default products are fragrance-free. [Source: SUPPLIES]
+
+**Are your products safe for pets?**
+We use pet-safe products on request, so let us know when you book. [Source: SUPPLIES]
+
+**Are you insured?**
+Yes, we're insured and bonded, with general liability and bonding. We can send a certificate on request. [Source: top of the facts file]
+
+**Are your cleaners employees, or people you hire off an app?**
+All 7 of our cleaners are our own employees, not contractors. [Source: top of the facts file]
+
+**What if you missed something?**
+Tell us within 24 hours and we'll come back and fix it at no charge. [Source: GUARANTEE]
+
+# Questions I could not answer from the facts
+
+Not answered at all (left out of the FAQ):
+- "Do I need to be home while you clean?" The facts don't say. They only cover lockouts.
+- "How long does a cleaning take?" No visit lengths are listed.
+- "Do you work weekends?" The facts give office hours (Monday to Friday, 8 to 5) but not cleaning days or hours for homes.
+- "Can I get the same cleaner every time?" Not covered.
+- "Do you do vacation-rental turnovers between guests?" Not covered.
+- "Should I tip the cleaners? How much?" Not covered.
+
+Only partly answered (FAQ gives the part the facts support):
+- "How much is a regular cleaning? Our place is maybe 1,100 sq ft." I gave the starting price. The facts say "from $140," so I can't confirm the exact price for a specific home.
+- "Is there a minimum? I only need my kitchen and one bathroom done." The $120 minimum is answered. The facts don't say whether you clean only part of a home.
+- "Is a deep clean worth it over the regular one?" I listed what a deep clean includes. The facts don't say what a standard clean includes, so I couldn't compare them.
+- "I need to move my cleaning from tomorrow. Is there a charge?" The facts cover cancellations. They don't say whether rescheduling counts as a cancellation, so I wrote the answer about cancelling. If moving a visit inside 48 hours also costs $50, say so.
+- "Can I come by your office to drop off a key and pay?" No walk-in service is answered. The facts don't cover leaving keys, and payment is by card or bank transfer after the visit, not at the office.
+- Woman in Falmouth, 3,200 sq ft. The video walk-through is answered. The facts don't give a total price for her home, and "$25 per extra 500 sq ft" doesn't say how a partial 500 is counted.
+- "Can you get the mildew off our bathroom ceiling?" The facts say no mold remediation, but don't say whether bathroom mildew counts as mold. You may also want to note whether the ceiling is within 8 feet.
+- "Your team missed the inside of the microwave. What happens now?" The guarantee is answered. The facts don't say whether the inside of the microwave is part of any clean.

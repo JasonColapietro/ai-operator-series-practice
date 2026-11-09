@@ -1,0 +1,31 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 15.
+What "Try this: Check the morning report" should find with the practice files. Read it after your own check.
+----------------------------------------------------------------
+The claim (reports/last-run-message.txt): "Monday report published to the shared folder", with the checker run and 0 deposits with no match.
+  Thing: the Monday report for the week of June 14 to 18, 2027.
+  Place: the shared folder (in the practice files, reports/).
+  Action: built from Sunday's new exports and published.
+
+The result (reports/reconcile-2027-06-21.md):
+  Title date: Monday 2027-06-21. Files read: bank-latest.csv and invoices-latest.csv.
+  Deposits: 5, dated 2027-06-07 to 2027-06-11. Total $867.00.
+
+The second source (harbor-home/answer-key-2027-06-14.md):
+  Deposits: 6, dated 2027-06-14 to 2027-06-18. Total $1,095.50.
+  The key also says $867.00 is the week of June 7 to 11.
+
+compare_report.py on the report and the key prints both problems and exits 1:
+  deposits outside the week: stale or wrong export
+  total differs from the answer key
+
+Results that count:
+  - Any finding that the report covers the wrong week: stale exports, last week's files, a failed download, "latest" files that weren't the latest.
+  - Any finding that its total is wrong ($867.00 against $1,095.50), even without naming the cause.
+  - A rerun from bank-week-2027-06-14.csv and invoices-week-2027-06-14.csv: 6 invoices matched, 0 deposits with no match, 0 invoices with no deposit yet, deposits total $1095.50, and compare_report.py on the rerun (see README.txt for the command) prints "dates and total agree" and exits 0. (Chapter 10's starting checker words its last line differently, "6 invoices matched, 6 deposits matched, 0 deposits with no match, 0 invoices still open"; the six deposits and the $1095.50 total are what count.)
+  - With your own report instead of the practice files: dates and totals that agree with a second source, a done line, and no log entry.
+
+A done line that counts has: the path, the time you checked, what you saw (dates and total), the name, and at least one "Not checked" item or the words "nothing open".
+
+An incidents.md entry that counts has: the date (2027-06-21 for the practice files), what happened, a rule, and where the rule now lives.
+
+Not a result: the agent's "verified", "looks correct" or "all deposits matched". The agent compared the report with the same stale files it was built from. Ask for the raw values.

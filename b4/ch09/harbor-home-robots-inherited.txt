@@ -1,0 +1,4 @@
+# PRACTICE FILE, FICTION. Book 4, Chapter 9. Harbor & Home's robots.txt as Sam found it.
+# Staging template. Do not index.
+User-agent: *
+Disallow: /

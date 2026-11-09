@@ -1,0 +1,4 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 6.
+A repair for a document summary whose rows do not match the document. It is the second half of the repair in the practice pack's document-summary lesson, copied unchanged; the first half names a contract that is not in this book. Send it in the same chat as the summary.
+
+Under each row, quote the exact sentence from the document that supports it. If the quote does not match the row, fix the row. Then list what you changed.

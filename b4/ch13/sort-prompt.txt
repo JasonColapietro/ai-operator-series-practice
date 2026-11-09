@@ -1,0 +1,10 @@
+PRACTICE FILE, FICTION LABEL. The AI Operator Series, Book 4, Chapter 13. The prompt card from "Try this: Write your balance sheet". Below this line it matches the chapter word for word.
+Job: Sort my rough list below into a balance sheet I can keep.
+Material: Only the lines I list. Do not add, merge or drop any.
+Shape: Four tables: Assets, Liabilities, Dependencies, Held for
+others. Columns: line, owner, chapter, test. Leave the test
+column blank for me.
+Check: If a line could belong to two people, or holds two
+things, write "split?" beside it and do not decide. If any
+line holds a password, key or recovery code, leave the value
+out and tell me.

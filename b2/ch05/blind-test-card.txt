@@ -1,0 +1,29 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 5.
+The blind test on one card, plus a blank entry for library/reviews/blind-tests.md. It works for your own messages or the practice route. Practice-route names are invented.
+----------------------------------------
+GET THREE MESSAGES READY
+1. One draft from Claude, written in your Project as a reply to a real message.
+2. Two messages you wrote and sent, of the same kind: two replies to customers, or two notes to your team.
+3. In the draft, fill in every [CHECK] with any answer that reads naturally, and delete the list under it. This copy is for reading, never for sending.
+4. In all three, take out other people's last names, addresses, phone numbers and anything private. Use the same greeting form and the same sign-off in each.
+5. Paste each one as plain text on its own page, with no dates or email headers. Number them 1 to 3 in shuffled order, and write down where your reader can't see it which number is the draft.
+
+WHAT TO SAY
+"One of these three was drafted by an AI. I wrote the other two. Which one is the AI's, and what gave it away?"
+
+AFTERWARD
+- Picked, with a reason: the reason is your tell. Add it to voice.md under the heading it belongs to, replace the copy in your Project, and run a new round with a new draft and new samples.
+- Picked, with no reason ("it just felt off"): ask which sentence. If they can't point to one, count it as a guess.
+- Not picked: a pass. A pure guess still misses the draft two times in three, so one pass is a start, and two in a row, with different readers, are worth trusting.
+
+RECORD (copy into library/reviews/blind-tests.md)
+## [DATE] · Blind test, round [N]
+Reader: [WHO, AND HOW WELL THEY KNOW YOUR WRITING]
+Kind of message: [FOR EXAMPLE, A REPLY TO A CUSTOMER]
+Draft was number: [N]   Picked: [N, OR NONE]
+Their reason, in their words: [REASON]
+Change to voice.md: [THE LINE YOU ADDED OR CHANGED, AND UNDER WHICH HEADING]
+
+PRACTICE ROUTE
+- The draft: Claude's reply to Ruth Calloway (calloway-email.txt), written in the Harbor & Home Project after its voice file is replaced with dana-voice-spec.txt.
+- The two real messages: Dana's email to Tom (practice/shared/harbor-home-voice-sample.txt) and her email to Lisa (dana-sent-emails.txt). All three are fiction, so first names can stay.

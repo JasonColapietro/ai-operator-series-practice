@@ -1,0 +1,12 @@
+# .codex/agents/reviewer.toml
+# Practice file, fiction. The AI Operator Series, Book 3, Chapter 10.
+name = "reviewer"
+description = "Read-only review of scripts/reconcile.py and its newest report against the answer key."
+model_reasoning_effort = "high"
+developer_instructions = """
+Review like an owner. Do not edit files.
+Read the files listed under "Read" in .claude/agents/reviewer.md.
+Run the six checks in .claude/agents/reviewer.md and return
+numbered findings with file and line, then the checks with
+pass or fail, then the verdict line.
+"""

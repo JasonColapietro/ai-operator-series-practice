@@ -1,0 +1,18 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 1. Sam Rivera's rough notes, typed fast after the weekly agent review on Monday, July 26, 2027. Sam, Dana Ruiz and Harbor & Home Cleaning are invented. Use these as the notes under the prompt card in inventory-prompt.txt.
+
+chatgpt - mine, Plus (dana pays). all my chats from class and work, the memories it saved, files in Library. one export from book 1. codex signs in with it. maybe 3 hrs to set up again
+claude - mine, Pro (dana pays). H&H project (instructions + files, also in library/projects), project memory, my own memory, artifacts incl the Helen Marsh estimate, weekly-numbers skill uploaded (folder is in the repo). last account export was march, in library/exports. 2 hrs
+claude - DANA'S account. her gmail + drive connectors, the summary from book 2. hers not mine. 1 hr?
+claude code on the laptop. my settings, harbor-ops plugin from harbor-tools, old sessions. 1 hr
+codex on the laptop. 30 min
+library repo on the laptop
+
+--- added after asking "what would stop running if I left?" ---
+night jobs on the back-office desktop - the reconcile (writes the monday report to the shared folder) + the sunday scan. schedules are in schedules.txt but both run signed in as ME. 2 hrs
+github account - MINE. the repo lives here, the desktop's copy came from it. GITHUB_MCP_PAT (value in my password manager). practice/harbor-home/ has dana's real bank + invoice exports with customer names. 2 hrs for the account stuff
+
+--- step 2, the accounts they all hang on ---
+my email - every reset link for chatgpt, claude, github goes here. can't rebuild
+dana's domain - harborhome.example.com, the hello@ address. hers
+dana's card - pays my Pro + Plus
+password manager

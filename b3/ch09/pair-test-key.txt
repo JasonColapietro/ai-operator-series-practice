@@ -1,0 +1,11 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 9, Give the Agent Reach.
+The key for the pair test on sam-first-sketch.md. Harbor & Home Cleaning, Dana and Sam are invented.
+
+Six tools make fifteen pairs. Fourteen separate. One collides:
+
+find_open_slots / check_availability
+Try to finish the line from the request alone: "Use find_open_slots when ..., use check_availability when ..." A customer who writes "Can you come Tuesday?" fits both. So does "Anything open next week?" The line can't be written, so the pair collides.
+
+The fix Sam made: cut check_availability. A single day is a date range one day long, so find_open_slots covers it. Five tools remain, and booking-server-sketch.md holds all ten pair lines for them.
+
+Other fixes that also count: keep check_availability and give it a condition the request itself shows (for example, only when the request names a time of day as well as a date), as long as you can write the pair line afterward and a stranger would sort ten sample requests the same way you do. A fix that only adds "use this one first" to a description doesn't count; that is a preference, and the request still fits both.

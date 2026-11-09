@@ -1,0 +1,17 @@
+FICTION. Answer key for the practice route of "Try this: Hand off and pick up cold", Book 3, chapter 6. It checks a handoff written from sam-session-notes.txt.
+
+A correct handoff has all eight headings, in any order or wording close to these: Target; Branch and remote; Files changed; Commands run; Verified (and how); Status; Blockers and caveats; Exact next step.
+
+It contains:
+- Target: the library repo, the checker (scripts/reconcile.py).
+- Branch and remote: main, pushed to origin.
+- Files changed: scripts/reconcile.py, tests/test_reconcile.py, tests/fixtures/second-bank-sample.csv. (AGENTS.md is NOT changed in the notes. A note that lists it is guessing. Sam's own note, written the next day, lists it because Sam changed it that morning.)
+- Commands run: python3 -m unittest discover -s tests (12 tests, all pass). git status, commit and push may also appear.
+- Verified: the tests pass, and the run names row 9 of the fixture as unmatched. It must also say, in any words, that no real export was checked.
+- Status: the checker reads the second bank's format; not yet run on real files.
+- Blockers and caveats: the second bank writes dates day first (25/03/2027 in row 7); the 18/03/2027 transfer that pays two invoices billed to two different clients shows as unmatched and needs Dana's decision; the day-first decision lives only in chat so far; the commit message "wip" says nothing. Any two of these four pass; all four is best.
+- Exact next step: one action that names a file or a command, for example "Add the day-first rule for the second bank to AGENTS.md, then run the checker on Monday's two exports." Either action alone also passes.
+
+"none" in an empty field is correct. A handoff that invents a test count, a file or a result not in the notes fails that field.
+
+It leaves out: the effort setting (a habit for the usage log, not the next session), and any password, key or account detail.

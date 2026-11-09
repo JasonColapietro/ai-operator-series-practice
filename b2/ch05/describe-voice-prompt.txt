@@ -1,0 +1,19 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 5.
+The prompt for "Try this: Your voice in one page", the same card the chapter prints. New prompt text written for this book; it is neither practice-pack text nor Jason's words. Fill the two slots, then copy everything below the line of dashes.
+----------------------------------------
+I'm writing a one-page description of how I write, so that drafts written for me sound like me. Below are [NUMBER] messages I wrote and sent.
+
+Describe the patterns you see. Don't write anything in my voice yet.
+
+Use five headings: Perspective, Structure, Vocabulary, Themes, Never.
+- Perspective: where I stand when I write, and what I seem to believe about the reader.
+- Structure: how each message is built, from the first line to the last.
+- Vocabulary: words and phrases I reach for, how long my sentences run, how I greet and sign off.
+- Themes: what I keep coming back to.
+- Never: things most writers do that I never do in these messages.
+
+Under each pattern, quote one sentence from my messages that shows it. If a pattern shows up in only one message, say so.
+
+Describe how I write, never what I wrote about. Leave every price, date, time and name out of the description.
+
+[PASTE THE MESSAGES HERE, WITH A LINE OF DASHES BETWEEN THEM]

@@ -1,0 +1,7 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 10, Contracts That Move Ownership.
+The prompt card from "Try this: Redline three clauses", written for this book. Paste everything below the line of dashes after you upload the contract.
+----------------------------------------
+Job: Find the clauses in this contract that decide who owns the work and when.
+Material: Only the contract I uploaded. Quote each clause exactly with its section number.
+Shape: Four headings: when ownership passes; credit and portfolio use; indemnity; termination and deposits. Under each, the quoted clause and one plain sentence on what it means for me.
+Check: If the contract has no clause of that type, write "None found" under the heading. Do not give legal advice, and do not suggest wording.

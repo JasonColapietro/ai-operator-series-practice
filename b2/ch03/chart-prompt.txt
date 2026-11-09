@@ -1,0 +1,15 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+The chart card from the practice pack's explain-a-chart lesson, copied unchanged below the line of dashes. Upload bookings-chart.png first. The chart's business and numbers are invented.
+----------------------------------------
+Attached is a chart from my booking app's monthly report. I want to understand exactly what it shows, then send a short, accurate summary to my team.
+
+Use only what is in the image. Do not add reasons, causes or outside facts.
+
+Give me these sections:
+1. What the chart is: the title, what each axis measures, the time period, what each color stands for, and every note or footnote, word for word.
+2. A table of every value you can read, with one row per month and one column per service type, plus a total for each row. If a value is hard to read, write "unclear" instead of guessing.
+3. Three to five things the chart clearly shows, each with the numbers behind it.
+4. What this chart can't tell me, in two or three bullets.
+5. A note to my team of 80 words or fewer, warm and plain.
+
+Before you write sections 3 and 5, reread the footnotes and the axis labels. If anything there limits a comparison, say so in those sections.

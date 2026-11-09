@@ -1,0 +1,8 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+The repair for a cleaned client list that changed information. Adapted from the practice pack's clean-messy-records repair, which was written for a garden's sign-up sheet: the first line, steps 2 and 3 and the closing line are unchanged. Step 1 now fits a client list: its examples name a town or frequency instead of a plot, and "what the person wrote" became "what the client list said". Send it in the same chat.
+----------------------------------------
+You changed information, not just formatting. Go back to the original file and compare it with your table row by row.
+1. Undo every change that added information, such as digits added to a phone number, a town or frequency you guessed, or a value copied from another row. Put back what the client list said and add a note to check.
+2. If you merged or removed any rows, put them back in their original order, and mark the matching rows "possible duplicate of row N" instead.
+3. Confirm that rows in equals rows out.
+Then show me only the rows you changed in this round, before and after.

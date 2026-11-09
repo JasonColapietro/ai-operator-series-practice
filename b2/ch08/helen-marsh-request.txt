@@ -1,0 +1,26 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 8.
+Helen Marsh, Harbor & Home Cleaning and Dana Ruiz are invented, and so are the email address and phone number. Copied unchanged below the line of dashes from the practice pack's artifact lesson (its transfer case).
+Paste everything below the line in place of the last line of estimate-prompt.txt.
+----------------------------------------
+From: Helen Marsh <helen.marsh@example.com>
+To: hello@harborhome.example.com
+Date: Mon, Oct 26, 2026, 7:52 PM
+Subject: Price for a deep clean and then every other week?
+
+Hello,
+
+A neighbor on our street uses you and recommended you. We just moved into a house in Cape Elizabeth. It's about 2,000 square feet, three bedrooms and two baths.
+
+The previous owners left it in rough shape, so we'd like one big deep clean first. Could you also do the inside of the fridge on that visit? After that we'd like a regular clean every other week, ideally on Fridays.
+
+A few questions:
+- Can you shampoo the living room carpet while you're there?
+- We have a cat. Can you use products that are safe for her, and could you clean out the litter box each visit?
+- Do you need to see the house first?
+- What would the total be for the first visit, and then for each regular visit after that?
+
+I'd love to have something in writing that I can show my husband.
+
+Thanks,
+Helen Marsh
+207-555-0188

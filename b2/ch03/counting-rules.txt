@@ -1,0 +1,26 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+The counting-rules file from "Save this", with its slots. Copy everything below the line of dashes into library/facts/counting-rules.md and fill the slots with your own columns. Written for this book; the "Use only" line and the four rules under "What counts" follow the practice pack's week-of-numbers card.
+----------------------------------------
+# Counting rules: [WHAT THE DATA IS]
+Saved: [TODAY'S DATE]
+Use it for: [THE REPORT THESE NUMBERS FEED]
+
+Use only [THE FILES]. Work every number out from the rows. Do not estimate.
+
+What counts:
+- A [THING] counts as [DONE] only if the [STATUS COLUMN] column says [VALUE].
+- [ROWS THAT ARE ONLY CHARGES] are charges. Include their amount in [MONEY TOTAL], but show them on their own lines.
+- If two rows are exact copies, count that [THING] once and tell me which one it was.
+- If you had to assume how to read a column, say what you assumed.
+
+Tie-outs, checked before you answer:
+- [THE PARTS] plus the charge lines equal [MONEY TOTAL].
+- [ONE SPLIT] plus [THE OTHER SPLIT] equal the same [MONEY TOTAL].
+- Under each total, list the [ID COLUMN] values it includes.
+
+Labels:
+- A figure that is not printed in a file and is not a total of listed rows, such as a percentage or an expected price, ends with "(my addition)".
+- "Check these": every row that breaks [THE PRICE LIST OR RULES FILE], has a blank value or looks off, with its [ID COLUMN], what you found and what the file says. Do not correct the data.
+
+Repair that fixed it:
+Transfer run:

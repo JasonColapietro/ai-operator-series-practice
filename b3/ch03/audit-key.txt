@@ -1,0 +1,27 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 3, Plan Before It Touches Anything.
+What a good audit of the practice week finds. Harbor & Home Cleaning, Dana Ruiz, Sam Rivera and every client, amount and date are invented. Line numbers count the header as line 1.
+----------------------------------------
+THE FILES
+bank-week-2027-03-15.csv       9 deposits, Monday March 15 to Friday March 19, 2027. Columns: date, description, amount. Total $1,795.50.
+invoices-week-2027-03-15.csv   10 invoices for the same week. Columns: invoice_no, invoice_date, job_id, client, service, sq_ft, amount, status. Total $2,150.50.
+
+FORMAT PROBLEM (any audit should name it)
+The bank file uses two date formats. Card settlements are MM/DD/YYYY (lines 2, 3, 4, 8, 10). Transfers are YYYY-MM-DD (lines 5, 6, 7, 9). The invoice file uses YYYY-MM-DD throughout.
+
+ROWS THAT WON'T MATCH ONE DEPOSIT TO ONE INVOICE
+1. The planted one. Bank line 9, TRANSFER IN M OYELARAN, $95.00 on 2027-03-19, matches no invoice. No invoice is $95.00 and no client is named Oyelaran.
+2. One transfer, two invoices. Bank line 5, LINDQVIST RENTALS LLC, $460.00, pays INV-2044 ($320.00, Unit A) and INV-2045 ($140.00, Unit B) together.
+3. One invoice, two deposits on two days. Bank lines 6 and 7, R PATEL, $142.50 on 2027-03-17 and $142.50 on 2027-03-18, together pay INV-2046 ($285.00).
+4. No deposit yet. INV-2048 (Brooks, $190.00) and INV-2050 (Haddad, $260.00). Nothing in the files says whether they are late or simply not due.
+
+HOW THE TOTALS RECONCILE
+Invoiced $2,150.50 minus unpaid $450.00 (INV-2048, INV-2050) = $1,700.50 paid. Deposits $1,795.50 minus $1,700.50 = $95.00, the Oyelaran deposit.
+
+QUESTIONS ONLY DANA CAN ANSWER (an audit should ask at least one)
+- Who is M. Oyelaran, and what does the $95.00 pay?
+- When a customer pays one invoice in parts, does it count as paid only when every part has arrived?
+- When one transfer covers several invoices, how does the checker learn which ones? (Here the client name gives it away; next time it may not.)
+- Are INV-2048 and INV-2050 overdue, or not due yet? The files carry no due dates.
+
+IT WORKED IF
+The report names the $95.00 deposit that matches no invoice, flags at least one of the two rule cases (item 2 or item 3), asks Dana at least one question, and git status shows the report (and, after step 7, the Codex report) as the only new files, with nothing modified. An audit that also names the two date formats, the unpaid invoices or the totals has done more than enough. An audit that "fixes" the Patel rows into one $285.00 row has changed the evidence: restore the file.

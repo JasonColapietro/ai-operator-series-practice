@@ -1,0 +1,75 @@
+PRACTICE FILE, FICTION (the worked example only). The AI Operator Series, Book 1, Chapter 13.
+Harbor & Home Cleaning and Dana Ruiz are invented. The blank fill-ins are for your real business.
+
+=====================================================================
+PART 1. THE FIVE KINDS, AS FILL-INS
+Words in capitals inside brackets are slots. Fill every one, then
+never change the words again: the same words on every day you run them.
+Put the town in the question itself. Don't write "near me".
+[COMPETITOR] is the one business you lose customers to most often. If you
+don't know which one that is, run question 1 first and use the name at the
+top of its list.
+=====================================================================
+
+Discovery questions (your business's name stays out)
+
+1. Best for
+What is the best [CATEGORY] for [CUSTOMER] in [TOWN]? Recommend 3 to 5 options and briefly explain each.
+
+2. Options and how to choose
+I need [WHAT IT SOLVES] for [CUSTOMER] in [TOWN]. What are my options, and how do I choose?
+
+Branded questions (your business's name goes in)
+
+3. What do you know
+What do you know about [BUSINESS] in [TOWN]?
+
+4. Against a competitor
+Compare [BUSINESS] and [COMPETITOR] for [CUSTOMER]. Which would you recommend, and why?
+
+5. What people say
+What do people say about [BUSINESS] in [TOWN]? Include sources.
+
+=====================================================================
+PART 2. WORKED EXAMPLE: DANA'S FIVE (FICTION, WORDING ONLY, DON'T RUN)
+=====================================================================
+
+Business: Harbor & Home Cleaning, Portland, Maine
+Customer she wants: a family with a dog, booking a first deep clean
+
+1. What is the best house cleaning service for a family with a dog in Portland, Maine? Recommend 3 to 5 options and briefly explain each.
+2. I need a deep clean before holiday guests arrive for a house with a dog in Scarborough, Maine. What are my options, and how do I choose?
+3. What do you know about Harbor & Home Cleaning in Portland, Maine?
+4. Compare Harbor & Home Cleaning and [THE COMPANY DANA LOSES JOBS TO] for a family with a dog in Portland, Maine. Which would you recommend, and why?
+5. What do people say about Harbor & Home Cleaning in Portland, Maine? Include sources.
+
+=====================================================================
+PART 3. BLANK TWO-DAY SCORECARD (the same table Keeper #8 holds: fill
+it in here while you run, then copy the marks into the keeper)
+Marks: Named · Not named · Wrong · Failed run
+  Named       the business is there, and right as far as you can tell
+  Not named   a real answer that leaves the business out (it names others,
+              or says it knows nothing about the business)
+  Wrong       the business is there, with a wrong fact or a mix-up
+  Failed run  no real answer (an error, a blank, a reply cut off). Ask again
+              in a new Temporary Chat, and mark Failed run only if it fails
+              twice.
+Under Also named, write every other business the answer named. If it gave
+general advice and named no business at all, mark Not named and write
+"nobody" there. On question 4, write which of the two it would pick.
+=====================================================================
+
+Business: [BUSINESS], [TOWN]
+Run in: a Temporary Chat, personalization off, one question per chat
+Ran from: [WHERE YOU WERE] · [DEVICE]
+
+Question              Day 1 [DATE]   Day 2 [DATE]   Also named
+1 Best for
+2 Options
+3 What it knows
+4 Against
+5 What people say
+
+Absence, confusion, dead ends:
+Pages it cited:
+Saved answers: library/scans/[BUSINESS]/

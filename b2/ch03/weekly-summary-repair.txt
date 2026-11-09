@@ -1,0 +1,9 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+The repair from the practice pack's week-of-numbers lesson, copied unchanged below the line of dashes. Send it in the same chat when the weekly summary's tables disagree with each other.
+----------------------------------------
+Your tables don't agree with each other. Recount from the file, one step at a time:
+1. List the job IDs you included in each service-type total and show each sum.
+2. Count any exact duplicate row once.
+3. Confirm that the service totals, plus the lockout and late-cancel lines, equal the money billed in your summary.
+4. Confirm that paid plus unpaid equals the same number.
+Then give me the corrected tables. If a number changed, tell me which one and why.

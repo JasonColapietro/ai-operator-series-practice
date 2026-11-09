@@ -1,0 +1,31 @@
+<!-- PRACTICE FILE, FICTION. Book 4, Chapter 11. Markup for harborhome.example.com/about after Sam's repair. The About page now carries a "Find us" line linking the social page, the directory and Dana's networking profile, so every sameAs link is on the page. The review listing stays out of sameAs until it shows the chosen name. Validated on validator.schema.org 2026-11-07: 0 errors, 0 warnings. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://harborhome.example.com/#business",
+      "name": "Harbor & Home Cleaning",
+      "url": "https://harborhome.example.com/",
+      "email": "hello@harborhome.example.com",
+      "telephone": "207-555-0142",
+      "sameAs": [
+        "https://social.example/harborhomecleaning",
+        "https://directory.example/portland-me/harbor-home-cleaning"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://harborhome.example.com/about#dana",
+      "name": "Dana Ruiz",
+      "url": "https://harborhome.example.com/about",
+      "jobTitle": "Owner",
+      "worksFor": { "@id": "https://harborhome.example.com/#business" },
+      "sameAs": [
+        "https://network.example/in/danaruiz"
+      ]
+    }
+  ]
+}
+</script>

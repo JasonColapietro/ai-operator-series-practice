@@ -1,0 +1,44 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 11, Proposal, Contract, Invoice.
+Sam Rivera, Marcus Lee, Marcus Lee Design and every client and number here are invented. Version 1, as Sam sent it. Practice material, not a model contract: every clause is marked for attorney review before reuse, and nothing here tells you what any state's law requires.
+----------------------------------------
+STATEMENT OF WORK: WHITE-LABEL AI VISIBILITY CHECK
+Version 1. Sent by Sam Rivera to Marcus Lee Design on Tuesday, June 6, 2028. [attorney review before reuse]
+
+1. THE WORK
+1.1 For each client site Marcus names in writing, Sam runs one visibility check: ten buyer questions written with Marcus, asked in four AI engines, one run each, with every answer saved as text and a dated screenshot; a scorecard; and a one-page fix list.
+1.2 This statement covers the first three sites Marcus names.
+
+2. WHOSE NAME IS ON IT
+2.1 Each report carries Marcus Lee Design's name. Sam's name appears in no report, and Sam never contacts Marcus's clients.
+
+3. ACCEPTANCE
+3.1 Marcus accepts a report when every capture has a date, every total shows its denominator, and the fix list names a page for each fix.
+3.2 Marcus accepts the report or sends one list of corrections within 5 business days after delivery.
+
+4. NOT INCLUDED
+4.1 Making the fixes, talking to Marcus's clients, a second run of any check, and any site after the third.
+
+5. CHANGES
+5.1 A fourth site or a second run is priced from Sam's change list and agreed in writing before the work starts.
+
+6. WHO OWNS WHAT
+6.1 Marcus's clients' data and accounts stay theirs. Sam uses only their public pages and the answers the engines give.
+6.2 Sam's method (the question templates, the scorecard layout, the prompts and the checks), including anything Sam made before this work, stays Sam's. Marcus may use the reports and fix lists with his own clients for as long as he likes.
+6.3 Marcus may deliver each report to the client it covers as soon as Sam delivers it to him. Each report becomes Marcus's when the invoice for it is paid in full.
+
+7. AI TOOLS
+7.1 Sam names each AI tool used for this work, with the date its terms were read, in a list Marcus can see.
+
+8. PAYMENT
+8.1 $350 per site, $1,050 for the three sites.
+8.2 Half ($525) when Marcus signs this statement. The rest ($525) when the third report is accepted.
+8.3 Invoices are due within 15 days of the invoice date (net 15). No late fee. Work on the next report pauses while any invoice is more than 15 days overdue.
+
+9. PAUSE
+9.1 If Marcus pauses the work for more than 15 business days, Sam sets new dates when Marcus is ready, and any report already delivered is invoiced.
+
+10. ENDING
+10.1 Either side may end this statement with 7 days' written notice by email. Marcus pays for every report delivered, and Sam refunds any deposit left over.
+
+Signed: ______ Marcus Lee, for Marcus Lee Design   Date: ______
+Signed: ______ Sam Rivera                         Date: ______

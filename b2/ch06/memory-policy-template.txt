@@ -1,0 +1,24 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 6.
+A blank memory policy. Save a copy as library/memory-policy.md (a .txt ending works as well), replace each slot in capitals and square brackets, and keep it to one page. Delete these three lines when you do.
+
+MEMORY POLICY: [YOUR NAME]
+What Claude may keep about me between chats, and what it may not. I read my memory against this page once a month.
+Memory last read: [YEAR-MONTH-DAY]
+Next read: [YEAR-MONTH-DAY, ONE MONTH LATER]
+
+CLAUDE MAY KEEP
+- [STABLE FACTS ABOUT YOU THAT HELP IN MOST CHATS: WHAT YOU DO, WHAT YOU'RE WORKING TOWARD]
+- [HOW YOU LIKE WORK HANDED BACK]
+- [FOR EACH PROJECT: WHAT THAT PROJECT'S MEMORY MAY HOLD]
+
+CLAUDE MAY NOT KEEP (and where it goes instead)
+- Anything on my never-paste list. It goes nowhere. If one turns up in memory, I change it that day and delete the topic and the chat it came from.
+- [NUMBERS THAT ARE TRUE FOR A WEEK OR A MONTH]. They live in [WHERE].
+- [PRICES, POLICIES AND OTHER FACTS THAT ALREADY HAVE A FILE]. They live in [WHICH FILE].
+- [OTHER PEOPLE'S PRIVATE DETAILS]. [WHERE THE JOB'S COPY LIVES, OR NOWHERE].
+- [RULES NOBODY DECIDED]. [WHO DECIDES, AND WHICH FILE THE ANSWER GOES IN].
+
+SETTINGS
+- [PROJECT NAME]: Use account memory [ON OR OFF], because [WHY].
+- Sensitive topics in memory: [ON OR OFF].
+- Training (Help Improve our AI models): [ON OR OFF], set on purpose [YEAR-MONTH-DAY].

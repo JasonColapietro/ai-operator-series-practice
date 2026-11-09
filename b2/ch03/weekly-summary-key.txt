@@ -1,0 +1,51 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+What a weekly summary of harbor-home-jobs-oct-12-16.csv has to get right, on the practice route of "Try this: A week of jobs you can read in two minutes". Every figure below was computed with a Python script from the CSV and matches the practice pack's answer key. Wording will differ from run to run, so check the numbers and the flags, not the phrasing. Prices and policies live in practice/shared/harbor-home-business-facts.txt, and this key names the line to check against instead of repeating them. Everyone named is invented.
+----------------------------------------
+THE FILE
+- 30 rows under the header. Row H-1031 appears twice, word for word, so there are 29 unique jobs on the schedule.
+- If H-1031 is counted twice, a summary shows 28 completed jobs and $6,165.00 billed (30 jobs scheduled). Either figure means the duplicate was missed.
+
+TOTALS (H-1031 counted once)
+- Completed jobs: 27.
+- Money billed, all unique rows: $6,039.00.
+  Completed jobs: $5,840.50. Lockout, H-1036 O'Brien, T.: $148.50. Late cancel, H-1042 Vance, R.: $50.00.
+- Paid: $4,205.50 (21 rows). Unpaid: $1,833.50 across 8 rows: H-1026, H-1030, H-1035, H-1036, H-1042, H-1044, H-1046, H-1049.
+
+TIE-OUT 1: completed jobs by service, plus the two charges, equal money billed
+  Standard       14   $2,175.50   H-1021, H-1022, H-1024, H-1026, H-1028, H-1029, H-1031, H-1033, H-1037, H-1040, H-1043, H-1045, H-1047, H-1049
+  Deep            6   $1,720.00   H-1023, H-1030, H-1034, H-1039, H-1041, H-1048
+  Move-out        3   $1,120.00   H-1027, H-1035, H-1046
+  Small office    4     $825.00   H-1025, H-1032, H-1038, H-1044
+  Completed      27   $5,840.50
+  + Lockout H-1036 $148.50 + Late cancel H-1042 $50.00 = $6,039.00
+
+TIE-OUT 2: paid plus unpaid equal money billed
+  $4,205.50 + $1,833.50 = $6,039.00
+
+BY DAY (unique jobs scheduled, completed, billed including the two charges)
+  Mon 10/12   6   6   $1,159.50
+  Tue 10/13   6   6   $1,299.50
+  Wed 10/14   6   5   $1,334.50   (the O'Brien lockout)
+  Thu 10/15   6   5   $1,121.00   (the Vance late cancel)
+  Fri 10/16   5   5   $1,124.50
+  Total      29  27   $6,039.00
+
+MONEY BILLED PER CREW HOUR
+- 26 completed jobs have crew hours. They billed $5,625.50 over 155.5 crew hours: $36.18 per crew hour (36.1768).
+- Left out: H-1043 Walsh, C., because crew_hours is blank. The lockout and the late cancel are left out because they are not completed jobs.
+- $36 also passes. So does an average completed job of $216 or $216.31, if the reply gives one.
+
+CHECK THESE (a good reply flags all four)
+1. H-1031 Kowalski, B.: the same row twice. Counted once.
+2. H-1028 Hughes, D., Scarborough, standard clean, 1,500 sq ft, billed $140.00. The SERVICE AREA line for Scarborough adds a travel fee per visit, and this row doesn't include it.
+3. H-1041 Underwood, S., Falmouth, deep clean, 1,400 sq ft, billed $240.00. That is under the "from" price on the Deep clean line, which covers homes this size.
+4. H-1043 Walsh, C.: completed, crew_hours blank.
+
+CANNOT CONFIRM (right to list; wrong to call overcharges)
+- H-1023 (deep, 1,800 sq ft, $285.00), H-1048 (deep, 1,700 sq ft, $285.00), H-1034 (deep, 2,100 sq ft, $310.00). The Deep clean line stops at 1,500 sq ft, and the size step is printed on the Standard home clean line only. These prices fit that step, but the price list doesn't say it applies to deep cleans. "Cannot confirm from the price list" is the right reading. "Overcharge" is wrong.
+
+NOT ERRORS (a reply may mention them, but shouldn't call them mistakes)
+- H-1036 lockout charged at the full visit price, recurring discount applied: matches the Lockouts line under HOW BOOKING WORKS.
+- H-1042 late cancel, no crew, 0 hours: matches the Cancellation line. Its note says the cancellation came inside 48 hours. "rebook?" in its note is worth passing to Dana.
+- Small-office prices: quoted after a walk-through (Small-office clean line). The card says not to flag them.
+- Every other standard price matches if "per extra 500 sq ft" means each started 500 sq ft over 1,500 (so 1,600 sq ft adds one step and 2,300 sq ft adds two). A reply should say it read the size step that way. Read it as full 500s only and five rows look wrong when they aren't: H-1022, H-1026, H-1029, H-1036 and H-1045.

@@ -1,0 +1,76 @@
+ANSWER KEY: BOOK 5, CHAPTER 7, RECEIPTS SELL
+
+(Fiction. Every name, number and date here belongs to the practice files in this folder.)
+
+1. THE AGENT'S DRAFT (agent-case-study-draft.md): FIVE PLANTED PROBLEMS
+
+Any order counts. Your wording will differ.
+
+a. "Sam appeared in 4 of 40 answers (10%)." Blends branded and discovery questions and
+   counts the empty answer and the blocked run as misses. The register says: discovery,
+   named in 0 of 26 answered (26 of 28 runs answered); branded, named in 4 of 12 answered.
+   It was ten questions in four engines, not a "40-question audit".
+b. "Engine 3 showed zero visibility." Engine 3's empty answer to Q5 is an engine failure,
+   kept out of every total. Engine 3 named Sam in none of the 9 answers it did give, which
+   is also true of Engine 1, so nothing singles it out.
+c. "AI visibility improved by 40%." There is one reading. The next one is due May 9, 2028.
+   No number in the files supports any change, let alone 40%.
+d. "Trusted by Harbor & Home Cleaning and other Portland businesses." Dana confirmed facts
+   (what Sam set up and does), not trust. "Other Portland businesses" appears in no file.
+   And the line leaves out that Dana pays Sam, which a reader wouldn't expect.
+e. "Sam ... is a certified bookkeeper." Wrong. The draft repeated the one inaccurate engine
+   answer (Q10, Engine 2). The certificate is in progress.
+
+Also fair to flag: "across Maine" (Sam's questions and page cover Greater Portland), and
+"keep optimizing" (a next step with no date and no action).
+
+It worked if your rewrite has: totals as fractions with coverage, discovery and branded kept
+apart, the losses and who won them, the fixes with dates, what the scan can't show, and the
+next reading date. Compare with sam-case-study-finished.md for shape, not wording.
+
+2. CLAIMS AUDIT (sam-first-page.md)
+
+Run each line through the receipt test (Figure 7.1).
+
+- "AI consultant helping businesses grow." No receipt, and it says nothing a buyer can
+  check. Replace with the one-sentence offer from the offer file (written in chapter 2,
+  revised in chapter 3).
+- "I'm a certified bookkeeper" False today. Restate as "Bookkeeping certificate in
+  progress: Parts 1 and 2 complete." Receipt: the school's record (certificate-record.txt).
+- "with years of experience" Vague. Restate as what Sam does: keeps Harbor & Home's books
+  part time. Receipt: Dana's confirmation and Harbor & Home's About page.
+- "an expert in ChatGPT, Claude and AI automation." An adjective. Strike it. The case
+  study and the sample work show the skill instead.
+- "Trusted by local businesses across Maine." No receipt. Strike it.
+- "Proven results: my clients see more bookings and save hours every week." Nothing
+  measured it, and Dana asked for no such number. Strike it.
+- "I built the systems that run Harbor & Home Cleaning's books and customer FAQ."
+  Overstated. Restate as Dana wrote it: Sam keeps the books part time and set up the FAQ and
+  the Monday summary. Receipt: Dana's confirmation and the About page, with the relationship
+  stated.
+- "Fast turnaround on every project." Restate with something dated: the fixes from Sam's
+  own scan shipped two days after it (April 4 to April 6, 2028). Receipt: the fix list and
+  the case study.
+- "Book a free call today." Not a claim. Keep it, or swap in the free check from chapter 4.
+
+3. WHAT ANY CORRECT PROOF PAGE FROM THESE FILES HOLDS
+
+- Sam's name, where Sam works and a way to reach Sam.
+- The one-sentence offer, word for word from the current offer file (version 2, from
+  chapter 3's demand test).
+- Three receipts that pass all three questions. Any three of these count:
+  the self-scan case study, losses included (anyone can ask an engine one of the frozen
+  questions); Harbor & Home's About page, with Dana's confirmation behind it and the
+  relationship stated, word for word from DISCLOSURE-sam.md ("Dana Ruiz pays me for
+  part-time bookkeeping at Harbor & Home Cleaning."); the school's certificate
+  record; Harbor & Home's live FAQ page, if the page also says or links to who set it up.
+- A "checked" date on each.
+- Either no testimonial slot, or a slot that says plainly there are no client quotes yet,
+  with the founding-rate line ready for when one exists. Never an invented or improved quote.
+- A line offering the evidence room on request.
+
+Not on the page: the test log (a stranger can't check it without Sam's repo), the
+data-handling terms (evidence room), and every line struck in part 2.
+
+It worked if someone who doesn't know Sam can confirm two of the three receipts in under a
+minute by opening the stand-in files, without asking you anything.

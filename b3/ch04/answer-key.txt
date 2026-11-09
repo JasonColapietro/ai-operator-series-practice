@@ -1,0 +1,27 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 4, Read the Diff, Use the Rewind.
+What a correct run of the deposit checker reports on chapter 3's practice week: practice/harbor-home/bank-week-2027-03-15.csv and invoices-week-2027-03-15.csv (the files are in practice/b3/ch03/harbor-home/). Harbor & Home Cleaning, Dana, Sam and every client, invoice, date and amount are invented. Line numbers count the header as line 1. Read this after your own run, not before.
+----------------------------------------
+THE ONE DEPOSIT THAT MATCHES NO INVOICE (a correct run must name it)
+Bank line 9   2027-03-19   TRANSFER IN M OYELARAN   $95.00
+Any wording counts, as long as the date, the payer and the amount are there.
+
+THE TWO RULE CASES (for each one, both answers count in chapter 4)
+1. Patel, R. paid INV-2046 ($285.00) as $142.50 on March 17 and $142.50 on March 18 (bank lines 6 and 7).
+   Right: the run matches both deposits to INV-2046 as one payment in two parts.
+   Also right: the run lists the two $142.50 deposits as unmatched AND says they add up to INV-2046.
+2. Lindqvist Rentals LLC paid INV-2044 ($320.00) and INV-2045 ($140.00) with one $460.00 transfer (bank line 5).
+   Right: the run matches the transfer to both invoices.
+   Also right: the run lists the $460.00 transfer as unmatched AND says it equals INV-2044 plus INV-2045.
+Chapter 5 writes both cases down as rules.
+
+INVOICES STILL OPEN AFTER THE RUN (a checker may list them; it doesn't have to)
+INV-2048   Brooks, D.    $190.00   no deposit yet
+INV-2050   Haddad, S.    $260.00   no deposit yet
+
+SIGNS SOMETHING SLIPPED THROUGH
+- The run reports that every deposit matched. Count the rows it read. The bank file writes card settlements as 03/15/2027 and transfers as 2027-03-17; a checker that reads only one format and skips the rest never sees lines 5, 6, 7 and 9, the Oyelaran deposit among them.
+- The run names a Patel or Lindqvist row as unmatched and says nothing about which invoices it adds up to.
+- The run stops with an error on a date. That is better than a skip, and the fix is the same: read both formats.
+
+THE COMMIT
+A right commit for this chapter holds exactly two files, the script and its test (for example scripts/reconcile.py and tests/test_reconcile.py; other names are fine if they match your prompt). projects/harbor-home/facts.md does not appear in it.

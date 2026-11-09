@@ -1,0 +1,15 @@
+# Harbor & Home Cleaning: practice site for The AI Operator Series, Book 5, chapter 5.
+# Fiction. The domain is reserved for examples, so nothing here reaches a real site.
+# Meant to carry the policy from Book 4, chapter 9: search crawlers in, training crawlers out.
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: PerplexityBot
+Disallow: /
+
+Sitemap: https://harborhome.example.com/sitemap.xml

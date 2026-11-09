@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 5 (second exercise).
+Dana's version of the week-plan prompt, copied unchanged from the practice pack's weekly-plan lesson (the transfer case). Paste her notes (danas-week.txt) where it says [PASTE YOUR NOTES].
+
+Job: Build a realistic plan for my work week, [MONDAY NOV 2 TO FRIDAY NOV 6]. I run a small cleaning business and need the office work done without losing my Friday afternoon.
+
+Material: Use only my notes, pasted below. Everything under "Already booked" is fixed. Do not move it.
+
+Shape:
+- Start with a short list called "Conflicts and questions."
+- Then one section per day: a simple time list (start, end, what) from the start of my workday to the end. Show travel as its own line.
+- Put each flexible task into a time slot, and give each day a "Calls back" slot.
+- End with a table: task, time needed, day and time planned, deadline.
+
+Check:
+- If two fixed things overlap, do not choose between them. Name the overlap in "Conflicts and questions," plan the week as booked, and add one line saying what would move if it changes.
+- Never plan office work after [6 PM] (except anything already booked) or in the 30 minutes after a cleaning shift.
+- Follow every rule in my "Notes" section. If you can't, say which one you broke and why.
+- Leave [FRIDAY AFTER 3 PM] with nothing planned.
+- If my notes leave something unclear, ask me in the Conflicts list instead of guessing.
+
+My notes:
+[PASTE YOUR NOTES]

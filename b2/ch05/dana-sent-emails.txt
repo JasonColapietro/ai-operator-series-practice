@@ -1,0 +1,30 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 5.
+Three more emails Dana sent, for "Try this: Your voice in one page". Use them with the two in practice/shared/harbor-home-voice-sample.txt, which makes five. Dana Ruiz, Harbor & Home Cleaning, the customers and the team are invented. Every fact in these emails agrees with practice/shared/harbor-home-business-facts.txt, and the facts file wins if they ever differ. Copy everything below the line of dashes.
+----------------------------------------
+Hi Mr. Gagnon,
+
+Thanks for getting in touch. We don't clean outside windows, so I can't help with those. Inside is a different story: the deep clean covers the inside of your windows, along with the oven and baseboards.
+
+If you'd like a price for that, tell me roughly how many square feet the house is and I'll send it today.
+
+Dana
+Harbor & Home Cleaning
+207-555-0142
+
+---
+Hi Lisa,
+
+Yes, we can move you from weekly to every two weeks. Your 10% recurring discount stays, because it covers both.
+
+Ben and Kelly will keep coming, so nothing changes on the day itself. Do you want the switch to start after this Thursday's clean, or after the next one?
+
+Dana
+
+---
+Hi all,
+
+One change this week. The Thibodeau house asked us to use their own products, so leave our kit in the van there and use what's under their sink. Everywhere else, it's our fragrance-free products as usual.
+
+Thanks for the extra hours last week. I know it was a long one.
+
+Dana

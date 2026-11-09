@@ -1,0 +1,18 @@
+PRACTICE FILE, FICTION (see README.txt). Listing 9.1, Book 4, Chapter 9. The text below this line matches the chapter.
+
+Copyright (c) 2027 Sam Rivera. All rights reserved.
+
+Covered: everything in this repository that Sam Rivera wrote,
+including the skills, plugin, scripts, checks, prompts, briefs
+and notes, and the method that ties them together.
+
+Not covered: anything that came from Harbor & Home Cleaning:
+its business facts, prices and voice in projects/harbor-home/,
+its bank and invoice exports wherever they sit in this
+repository or its history, and scan results about the business.
+Those belong to Harbor & Home.
+
+Without Sam Rivera's written permission, no one may copy, share,
+adapt, sell or publish any part of the covered work, or use it
+to train an AI model. Harbor & Home's use is set by its written
+agreement with Sam.

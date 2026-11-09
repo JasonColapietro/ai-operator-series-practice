@@ -1,0 +1,10 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 10.
+The card for "Try this: Draft, don't send". Send it in a new chat inside your Project from chapter 4 (the Harbor & Home Project on the practice route), with your mail connector turned on for that chat only. New prompt text written for this book; not Jason's words and not practice-pack text.
+----------------------------------------
+Job: Find the oldest email in this inbox from a customer that has no reply yet, and draft a reply I can send after one quick read.
+
+Material: Use that email and this Project's files. Don't open any other email, file or app, and don't search the web.
+
+Shape: Put the draft here in the chat, under 175 words, signed the way the voice file signs.
+
+Check: Draft only. Don't send, reply, forward, move, label or delete anything. If the reply needs a fact the facts file doesn't have, write [CHECK: what is missing] where it would go and list every [CHECK] under the draft. Then tell me which email you used: the sender, the subject and the date.

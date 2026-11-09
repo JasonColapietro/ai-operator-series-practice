@@ -1,0 +1,81 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 8.
+Copied unchanged from the practice pack's current-research lesson: its example result for the Okafors' questions, the answer chapter 8 describes in "Read every link". Ada and Tunde Okafor, their children, cars, dates and credit union are invented. The agencies, pages and links are real.
+Read it for the shape of a good answer, never as a source. It is one run, made in Claude for the practice pack from searches in October 2026, with research-prompt.txt and okafor-move-notes.txt, and nothing in it was checked for this book. Rules, fees, deadlines and pages change, and your run will find its own pages and word them differently.
+Before you rely on any line, open its link, find the sentence and give it one of chapter 8's three marks: supported by the page, not on the page, or page would not open.
+Everything below the dashed line is the pack's text.
+------------------------------------------------------------
+I searched official Colorado, Denver and Ohio sources. Colorado's state DMV pages (dmv.colorado.gov) would not open directly for me, so where I cite them, the wording comes from the search results that quote those pages. Please open those links yourself before you rely on them. Where only a county or other site covered a point, I say so.
+
+FIRST, YOUR SIDE QUESTION: WHEN DOES THE CLOCK START?
+
+Colorado's deadlines count from the day you "establish residency," not from the lease date or the day you arrive. The City and County of Denver lists three ways to establish residency: getting Colorado employment, owning or operating a Colorado business, or living in Colorado continuously for 90 days. Whichever happens first starts the clock.
+- Tunde: starting at the Denver office on Monday, May 3, 2027 is Colorado employment, so his clock starts no later than May 3.
+- Ada: this depends on a detail I can't settle. You keep a remote job with an out-of-state employer. The sources I found do not say whether working remotely from Colorado counts as "Colorado employment." Check this with the Colorado DMV. If it does not count, Ada's clock could start later, but planning from the earlier date is safer.
+- The lease date (April 15) and arrival date (April 20) are not listed as triggers on their own.
+
+Dates if the clock starts May 3, 2027 (my calculation): driver's licenses by June 2, 2027; car registration by August 1, 2027. If you count from your April 20 arrival to be safe: licenses by May 20 and registration by July 19. Your Ohio registrations (August and September 2027) stay current either way.
+Source: https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Motor-Vehicle/Register-a-Vehicle/Register-a-New-or-Used-Vehicle
+
+1. DRIVER'S LICENSES: DEADLINE, DOCUMENTS, APPOINTMENT, TESTS
+
+Answer: You each have 30 days after establishing residency to transfer your Ohio license to a Colorado one. You need an appointment at a Colorado driver license office, and you should expect a vision test but no written or driving test, because both Ohio licenses are valid.
+- Deadline: "within 30 days of establishing residency."
+- Appointment: required. The DMV says its online pre-registration "does not replace the need to make an appointment."
+- Documents: originals or government-certified copies only (no photocopies). Proof of identity and lawful presence (your U.S. passports work for this), your Social Security number, your Ohio license (valid or expired less than one year), and proof of Colorado address: two documents for a REAL ID, one for a standard license. Your new Denver lease can be one address document.
+- Tests: "basic eye exam" by a Driver License Technician. A written and driving test is needed only if the old license expired more than one year ago, which does not apply to you.
+- Your Ohio license is voided at the appointment (marked with a hole punch).
+- Fee: Not confirmed. The official pages I could read did not give the current fee, and other sites disagree.
+- Tunde's 2024 speeding ticket: Not confirmed. I found nothing official saying it affects a transfer.
+- REAL ID: whether your Ohio licenses have the star does not matter for the transfer. You choose REAL ID or standard in Colorado and bring two address proofs if you want REAL ID.
+Links: https://dmv.colorado.gov/new-to-colorado , https://dmv.colorado.gov/out-of-state-transfer-adult , https://dmv.colorado.gov/documents , https://dmv.colorado.gov/pre-registration-get-ready-for-your-first-dmv-visit
+
+2. REGISTERING BOTH CARS: DEADLINE, WHERE, DOCUMENTS
+
+Answer: You must register both cars "within 90 days from establishing Colorado residency," at one of Denver Motor Vehicle's branch offices (Denver residents register in Denver County).
+- Documents Denver lists for new residents: owner identification; "Vehicle title in your name; or an original out-of-state registration no more than six months expired"; page one of Form DR2504 (Colorado Establishing Residency Form); proof of Colorado residency (a Colorado license or ID, utility bill, lease or pay stub); Colorado-compliant insurance (see question 5); a passing emissions test and a VIN verification (see question 4).
+- Fees: Not confirmed. Denver's page links to a separate page on ownership tax and licensing fees and does not give a number for your cars.
+- Late fee: Adams County, a neighboring county, lists $25 a month, up to $100. I did not find this on a Denver page, so treat it as Not confirmed for Denver.
+Link: https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Motor-Vehicle/Register-a-Vehicle/Register-a-New-or-Used-Vehicle
+
+3. THE CR-V TITLE HELD BY THE CREDIT UNION
+
+Answer: You should not need the physical title in hand. Denver accepts "an original out-of-state registration no more than six months expired" in place of a title in your name, so bring the CR-V's current Ohio registration. The Colorado DMV says that when there is a lien, the Colorado title is mailed to the lienholder.
+- Bring the credit union's full name and address. Colorado guidance (quoted by county sites) says the lienholder's name and address must be provided if they are not on your out-of-state registration.
+- Not confirmed: whether Denver will contact your credit union for the Ohio title, or whether you need to ask the credit union to send it. No official page I found spells out these steps. Call Denver Motor Vehicle (3-1-1, or 720-913-1311 from outside Denver) and your credit union before your appointment.
+Links: https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Motor-Vehicle/Register-a-Vehicle/Register-a-New-or-Used-Vehicle , https://dmv.colorado.gov/titling-a-vehicle , and (county site, not Denver) https://adamscountyco.gov/our-county/elected-officials/clerk-recorder/motor-vehicle/be-prepared-for-your-visit/registering-an-out-of-state-vehicle-by-new-residents/
+
+4. EMISSIONS TEST AND VIN CHECK
+
+Answer: Yes on both, very likely for both cars. Denver is in Colorado's emissions program area. A car brought in from another state "must pass an emissions inspection before it can be registered," unless it has not yet reached its seventh model year. Your 2012 Corolla and 2019 CR-V are both past that point in 2027, so plan on testing both. Denver also requires a VIN verification for a vehicle with an out-of-state title.
+- Emissions rule (AirCare Colorado, the state's testing program): "Vehicles require an emissions inspection once they reach the eighth model year." Denver's page lists "If you relocate to Colorado from another state" as a reason a test is required.
+- VIN verification: "$25.00 per vehicle" at any Denver Motor Vehicle branch. Denver will not do it in unsafe weather, including freezing temperatures.
+- To check: the emissions test fee was not on the official pages I read (Not confirmed). If you want certainty on the CR-V's model-year cutoff, ask AirCare Colorado; sources word the cutoff slightly differently.
+Links: https://aircarecolorado.com/need-know , https://www.denvergov.org/Vehicles-Parking/Vehicles/Emissions-and-Insurance , https://dmv.colorado.gov/gas-emissions-requirements , https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Motor-Vehicle/Title-Services/VIN-Verifications
+
+5. COLORADO INSURANCE OR YOUR OHIO POLICY?
+
+Answer: The sources disagree. The Colorado DMV says out-of-state insurance is accepted for registration if it meets Colorado's insurance laws. Denver's own registration page says "Out-of-state insurance policies cannot be accepted." Because you register in Denver, plan on having a Colorado policy in place before your registration appointment rather than waiting for the June renewal.
+- Colorado minimums listed by the DMV: $25,000 bodily injury per person, $50,000 bodily injury per accident, $15,000 property damage per accident.
+- Proof accepted: an insurance card, declarations page, a letter from your insurer on letterhead, or a binder, paper or on your phone.
+- What to check: call your Ohio insurer now. Ask whether they can switch your policy to Colorado effective your move date, and ask Denver Motor Vehicle whether they will accept it.
+Links: https://dmv.colorado.gov/vehicle-resource-center , https://dmv.colorado.gov/registration , https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Motor-Vehicle/Register-a-Vehicle/Register-a-New-or-Used-Vehicle
+
+6. YOUR OHIO PLATES AND OHIO REGISTRATION
+
+Answer: Not confirmed. I could not find an Ohio BMV page that says what to do with Ohio plates or registration after moving to another state. Non-government sites disagree on whether plates must be returned.
+- Your Ohio driver's licenses are handled in Colorado: the Colorado office voids them at your license appointment (see question 1).
+- What to check: call the Ohio BMV or your local deputy registrar before you leave Columbus and ask (a) whether to return or destroy the plates and (b) how to cancel the Ohio registrations. Keep the Ohio registrations until Colorado has registered the cars, because Denver uses them as proof of ownership, especially for the CR-V.
+Link checked: https://www.bmv.ohio.gov/new-to-ohio.aspx (covers moving into Ohio only, not out)
+
+CHECKLIST AFTER YOU ARRIVE
+
+Before you leave Columbus: call the Ohio BMV about plates (question 6); call your insurer about a Colorado policy (question 5); call the credit union about the CR-V title (question 3); make sure both Ohio registrations and your passports, Social Security details and birth certificates travel with you, not on the moving truck.
+
+1. Week of April 20: book driver's license appointments for both of you. Pre-register online too, but it does not replace the appointment.
+2. As soon as the Colorado insurance policy starts: print or save the insurance cards for both cars.
+3. Gather two Colorado address proofs each (lease plus a utility bill or, for Tunde, a pay stub).
+4. Get Colorado driver's licenses for both of you by June 2, 2027 at the latest (May 20 if counting from arrival). Bring passports, Ohio licenses, and address proofs.
+5. Get emissions tests for both cars at an AirCare Colorado station.
+6. Fill out page one of Form DR2504 for each car.
+7. Go to a Denver Motor Vehicle branch with both cars (for the $25 VIN verifications, on a day that is not freezing), the Ohio registrations, the credit union's name and address, insurance proof, emissions results, DR2504 forms, and your new Colorado licenses. Register both cars by August 1, 2027 at the latest (July 19 if counting from arrival).
+8. Once you have Colorado plates, follow the Ohio BMV's answer about the old plates and registrations.

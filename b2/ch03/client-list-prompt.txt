@@ -1,0 +1,27 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+The client-list card from the practice pack's clean-messy-records lesson, where it is the second case. Copied unchanged below the line of dashes. Upload harbor-home-client-list.csv first. Harbor & Home Cleaning, Dana Ruiz and every client named are invented.
+----------------------------------------
+I own a house-cleaning business in Portland, Maine. Attached is my client contact list. Different people have typed into it over the years, so it's messy. I need a clean list I can sort and filter, and I need to trust that nothing was made up or lost.
+
+Use only the attached file. Clean the formatting. Never add, guess or remove information.
+
+Keep one row for every row in the original, in the same order. Do not merge or delete any rows, even ones that look like duplicates. Use these columns:
+- row: the original row number (the first client is 1).
+- client: people as First Last with normal capitals. Business names exactly as written.
+- street: as written.
+- town: only these values: Portland, South Portland, Westbrook, Falmouth, Cape Elizabeth, Scarborough, Yarmouth. Spell out short forms of these towns. Any other town: keep it as written and add "check town".
+- phone: written like 207-555-0150 when there are exactly 10 digits.
+- email: lowercase, no spaces.
+- service: only these values: Standard, Deep, Move-out, Small office.
+- frequency: only these values: Weekly, Every 2 weeks, One-time.
+- notes: as written. Leave notes empty if there is nothing there.
+- check: anything I need to look at (see below).
+
+Rules for unknowns:
+- If a cell is blank, "?" or unclear, write unknown. Do not fill it in from another row.
+- If a value can't be cleaned without guessing, keep it exactly as written and add a short note to check, such as "check phone". This includes a phone with too few or too many digits, an email that looks incomplete or misspelled, and any town, service or frequency that doesn't clearly match my values.
+- If two rows share a phone number, an email or a client name, add "possible duplicate of row N" to check on both rows.
+
+After the table, give me:
+1. Counts: rows in, rows out, unknown cells in each column, and rows with something in check.
+2. A "Questions for Dana" list: one line for each row with something in check, saying what I need to confirm.

@@ -1,0 +1,20 @@
+PRACTICE FILE, FICTION (see README.txt). For "Try this: Give every data set an owner", Book 4, Chapter 8, step 3.
+
+In the story, Sam's tests/test_reconcile.py was written in the spring from one real week of Dana's bank and invoice exports, the week of March 15, 2027. The names below are Harbor & Home customers in the story. In the practice files they are invented, like everything else; treat them as real here.
+
+The test file is in Book 3's practice files: practice/b3/ch10/sam/tests/test_reconcile.py. If your own repo has a later copy, the names may differ; use the ones yours has.
+
+Each name sits in a test for a reason. A made-up replacement has to keep that reason, or the test stops testing anything.
+
+Name in the bank export        Name on the invoice                Test                                         The trap it keeps
+TRANSFER IN R PATEL            Patel, R.                          test_names_match_in_either_order             The bank writes initial then surname; the invoice writes surname, comma, initial.
+TRANSFER IN R PATEL (twice)    Patel, R.                          test_payment_in_two_parts                    One invoice paid in two equal halves on two days.
+TRANSFER IN M OYELARAN         (no invoice)                       test_deposit_with_no_invoice_is_reported     A deposit that matches no invoice must be reported.
+(no deposit)                   Brooks, D.                         test_deposit_with_no_invoice_is_reported,    An invoice with no deposit stays open.
+                                                                  test_invoice_with_no_deposit_stays_open
+CARD SETTLEMENT CHEN L         Chen, L.                           test_deposit_before_its_invoice_does_not_match   A card payment dated before its invoice must not match.
+TRANSFER IN LINDQVIST RENTALS LLC   Lindqvist Rentals LLC (Unit A), (Unit B)   test_one_deposit_two_invoices   One transfer from a company pays two invoices for two units.
+
+Names in the file that were never customers: TRANSFER IN ALDEN R and the invoice name beside it in test_names_must_match_not_only_amounts were made up for that test, and TRANSFER IN VOSS K comes from the made-up fixture tests/fixtures/second-bank-sample.csv. Leave them as they are.
+
+Your job: choose a made-up name for each customer above, replace every place it appears in the test file, run the tests (python3 -m unittest discover -s tests, from the repo root), and commit. Then compare with names-in-tests-key.txt.

@@ -1,0 +1,11 @@
+invoice_no,invoice_date,job_id,client,service,sq_ft,amount,status
+INV-2041,2027-03-15,H-1310,"Alvarez, M.",Standard (weekly),1200,126.00,Sent
+INV-2042,2027-03-15,H-1311,"Chen, L.",Standard (every 2 weeks),1900,148.50,Sent
+INV-2043,2027-03-16,H-1314,"Okonjo, F.",Standard + inside fridge,1400,175.00,Sent
+INV-2044,2027-03-16,H-1315,Lindqvist Rentals LLC (Unit A),Move-out,1500,320.00,Sent
+INV-2045,2027-03-16,H-1316,Lindqvist Rentals LLC (Unit B),Standard,1500,140.00,Sent
+INV-2046,2027-03-17,H-1318,"Patel, R.",Deep,1800,285.00,Sent
+INV-2047,2027-03-18,H-1321,"Nguyen, T.",Renters' move-out package,1400,380.00,Sent
+INV-2048,2027-03-18,H-1322,"Brooks, D.",Standard,2200,190.00,Sent
+INV-2049,2027-03-19,H-1325,"Sullivan, K.",Standard (weekly),1300,126.00,Sent
+INV-2050,2027-03-19,H-1326,"Haddad, S.",Deep,1500,260.00,Sent

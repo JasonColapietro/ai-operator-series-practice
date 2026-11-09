@@ -1,0 +1,48 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 14, On a Schedule, Under Review.
+What a correct weekly review gets right for the practice week, Monday, October 5 to Friday, October 9, 2026. Numbers recomputed with a python3 -I script from harbor-home-jobs-oct-5-9.csv; they match the practice pack's wf23 answer key, Part A. The price-check paragraph is written for this book: it accepts the pack's reading and this series' reading of the $25 size step. Harbor & Home Cleaning and everyone named are invented.
+----------------------------------------
+
+1. NUMBERS (this week, last week, change)
+  Cleans completed (status Completed):            24 | 24 | 0
+  Money billed (price column, every row):  $5,137.50 | $5,026.50 | +$111.00
+  Unpaid (payment says Unpaid):            $1,051.00 | $612.00 | +$439.00
+     H-1000 Foster $355, H-1007 Ferraro $215, H-1008 Hale $126 (lockout), H-1016 Novak $305, H-1018 Bishop $50 (late cancel)
+  Cancellations, free and late:                    2 | 1 | +1   (H-1004 free, H-1018 late)
+  Lockouts:                                        1 | 0 | +1   (H-1008)
+  Return visits:                                   1 | 0 | +1   (H-1013)
+  On its own line: H-1020 Sutton, $190, payment blank (she says she paid by bank transfer; check Monday).
+  An unpaid figure of $1,241.00 passes only if the review says it counted H-1020 as unpaid.
+
+2. LAST WEEK'S TOP 3
+  Fill the two open Thursday afternoon slots: Partly (Gallo took one; the other is still open).
+  Call back all three office leads: Done (Casco yes, Fore River yes, Salt Line quoted and waiting).
+  Reorder cloths and fragrance-free spray: Partly (cloths ordered, spray not).
+  Each status should quote or point to the line in Dana's notes that shows it.
+
+3 AND 4. WHAT A GOOD REVIEW RAISES
+  Decisions: the Hale lockout fee (his text reached the office Tuesday night and nobody saw it); what Becker
+  (H-0997) was charged against what Dana quoted; Ben's Fridays off from November; keeping Tomas off back-to-back
+  heavy jobs. Staff and scheduling may also carry the open Thursday slot, Odum's November date, the oven missing
+  from the deep-clean checklist card (the cause of H-1013), the van inspection, and crews for the new evening offices.
+
+5. TOP 3 FOR NEXT WEEK
+  Any three pass if each is tied to something in this week's files. Ordering the spray, deciding the Hale fee,
+  fixing the checklist card and reworking Friday crews are all good picks.
+
+PRICE CHECK (the Check line)
+  H-0997 Becker must be named. Two readings pass:
+  - the practice pack's: a deep clean of 1,600 sq ft at $285 with the $25 step, so $260 doesn't match; or
+  - this series' (the trap kept since chapter 1): the facts file prints the $25 step on the standard-clean line
+    only, so a deep clean over 1,500 sq ft has no price in the file, and Becker's $260 can't be confirmed from it.
+    A review that reads it this way may also list H-0995 Pierce, H-1006 Mendes and H-1012 Kim (move-out) as
+    prices the file can't confirm. That passes too.
+  A review that says every price matches, or that never mentions Becker, fails the check.
+
+SHOULD NOT APPEAR
+  The move-out package price or launch plans beyond what the notes say; any figure for Salt Line's answer; a
+  recommendation to raise prices (the notes say "look at numbers first"); the "ideas / someday" notes as tasks.
+  An email shape (a greeting, under 175 words, signed "Dana") means the line that sets aside the Project's email
+  rules is missing.
+
+LENGTH
+  Under 400 words, not counting the table.

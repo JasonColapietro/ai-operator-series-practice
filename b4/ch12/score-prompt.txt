@@ -1,0 +1,6 @@
+PRACTICE FILE, part of the series' practice set, which is fiction. The AI Operator Series, Book 4, Chapter 12. The prompt card from "Try this: Score five assets". Paste it into a chat, then paste your OWNERSHIP.md below it. Never paste a password, key or recovery code; OWNERSHIP.md shouldn't hold any.
+----------------------------------------
+Job: Draft a sovereignty score for the five assets I name below.
+Material: Only my OWNERSHIP.md, pasted after this card, and the five assets I list. Use nothing else.
+Shape: A table with columns Asset, Prove, Terms, Transfer, and Why the lowest score is low. Score each ability 0, 1 or 2. 0 means it depends on one vendor or one person. 1 means possible with hours of work or a step someone has to remember. 2 means I can do it today without asking anyone.
+Check: Give a reason from the file for every score. Where the file doesn't say, score it 0 and write [CHECK: what is missing] in the last column. Do not raise a score because something sounds portable.

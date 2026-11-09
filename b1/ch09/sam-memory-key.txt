@@ -1,0 +1,15 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 9.
+The key for sam-memory-list.txt. Read it after you have marked every line.
+
+Keep: 1, 2, 3 and 8. Each is true, Sam's own, and useful in most chats.
+
+Wrong: 5. Sam is studying bookkeeping. Delete the line, then fix it in a chat: "Forget that I'm studying nursing. Remember that I'm working toward a bookkeeping assistant job." On an account that shows a written memory summary, you can correct the text there instead.
+
+Shouldn't be there:
+- 4. One week's shift. Sam's shifts change every week, so by Monday this line is out of date, and a plan built on it would be wrong. Shifts go in the message, fresh each week.
+- 6. Someone else's contact details. Denise agreed to be a reference, not to sit in Sam's ChatGPT memory.
+- 7. Someone else's health. The appointments are Sam's grandmother's (Abuela, in Sam's week notes from chapter 5), and they are hers to share.
+
+Your call: 9. It is Sam's own fact, and private. Keep it if Sam is fine with it coming up in any chat, including one on a screen someone else can see. Delete it if not. Either answer is right, as long as it was decided on purpose.
+
+Also check: if line 6 or 7 came from a chat that is still in Sam's history, deleting the memory is not enough. Delete that chat too, or the detail can come back through chat history.

@@ -1,0 +1,19 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+The weekly-summary card from the practice pack's week-of-numbers lesson, copied unchanged below the line of dashes. Upload harbor-home-jobs-oct-12-16.csv and practice/shared/harbor-home-business-facts.txt (the price list) first. Harbor & Home Cleaning and everyone in its files are invented.
+----------------------------------------
+I run a small home-cleaning business. Attached are this week's jobs as a CSV file and my approved price list as a text file. I want a weekly summary I can read in two minutes and trust.
+
+Use only these two files. Work every number out from the rows. Do not estimate. Follow these counting rules:
+- A job counts as completed only if the status column says Completed.
+- Lockout and Late cancel rows are charges, not completed jobs. Include their price in money billed, but show them on their own lines.
+- If two rows are exact copies, count that job once and tell me which one it was.
+
+Give me these sections, in this order:
+1. Three to five sentences on how the week went, with the key numbers.
+2. A table by service type: completed jobs and money billed, with a total row. Under it, one line for each lockout or late-cancel charge.
+3. A table by day: jobs scheduled, jobs completed, money billed.
+4. Unpaid: each unpaid job with job ID, client and amount, then the unpaid total.
+5. Money billed per crew hour, counting only completed jobs that have hours filled in. Name any job you left out.
+6. "Check these": every row where the price does not match my price list, a value is missing, or something else looks off. Give the job ID, what you found, and what the price list says. Do not correct the data. Do not flag small-office prices, because I quote those separately.
+
+Use plain words. If you had to assume how to read a column, say what you assumed.

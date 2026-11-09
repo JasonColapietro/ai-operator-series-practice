@@ -1,0 +1,29 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 7.
+Keeper #13, ready to copy into library/keepers.md below Keeper #12 (or below your last keeper if you started with Book 2). It names no real or fictional person: every word in capitals inside brackets is a slot you fill each time. New prompt text written for this book; it is neither practice-pack text nor Jason's words.
+Copy everything from the "## Keeper #13" line down, then put today's date on the "Saved:" line. Leave the last two lines blank until a run needs a repair and you have a transfer run to record.
+----------------------------------------
+## Keeper #13: Research report with receipts
+Saved: [TODAY'S DATE]
+Use it for: a question that many sources answer, in a report other people will check
+
+Job: Research [TOPIC], and write a report for [READER], who will use it to [DECISION]. My notes, with the situation and the questions, are below.
+
+Material: Search the web. Don't use my email, calendar, drive or other connected apps for this. Rank sources in this order:
+1. Official: [OFFICIAL SOURCES, IN ORDER].
+2. Groups: universities and their extension services, nonprofits, and news reports about a rule.
+3. Other: anything else, used only when nothing above covers a point.
+
+Shape: A report in this chat, as plain text, that answers my questions in order. For each point, give:
+- The answer in one to three plain sentences.
+- For a point about a rule: Rule if the source says it's required, Guidance if it only recommends.
+- The source's tier (Official, Group or Other), its full link, and the date printed on the page, or "no date".
+- The sentence from that page that supports the point, quoted word for word.
+Then a short checklist of next steps, in order. Last, a list headed "Pages I could not open".
+
+Check: If no official page covers a point, write Not confirmed, and say which lower tier you used, if any. Don't estimate a fee, a date or any other number the sources don't give. If two sources disagree, write CONFLICT, quote both and don't choose between them. If you couldn't open a page, add it to the last list and don't quote it.
+
+MY NOTES
+[NOTES]
+
+Repair that fixed it:
+Transfer run:

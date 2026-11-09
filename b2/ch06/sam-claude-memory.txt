@@ -1,0 +1,38 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 6: What It Remembers.
+Written for "Try this: Audit your memory", for readers whose own Claude memory is empty or switched off. These topics were not copied from a real account. Sam Rivera, Dana Ruiz, Harbor & Home Cleaning, Joan Pelletier and everyone else named are invented. Mark each topic keep, edit, delete or move to a file. The key is in sam-claude-memory-key.txt.
+----------------------------------------
+SAM'S CLAUDE MEMORY, COPIED OUT ON SATURDAY, DECEMBER 19, 2026
+
+ACCOUNT MEMORY (saved from chats outside any Project; copied from the memory page)
+
+1. Bookkeeping certificate
+Sam is working toward an evening bookkeeping certificate. Classes meet on Tuesday and Thursday evenings.
+
+2. Part-time work
+Sam keeps the books for Harbor & Home Cleaning, a cleaning business in Portland, Maine, a few hours a week. The owner is Dana Ruiz.
+
+3. Formats
+Sam likes plans and summaries laid out as tables.
+
+4. Rent
+Sam's rent goes up on January 1. Sam is working out how to cover the increase and asked for help with a reply to the landlord.
+
+5. Role
+Sam is the office manager at Harbor & Home Cleaning.
+
+HARBOR & HOME PROJECT MEMORY (saved from chats in the Project; written out by Claude in a chat there)
+
+6. Payment reminders
+Reminders for unpaid invoices give the invoice number, the visit date and the amount owed, and sign off "Dana".
+
+7. Week of October 12
+Harbor & Home billed $6,039.00 for the week of October 12 to 16, with $1,833.50 still unpaid.
+
+8. Deep clean price
+A deep clean of 1,800 square feet costs $285.
+
+9. Joan Pelletier
+Joan Pelletier in South Portland is selling her house in January. From now on her invoices go to her son.
+
+10. Reminder day
+Payment reminders go out on Fridays.

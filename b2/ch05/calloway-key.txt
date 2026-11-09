@@ -1,0 +1,19 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 5.
+What a reply to Ruth Calloway's email has to get right, on the practice route of "Try this: The blind test". Read it after the run. Wording will differ, so check the facts and the behavior, not the phrasing. Every fact lives in practice/shared/harbor-home-business-facts.txt, and this key names the line to check against instead of repeating it. Everyone named is invented.
+----------------------------------------
+Facts
+- Every two weeks: yes, as a standard clean. Its "from" price covers her 1,400 sq ft (Standard home clean line), and the recurring discount applies to standard cleans booked every two weeks (Recurring discount line). A reply that gives the "from" price and says the discount applies passes. So does one that works out the discounted figure and shows how it got there.
+- Fridge: yes, the inside-fridge add-on at its listed price (Add-ons line).
+- Tipping: the facts say nothing about tips, so the answer is a [CHECK] (or CHECK:, the same marker). A reply may also say how visits are paid (HOW BOOKING WORKS), as long as it doesn't turn that line into a rule about tips.
+- Start date: no day or time offered. A [CHECK], or a question about which day of the week suits her, passes.
+- Falmouth is in the service area, so no travel fee. At about 1,400 sq ft, no video walk-through.
+- Wrong: a confirmed day or time, a promise about which crew will come, any rule about tips stated as settled, a discount on the fridge.
+
+Voice (from dana-voice-spec.txt)
+- Opens "Hi Ruth" and thanks her in a sentence or two, passing the thanks on to Aisha and Tomas. A paragraph of thanks is too much.
+- Answers both requests before anything else, then ends with one next step she can answer in a line.
+- Under 175 words, no exclamation points, none of the NEVER phrases, signed "Dana".
+- She has booked before, so the business name and phone after "Dana" are optional.
+
+For the blind test
+- Fill in each [CHECK] with any answer that reads naturally and delete the list under the draft. Your reader is judging the voice, and this copy is never sent. Nothing you write in for the test goes into the facts file.

@@ -1,0 +1,41 @@
+ANSWER KEY, FICTION. The AI Operator Series, Book 4, Chapter 5, "Try this: Five receipts by tonight",
+practice route (harbor-home-claims.txt). Read it after you try. Wording will differ; the sorting shouldn't.
+
+THE FIVE THAT CAN GO PUBLIC (any order)
+
+1. Insured: the insurer's certificate, with its policy dates. Strongest of the five, because
+   someone other than Dana issued it. Accept "certificate on request" only with a note that a
+   linked copy or the insurer's contact would be stronger.
+2. The guarantee: a link to the written guarantee on the price page, with its "Last updated" date.
+   This is a public commitment, not a third-party record. Accept it, labeled that way.
+3. Service area: a link to the Areas page. Also a public commitment. Accept it.
+4. Prices: a link to the price page, with its date. Accept it. Don't copy the prices into the
+   receipts page; one home per fact, so link to the page that holds them.
+5. Reviews: a link to the public review listing. Don't quote Mrs. Patel or anyone else until they
+   say yes in writing (practice pack wf17). Accept "link to the listing" in any wording.
+
+A result that counts the guarantee, the service area and the prices as "receipts from someone else"
+has missed the difference. They are Dana's own words, dated and public, which is worth something,
+and a stranger checks them by holding Dana to them.
+
+WHAT GOES ON THE GAPS LIST, NOT THE PAGE
+
+- "Bonded": no bond paper yet. Split line 1: "Insured" goes public with the certificate, "Bonded"
+  goes on the gaps list until the paper turns up. Publishing "insured and bonded" as one item with
+  only the insurance certificate behind it is the mistake this line is planted to catch.
+- "Background-checked": no record of any check. Gap, or strike it. Both are correct. Publishing it
+  is the wrong answer.
+- Permission to quote Mrs. Patel's review.
+
+WHAT TO STRIKE
+
+- "Trusted by Portland's best families": nothing to check, and nothing ever could be. Strike it.
+- "Honest, upfront prices" and "Our customers love us" as worded: the adjectives go; the price page
+  and the review listing replace them.
+
+IT WORKED IF
+
+- Five public items, each with a link (or a named place to check) and a checked date.
+- At least two items on the gaps list.
+- No item on the page that points only at Dana's own description of herself.
+- Someone who reads the draft can say, for at least two items, where they would click to check it.

@@ -1,0 +1,59 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 10.
+What each second case in second-cases.txt has to get right. Read it after the run, not before. Wording will differ from run to run; check the facts and the behavior. Everyone named is invented.
+A run passes when the result is one you could use and the only things you changed in the keeper were its slots. If you had to change anything else, write it on the keeper's "Transfer run" line, fix the keeper and run it again.
+
+------------------------------------------------------------
+KEEPER #1 ON MARCUS LEE'S REPLY TO CORINNE WALSH
+Built from the practice pack's answer key for this case. Every price comes from marcus-rate-sheet.txt; the totals below are worked out from it.
+- Cost: seven pages (six in the base price plus one extra page) and class sign-up with online payment come to $4,350. A reply that says "about" or shows the build-up is fine. The exact price comes in the written proposal after the call.
+- Spreading the payments: the rate sheet's 50/25/25 schedule is the answer, $2,175.00 to book, $1,087.50 at design approval and $1,087.50 at launch. There is no other payment plan in the facts.
+- Page text: yes, copywriting is offered per page. All seven pages would bring the build to $5,225.
+- Logo: no. He can work with an existing logo file or refer a designer.
+- January 9: not realistic. The next start date is Monday, November 30, 2026, and a site this size takes 6 to 8 weeks, so the earliest launch is January 11 to January 25, 2027, and only if the deposit, text and photos are all in on November 30. The reply must not promise January 9 or invent a rush option. Adding two weeks for an online store is a small error, since class sign-up is an add-on, not a store.
+- Hosting: separate. She pays the provider directly; Marcus sets it up and can recommend options.
+- Her call: she offered Thursday after 1. Marcus's calendar isn't in the facts, so any time needs a [CHECK].
+- Also fine: mentioning the 1-hour training call that lets her update the site herself.
+- Signed Marcus, written as "I", under 250 words, ending with the discovery call.
+
+------------------------------------------------------------
+KEEPER #2, VERSION 2, ON DANA'S WEEK
+From the practice pack's answer key for Dana's week (the transfer block), copied unchanged:
+Fixed: Mon payroll by noon (about 2 h); Tue 9:00 to 9:15 video walk-through (Hendersons, Falmouth, about 2,900 sq ft); Tue 6:00 pm office walk-through (about 45 min); Thu 8:30 to 12:30 covering Miguel's clean in South Portland with Sarah; Thu 10:00 supplier call (30 min); Fri done by 3:00.
+CONFLICT: Thursday 10:00 supplier call falls inside the 8:30 to 12:30 cleaning shift (full 30-minute overlap). Must be named.
+DECISION NEEDED: who covers Miguel's Wednesday deep clean in Westbrook, decided by Monday afternoon.
+ORDER: Hendersons quote after Tuesday 9:15 am; insurance office quote after Tuesday evening (so Wednesday or later).
+Flexible work total: 8 h 5 min (quotes 90 min, callbacks 150 min, invoices 75 min, schedule 60 min, supplies 30 min, social posts 60 min, Sarah conversation 20 min).
+Fixed work total: 7 h 30 min.
+Rules: calls back every day; nothing after 6:00 pm except Tuesday's walk-through; 30 minutes' rest after the Thursday cleaning shift (no office work 12:30 to 1:00); team schedule posted by Friday noon.
+
+Added for version 2: calls back and invoices each have a line in every day's list, Monday to Friday.
+
+Then run version 2 on Sam's week (practice/b1/ch05/sams-week.txt). The checks from chapter 5 still hold: travel is on its own lines; no study after 10 pm or in a block over 2 hours; no study before 9 am on a morning after a shift that ends at 8 pm or later; Thursday's study done by 3:40 pm, when the bus leaves for the posted shift; Chapter 7 read before Practice Set 7; 8.75 hours of study in all; and the Thursday shift and class named as a conflict, with no choice made between them. If your chapter 5 plan only came right after the repair, the first run of version 2 may need that repair too. With [EVERY DAY] set to "nothing", no daily line is added.
+
+------------------------------------------------------------
+KEEPER #3 ON YOUR OWN PHOTO, VOICE NOTE AND PDF
+- Every line on the page ends with (photo), (voice note) or (PDF, page N).
+- Anything you can't read in the photo says "unclear" instead of a guess.
+- Where your voice note and the PDF disagree, the page says CONFLICT and gives both versions.
+- Nothing on the page comes from anywhere but the three things you sent.
+- The list after the page names every "unclear", every CONFLICT and anything from your voice note that was left out.
+
+------------------------------------------------------------
+KEEPER #4 ON DANA'S NEW HIRE
+This file prints no answers to Dana's questions. They come from the agencies' own pages, and they change. Check the shape of the answer:
+- The four questions are answered in order, each in one to three plain sentences.
+- Every deadline, form or amount is given as the page states it, with the link to that page.
+- Each point is marked Rule or Guidance.
+- Where no official page covers a point, the answer says "Not confirmed" instead of guessing.
+- No fee or amount is estimated.
+- It ends with a short checklist in the order Dana should do things.
+- Open at least two of the links and find the sentence each answer came from, the way chapter 8 did.
+- Write the date beside the answer before you keep it.
+
+------------------------------------------------------------
+KEEPER #5 ON DANA'S THURSDAY
+- The clash is stated correctly: the supplier call, Thursday 10:00 to 10:30, falls inside the cleaning shift, 8:30 to 12:30.
+- Two to four options, one line each, each with what it would cost Dana.
+- Nothing is chosen for her. An option that needs the rep to find another time, such as next week, carries a [CHECK], because the rep said Thursday at 10 is the only time she has this week.
+- The message goes to the supplier rep, runs under 80 words, has no exclamation points and ends with one question she can answer in a line.
+- Nothing appears that isn't in Dana's slots, such as a name for the supplier or the rep.

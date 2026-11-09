@@ -1,0 +1,18 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      { "matcher": "Edit|Write",
+        "hooks": [ { "type": "command", "command": "python3",
+                     "args": ["${CLAUDE_PROJECT_DIR}/hooks/protect_facts.py"],
+                     "onFailure": "block" } ] }
+    ],
+    "PostToolUse": [
+      { "matcher": "Edit|Write",
+        "hooks": [ { "type": "command", "if": "Edit(*.py)", "command": "python3",
+                     "args": ["${CLAUDE_PROJECT_DIR}/hooks/format_py.py"] } ] },
+      { "matcher": "Bash",
+        "hooks": [ { "type": "command", "if": "Bash(git commit *)", "command": "python3",
+                     "args": ["${CLAUDE_PROJECT_DIR}/hooks/log_commit.py"] } ] }
+    ]
+  }
+}

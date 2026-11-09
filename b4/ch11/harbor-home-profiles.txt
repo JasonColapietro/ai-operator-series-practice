@@ -1,0 +1,42 @@
+PRACTICE FILE, FICTION. Book 4, Chapter 11. Where Harbor & Home's name appears.
+Harbor & Home Cleaning, Dana Ruiz and every page, listing and address below are invented.
+The addresses use reserved example domains, so none of them opens a real page.
+
+Copied down by Sam on Monday, August 30, 2027, exactly as each place shows the name.
+
+1. WEBSITE FOOTER (https://harborhome.example.com)
+   Shows:  Harbor & Home Cleaning
+   Also:   214 Fore Street, Suite 3, Portland, Maine. 207-555-0142. hello@harborhome.example.com
+   Links:  it is the website.
+
+2. INVOICE TEMPLATE (the PDF every customer gets after a visit)
+   Shows:  Harbor and Home Cleaning Co.
+   Also:   phone and email. No web address.
+   Links:  none.
+
+3. REVIEW-SITE LISTING (https://reviews.example/biz/harbor-home-cleaners-portland)
+   Shows:  Harbor Home Cleaners
+   Also:   4.8 out of 5 from 52 reviews. Category: house cleaning. Claimed by the owner: no.
+   Links:  none. The "Website" field is empty.
+
+4. BUSINESS SOCIAL PAGE (https://social.example/harborhomecleaning)
+   Shows:  Harbor & Home Cleaning
+   Links:  https://harborhome.example.com
+
+5. LOCAL DIRECTORY (https://directory.example/portland-me/harbor-home-cleaning)
+   Shows:  Harbor & Home Cleaning
+   Links:  https://harborhome.example.com
+
+6. DANA'S NETWORKING PROFILE (https://network.example/in/danaruiz)
+   Shows:  Dana Ruiz. Headline: "Owner, cleaning business"
+   Links:  none. The business isn't named anywhere on the profile.
+
+WHAT THE ABOUT PAGE SHOWS TODAY (https://harborhome.example.com/about)
+   Heading: About Harbor & Home Cleaning
+   "Harbor & Home is owned by Dana Ruiz. Our team of seven cleaners works across Portland and nearby towns."
+   Service area, phone, email, office hours.
+   No list of profiles. No reviews or ratings. No structured data.
+
+DANA'S CHOICE
+   The one name: Harbor & Home Cleaning, as the footer spells it.
+   The canonical page: https://harborhome.example.com/about

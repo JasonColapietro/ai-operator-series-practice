@@ -1,0 +1,28 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 11, Proposal, Contract, Invoice.
+What the proposal-check card should find in sam-proposal-draft.md, checked against Sam's price sheet (Listing 4.1 in chapter 4) and Sam's pilot scope (../ch09/sam-pilot-scope.md). Read it after your own try. Figure 11.1 in the chapter shows the page after the repairs.
+----------------------------------------
+THE FOUR PLANTED PROBLEMS
+
+1. A price that is not on the sheet. "Facts file cleanup | $250". Sam's sheet has no such line. Its nearest step is the facts audit at $350, which is a separate offer. Everything that follows from the $250 is wrong too: the $1,500 total, the $750 deposit and the $4,800 to $6,450 first-year range.
+   Repair: delete the line. Checking the twenty answers with Dana is part of the $1,250 package ("one inbox, twenty questions, thirty days"). Total $1,250; deposit $625; first year $1,250 + 11 x $300 = $4,550 to $1,250 + 11 x $450 = $6,200.
+
+2. A fixed date. "The agent goes live on Monday, June 12". Sam controls none of what that date depends on.
+   Repair: a range, with its dependencies under it. Start Monday, June 12 to Monday, June 19, 2028. Decision review Friday, July 14 to Friday, July 21. These dates depend on the signed page and deposit by Wednesday, June 7; inbox access set up in week 1; the twenty answers checked by the Friday of week 1. A late item moves every date by the same amount.
+
+3. A promised result. "you'll never lose a weekend job to a faster company again". The pilot drafts; Dana sends; nobody controls who answers a customer first.
+   Repair: delete the sentence. The number the pilot moves (median time to first reply) belongs in the statement of work, as a measurement, with no target.
+
+4. Assumptions in a paragraph. In section 2: "I'm assuming the facts file is current and that you'll keep handling phone messages yourself."
+   Repair: move both into section 5 as their own numbered lines: "4. Your facts file is current, and you keep it current." and "5. Phone messages, weekday quotes, the FAQ page and the Monday summary are not in this pilot."
+
+ALSO RIGHT
+- Flagging "within ten minutes" in section 2. It is a spec from the pilot scope and a test Dana runs herself, so it can stay, but asking whether it reads as a promise is a fair question. Keep it only if your scope has a test for it.
+- Flagging that "$300 to $450 a month" is a range. It is on the sheet as a range, so it passes.
+- Flagging the deposit amount as "not on the sheet". The sheet gives no deposit rule, so a careful check may list it; the deposit is half of the total, and it is wrong only because the total is.
+- Listing the 4:30 p.m. Friday reviews as a date problem. They come from the scope, and Dana chose them, so they pass.
+
+SIGNS THE CHECK NEEDS ANOTHER PASS
+- The card rewrote the proposal instead of quoting the problems.
+- It called the $1,250 pilot price wrong. It is the standard rate on the sheet.
+- It missed the $250 line because "cleanup" sounds like part of the pilot.
+- It gave legal advice about the deposit or the signature.

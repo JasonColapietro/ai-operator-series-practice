@@ -1,0 +1,7 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 15. Listing 15.3: paste the rule below under "Rules from incidents" in AGENTS.md, with the next number in your list. It matches the chapter's listing word for word below this header.
+----------------------------------------------------------------
+7. 2027-06-21. Every report names the first and last date
+   of the rows it read, under its title. A Monday report
+   with any deposit dated before last Monday is stale:
+   write STALE at the top, do not publish it, and say so.
+   Stops at: reports that don't cover a week.

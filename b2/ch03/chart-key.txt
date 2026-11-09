@@ -1,0 +1,38 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+What a reading of bookings-chart.png has to get right, on the practice route of "Try this: A note your team can trust". Copied unchanged below the line of dashes from the practice pack's explain-a-chart answer key, primary chart only (its lines 4 to 27 and 49 to 58). The pack calls the image wf15-input-bookings-chart.png. Figures in it were computed with a Python script. Harbor & Home Cleaning and its bookings are invented.
+----------------------------------------
+PRIMARY CHART DATA (wf15-input-bookings-chart.png)
+Title: Harbor & Home Cleaning: bookings by service type
+Subtitle: Number of bookings per month, April to September 2026
+Y axis: Bookings, 0 to 70, gridlines every 10. X axis: Month (2026).
+Footnote: * September shows bookings through September 21 only. The booking system changed on September 22.
+
+Month       Standard          Deep      Move-out  Small office        Total
+Apr               58            19             6            17          100
+May               61            27             9            18          115
+Jun               64            23            14            17          118
+Jul               57            18            17            16          108
+Aug               55            17            19            18          109
+Sep*              44            14             8            13           79
+
+Standard: Apr-Aug total 295, peak Jun (64), Apr to Aug change -3 (-5%)
+Deep: Apr-Aug total 104, peak May (27), Apr to Aug change -2 (-11%)
+Move-out: Apr-Aug total 65, peak Aug (19), Apr to Aug change +13 (+217%)
+Small office: Apr-Aug total 86, peak May (18), Apr to Aug change +1 (+6%)
+All services, full months: Apr 100, May 115, Jun 118, Jul 108, Aug 109. Peak month: Jun (118).
+September (partial, 21 days): 79 bookings.
+Daily pace if bookings were spread evenly (optional, rough): Aug 3.52 per day over 31 days; Sep 3.76 per day over 21 days.
+Move-out Aug vs Apr: 19 vs 6, 3.17 times as many.
+Move-out share of all bookings: Apr 6.0%, Aug 17.4%.
+Standard share of all bookings: Apr 58.0%, Aug 50.5%.
+
+PRIMARY: WHAT A GOOD REPLY MUST DO
+- Section 1 quotes the footnote: September covers bookings through September 21 only (booking system changed September 22).
+- Section 2 values match the table above exactly. Row totals: Apr 100, May 115, Jun 118, Jul 108, Aug 109, Sep 79 (partial).
+- Sections 3 and 5 never present September as a decline without saying it is partial. "Bookings fell in September" with no caveat is a fail.
+- No causes (for example "moving season", "summer vacations", "the new system") stated as fact. The chart shows counts, not reasons.
+- Defensible observations include: Standard is the largest service every month (peak 64 in June); move-out bookings rose every month from April (6) to August (19), a little over three times as many; deep cleans peaked in May (27); small-office bookings held steady between 16 and 18 in every full month; June was the busiest full month (118 bookings).
+- Section 4 should note at least two of: no revenue or prices; no reasons for changes; September incomplete; no data before April or after September 21; bookings are counts, not hours or jobs completed.
+
+OPTIONAL (credit if present, not required)
+- A per-day pace comparison (Aug 3.52 per day, Sep 3.76 per day) is acceptable only if the reply says it assumes bookings spread evenly across the month.

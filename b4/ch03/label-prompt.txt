@@ -1,0 +1,12 @@
+PRACTICE FILE. The AI Operator Series, Book 4, Chapter 3. The prompt card from "Try this: Label ten pieces".
+Open a new chat in Claude or ChatGPT. Paste everything below the line of dashes first, then paste your descriptions (or the four in sam-pieces.txt) under it in the same message, and send.
+----------------------------------------
+Job: Sort the pieces I describe below into three labels:
+human-made, AI-assisted, AI-generated.
+Material: Only my descriptions. Do not assume anything about
+my process that I did not write.
+Shape: A table: piece, label, the sentence from my description
+that decides it, evidence I named, evidence missing.
+Check: If my description does not say who decided the structure
+or the final wording, write "Not enough to label" instead of
+choosing. Do not give legal advice.

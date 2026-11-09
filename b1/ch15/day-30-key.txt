@@ -1,0 +1,47 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 15.
+What "Try this: Day 30" and the two new keepers have to get right. Read it after the runs, not before. Wording will differ from run to run and from tool to tool; check the behavior and the facts. Everyone named is invented.
+
+------------------------------------------------------------
+COUNTING TO TEN
+- A keeper is a numbered prompt (Keeper #1 to Keeper #10) with its slots marked and its "Transfer run" line filled in with a date. A keeper that broke on its transfer run, got fixed and passed on the rerun counts.
+- "Transfer run: none yet" does not count until you run it.
+- These are not keepers, however useful: Never paste, My settings, Before I trust an answer, the Check block, the Day One entry and the AI log. Don't count them.
+- Keeper #9's one slot is the "Me:" line. Its transfer run is a second session on a project from another part of your life (on the practice route, Sam's discussion post after Dana's spotlight). Keeper #10's transfer run is a second piece of writing with a different reader and limit (on the practice route, Dana's spotlight after Sam's post).
+- Keeper #6's transfer run is the rebuilt Project and Keeper #8's is the second business. Both count.
+
+------------------------------------------------------------
+THREE KEEPERS IN CLAUDE
+- Any result counts: better, worse or the same. The point is a dated line in weekly.md for each keeper.
+- Compare three things for each pair of answers: did each one follow the Shape (length, order, sign-off), did each one stay inside the Material (no facts, prices or dates you didn't paste), and did each one do what the Check part asked (for Keepers #1 and #5, mark [CHECK] where the facts ran out; for Keeper #10, quote cuts without rewriting your sentences).
+- One run in each tool shows how each one answered that day, nothing more (chapter 3). Book 2, chapter 1, runs the comparison properly.
+- Keepers that depend on a feature, such as Keeper #6 (a Project) and Keeper #7 (a scheduled task), are not good picks for this test. Claude's free plan has no scheduled tasks as of November 2026.
+
+------------------------------------------------------------
+KEEPER #10 ON SAM'S DISCUSSION POST (sam-discussion-post-9-draft.txt)
+- Every cut on the list appears word for word in the draft. A "cut" that rewords the draft breaks the Check part; send the repair below.
+- The register comparison survives: the first two paragraphs, or enough of them that the comparison still makes sense.
+- No new sentence appears anywhere. "Joining" words the model suggests are fine only if it named the sentence and left the fix to you.
+- The final post is at or under 250 words by your own count. The model's running counts are estimates and are often off by a few words; if yours comes out at 255, cut one more phrase yourself.
+- The accounting that is left still reads true. Likely cuts include the "One thing I got wrong" paragraph, the "Honestly" paragraph and phrases such as "I think the reason this matters is that". Any set of cuts that keeps the comparison and lands under the limit passes.
+
+KEEPER #10 TRANSFER RUN ON DANA'S SPOTLIGHT (dana-spotlight-draft.txt)
+- At or under 75 words by your own count, contact details included.
+- The guarantee sentence stays ("If we miss something, tell us within 24 hours and we'll come back and fix it at no charge."), and at least one way to book stays (the phone number or the email address).
+- Nothing is added: no prices, no "best", no new services, no exclamation points.
+- A list that cuts the guarantee fails, because the guarantee was the point. Keeping "We're insured and bonded." is a bonus.
+- Nothing changed outside the slots between Sam's run and Dana's run. If you had to change a line, that line is a bug; fix the keeper and rerun both.
+
+Repair for either case, if a cut rewords the draft:
+You changed my words in some of the cuts. Quote only words that appear in my draft, exactly, and don't suggest new sentences. Redo the list.
+
+------------------------------------------------------------
+KEEPER #9, THE COACHING SESSION
+- The coach asks what real piece of work you want to use before Lesson 1, and waits for your answer.
+- One lesson at a time, each starting with its number ("Lesson 1 of 4"), each ending with a task and a stop.
+- Feedback comes only after you do the task, quotes your words and gives one change written out.
+- After Lesson 4, a debrief names one skill to practice next week.
+- For the practice route, a good Lesson 3 marks claims like "insured and bonded" or "seven cleaners" and checks them against practice/shared/harbor-home-business-facts.txt. On the transfer run with Sam's post, a good Lesson 3 marks accounting claims, such as where Owner's Drawing is closed, and names the textbook's closing-entries chapter or the instructor as the place to check.
+- The same checks apply on both runs. If you had to change a line outside the "Me:" slot to make the second session work, that line is a bug; fix the keeper and note it on the Transfer run lines.
+
+Repair, if it runs two lessons at once or moves on before you've done the task:
+You gave me more than one lesson at a time. Go back to the first lesson I haven't finished, give me only its task, and wait for my answer before you say anything else.

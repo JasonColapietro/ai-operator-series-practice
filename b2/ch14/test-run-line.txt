@@ -1,0 +1,4 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 14, On a Schedule, Under Review.
+The test line for "Try this: A Monday that stops on stale input." Put it at the top of a new chat, then paste the task from "First step of every run" down, and attach the schedule file and facts.md. Leave out the task's first three lines (Set up, Name, When), so a test can't schedule anything. For your own task, change the date to a Monday your current file covers. New text written for this book, modeled on Book 1, chapter 12's test line. The text below the dashes matches the chapter word for word.
+----------------------------------------
+This is a test. Don't schedule anything. Do one run of the task below right now, as if today were Monday, February 8, 2027, at 6:30 a.m. Use the attached files in place of the folder.

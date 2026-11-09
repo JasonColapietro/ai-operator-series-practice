@@ -1,0 +1,7 @@
+PRACTICE FILE. The AI Operator Series, Book 3, Chapter 10. The prompt card for "Try this: Delegate one review". Type it in a session opened at the repo root.
+----------------------------------------
+Use the reviewer agent to review scripts/reconcile.py
+and the newest report against
+practice/harbor-home/answer-key.md. The reviewer must
+not edit anything. Bring back its numbered findings,
+its checks and its verdict exactly as it wrote them.

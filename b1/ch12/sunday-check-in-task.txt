@@ -1,0 +1,17 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 12.
+Sam Rivera and the bookkeeping course are invented. This is the practice pack's scheduled-task lesson (the transfer prompt), unchanged,
+with one line added after Check: the Limits line from the same lesson's main prompt.
+Copy everything below the line. Replace [PASTE YOUR COURSE PLAN HERE] with the whole of sam-course-plan.txt (or your own plan).
+Before you schedule it, put your own time and time zone in place of [6:00 P.M.] and [MY], brackets and all.
+---
+Set up a scheduled task for me.
+Name: Sunday study check-in
+When: every Sunday at [6:00 P.M.], [MY] time
+
+Job: each run, tell me what's due in my [BOOKKEEPING] course in the coming Monday to Sunday, and quiz me on that week's chapter.
+Material: only the course plan below. If an announcement in the plan changes a date, use the announcement.
+Shape: what's due with day and date, the class topics, then 3 practice questions, with answers at the very bottom.
+Check: if the plan doesn't cover the coming week, say so in one line and stop.
+Limits: read only. Don't change, move, rename or delete any file. Don't draft or send messages to anyone.
+
+[PASTE YOUR COURSE PLAN HERE]

@@ -1,0 +1,54 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 4.
+The answer key for "Try this: Answer Karen, twice": what Run B, the briefed reply to Karen Ashby, has to get right. Read it after the run. Wording will differ from run to run, so check the facts and the behavior, not the phrasing. Karen Ashby, Joan Mercer, Biscuit, Dana Ruiz and Harbor & Home Cleaning are invented.
+Built from the practice pack's answer key for this email. That key repeats the business facts. This one names the line to check against instead, because every price and policy has one home: practice/shared/harbor-home-business-facts.txt, printed in chapter 4 as "Practice file: Harbor & Home approved facts". The figures below are worked out from it.
+------------------------------------------------------------
+A RUN PASSES WHEN
+It meets every "Right" line below. Those are chapter 4's "It worked if" checks, with the facts line each one rests on. The "Also" lines are finer points; missing one doesn't fail the run, but fix it before the email goes out.
+
+Q1. Price, and the windows
+- Right: the deep clean's "from" price for homes up to 1,500 sq ft (the Deep clean line under SERVICES AND PRICES), with a [CHECK] for the price at Karen's size.
+- Also right: a figure worked out with the size step, if the reply says it borrowed that step from the Standard home clean line and flags it. The facts print the step on the standard clean line only, so they don't settle whether it applies to a deep clean, and they don't say how part of a step is counted. A flagged "from $285" (about 2,000 sq ft, one step) passes, and so does a flagged "from $310" (about 2,100 sq ft with the finished basement, counting each started step).
+- Wrong: $285 or $310 stated as the deep clean price with no flag. That's the usual slip.
+- Right: the travel fee. Scarborough is served by request, with a travel fee per visit (SERVICE AREA). Karen didn't ask, and the reply still has to mention it.
+- Right: the inside windows are part of the deep clean (the Deep clean line), and the outside ones get a plain no (exterior windows are under WHAT WE DO NOT DO).
+- Also: prices are "from" prices. A fixed total with no "from" or "starts at" says more than the facts do.
+
+Q2. The dog
+- Right: pet-safe products on request (SUPPLIES).
+- Also fine: anything else SUPPLIES says, such as the fragrance-free default.
+- Wrong: a product promise the facts don't make, such as "non-toxic" or "safe if she licks the floor".
+- Fur isn't pet waste, so the reply doesn't need the pet-waste line under WHAT WE DO NOT DO. Mentioning it with care is fine.
+
+Q3. The carpet
+- Right: a plain no. Carpet shampooing is under WHAT WE DO NOT DO.
+
+Q4. Cash
+- Right: a plain no, with the ways she can pay instead (HOW BOOKING WORKS).
+
+Q5. Every other week
+- Right: the recurring discount tied to regular standard cleans, as the Recurring discount line gives it. Karen's every-other-week plan qualifies.
+- Wrong: any discount on the first deep clean.
+- Also: if the reply quotes a regular price, check it against the Standard home clean line. About 2,000 sq ft: from $165, or from $148.50 after the discount. About 2,100 sq ft: from $190, or from $171.00 after the discount (the same caveat about part of a step).
+- Also: the travel fee applies to every visit, and the facts don't say whether the discount covers it. With the fee added in full, the regular visits come to from $163.50 (2,000 sq ft) or from $186.00 (2,100 sq ft). A combined figure should say the discount may not cover the fee. A reply that gives no combined figure is fine.
+
+Q6. The week of November 16
+- Right: no day or time offered. The facts hold no schedule, so the reply puts a [CHECK] on open dates that week. Repeating her request (mornings, any day but Wednesday) inside the [CHECK] is fine.
+
+Insurance
+- Right: yes, insured and bonded, with a certificate on request (the Insured and bonded line). It comes last, where Karen asked it.
+
+The whole reply
+- Right: every question answered, in Karen's order (price and windows, the dog, the carpet, cash, every other week, the week of November 16, then insurance).
+- Right: no exclamation points, and signed "Dana".
+- Also: under 220 words, one clear next step, and after the email the list of [CHECK] items, then each price quoted beside the facts line it came from.
+- Also: facts a reply may use correctly. Her house is under 2,500 sq ft, so no video walk-through is needed (HOW BOOKING WORKS); a reply that asks for one has misread that line. The cancellation rule, the guarantee, the office phone and the office hours are all fair to mention.
+
+------------------------------------------------------------
+COMMON SLIPS
+- Specific days or times offered for the week of November 16.
+- A yes to the outside windows or the carpet.
+- No travel fee.
+- The discount applied to the deep clean.
+- An exclamation point, or a sign-off other than "Dana".
+
+The repair for the first slip is printed in chapter 4, under "If it goes wrong".

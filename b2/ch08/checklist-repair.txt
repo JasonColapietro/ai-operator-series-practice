@@ -1,0 +1,4 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 8.
+The practice pack's repair request, copied unchanged below the line of dashes. Send it in the same chat when a revised date looks wrong, or before you accept any change. If nothing looks wrong yet, leave out the first sentence.
+----------------------------------------
+Some dates didn't update correctly. Before you change the checklist, show me a table with every task, its old date and its new date. Every date that depends on the loading day should move exactly 7 days later. Fixed dates don't move: the landlord notice (Friday, March 26), the Denver lease start (Thursday, April 15), the Columbus lease end (Friday, April 30), Tunde's first day (Monday, May 3), and any other date the notes give as a calendar date, such as "by mid March" or a task already done. The new curb-space task is due one week before loading. Then fix the checklist to match the table, and keep my ticks.

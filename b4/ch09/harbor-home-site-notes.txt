@@ -1,0 +1,25 @@
+PRACTICE FILE, FICTION. Book 4, Chapter 9. Harbor & Home's website and Dana's answers.
+Address: https://harborhome.example.com   Contact: hello@harborhome.example.com
+
+WHAT'S ON THE SITE
+Home page; one page per service (standard, deep, move-out / move-in, small office);
+the spring move-out package page; prices and service area; FAQ; a gallery of
+before-and-after photos taken by the crews in customers' homes, with each customer's
+written OK; a contact form. Rebuilt by Dana's web designer in February 2027.
+
+DANA'S ANSWERS (decided Monday, August 23, 2027)
+Read the pages, link to them, share prices with a link back ........ yes
+Reuse a before-and-after photo, quote more than a sentence,
+  or use the Harbor & Home name in an ad ............................ ask me (email above)
+Copy the service pages onto another site, or use the photos
+  to advertise another business ..................................... no
+AI search tools reading and linking the pages ........................ yes. "That's how people find a cleaner now."
+Training AI models on the text or photos ............................. no
+Google-Extended ...................................................... leave it open for now, so Gemini can
+                                                                       still use the pages in its answers.
+                                                                       Revisit at the quarterly audit.
+
+WHAT DANA WANTS FROM YOU
+1. A short terms page in plain words, dated.
+2. A robots.txt that matches the answers above. Start from Listing 9.2 in the chapter.
+3. A note of each bot's status, read back from the file, with the date.

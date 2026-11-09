@@ -1,0 +1,29 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 13. Sam Rivera, Dana Ruiz and Harbor & Home Cleaning are invented.
+Sam's rough list, typed on Monday, November 22, 2027, from chapter 1's table and every file the book added since. Unsorted, in the order Sam remembered them.
+Sort each line into Assets, Liabilities, Dependencies or Held for others. One line on this list is really two lines.
+
+- the deposit checker (scripts/reconcile.py, its tests and the Monday report)
+- harbor-ops plugin: harbor-reply and weekly-numbers skills, hooks, reviewer, eval cases
+- scan runner and the ten questions (scan/)
+- scan results about Harbor & Home (scan/results.jsonl, scan/raw/)
+- keepers.md, about-me.md, my voice.md
+- AGENTS.md, CLAUDE.md, decisions.md, incidents.md, handoffs/
+- ledger/: terms cards, labels.md, the harbor-checker ledger
+- receipts/: evidence room, public list (certificate, test log, Dana's reference email)
+- disclosure.md
+- LICENSE (all rights reserved, Harbor & Home's material excluded) and terms.md
+- contracts/clauses.md and the agreement Dana and I signed on August 23, 2027
+- the old section 4 ("All work product belongs to Harbor & Home"), in force December 2026 to August 23, 2027
+- identity.md and my one canonical page
+- exports/, backups.md, two encrypted drives (my desk, Harbor & Home's office)
+- Dana's bank and invoice exports, in the repo's history, every clone, every bundle and both backups
+- projects/harbor-home/: Dana's facts, prices, voice spec, Project instructions
+- Harbor & Home's voice policy and the consent records
+- the Sunday scan on the back-office desktop, signed in with my Claude and ChatGPT logins
+- my Claude Pro and ChatGPT Plus, paid by Harbor & Home
+- my email, the reset link for Claude, ChatGPT and GitHub
+- my password manager, which nobody else can open
+- Harbor & Home as a client (Dana's reference)
+- Dana's own Claude account: her Project, connectors and the Monday task
+
+No password, key, token or recovery code appears here, and none belongs in your own list.

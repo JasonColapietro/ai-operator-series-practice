@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION (see README.txt). Harbor & Home's terms page as the chapter prints it, Book 4, Chapter 9. One model answer.
+
+Using our content (updated August 23, 2027)
+
+Our words and photos belong to Harbor & Home Cleaning.
+
+Go ahead: link to any page, and share our prices or service
+list with a link back to us.
+
+Ask first: before you reuse a before-and-after photo, quote
+more than a sentence, or use our name in an ad. Email
+hello@harborhome.example.com.
+
+Please don't: copy our service pages onto another site, or use
+our photos to advertise another business.
+
+AI: search tools may read and link our pages so customers can
+find us. We don't agree to our text or photos being used to
+train AI models, and our robots.txt asks the training crawlers
+that honor it to stay out. Google ties Gemini training to the
+same setting that lets Gemini cite our pages, so for now we
+leave Google's open.

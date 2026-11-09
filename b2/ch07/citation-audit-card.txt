@@ -1,0 +1,37 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 7.
+The blank citation audit card. Save a copy as library/reviews/citation-audit- plus the date and .md (for example, citation-audit-2026-11-20.md) for each report you act on, and fill in one block per citation you open.
+Copy everything below the line of dashes. Words in capitals inside brackets are slots.
+----------------------------------------
+# Citation audit: [REPORT TOPIC]
+Date checked: [DATE]
+Report: [WHERE IT IS: THE CHAT'S NAME, OR A FILE IN library/]
+Not confirmed points in the report: [HOW MANY]
+Pages it could not open: [HOW MANY]
+
+1. The claim I'd act on first
+Claim:
+Link and tier given:
+Whose page it really is:
+Sentence found, copied exactly (or why not):
+Page date ("no date" if none):
+Mark (supported by the page / not on the page / page would not open):
+
+2. A claim with a number in it
+Claim:
+Link and tier given:
+Whose page it really is:
+Sentence found, copied exactly (or why not):
+Page date ("no date" if none):
+Mark (supported by the page / not on the page / page would not open):
+
+3. One claim from the middle, picked at random
+Claim:
+Link and tier given:
+Whose page it really is:
+Sentence found, copied exactly (or why not):
+Page date ("no date" if none):
+Mark (supported by the page / not on the page / page would not open):
+
+All three supported, at the tier given: [YES, OR NO AND WHICH]
+Repairs sent:
+What I'll use the report for:

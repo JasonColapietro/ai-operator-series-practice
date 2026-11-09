@@ -1,0 +1,19 @@
+FICTION. Practice file for Book 5, chapter 15. Every person, business and message here is invented. Four requests that reached Sam in one week, in the senders' words. Sort each one: inside an offer, waiting list, or no (with a referral if you have one).
+
+1. June Hollis, Hollis Bakery, Westbrook (by email, Tuesday):
+   "Dana said you're the AI person. Could you run our social media with AI? Instagram mostly. Three posts a week, maybe some videos. We'd pay monthly."
+
+2. Ray Thibodeau, Thibodeau Home Cleaning, Windham, 6 staff (web form, Wednesday, 8:40 p.m.):
+   "Saw your note about weekend quotes. We lose Saturday leads all spring. What would it take to try it?"
+
+3. A web studio owner in Portland, two people (LinkedIn message, Thursday):
+   "Marcus Lee says you run the AI visibility checks his clients get under his studio's name. Could we resell them too?"
+
+4. Dana Ruiz, Harbor & Home (text, Friday):
+   "Could the agent also answer the phone after hours? Not now. Maybe in the fall."
+
+ANSWER KEY (read after you sort)
+1. Outside both offers. Say no, kindly, and say why in one line. If a request like it arrives three times, note it in offers/later.md as evidence. A referral is welcome if you know someone who does social media. Offering the free check instead is fine too; a free check places a business on the list for next month if this month's ten are used.
+2. Inside the weekend quote desk. If the cap is full, the waiting list in pipeline.md, with the date and the free check offered now if this month has room.
+3. Inside the white-label visibility check. Waiting list until a place opens and the next-ninety-days decision says whether the white-label offer continues. Saying so plainly is the right answer.
+4. Dana's request is the next layer of her stack (chapter 14). Write it in her client folder as an expansion idea with her words and the season. It is not a new client, and it doesn't take a place until a scope is agreed.

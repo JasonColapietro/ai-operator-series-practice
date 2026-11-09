@@ -1,0 +1,55 @@
+PRACTICE FILE, FICTION. Book 5, Chapter 8. Five prospects from Sam Rivera's market list, with the capture behind each message.
+Every business, owner, question and answer below is invented. Engine 1, Engine 2 and Engine 3 stand in for real engines; Competitor A and Competitor B stand in for the businesses an engine named. Each prospect has its own Competitor A and B.
+All captures: Tuesday, May 2, 2028, Eastern time. Signed out where the engine allows it, otherwise a private or temporary chat; no memory; location not shared; the town written into the question. One run per question per engine, so each capture is one reading, kept as evidence for one message.
+
+1. PET GROOMER, WESTBROOK
+Owner: Nadia (first name only on her site). Two part-time groomers.
+Market-list gap (as Sam noted it on the market list): nobody answers booking requests that come in through the site after 6 p.m.
+Buyer question (from the shop's own reviews: "she was so patient with our nervous rescue"):
+  Who's a good dog groomer in Westbrook for a nervous dog?
+Engine 1, 9:12 a.m. Status: answered.
+  "Two shops come up often: 1. Competitor A: calm room, gentle handling. 2. Competitor B: short first visits for shy dogs. Call ahead to ask about anxious dogs." Sources shown: 3 sites (a review roundup, Competitor A's services page, a local forum thread).
+Engine 2, 9:20 a.m. Status: answered.
+  Named Competitor B first and Competitor A second, with a sentence on each. No sources shown.
+Nadia's shop: not named in either answer.
+Files: scans/groomer-westbrook/2028-05-02/ holds 2028-05-02_0912ET_engine1_groomer.png and .txt, and 2028-05-02_0920ET_engine2_groomer.png and .txt.
+
+2. LANDSCAPING CREW, FALMOUTH
+Owner: Curt. Crew of four, April to November.
+Market-list gap: estimates sent in March and never followed up.
+Buyer question (from a public review of the crew: "did our spring cleanup and mulch in one day"):
+  Who does spring cleanup and mulching in Falmouth, Maine?
+Engine 1, 9:41 a.m. Status: answered. Named Competitor A and Competitor B. Sources shown: 2 sites.
+Engine 2, 9:47 a.m. Status: answered. Named Competitor A, Competitor B and a national lawn-care chain. No sources shown.
+Curt's crew: not named in either answer.
+Second engine for follow-up 1 (run Tuesday, May 9, 2028, 8:55 a.m.): Engine 3, answered, named Competitor A only.
+Worst gap found for follow-up 2: the crew's services page says "seasonal property services" and a photo caption; the words "spring cleanup" and "Falmouth" appear nowhere in its text.
+
+3. TWO-CHAIR SALON, SOUTH PORTLAND
+Owner: Joy. Two chairs, appointment only.
+Market-list gap: no-show texts sent by hand, when someone remembers.
+Buyer question (from the salon's public reviews: "finally someone in South Portland who knows curly hair"):
+  Who cuts curly hair well in South Portland?
+Engine 1, 10:05 a.m. Status: answered. Named Competitor A and Competitor B.
+Engine 2, 10:11 a.m. Status: answered. Named Competitor A and Competitor B, in the other order.
+Joy's salon: not named in either answer.
+
+4. BOOKKEEPING OFFICE, PORTLAND
+Owner: Martin. Two bookkeepers.
+Market-list gap: the same five questions answered by phone every week ("Do you do payroll?" "Do you work with contractors?").
+Buyer question (from the office's own FAQ page: "Yes, we work with contractors and trades"):
+  Who does monthly bookkeeping for a small contractor in Portland, Maine?
+Engine 1, 10:30 a.m. Status: answered. Named Competitor A and Competitor B, and suggested a national online bookkeeping service.
+Engine 2, 10:36 a.m. Status: answered. Named Competitor B and Competitor A.
+Martin's office: not named in either answer.
+
+5. HOME INSPECTOR, CAPE ELIZABETH
+Owner: Theo. Works alone.
+Market-list gap: inspection requests from realtors at night wait until morning.
+Buyer question (from a public post on a local community forum asking for an inspector "this week"):
+  Who's a home inspector near Cape Elizabeth who can come this week?
+Engine 1, 10:52 a.m. Status: answered. Named Competitor A and Competitor B.
+Engine 2, 10:58 a.m. Status: answered. Named Competitor A and Competitor B.
+Theo: not named in either answer.
+
+A trap worth keeping: Engine 2's answer for prospect 2 also names a national lawn-care chain, and Engine 1's answer for prospect 4 also suggests a national online service. In both, the two engines agreed on Competitor A and Competitor B, so a correct message may name just those two, or all three. It must not add a word about any of them.

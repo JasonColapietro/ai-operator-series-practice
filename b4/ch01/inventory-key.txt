@@ -1,0 +1,29 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 1. What counts as right on the practice route (sams-rough-notes.txt under the prompt card). Sam and Harbor & Home are invented.
+
+THE TABLE THE AI GIVES BACK
+Right if:
+- Every line of Sam's notes has a row. "library repo on the laptop" may be its own row or folded into the GitHub row; both count.
+- No row names a tool Sam didn't list. A row for "Google account", "Slack" or "Microsoft 365" is an added guess: delete it and send the Check line again.
+- The codex row and the password manager row say "Not stated" under what each holds, because Sam's notes don't say. A row that says "Not stated" anywhere else Sam's notes are thin also counts.
+- Copy or access, hours and fix are filled only where Sam wrote them (hours on most rows, nothing for copy or access). Blank cells are right. A model that filled copy or access on its own has guessed; clear those cells and fill them yourself in step 4.
+- The GITHUB_MCP_PAT row names the token and says where its value lives. If the model flags it as a key, that is the Check line working; nothing was leaked, because the notes hold the name only.
+
+THE TWO LINES SAM'S FIRST LIST MISSED
+Sam's first list had six lines (ChatGPT, Claude, Dana's Claude account, Claude Code, Codex, the library repo). The question "what would stop running if I left?" added two. The last four (email, domain, card, password manager) came from step 2, the accounts the tools hang on.
+Any wording counts, as long as the table has:
+- the night jobs (the reconcile and the scan on the back-office desktop, run as Sam), and
+- the GitHub account itself, as something more than "the repo on the laptop".
+
+COPY OR ACCESS (step 4, done by you)
+Accepted answers, row by row:
+- ChatGPT: access. "Both" counts if you note that the keepers and the Book 1 export are already copied to library/.
+- Claude (Sam's): both, or two rows (copy for the Project files and the skill, access for chats, memory and artifacts).
+- Claude (Dana's): access, and marked as Dana's.
+- Claude Code: both, or copy with a note that transcripts expire.
+- Codex: copy (files on the laptop). "Both" counts if you count the sign-in.
+- GitHub: both, or two rows (the repo is a copy; the account, settings and token are access).
+- Night jobs: both, or access.
+- Email, domain, card, password manager: access.
+
+THE CIRCLED LINE
+Sam circles the GitHub account. Any circled line counts if it carries one fix and a date no more than a month out. The night jobs are the most common other answer, and a fair one.

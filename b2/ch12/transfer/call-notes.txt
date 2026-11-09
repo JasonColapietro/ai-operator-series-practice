@@ -1,0 +1,42 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 12.
+For the transfer run of Keeper #15. Marcus Lee's call notes after a discovery call with a bakery owner, copied unchanged from the practice pack (wf03-follow-up/wf03-input-call-notes.txt) below the line of dashes. Everyone named is invented, and the example.com addresses reach no one.
+----------------------------------------
+DISCOVERY CALL NOTES: Hollis Street Bakery
+Thu Oct 15, 2026, 2:00 to 2:40 p.m. (ran 10 min over), video call
+Lucia Delgado, owner. lucia@hollisstreetbakery.example.com
+(Marcus's notes, typed fast during the call)
+
+Background
+- Bakery 11 yrs. Bread, pastries, pies, celebration cakes. Small cafe counter, 3 tables. Pickup only, no delivery.
+- Current site set up in 2018 by a web company that charges her every time she wants a change, so she stopped asking. Menu on the site is "about two years old," still lists the cinnamon twist they stopped making.
+- Gets lots of calls asking "are you open?" and "do you have X today?"
+
+What she wants
+- Site she can update herself (hours, menu, specials). Showed her the editor on the Coastline Kayak site, she liked it.
+- ONLINE PREORDERS for holiday pies and cakes. This is the big one. Last Thanksgiving and Christmas they took orders by phone and on paper. Lost two orders, double-booked one. "Never again."
+- Pages: Home, Menu, Pies & Cakes (orders), About, Visit Us (hours/map). Maybe Catering later (not now).
+- Photos? "Some. Phone photos." Told her real photos of her pies beat stock.
+
+Timing (told her straight)
+- I'm booked through Nov 27. Next start date Mon Nov 30.
+- 5 pages + online store = 6 to 8 wks + 2 wks for the store = 8 to 10 wks. Nov 30 start = launch Jan 25 to Feb 8, 2027. Only if deposit + text + photos are in on Nov 30.
+- So this Thanksgiving and Christmas are out. She was disappointed but said "Easter is our next big one after Christmas, and that's huge for us." Easter 2027 = Sun Mar 28. Comfortable.
+
+Budget / decision
+- Budget "around 4k, could go to 5 if it's worth it."
+- Her brother Teo is co-owner. He has to sign off on anything over $2,000. He was not on the call. "He's careful with money, he'll want to see examples."
+- Burned before: the web company was slow and expensive for every change. Told her about the care plan ($85/mo, 12-month min). She asked if she could skip it if she learns the editor. Yes, it's optional.
+
+Questions she asked
+- Can she update the menu herself? YES (1-hr training call included).
+- Do I do photography? No. Her photos, or stock.
+- Do I have examples of food/bakery sites I've built? Not a bakery. Said I'd send two links that show the same pieces:
+    Coastline Kayak Tours (customers pick a tour date and pay online, like picking a pickup day): https://coastlinekayak.example.com
+    Alder Street Dental (pages their office staff update themselves: hours, notices, specials-style updates): https://alderstreetdental.example.com
+  -> need to actually send these. Teo will want to see them.
+- "Can customers choose a pickup day? We don't deliver." Said I'd check and get back to her.
+    CHECKED Oct 16: yes. The store setup includes a delivery-date picker, and it can be set up as a pickup-date picker instead. Haven't told her yet.
+
+Next steps
+- Me: send proposal by Mon Oct 19. (sent Oct 19)
+- Her: talk to Teo, get back to me "next week."

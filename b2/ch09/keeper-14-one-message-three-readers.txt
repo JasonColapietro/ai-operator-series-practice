@@ -1,0 +1,26 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 9.
+Keeper #14, ready to copy into library/keepers.md below Keeper #13 (or below your last keeper if you started with Book 2). It is the practice pack's one-message-three-channels prompt with its bracketed values turned into slots, so it works for any announcement. It names no real or fictional person. Practice-pack prompt text, not Jason's words.
+Copy everything from the "## Keeper #14" line down, then put today's date on the "Saved:" line. Put anything you haven't decided under a heading in your notes that says NOT DECIDED, so the Material line has something to point at.
+----------------------------------------
+## Keeper #14: One message, three readers
+Saved: [TODAY'S DATE]
+Use it for: one piece of news that goes out by email, as a post and on a printed sign
+
+I run [MY BUSINESS, IN A FEW WORDS]. We're launching [WHAT'S NEW], and I need to announce it in three places.
+
+Job: Write three drafts, one for each channel below. Each draft must work for its own reader.
+1. EMAIL to [WHO GETS THE EMAIL]. [WHAT THOSE READERS KNOW ABOUT US.] 120 to 180 words, plus a subject line. Sign it "[MY NAME]".
+2. SOCIAL POST for [WHERE THE POST GOES]. [HOW THOSE READERS READ.] 40 to 70 words, one clear next step, no more than two hashtags.
+3. FLYER TEXT for [WHERE THE FLYER HANGS]. [WHO READS IT, AND WHEN.] A headline of 8 words or fewer, then no more than four short lines, then our phone number and email.
+
+Material: Use only the facts in my notes below. Do not add prices, discounts, dates, services or promises that aren't in the notes. Some items in my notes are marked as not decided. Leave those out completely.
+
+Shape: Make the drafts truly different. Give each its own opening line, and lead with what that reader cares about most. Don't reuse a sentence from one draft in another. Tone: [TONE]
+
+Check: After the drafts, add a section called "Check before posting." List any fact you were unsure about, anything in my notes that conflicts, and any question a reader will likely ask that my notes don't answer.
+
+My notes:
+[NOTES]
+
+Repair that fixed it:
+Transfer run:

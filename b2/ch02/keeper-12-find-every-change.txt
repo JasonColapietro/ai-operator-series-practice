@@ -1,0 +1,32 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 2.
+Keeper #12, ready to copy into library/keepers.md below Keeper #11. It is the practice pack's compare-two-versions prompt with Marcus's details turned into slots, including who sent what and whom the changes affect, so it works on any two versions of a document. It names no real or fictional person.
+Copy everything from the "## Keeper #12" line down, then put today's date on the "Saved:" line.
+Transfer run: use pto-policy-old.txt and pto-policy-new.txt in this folder, with Priya's values (fiction): WHO I AM = an operations coordinator at a physical therapy practice; WHAT HAPPENED = Our PTO policy was rewritten; WHAT I'LL DO WITH THE LIST = explain them to staff before they ask; VERSION 1 FILE = pto-policy-old.txt; THE OLDER ONE = the current policy; VERSION 2 FILE = pto-policy-new.txt; THE NEWER ONE = the new policy; WHO IT AFFECTS = staff.
+For Marcus's case the values are: a freelance web designer; I sent a client a contract, and they sent it back with their own edits; decide what to accept and what to discuss; wf07-input-contract-v1.txt; the version I sent; wf07-input-contract-v2.txt; the version they returned; me.
+----------------------------------------
+## Keeper #12: Find every change
+Saved: [TODAY'S DATE]
+Use it for: two versions of a document whose changes nobody marked
+
+I'm [WHO I AM]. [WHAT HAPPENED]. The changes are not marked. Compare the two attached files and tell me every difference, so I can [WHAT I'LL DO WITH THE LIST].
+
+Files:
+- [VERSION 1 FILE] is [THE OLDER ONE] (Version 1).
+- [VERSION 2 FILE] is [THE NEWER ONE] (Version 2).
+Use only these two files.
+
+Work section by section, from the first section to the last. Compare every number, date, dollar amount, percentage, deadline and name. Also look for sentences that were added or deleted.
+
+Give me three things:
+1. A table of every change with these columns: Section | Version 1 says | Version 2 says | What this means for [WHO IT AFFECTS]. Quote the exact words from each version, kept short. Put the changes that matter most to [WHO IT AFFECTS] first.
+2. A short list of cosmetic changes that do not change the meaning, such as reworded sentences or renumbered sections.
+3. A list of the sections that did not change.
+
+Rules:
+- If a section was only moved or renumbered, say so. Do not report it as new or deleted.
+- If you are not sure whether a change matters, list it anyway and say why you are unsure.
+- Explain in plain English. Do not give legal advice.
+- Do not skip small changes. A single changed number counts.
+
+Repair that fixed it:
+Transfer run:

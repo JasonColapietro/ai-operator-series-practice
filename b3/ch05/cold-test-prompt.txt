@@ -1,0 +1,8 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 5. The prompt card for "Try this: One file, two agents, one cold test", word for word below this line.
+
+Add this week's bank and invoice files from
+practice/harbor-home/ to the checker's tests, run the
+checker on them, and run the tests. Follow AGENTS.md.
+Do not ask me anything that file already answers.
+When done, list the AGENTS.md headings whose rules
+you followed.

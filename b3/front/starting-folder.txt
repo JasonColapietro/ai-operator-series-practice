@@ -1,0 +1,38 @@
+PRACTICE FILE. The AI Operator Series, Book 3, Before This Book.
+The pieces of library/ that Book 3 leans on. Tick each one your folder holds by typing an x between its brackets, then save this file. Where yours carry your own names (a Project named for your business, a brief named for your own job), go by what's inside. Any practice-cast name you meet here is fiction. Never write a password or a code on this sheet.
+----------------------------------------
+LIBRARY/ AS BOOK 3 FINDS IT
+
+[ ] library/, on a computer or drive you control          Book 1, chapter 1
+[ ]   keepers.md, with Keeper #1 (version 2)               Book 2, chapter 1
+        Book 3 uses it first in: chapter 7 (it becomes a skill)
+[ ]   about-me.md                                          Book 1, chapter 9 (or Book 2, Before This Book)
+[ ]   projects/harbor-home/ with instructions.md,
+        facts.md, brief.md, voice.md and canary.md         Book 2, chapters 4 and 5
+        Book 3 uses it first in: chapter 1 (the agent reads the folder)
+        and chapter 5 (instructions.md seeds the rules file)
+[ ]   skills/weekly-numbers/ with SKILL.md and columns.md  Book 2, chapter 11
+        Book 3 uses it first in: chapter 7 (the folder moves to
+        .agents/skills/weekly-numbers/, same name)
+[ ]   everything-else.md, with "## First job for an agent"
+        above "## Ranked"                                  Book 2, chapters 12 and 15
+        Book 3 uses it first in: chapter 1
+[ ]   briefs/template.md                                   Book 2, chapter 13
+[ ]   briefs/[YOUR JOB].md, if you wrote it at the end
+        of Book 2 (reconcile.md on the practice route)     Book 2, Top of the Flight
+        If you didn't, Book 3, chapter 1 has you write it.
+[ ]   exports/ (your Claude export)                        Book 2, chapters 6 and 15
+        Private. Book 3, chapter 2 keeps it out of the repository.
+
+STARTING HERE?
+Copy practice/b3/front/starter-library/ somewhere you control and
+rename the copy "library". It holds every line above except the
+export and the filled brief.
+
+THE FIRST JOB, ONE LAST LOOK
+Read the block above "## Ranked" and answer three questions in a line each.
+1. Files: what does the job read, and what arrives new each time?
+2. Check: what one test would a right result pass and a wrong one fail?
+3. Rules: what part of the method do you expect to change?
+If any answer is "I don't know", write [CHECK: what is missing] beside it.
+Chapter 1 turns the block into a seven-field brief.

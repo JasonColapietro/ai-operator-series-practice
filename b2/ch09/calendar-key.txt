@@ -1,0 +1,35 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 9.
+What a calendar from content-brief.txt has to get right. Written for this book; it matches the practice pack's answer key, and its dates and minute totals were checked with a short Python script. Post ideas and wording will differ from run to run, so check the dates, the totals and the rules. The facts a post may use live in content-brief.txt, under WHAT I WANT PEOPLE TO KNOW, and this key doesn't repeat them. Everyone named is invented.
+----------------------------------------
+DATES (Tuesdays and Thursdays, eight posts)
+Week 1, week of Monday, February 22, 2027: Tuesday, February 23 and Thursday, February 25
+Week 2, week of Monday, March 1: Tuesday, March 2 and Thursday, March 4
+Week 3, week of Monday, March 8: Tuesday, March 9 and Thursday, March 11
+Week 4, week of Monday, March 15: Tuesday, March 16 and Thursday, March 18
+The package launches Monday, March 1, a day Dana doesn't post. Week 1 posts may say it's coming March 1 and must not invite bookings. The first post that can is Tuesday, March 2.
+
+MINUTES (both posts plus 5 for scheduling; the budget is 60)
+existing photo + existing photo: 20 + 20 + 5 = 45, fits
+existing photo + meet the team: 20 + 30 + 5 = 55, fits
+existing photo + new photo: 20 + 35 + 5 = 60, fits
+meet the team + meet the team: 30 + 30 + 5 = 65, over by 5
+meet the team + new photo: 30 + 35 + 5 = 70, over by 10
+new photo + new photo: 35 + 35 + 5 = 75, over by 15
+So every week needs at least one post built from a photo Dana already has, and no week can hold more than one post that needs new work.
+
+RULES
+- Every week shows its total, and every total is 45, 55 or 60.
+- No video post, and no giveaway or contest.
+- Meet-the-team posts feature only Sarah or Miguel, the two who said yes.
+- Mrs. Patel's review is left out, or flagged as needing her permission first. No client names anywhere.
+- A "worst fridge" post, if there is one, uses photo 5 or a generic photo, never a client's fridge.
+- Photo 7, if used, is flagged: Dev left in January and is in it.
+- Photos 4 and 5 are allowed, because the landlord gave a written OK. A plan that also asks whether the landlord was the client who booked passes.
+- No price or offer except the ones in the brief.
+
+LEFT OUT (a good result names most of these, each with a reason)
+- Video walkthrough: no video, and one short video took three hours.
+- Spring giveaway: the brief rules out contests.
+- Mrs. Patel's review: it needs her permission first. Flagging it instead of leaving it out also passes.
+- Meet-the-team posts for the other cleaners: they haven't agreed.
+- The 48-hour cancellation reminder: optional. In or out, both pass.

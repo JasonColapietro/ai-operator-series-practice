@@ -1,0 +1,9 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 8. Paste the section below into AGENTS.md, under your other headings. It matches the chapter's listing word for word below this header.
+----------------------------------------------------------------
+## Hooks (why each one exists)
+- hooks/protect_facts.py blocks any edit to projects/harbor-home/facts.md.
+  Dana owns those prices. Write proposed changes to reviews/ instead.
+- hooks/format_py.py tidies a Python file after every edit. It runs on
+  purpose; don't undo it.
+- hooks/log_commit.py adds each commit to the end of decisions.md. Commit
+  that line with the next change.

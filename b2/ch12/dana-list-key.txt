@@ -1,0 +1,46 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 12.
+What a good ranking of Dana's list looks like, for "Try this: Your everything-else list". Written for this book. Your wording will differ; the order is what to check. Harbor & Home Cleaning and Dana are invented.
+----------------------------------------
+TOTALS
+Twelve tasks, 1,020 minutes, 17 hours. Hours by task: quote replies 3, phone questions 2.5, invoices and payment reminders 2, follow-ups on quiet quotes 2, rescheduling 1.5, supplier invoices 1.25, Monday schedule check 1, posts 1, crew timesheets 1, filing job notes 0.75, review requests 0.75, Monday numbers 0.25. The five lines marked * in the notes (5.5 hours of cleaning, a walk-through, an interview and a hard call) are Dana's own work and stay off the list.
+
+DANA'S MARKS
+P = someone besides me reads or hears it. $ = it states or decides a price, charge or payment. U = once it's out, I can't take it back for free.
+Quote replies            P $ U
+Phone questions          P $ U
+Invoices and reminders   P $ U
+Follow-ups               P   U   (no $: Dana's rule keeps every price out of a follow-up)
+Rescheduling             P $ U   (the late-cancellation fee and the lockout charge)
+Supplier invoices          $     (a check before she pays; she can redo it)
+Monday schedule check            (her own list of problems; the fixes are her work)
+Posts                    P       (a post can come down)
+Crew timesheets          P $ U   (the crews see their pay)
+Filing job notes
+Review requests          P   U
+Monday numbers
+
+THE RANKING
+1. Follow-ups on quiet quotes · 2 h · P U  (top three)
+2. Supplier invoices · 1.25 h · $  (top three)
+3. Monday schedule check · 1 h · no marks  (top three)
+4. Posts · 1 h · P
+5. Filing job notes · 0.75 h · no marks
+6. Review requests · 0.75 h · P U
+7. Monday numbers · 0.25 h · no marks
+Split first (all three marks): quote replies, phone questions, invoices and payment reminders, rescheduling, crew timesheets. Ten of the seventeen hours sit here.
+
+ALSO CORRECT
+- Posts marked U as well: the schedule check and posts still finish third and fourth, because the check has fewer marks.
+- The Monday schedule check marked P, because the crews hear about the fixes: it ties with posts at one hour and one mark, so either can be third.
+- Crew timesheets without P, if your payroll service is the only one who sees them: it ranks fifth, after posts, and the top three don't change.
+- Supplier invoices marked U: it stays second, on hours.
+
+A COMMON MISREADING
+Money marked on follow-ups puts them under Split first, and the top three become supplier invoices, the Monday schedule check and posts. Read Dana's Tuesday note again, or her line in dana-list.txt: her follow-ups carry no price, no discount and no date, and that rule is what keeps the $ off. Mark the task as Dana defines it.
+
+WHAT EACH "SPLIT FIRST" TASK COULD SHED
+Quote replies: the draft comes off (the Project from chapter 4 already writes it); the price check and the send stay with Dana.
+Phone questions: the written answers come off (the FAQ from chapter 9); the call stays with Dana.
+Invoices and payment reminders: checking each one against the job record comes off; sending, and deciding who still owes, stay with Dana.
+Rescheduling: a draft of the message comes off; the fee decision stays with Dana.
+Crew timesheets: adding up the hours could come off; what goes to payroll stays with Dana.

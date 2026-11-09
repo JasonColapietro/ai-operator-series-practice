@@ -1,0 +1,22 @@
+PRACTICE FILE. The AI Operator Series, Book 5, Chapter 3. The buyer conversation script, the same card the chapter prints.
+------------------------------------------------------------
+BUYER CONVERSATION. 20 minutes. Do not pitch.
+Open: "I'm testing an idea, and I won't sell you anything today.
+I'd like to hear how this works in your business now."
+
+1. Tell me about the last time a customer's question cost you
+   a job or an evening. What happened?
+2. Where do your answers and prices live today, and who keeps
+   them up to date?
+   [Show the one finished sample. Stay quiet for a minute.]
+3. In your own words, what would this give you, and what would
+   you have to hand over?
+4. Which part would you use? Which would you skip? What's unclear?
+5. If you bought something like this, who would say yes, and who
+   would supply the facts?
+6. Would looking at a specific scope for your business be a
+   useful next step?
+7. What would you need to know before we talk about price?
+
+Close: thank them, say when you'll follow up, and type your notes
+before the next call.

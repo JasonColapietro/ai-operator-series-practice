@@ -1,0 +1,37 @@
+PRACTICE FILE, FICTION. Book 4, Chapter 11. What the handle audit and the markup step accept.
+Read with harbor-home-profiles.txt. Every name and address here is invented.
+
+THE AUDIT (Try this, steps 1 and 2)
+Accept any table that flags these three, in any order and any wording:
+  - Invoice template: "Harbor and Home Cleaning Co." does not match. Fix: use the chosen name and add the website.
+  - Review-site listing: "Harbor Home Cleaners" does not match and has no link. Fix: claim the listing or ask the
+    site to correct the name, and fill the Website field.
+  - Dana's networking profile: right person, but it never names the business or links the About page.
+    Fix: name the business in the headline or job and link the About page.
+Also accept:
+  - Flagging the website footer as "none, this is the name to match".
+  - Marking the social page and the directory as fine. Both match and link back.
+  - Treating the invoice as a "place the name appears" rather than a profile. It isn't a profile, and it still counts,
+    because customers read it and search for the name on it.
+  - Choosing "Harbor & Home Cleaning" as the one name. A reader who argues for another spelling is fine, as long as
+    every row is then measured against that one spelling.
+Don't accept: a table that passes the review listing because "it's obviously them". A stranger, or a machine,
+can't tell that from the page.
+
+THE MARKUP (Try this, step 4)
+Accept any JSON-LD that passes the Schema Markup Validator with no errors and:
+  - names the business "Harbor & Home Cleaning" and Dana as "Dana Ruiz";
+  - lists the social page and the directory under the business's sameAs, and, if the reader also wrote a Person block
+    for Dana, her networking profile under hers. An Organization-only block that leaves Dana's profile out is fine.
+    Don't accept Dana's profile in the business's sameAs: sameAs means "this same thing", and Dana isn't the business;
+  - leaves the review listing OUT of sameAs until it shows the chosen name;
+  - claims nothing the About page doesn't show. That includes the profile links: the About page links none today,
+    so a "Not on the page" list that names them is correct, and the fix is to add them to the page (step 3).
+    The 4.8 rating and the 52 reviews are on the review site,
+    not on the About page, so any aggregateRating or review property is wrong here.
+harbor-home-about-markup.html is one version that passes (validated 2026-11-07: 0 errors, 0 warnings). An Organization-only
+block, or a Person block with worksFor, also passes.
+
+THE THREE FIXES (Try this, step 5)
+Accept any three. On the practice files, two can be done the same day (the invoice template and Dana's profile);
+the review listing waits on the site, so "requested, waiting" counts as done for the exercise.

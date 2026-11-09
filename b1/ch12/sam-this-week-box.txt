@@ -1,0 +1,9 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 12.
+Sam Rivera, the course and every date below are invented. Written for this chapter; the dates match sam-course-plan.txt.
+This is the "This week" box Sam copied from the course page on Sunday, November 8, and pasted into the first version of the task.
+Use it as the OLD input in Try this: One bounded task. Paste everything below the line.
+---
+THIS WEEK: Week 11, Mon Nov 9 to Sun Nov 15
+Ch 8: The adjusted trial balance and financial statements
+Tue Nov 10: Quiz 2 on chapters 5, 6 and 7, start of class, in person
+Sun Nov 15: Discussion post 8, 11:59 p.m. online

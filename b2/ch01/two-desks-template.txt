@@ -1,0 +1,34 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 1.
+A blank entry for library/reviews/two-desks.md, then the same entry with the five checks for the practice route already written. Copy the blank entry once for each keeper you compare, and write its checks before you run anything. Harbor & Home Cleaning, Dana Ruiz and Maureen Fortin are invented.
+----------------------------------------
+# Two desks
+
+## [DATE] · Keeper #[N]: [TITLE]
+Case: [WHOSE FACTS, AND WHAT JOB]
+Checks, written before the runs:
+1. [SOMETHING A RIGHT ANSWER MUST GET, FROM YOUR FACTS]
+2. [ANOTHER ONE]
+3. [ANOTHER ONE]
+ChatGPT ([PLAN], [MODEL OR THINKING LEVEL]): [PASS OR MISS FOR EACH NUMBER]
+Claude ([PLAN], [MODEL AND EFFORT]): [PASS OR MISS FOR EACH NUMBER]
+Rerun, only where the two differed: [WHAT EACH SIDE DID THE SECOND TIME]
+The difference that mattered: [ONE LINE]
+This keeper's desk for now: [CLAUDE, CHATGPT OR EITHER], because [ONE REASON]
+
+----------------------------------------
+Practice route, checks already written:
+
+## [DATE] · Keeper #1: Reply from approved facts
+Case: Harbor & Home's facts and Maureen Fortin's email
+Checks, written before the runs:
+1. The deep clean appears as a "from" price for up to 1,500 sq ft, with a [CHECK] or a flagged estimate for about 1,900 sq ft. No unflagged price for her size.
+2. The Yarmouth travel fee is in the reply, though she didn't ask about it.
+3. A plain no to the outside of the porch windows and to the 12-foot light fixture.
+4. No discount offered on once-a-month visits, and none on the deep clean.
+5. No date confirmed. The week of December 14 is a [CHECK].
+Also glance at: under 220 words, signed "Dana", no exclamation points, plain text in the chat.
+ChatGPT ([PLAN], [MODEL OR THINKING LEVEL]): [PASS OR MISS FOR EACH NUMBER]
+Claude ([PLAN], [MODEL AND EFFORT]): [PASS OR MISS FOR EACH NUMBER]
+Rerun, only where the two differed: [WHAT EACH SIDE DID THE SECOND TIME]
+The difference that mattered: [ONE LINE]
+This keeper's desk for now: [CLAUDE, CHATGPT OR EITHER], because [ONE REASON]

@@ -1,0 +1,40 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 9.
+The key for "Try this: Tell it once": what the Before and After answers to the two practice test prompts should show. Read it after both runs. Wording will differ from run to run, so check the rules, not the phrasing. Dana Ruiz, Joan Mercer, Karen Ashby, Sam Rivera and the quiz are invented.
+Written for this book. The practice pack has no key for this exercise. The rules come from dana-about-me.txt and sam-about-me.txt, which stay their home.
+------------------------------------------------------------
+A RUN PASSES WHEN
+The After answer follows at least two rules from the file that the test prompt didn't restate, or does exactly what the file's "Ask me before guessing" line tells it to.
+
+------------------------------------------------------------
+FOR DANA (with dana-about-me.txt)
+Write a short thank-you note to Joan Mercer. She had us clean her home last spring and recommended us to her neighbor, Karen Ashby.
+
+Before (Temporary Chat, personalization off)
+- An exclamation point, or a sign-off from "The Harbor & Home Team" or anyone but Dana, is the slip chapter 9 opens with. It's the one the practice files' answer keys keep warning about (chapter 4's karen-answer-key.txt checks for both). Here it's expected: nothing in the chat told the model otherwise.
+- A Before answer that gets some of Dana's rules right by chance is fine too. Note which ones, so you don't credit them to the instructions.
+
+After (new normal chat, instructions saved)
+Look for these. Two or more is a pass.
+- No exclamation points. ("Words I never use")
+- Signed Dana. ("How I sound")
+- Opens with "Hi" and Joan's name. ("How I sound")
+- None of "reach out," "don't hesitate to" or "I hope this email finds you well." ("Words I never use")
+- A plain, short email with no headings or bullet points. ("Formats I like")
+- Worth a second look: any promise to Joan, such as a discount or a free clean. "Ask me before guessing" says to ask Dana first or put a [CHECK] there. If the note makes a promise anyway, that's the line to make more specific.
+
+------------------------------------------------------------
+FOR SAM (with sam-about-me.txt)
+When should I study for my quiz on Tuesday?
+
+Before (Temporary Chat, personalization off)
+- A plan with evening study, a long sitting or no question about shifts is normal here. The chat knows nothing about Sam.
+
+After (new normal chat, instructions saved)
+- Followed the file exactly: it asks for this week's shifts and plans nothing yet. ("Ask me before guessing")
+- Still a pass: it plans anyway, but every study block is in the morning, two hours or less, with nothing after 10 p.m. ("How I work best"), or the plan is laid out as a table ("Formats I like"). It skipped the last heading, though, so make "Ask me before guessing" more specific and test again.
+
+------------------------------------------------------------
+IF NOTHING CHANGED
+Check that the instructions saved, that customization is on, and that the After run was in a normal chat. A Temporary Chat with personalization left off ignores your instructions, which is why the Before run uses one.
+
+Before you finish, delete Dana's or Sam's text from your settings, or every chat you open will take you for them.

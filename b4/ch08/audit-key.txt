@@ -1,0 +1,24 @@
+PRACTICE FILE, FICTION (see README.txt). What a good audit finds, for "Try this: Map where your data lives", Book 4, Chapter 8.
+Read it after your own run. Every name in the series practice files is invented; on the practice route you treat them as real on purpose.
+
+Your repo's contents depend on how far into Book 3 you went, so the audit is right if it finds every file below that your repo actually holds. It doesn't need to find the ones you never copied in.
+
+Files a good audit lists (practice route, a library repo built from Book 3's practice files):
+1. Every bank export under practice/harbor-home/: every bank-*.csv, such as bank-week-*.csv, bank-first-*.csv, bank-second-*.csv, bank-deposits-*.csv and bank-latest.csv. They hold payer names, dates and amounts.
+2. Every invoice list under practice/harbor-home/: every invoices-*.csv. They hold client names, services, square footage and amounts.
+3. Every answer key under practice/harbor-home/ (answer-key*.md). They name who paid which invoice.
+4. Any customer email under practice/harbor-home/, such as haddad-email-2027-03-31.txt. It holds a name and an email address.
+5. tests/test_reconcile.py. Its tests type customer names straight into the code (R PATEL and Patel, R.; M OYELARAN; Brooks, D.; CHEN L and Chen, L.; Lindqvist Rentals LLC). An audit that lists only CSV files misses this one, and it's the one that matters most for this chapter.
+6. reports/reconcile-*.md, if you have any. Reports name the deposits that matched nothing and the invoices still open.
+
+Also right:
+- tests/fixtures/second-bank-sample.csv listed with [CHECK: real or made up?], or marked made up because the opening comment in tests/test_reconcile.py or the Book 3 README says so. Either answer counts. Under the practice line it may also be listed as real.
+- A row for a file that is only in the history (deleted from today's files but present in git log). That is the best result an audit can give you.
+- projects/harbor-home/facts.md listed as business contact details for Dana Ruiz, or left out. A business's own published phone and email are not customer data, so either answer counts.
+- scan/ left out, or listed as holding business names. Engine answers name companies, not customers.
+
+Wrong, whatever else the table says:
+- Any file changed, moved, deleted or committed. Run git status afterward: it must show nothing new and nothing modified. If it does, restore the file with git restore <path> and add the read-only line to the Check again.
+- A row that says a file is safe to delete. The audit lists; deciding is yours, and it happens in the register.
+
+On your own repo: it worked if every file the table names exists, and every "only in history" row really appears in git log --all --name-only. Most people also find at least one place they hadn't listed on the map before; if you didn't, your map was already complete.

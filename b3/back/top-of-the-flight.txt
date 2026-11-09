@@ -1,0 +1,138 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Back of the Book: Top of the Flight.
+A worksheet for your own library/ repository. You can keep a filled copy in library/; it holds no secrets. Never write a password, a key, a token or a code on it. Any practice-cast name you meet here is fiction.
+
+======================================================================
+PART 1. THE CAN-DO LEDGER
+======================================================================
+Read each line as a question: could I do this tomorrow, with the book closed?
+Tick yes, or tick not yet and redo that chapter's Try this.
+
+                                                                yes  not yet
+3.1  Name the four parts of an agent and choose
+     where you will run each tool.                chapter 1     [ ]  [ ]
+3.2  Open a terminal, install both agents, and push
+     the library repo to GitHub.                  chapter 2     [ ]  [ ]
+3.3  Write three rules (deny reading .env, ask
+     before git push, allow the test command) and
+     get a written audit with no files changed.   chapter 3     [ ]  [ ]
+3.4  Review a diff, rewind a bad edit, and commit
+     the good one.                                chapter 4     [ ]  [ ]
+3.5  Write one instructions file that Claude Code
+     and Codex both follow.                       chapter 5     [ ]  [ ]
+3.6  End a session with a handoff file a fresh
+     session resumes in minutes.                  chapter 6     [ ]  [ ]
+3.7  Turn a keeper into a skill that runs in both
+     agents and refuses a task outside its scope. chapter 7     [ ]  [ ]
+3.8  Add a hook that blocks edits to a protected
+     file and one that formats code after every
+     edit.                                        chapter 8     [ ]  [ ]
+3.9  Connect one MCP server at project scope and
+     spot a prompt-injection attempt in tool
+     output.                                      chapter 9     [ ]  [ ]
+3.10 Define a read-only reviewer subagent and
+     delegate one review to it.                   chapter 10    [ ]  [ ]
+3.11 Publish your library as a plugin in your own
+     marketplace and add one small mod or status
+     line.                                        chapter 11    [ ]  [ ]
+3.12 Run two agents in parallel worktrees and
+     merge both results cleanly.                  chapter 12    [ ]  [ ]
+3.13 Run a three-role team on one job with a
+     shared task list.                            chapter 13    [ ]  [ ]
+3.14 Schedule a nightly headless job with a budget
+     cap and read its report in the morning.      chapter 14    [ ]  [ ]
+3.15 Verify an agent's "done" against the live
+     result and log one incident.                 chapter 15    [ ]  [ ]
+3.16 Run your first weekly agent review and pass
+     the setup through the Twenty-Year Test.      chapter 16    [ ]  [ ]
+
+======================================================================
+PART 2. LIBRARY/ AT THE END OF BOOK 3
+======================================================================
+Open a terminal in library/ and type:  git ls-files
+It lists every file the repository tracks. Tick each line below that you find.
+Names are the practice route's. Where yours differ, go by what's inside.
+
+[ ] briefs/reconcile.md (or the brief for your own first job)          ch 1
+[ ] README.md and .gitignore                                             ch 2
+[ ] .claude/settings.json (rules from ch 3, marketplace keys from ch 11) ch 3, 11
+    .codex/config.toml, if you use Codex                                 ch 3
+[ ] reports/audit-[DATE].md                                              ch 3
+[ ] scripts/reconcile.py and tests/test_reconcile.py                     ch 4
+[ ] AGENTS.md and CLAUDE.md                                              ch 5
+[ ] incidents.md, with rows from ch 5 and ch 15                          ch 5, 15
+[ ] handoffs/ with at least one dated note                               ch 6
+[ ] reviews/usage.md                                                     ch 6
+[ ] .agents/skills/harbor-reply and .agents/skills/weekly-numbers,       ch 7, 11
+    now links into plugins/harbor-ops/skills/ (or copies plus
+    scripts/check_skill_copies.py on Windows)
+[ ] decisions.md                                                         ch 8, 16
+[ ] .mcp.json and mcp/booking-server-sketch.md                           ch 9
+[ ] reviews/reconcile-review-[DATE].md, the reviewer's first report      ch 10
+[ ] plugins/harbor-ops/ with both skills, the hooks (ch 8), the          ch 11
+    reviewer (ch 10) and evals/
+[ ] .claude-plugin/marketplace.json and scripts/statusline.py            ch 11
+[ ] docs/lanes.md, .worktreeinclude, scripts/monday_report.py            ch 12
+[ ] tasks.md, reviews/monday-graph.md, reviews/crew-verdict-[DATE].md    ch 13
+[ ] scan/ with its locked questions, runner and results.jsonl            ch 14
+[ ] checks/compare_report.py (optional)                                  ch 15
+[ ] reviews/weekly-agent-review-[DATE].md and twenty-year-test.md        ch 16
+[ ] From Books 1 and 2: keepers.md, about-me.md, voice.md,
+    projects/harbor-home/, everything-else.md, briefs/template.md
+
+Two things must NOT be on the list git ls-files printed:
+[ ] .env is not there.
+[ ] Nothing under exports/ is there.
+If either one is, stop and follow "If it goes wrong" in chapter 2's last Try this.
+
+======================================================================
+PART 3. THE BOOK 1 TEST, AIMED AT THE REPOSITORY AND THE AGENTS
+======================================================================
+Tick a box only when you can show it today.
+
+[ ] 1. Pushed to a private remote.
+       Run git fetch, then git status. It says your branch is up to date with
+       'origin/main', and the repo's page on GitHub says Private next to its name.
+[ ] 2. No secret in the repo.
+       git ls-files shows no .env, and  git log --all --oneline -- .env
+       prints nothing, which means no commit ever held it.
+       .mcp.json names a token's variable and never holds the token.
+[ ] 3. The same skill runs in both tools.
+       One row of the harbor-reply skill's tests/triggers.md, run in a fresh
+       Claude Code session and a fresh Codex session, gives the expected result in both.
+[ ] 4. The setup passes the Twenty-Year Test.
+       Every line of chapter 16's checklist is passed or written as a next step
+       with a date.
+
+Then, in keepers.md under ## My settings, below Book 2's line, add or update:
+Book 3 test: [NUMBER] of 4, run [DATE]
+
+======================================================================
+PART 4. THE LIST BOOK 4 STARTS FROM
+======================================================================
+Book 4, chapter 1, lists every tool and account you rely on and what each holds of
+yours. Start the list now with what this book added. Names only. A key's NAME (for
+example the variable your MCP server reads) goes on the list. The key itself never
+does.
+
+Accounts (where you sign in):
+  ____________________________________________
+  ____________________________________________
+  ____________________________________________
+Keys and tokens (the name, and where the value lives, such as "my password manager"):
+  ____________________________________________
+  ____________________________________________
+Jobs that run on their own (scheduled runs, actions, cloud tasks):
+  ____________________________________________
+  ____________________________________________
+Plugins and marketplaces you installed or published:
+  ____________________________________________
+
+Beside each line, write what it holds of yours in a few words. Book 4 starts there.
+
+======================================================================
+LAST STEP. COMMIT AND PUSH, FILE BY FILE
+======================================================================
+git status --short          see what changed
+git add keepers.md          name each file you mean to save; never add everything at once
+git commit -m "Close out Book 3"
+git push

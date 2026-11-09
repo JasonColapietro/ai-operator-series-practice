@@ -1,0 +1,8 @@
+{
+  "name": "harbor-tools",
+  "description": "Plugins for the Harbor & Home practice project",
+  "owner": { "name": "Your Name" },
+  "plugins": [
+    { "name": "harbor-ops", "source": "./plugins/harbor-ops" }
+  ]
+}

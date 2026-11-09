@@ -1,0 +1,44 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 9.
+Thirty-two questions Harbor & Home's customers asked in September and October 2026, from email, voicemail and the website's contact form. Copied unchanged below the line of dashes from the practice pack's FAQ lesson (the pack calls it wf18-input-customer-questions.txt). Every customer and question here is invented. The towns, Peaks Island and the streets are real places in and around Portland, Maine.
+Attach this file to the chat that runs faq-prompt.txt. The facts it is answered from are practice/shared/harbor-home-business-facts.txt, already in your Harbor & Home Project if you built one in chapter 4.
+----------------------------------------
+QUESTIONS PEOPLE ACTUALLY ASKED US (September and October 2026)
+Pulled from email, voicemail and the website contact form. I want the new FAQ page to answer the real questions, in plain words. Some of these get asked over and over. - Dana
+
+FROM EMAIL
+- "Hi, how much is a regular cleaning? Our place is a 2 bed, maybe 1,100 sq ft."
+- "Do you bring your own supplies or do I need to buy stuff before you come?"
+- "My son has bad allergies. Can you use the products we already have?"
+- "We have a dog and a cat. Is what you use safe for them?"
+- "Do you come out to Peaks Island?"
+- "Is Scarborough too far for you?"
+- "Can I pay in cash? I'd rather not put it on a card."
+- "Something came up and I need to move my cleaning from tomorrow. Is there a charge?"
+- "Do I need to be home while you clean?"
+- "Are you insured? My landlord is asking."
+- "What exactly is in a deep clean? Is it worth it over the regular one?"
+- "We're moving out of our apartment in May. Do you do that?"
+- "how much for regular cleaning"
+- "Can you get the mildew off our bathroom ceiling? It's kind of black in the corners."
+
+FROM VOICEMAIL (my notes from listening)
+- Older man, wants to know if the cleaners are our employees or "people you hire off an app."
+- Woman in Falmouth, 3,200 sq ft house, wants to book a first clean. How does that work for a big house?
+- Asked if we clean carpets / shampoo the rugs.
+- Asked if we'll do the outside of the windows.
+- Asked if they can get the same cleaner every time.
+- Asked if we do vacation-rental turnovers between guests.
+- Asked about price for a regular clean, again.
+- Small law office on Exchange Street. Do we do offices, and can we come during the day?
+
+FROM THE CONTACT FORM
+- "Is there a discount if we book every week?"
+- "Your team missed the inside of the microwave. What happens now?"
+- "How long does a cleaning take? I need to plan around it."
+- "Do you work weekends?"
+- "Can I come by your office to drop off a key and pay?"
+- "Should I tip the cleaners? How much?"
+- "Can you fold laundry while you're here?"
+- "Is there a minimum? I only need my kitchen and one bathroom done."
+- "What happens if I forget to unlock the door?"
+- "Can you dust the top of our kitchen cabinets? They're about 9 feet up."

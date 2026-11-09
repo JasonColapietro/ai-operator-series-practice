@@ -1,0 +1,27 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 10, A Second Context Window.
+What a good review of Sam's checker finds, and every result the chapter accepts. Line numbers are for sam/scripts/reconcile.py and sam/reports/reconcile-2027-04-12.md as shipped. Your own checker's lines will differ.
+----------------------------------------
+THE PLANTED FINDING (the review must name it)
+The Haddad deposits. reconcile.py lines 81 to 87, the first pass, give each deposit to the first open invoice with the same name and amount, oldest first. So the $140.00 of March 31 goes to INV-2063 (report line 10) and the deep clean INV-2050 is paired from April 1 and April 5 (report line 7). The answer key says INV-2050 was paid March 31 plus April 1, and INV-2063 on April 5.
+Accept a finding that cites any line from 67 to 109 of reconcile.py, or report line 7 or 10, as long as it names the Haddad deposits or INV-2050 or INV-2063 and says the match disagrees with the answer key, or that the code picks between two open invoices without a rule. Accept "no test covers this" (check 4) as a second finding, never as the only one.
+
+THE CHECKS
+1. Pass. 13 deposits in the two bank files (10 and 3), 13 in the report (11 single, 2 in the two-part line; the last line says 13 deposits matched).
+2. Fail. INV-2050 and INV-2063, as above.
+3. Fail. The code takes the oldest invoice that fits, and nothing in it or in the tests says why.
+4. Fail. tests/test_reconcile.py has twelve tests. Its two-part payment (test_payment_in_two_parts) falls in one month with one open invoice. Nothing covers a month end or a second open invoice.
+5. Pass. Nothing in scripts/ opens a file for writing (both open( calls, lines 46 and 58, read). The script prints to the screen, and the report is that output saved by hand.
+6. Pass. Every date in the report is year first.
+Verdict: not ready.
+
+CHECK ONE FINDING YOURSELF
+Open reconcile.py at the line the report gives. Then open the answer key's table at INV-2050 and INV-2063. If the two disagree, the finding stands.
+
+CHECK ONE PASS YOURSELF
+Check 1 is the quickest: count the rows in both bank files (13, not counting the header lines) and the deposits in the report (13). Check 6 is the next quickest. Check 5: search scripts/ for open( and look for "w" or "a".
+
+ALSO FINE
+A review that also asks whether the second bank's 01/04/2027 is really April 1 (it is; chapter 6 settled day first). A review that also names Alvarez or Sullivan, who each have two $126.00 invoices: the code's date rule keeps those apart (each deposit is dated before the second invoice), so a finding there is a fair question, not the planted case. A review that suggests listing two-invoice clients under "For Dana", as the brief from chapter 1 does with anything the checker can't settle.
+
+IF IT SAYS "READY"
+Your brief didn't make the reviewer check matches invoice by invoice. Put check 2 back in the brief word for word and run it again in a fresh session.

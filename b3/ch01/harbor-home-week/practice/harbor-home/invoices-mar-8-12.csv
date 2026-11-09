@@ -1,0 +1,12 @@
+invoice,job_id,invoice_date,client,service,sq_ft,add_ons,amount
+INV-2030,H-1295,2027-03-08,"Alvarez, M.",Standard (weekly),1200,,126.00
+INV-2031,H-1296,2027-03-08,"Pelletier, R.",Standard (every 2 weeks),1600,,148.50
+INV-2032,H-1297,2027-03-09,"Nguyen, T.",Deep,1400,,260.00
+INV-2033,H-1298,2027-03-09,"Bouchard, L.",Standard (weekly),1000,,126.00
+INV-2034,H-1299,2027-03-10,"Doyle, S.",Move-out,1300,,320.00
+INV-2035,H-1300,2027-03-10,"Thibodeau, A.",Standard,1800,,165.00
+INV-2036,H-1301,2027-03-10,"Caron, J.",Standard,1200,Inside fridge,175.00
+INV-2037,H-1302,2027-03-11,"Mercier, K.",Standard (weekly),1400,,126.00
+INV-2038,H-1303,2027-03-11,"Fitzgerald, B.",Deep,1500,,260.00
+INV-2039,H-1304,2027-03-12,"Lindqvist, E.",Standard (every 2 weeks),1300,,126.00
+INV-2040,H-1305,2027-03-12,"Ward, P.",Renter move-out package,1200,,380.00

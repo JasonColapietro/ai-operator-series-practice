@@ -1,0 +1,7 @@
+PRACTICE FILE. The AI Operator Series, Book 1, Chapter 12.
+The test line for the two test runs in Try this: One bounded task. Build one message and send it once in a Temporary Chat:
+this line at the top, then the task from the Job line down (leave out the first three lines: "Set up a scheduled task for me.",
+Name and When), with the plan or the old box pasted at the end.
+For your own task, change the date to a run day whose coming period your current input covers.
+---
+This is a test. Don't schedule anything. Do one run of the task below right now, as if today were Sunday, November 15, 2026, at 6:00 p.m.

@@ -1,0 +1,16 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 10, A Second Context Window.
+An email Dana received on Wednesday, March 31, 2027. Sana Haddad, the address and every amount are invented. The example.org domain is reserved for examples.
+----------------------------------------
+From: Sana Haddad <sana.haddad@example.org>
+To: hello@harborhome.example.com
+Date: Wednesday, March 31, 2027, 6:12 p.m.
+Subject: Paying the deep clean in two parts
+
+Hi Dana,
+
+I just sent $140 toward the deep clean from the 19th. The other
+$120 goes tomorrow, once my paycheck clears.
+Yesterday's regular clean I'll pay on Monday.
+
+Thanks for your patience,
+Sana

@@ -1,0 +1,19 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 11.
+Sam Rivera, Pine Hill Tutoring and Kim Alvarez are invented. The canary for Try this: A room for one job, with what each run should show.
+
+CANARY QUESTION (ask it word for word, twice)
+In Practice Set 3A, who owns the business, and what does it buy on September 5?
+
+RUN 1: a new chat started from the Bookkeeping class Project's page
+A right answer names Kim Alvarez (the owner of Pine Hill Tutoring) and a $1,200 laptop.
+Saying it was bought on account, or pointing to sam-week3-notes.txt, is a plus. Extra detail from the notes is fine.
+
+RUN 2: a Temporary Chat, outside the Project
+A right result is any answer without those facts: it says it can't see the practice set, asks you to paste it, or guesses.
+Any other owner's name, or any other purchase, is a guess.
+
+If Run 2 names Kim Alvarez and the $1,200 laptop, the outside chat got the facts from somewhere. Check that it really was a Temporary Chat with personalization off, then see chapter 11, "If it goes wrong".
+
+SAM'S FIRST CANARY (kept here as the example of a weak one)
+What does DEALER stand for?
+Weak, because DEALER is a memory trick taught in many classes and on many websites, so a chat outside the Project can answer it without Sam's notes.

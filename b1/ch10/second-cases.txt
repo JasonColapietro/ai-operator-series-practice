@@ -1,0 +1,71 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 10.
+The second cases for "Try this: Five keepers". Sam Rivera, Dana Ruiz, Harbor & Home Cleaning, Marcus Lee and Corinne Walsh are invented. The government agencies named under Keeper #4 are real.
+For each keeper: copy the prompt (everything between the "Use it for" or "Built from" line and "Repair that fixed it") into a blank TextEdit or Notepad document, put the values below into its slots, brackets and all, and change nothing else. Then paste the whole thing into a new chat. Anything you have to change outside a slot is a bug in the keeper. Write it on the keeper's "Transfer run" line.
+When you've run one, check the result against transfer-key.txt.
+
+------------------------------------------------------------
+KEEPER #1: Reply from approved facts
+Second case: Marcus Lee answers Corinne Walsh.
+[BUSINESS]       Marcus Lee Design, a one-person web design business
+[WHO THEY ARE]   a small business owner who has not hired me yet
+[NEXT STEP]      book a free discovery call
+[WORD LIMIT]     250
+[TONE]           Friendly and plain, written as "I", not "we"
+[SIGN-OFF]       Marcus
+[FACTS]          marcus-rate-sheet.txt (everything below its header lines)
+[EMAIL]          corinne-email.txt (everything below its header lines)
+
+------------------------------------------------------------
+KEEPER #2: Week plan around fixed commitments
+Use version 2 (keeper-2-version-2.txt). Run it on both weeks.
+                    Second case: Dana's week          First case again: Sam's week
+[DATES]             Monday Nov 2 to Friday Nov 6      Monday Nov 2 to Sunday Nov 8
+[WORK TO FIT IN]    office work                       coursework
+[WHAT I CAN'T MISS] anything already booked, or       work, family plans or sleep
+                    my Friday afternoon
+[WHAT'S FIXED]      everything under "Already booked" my shifts, classes and family plans
+[DAY START]         the start of my workday           wake-up
+[DAY END]           the end of my workday             bedtime
+[EVERY DAY]         calls back (about 30 minutes,     nothing
+                    more on Mondays) and invoices
+                    (15 minutes)
+[TASK]              office task                       study task
+[LONGEST SITTING]   2 hours                           2 hours
+[LATEST TIME]       6 PM                              10 PM
+[RULES HEADING]     NOTES                             How I work best
+[FREE TIME]         Friday after 3 PM                 one evening
+[NOTES]             practice/b1/ch05/danas-week.txt   practice/b1/ch05/sams-week.txt
+
+------------------------------------------------------------
+KEEPER #3: One clean page from a photo, a voice note and a PDF
+This keeper's second case comes from your own life, because it needs a photo you take and a note you say out loud. Pick a paper notice with a PDF that goes with it, such as a notice from a school, a landlord or your town, and check it against your never-paste list first. Leave medical letters out (chapter 7).
+If you ran Keeper #3 on your own files in chapter 7, Sam's chapter 7 files (practice/b1/ch07/) are your second case instead.
+
+------------------------------------------------------------
+KEEPER #4: Current answer from official sources
+Second case: Dana's new hire.
+[TOPIC]                      what an employer in Maine has to do when a new employee starts
+[WHO]                        me, as the owner
+[WHAT I'LL DO WITH IT]       make a checklist for the new cleaner's first week
+[PLACE]                      Portland, Maine
+[OFFICIAL SOURCES, IN ORDER] the Maine Department of Labor, the Maine Department of Health and Human Services and Maine Revenue Services, then the federal agencies: the IRS, U.S. Citizenship and Immigration Services and the U.S. Department of Labor
+[SITUATION]                  dana-new-hire-notes.txt, the part under MY SITUATION
+[QUESTIONS]                  dana-new-hire-notes.txt, the part under MY QUESTIONS
+
+------------------------------------------------------------
+KEEPER #5: Two commitments that clash
+First run: Sam's Thursday (Sam's Day One question, chapter 1).
+[WHO I AM, IN ONE SENTENCE]  I work retail and take an evening bookkeeping class on Tuesdays and Thursdays from 6:30 to 9.
+[WHAT OVERLAPS, AND WHEN]    This week's posted schedule has me working Thursday from 4 to 10, and my class that night runs 6:30 to 9.
+[WHAT HAS HAPPENED SO FAR]   I asked my manager on Friday. She said she'd see what she could do, and I haven't heard back.
+[WHO I SHOULD ASK FIRST]     my manager
+[WORD LIMIT]                 80
+[TONE]                       polite and plain
+
+Second case: Dana's Thursday (from practice/b1/ch05/danas-week.txt).
+[WHO I AM, IN ONE SENTENCE]  I own Harbor & Home Cleaning, a small home-cleaning business, and I do the office work myself.
+[WHAT OVERLAPS, AND WHEN]    On Thursday I'm covering a teammate's cleaning shift in South Portland from 8:30 to 12:30. A rep from our fragrance-free products supplier has a 30-minute video call with me on Thursday at 10.
+[WHAT HAS HAPPENED SO FAR]   The rep said Thursday at 10 is the only time she has this week. I haven't asked her about next week.
+[WHO I SHOULD ASK FIRST]     the supplier rep
+[WORD LIMIT]                 80
+[TONE]                       warm, direct and plain, with no exclamation points

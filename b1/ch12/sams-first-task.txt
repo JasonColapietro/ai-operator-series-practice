@@ -1,0 +1,8 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 12.
+Sam Rivera and the course are invented. Written for this chapter.
+This is the first version of Sam's task, the one in the chapter's opening scene. It has no Check line and no Limits line,
+and it carries a pasted copy of one week. Don't schedule it. It's here so you can compare it with sunday-check-in-task.txt.
+---
+Set up a scheduled task for me. Every Sunday at 6 p.m., tell me what's due this week in my bookkeeping class and quiz me on this week's chapter. Here's this week from the course page:
+
+[the box in sam-this-week-box.txt, pasted here]

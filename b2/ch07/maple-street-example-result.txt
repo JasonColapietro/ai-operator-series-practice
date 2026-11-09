@@ -1,0 +1,69 @@
+PRACTICE FILE: FICTION, AND ONE REAL RUN. The AI Operator Series, Book 2, Chapter 7.
+Lena Brooks, Walt and Maple Street Community Garden are invented. The agencies, pages and links are real. Copied unchanged below the line of dashes from the practice pack's current-research lesson: one Claude run on Lena's notes from October 2026 searches, with the prompt it used. Nothing in it was checked for this book, and rules and pages change.
+Read it for its shape, or audit three of its citations with citation-audit-card.txt. Never use it as a source: open every link and check it yourself.
+----------------------------------------
+PROMPT USED (the chapter prompt with the transfer lines swapped in, including the checklist line added to the transfer section after the first run):
+
+I need a current, practical answer about [OHIO AND CITY OF COLUMBUS RULES AND OFFICIAL GUIDANCE ON RAIN BARRELS AT A COMMUNITY GARDEN]. Our situation and questions are in the attached file. This is for [OUR GARDEN'S VOLUNTEER COMMITTEE], and we will use it to decide at our next meeting.
+
+Search the web for this. Use official government sources first: [OHIO STATE AGENCIES, THE CITY OF COLUMBUS, FRANKLIN COUNTY, AND OHIO STATE UNIVERSITY EXTENSION]. Use other sites only if no official page covers a point, and say when you do.
+
+Answer each question in the file, in order. For each one, give:
+- The answer in one to three plain sentences.
+- Any deadline, fee or document, exactly as the source states it.
+- The link to the page you used.
+
+Then give me a short checklist of what to do before the committee decides, in the order we should do it.
+
+Rules:
+- If sources disagree, or a rule depends on details about our situation that you don't have, say so and tell me what to check.
+- If you cannot find an official source for something, write "Not confirmed" instead of guessing.
+- Do not estimate a fee unless the official source gives a number for our situation.
+- Stay with the questions in the file.
+- Label each point "Rule" (something we must do) or "Guidance" (something officials recommend).
+
+(Attached: wf09-transfer-garden-situation.txt)
+
+----------------------------------------------------------------
+RESULT
+
+Short version for the meeting: collecting rainwater in a barrel for watering plants is not illegal in Ohio. I found no Columbus permit for an ordinary rain barrel. The official advice is about safety: keep a screen on the barrel for mosquitoes, and keep roof water off the parts of vegetables people eat.
+
+1. IS IT LEGAL TO COLLECT RAINWATER IN OHIO?
+Rule: Yes, for watering. Ohio's rules on rainwater cisterns apply to water used for drinking ("human consumption"). The Ohio Department of Health says a private water systems permit "is not currently required for non-potable ... cisterns" that were not built as a drinking-water system. No official Ohio page I found prohibits collecting rainwater.
+Links: https://codes.ohio.gov/ohio-administrative-code/rule-3701-28-01 , https://odh.ohio.gov/know-our-programs/private-water-systems-program/forms/forms
+Note: no Ohio page mentions "rain barrels" by name. The cistern rules are the closest official source.
+
+2. DOES COLUMBUS REQUIRE A PERMIT OR HAVE RULES, ESPECIALLY ON A SHARED LOT?
+Rule: Not confirmed. I found no City of Columbus permit or ordinance for rain barrels. The city's own rain barrel flyer promotes them and does not mention a permit.
+What to check: (a) your use agreement with the neighborhood nonprofit, since four linked barrels may count as "adding a structure"; (b) call Columbus 311 (614-645-3111) and ask whether a rain barrel on a shed needs anything on a nonprofit-owned lot.
+Link: https://www.columbus.gov/files/sharedassets/city/v/1/utilities/rainwaterreuse.pdf
+
+3. IS METAL-ROOF RUNOFF SAFE FOR VEGETABLES?
+Guidance: OSU Extension says roof rainwater "can contain pathogens and harmful metals from the roof or gutters," and that "Treating rainwater (e.g., filtration and chlorination) before applying it to the garden is recommended." It recommends drip or soaker watering and "minimizing direct water contact with the edible portions of your plants," and city water for washing produce.
+For your garden: water the soil, not the leaves; use the city spigot to wash produce; and tell families with young kids that barrel water is not for drinking or hand washing.
+Not confirmed: anything specific to metal roofs. The OSU page does not single out roof materials.
+Link: https://ohioline.osu.edu/factsheet/hyg-1153
+
+4. MOSQUITOES AND STANDING WATER
+Guidance: The City of Columbus says "A screen on the top of the barrel keeps out mosquitoes and debris." Columbus Public Health takes 311 requests for "Request Rain Barrel Mosquito Treatment" and "Standing Water/Mosquito Breeding."
+Rule: Not confirmed. I did not find the text of a Columbus ordinance on standing water. The Vector Control page links to the city code but does not state the rule.
+Links: https://www.columbus.gov/files/sharedassets/city/v/1/utilities/rainwaterreuse.pdf , https://www.columbus.gov/Services/Public-Health/Environmental-Health/Vector-Control
+
+5. PROGRAMS THAT GIVE OR HELP PAY FOR RAIN BARRELS
+Guidance: The City of Columbus flyer says the city "is sponsoring a rain barrel cost share program through Franklin Soil and Water Conservation District." The flyer is undated, so the program may have changed.
+Not confirmed: whether a community garden (not a household) qualifies, and current amounts. A regional planning table (MORPC, not a city page) lists a Columbus cost share open to nonprofits, but I could not confirm it on an official city or district page.
+What to check: call Franklin Soil and Water Conservation District (franklinswcd.org) and ask whether a community garden on a nonprofit lot qualifies.
+Links: https://www.columbus.gov/files/sharedassets/city/v/1/utilities/rainwaterreuse.pdf , https://www.franklinswcd.org
+
+6. WINTER
+Not confirmed. I found no official Ohio, Columbus or OSU Extension page on winterizing rain barrels. The one related official point (Guidance): Franklin Soil and Water says runoff should not "empty onto a sidewalk where ice forms in winter," so if you disconnect the barrels, point the downspout away from paths.
+What to check: ask Franklin Soil and Water or the Franklin County OSU Extension office for winter steps.
+Link: https://www.franklinswcd.org/docs/documents/3059/2021wetbackyards.pdf
+
+CHECKLIST BEFORE THE COMMITTEE DECIDES
+1. Read the use agreement with the nonprofit for anything about structures or water.
+2. Call Columbus 311 about any permit on a nonprofit lot.
+3. Call Franklin Soil and Water about the cost share for a community garden.
+4. If you go ahead: screen every barrel, use soaker hoses at soil level, post a "not for drinking" sign, and keep washing produce at the city spigot.
+5. Plan who empties and disconnects the barrels before freezing weather.

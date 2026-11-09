@@ -1,0 +1,21 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 10.
+The blank for library/connectors.md. Every word in capitals inside brackets is a slot. Keep one block per connected service, newest at the top, and the "Never delegated" block at the end. Matches the chapter's Save this listing word for word below this header.
+----------------------------------------
+# Connectors
+What each connected service may do, in my words. I read this on the first [DAY OF THE WEEK] of every month.
+
+## [SERVICE]: [WHICH ACCOUNT]
+Connected: [DATE]
+Turned on in: [WHICH PROJECT OR CHATS]
+Read and search: [Always allow / Needs approval / Blocked]
+Create a draft: [Always allow / Needs approval / Blocked]
+Send, reply, forward: [Needs approval / Blocked]
+Change, move, delete: [Needs approval / Blocked]
+Ceiling: [READ, DRAFT OR ACT], because [REASON]
+Review on: [DATE]
+Changes: [DATE: WHAT CHANGED AND WHY]
+
+## Never delegated
+1. My voice: [WHAT NEVER GOES OUT UNDER MY NAME UNREAD]
+2. My signature: [WHAT ONLY I SIGN, ACCEPT OR SUBMIT]
+3. Spending: [WHAT ANY CONNECTOR MAY SPEND, AND THE CAP. "NOTHING" IS AN ANSWER]

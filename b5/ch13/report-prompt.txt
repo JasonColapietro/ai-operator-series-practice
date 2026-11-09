@@ -1,0 +1,6 @@
+Job: Draft a one-page client report for [CLIENT] covering [PERIOD], in five blocks: what changed, what the agents did, one opportunity, the next decision, what is unknown.
+Material: Use only the evidence pasted below and the baseline named in it. Use the states list exactly as written: read, drafted, stopped, approved, sent, booked, paid.
+Shape: Block 1 has exactly three changes. Each gives the measure, before and now as count / total with the period, and the source. Block 2 gives counts by state, never one combined total. Block 4 names a person on the client's side and a date.
+Check: Never add counts from different states together. Never call a price, a quote or an approved reply revenue. Never write that the work caused a change. If a number is missing or comes from one capture, put it in block 5 with [CHECK: what is missing] instead of estimating it.
+
+[PASTE EVIDENCE HERE]

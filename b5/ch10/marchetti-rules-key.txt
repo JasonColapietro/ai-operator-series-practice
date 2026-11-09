@@ -1,0 +1,13 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 10, Sell Staffing. Answer key for the receptionist rules, filled from marchetti-hvac-notes.txt. Marchetti Heating & Cooling and everyone in it are invented.
+
+What a good set of rules contains. Your wording will differ; check yours against each line.
+
+1. May book: tune-ups ($159) and daytime diagnostic visits ($129) into open slots in Kim's calendar. [CHECK: ask the owner which calendar.] May only request: heat pump installs and conversions (site visit; Ellen or Kim calls back next business day), anything outside the five towns.
+2. May quote: diagnostic $129 flat in business hours; tune-up $159; after-hours no-heat call $249 to show up. Never quotes a heat pump install, not even the $6,000 to $14,000 range, because Ellen said it can't tell a caller that on the phone. (A key that lets it give the range "after a site visit" is wrong: it contradicts the owner.)
+3. Emergencies: no heat, gas smell, carbon monoxide alarm. Gas smell or CO alarm: the agent tells the caller to leave the building and call 911 or the gas utility from outside, before anything else, and books nothing. No heat: page the on-call technician. [CHECK: ask the owner who is called if the on-call tech doesn't answer, and after how many minutes.]
+4. "I don't know": permits, rebates, warranty, insurance claims, complaints. Each gets a callback request.
+5. Says it is the Marchetti assistant at the start of every call and transfers to a person when asked. Recording: the business doesn't record today, so the first version doesn't either. If Ellen wants transcripts, that is a separate decision with a lawyer's answer on consent for Maine and for any caller's state. [CHECK: what Maine requires; the chapter's law box covers Florida only.] Languages: English fully; French, Portuguese and Spanish take a message and flag it. [CHECK: ask the owner.]
+6. Speed: share of after-hours no-heat calls that reach the on-call tech within 15 minutes (last month 3 of 5 that night). Booking: tune-ups booked per after-hours call. [CHECK: ask the owner to confirm both.]
+
+Also right: rules that treat the hang-ups as the first number to move (14 of 38 last month). Also right: a first month that starts with emergencies and messages only and adds booking in week 3.
+Wrong, whatever else is right: any rule that lets the agent book a gas-smell caller; any price Ellen didn't say; leaving the license number question unasked if the agent will send texts that advertise services. [CHECK: ask the owner for the license number and what the state requires in ads.]

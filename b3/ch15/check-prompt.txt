@@ -1,0 +1,7 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 15. The prompt card from "Try this: Check the morning report", word for word below this header.
+----------------------------------------------------------------
+Do not tell me whether the Monday report is right.
+Show me: the report's path, its modified time, the totals
+it prints, the first and last deposit date it lists, and
+the totals in practice/harbor-home/answer-key-2027-06-14.md
+for the same week. I will compare them.

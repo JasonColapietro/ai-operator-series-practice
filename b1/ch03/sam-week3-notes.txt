@@ -1,0 +1,61 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 3.
+Sam Rivera, the bookkeeping course, its instructor, Pine Hill Tutoring and Kim Alvarez are invented. These are Sam's notes from week 3 of the course, with that week's practice set at the end.
+
+BOOKKEEPING CERTIFICATE, PART 1: WEEK 3 NOTES
+Debits and credits (Sam's notes from class + chapter 3)
+
+THE BIG RULE
+Assets = Liabilities + Owner's Equity
+Every transaction keeps this balanced. Every transaction touches at least 2 accounts.
+
+Debit = left side. Credit = right side. That's ALL it means. (Instructor said this 3 times.)
+Total debits must equal total credits for every entry.
+
+T-ACCOUNT
+        Cash
+  Debit   |  Credit
+  (left)  |  (right)
+
+ACCOUNT TYPES AND WHICH SIDE MAKES THEM GO UP
+(normal balance = the side that increases it)
+
+  Assets (Cash, Accounts Receivable, Supplies, Equipment)   -> Debit
+  Liabilities (Accounts Payable, Loans)                     -> Credit
+  Owner's Capital                                           -> Credit
+  Revenue (Service Revenue)                                 -> Credit
+  Expenses (Rent Expense, Utilities Expense)                -> Debit
+  Owner's Drawing                                           -> Credit
+
+To DECREASE an account, use the opposite side.
+
+Memory trick from the instructor: DEALER
+  Drawings, Expenses, Assets = go up with a Debit
+  Liabilities, Equity, Revenue = go up with a Credit
+
+WORDS
+- "On account" = no cash changes hands yet. Buying on account = we owe it (Accounts Payable). Selling on account = they owe us (Accounts Receivable).
+- Revenue is recorded when the work is DONE, not when the money comes in.
+- Owner's Drawing = the owner taking money out for personal use. Not an expense of the business.
+
+MY QUESTION (still confused)
+My bank statement says "DEBIT CARD PURCHASE" when money goes OUT of my account, and the bank says it "credited" my account when I got paid. So why is a debit to Cash an INCREASE?? Asked in class, ran out of time. Instructor said "it's about whose books you're looking at." Didn't get it.
+
+ENTRY FORMAT (how the instructor wants it)
+  Date   Account debited        Amount
+             Account credited          Amount
+
+-----------------------------------------------
+WORKBOOK PRACTICE SET 3A
+Pine Hill Tutoring is owned by Kim Alvarez. Record the journal entry for each September transaction. Use these accounts only: Cash, Accounts Receivable, Supplies, Equipment, Accounts Payable, Owner's Capital, Owner's Drawing, Service Revenue, Rent Expense.
+
+1. Sept 1   Kim invests $5,000 cash in the business.
+2. Sept 3   Buys office supplies for $300 cash.
+3. Sept 5   Buys a laptop for $1,200 on account.
+4. Sept 8   Tutors a student and collects $450 cash.
+5. Sept 12  Tutors a student on account and bills the parent $600.
+6. Sept 15  Pays September rent, $800.
+7. Sept 20  Pays $500 toward the laptop bill from Sept 5.
+8. Sept 25  Receives $600 from the parent billed on Sept 12.
+9. Sept 30  Kim withdraws $200 cash for personal use.
+
+Bonus: What is the Cash balance on Sept 30?

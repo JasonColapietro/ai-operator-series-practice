@@ -1,0 +1,10 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 15.
+Dana Ruiz's draft for a member spotlight in a local business newsletter. Dana, Harbor & Home Cleaning and the newsletter are invented. Every fact in the draft comes from practice/shared/harbor-home-business-facts.txt.
+The [DRAFT] for Keeper #10's second case (the transfer run). The newsletter's limit is 75 words. The draft runs long on purpose.
+
+FROM THE NEWSLETTER'S EMAIL
+Member spotlights run 75 words or fewer, including contact details. Longer entries are cut by our editor.
+
+---
+
+Harbor & Home Cleaning is a Portland cleaning company owned by Dana Ruiz. Our team of seven cleaners, all employees, cleans homes and small offices in Portland, South Portland, Westbrook, Falmouth and Cape Elizabeth, with Scarborough and Yarmouth by request. We offer standard cleans, deep cleans, and move-out and move-in cleans, plus small-office cleaning in the evenings after 5:30. Our default products are fragrance-free, and we use pet-safe products on request. We're insured and bonded. If we miss something, tell us within 24 hours and we'll come back and fix it at no charge. New this spring: a move-out package for renters, launching March 1. Call 207-555-0142 or email hello@harborhome.example.com to book a first visit.

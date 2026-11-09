@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 14, On a Schedule, Under Review.
+Listing 14.3: the weekly review prompt. Copied from the practice pack (wf23-weekly-review/prompt.txt) below the dashes, with one change: the third slot names this folder's file for last week's review instead of the pack's file name. Words inside brackets are slots, filled here for the practice week. Harbor & Home Cleaning is invented.
+----------------------------------------
+Write my weekly review for [HARBOR & HOME CLEANING] for [MONDAY, OCTOBER 5 TO FRIDAY, OCTOBER 9, 2026]. It's for me, the owner, to choose next week's priorities. It's an internal review, not a customer email, so the project's email rules don't apply.
+
+Use only: the attached jobs export, my attached notes, last week's review ([weekly-review-sep-28-oct-2.txt] in this project's files) and the business facts file in this project. Count from the rows. Don't estimate.
+
+Counting rules:
+- A clean is completed only if the status column says Completed.
+- Money billed is the total of the price column for every row, including lockout and late-cancel charges.
+- Unpaid means the payment column says Unpaid. List any blank payment cell on its own line.
+
+Sections, in this order:
+1. Numbers: a table with this week, last week and the change, for cleans completed, money billed, unpaid, cancellations (free and late), lockouts and return visits.
+2. Last week's top 3: Done, Partly or Not done for each, with the line from my notes that shows it.
+3. Needs a decision: one line each, with the job ID if there is one.
+4. Staff and scheduling: anything about the team or upcoming crews.
+5. Top 3 for next week: one sentence each, each tied to something in this week's files.
+
+Under [400] words, not counting the table. Plain words, no exclamation points.
+
+Check: compare every price, except small-office prices, with the facts file and list any that don't match. If something isn't in the files, write "Not in my notes" instead of guessing. Don't turn my "ideas / someday" notes into tasks.

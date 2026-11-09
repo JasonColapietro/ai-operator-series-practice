@@ -1,0 +1,10 @@
+PRACTICE FILE. The AI Operator Series, Book 4, Chapter 5, "Try this: Let one receipt keep itself".
+A prompt card for a weekly scheduled task in Claude (Pro plan or higher; see Book 2, chapter 14).
+Written for this book; not Jason's words. Replace the bracketed parts with your own folder and file.
+Keep the page as a Google Doc: Book 2, chapter 14, lists the file types the Drive connector reads, and Markdown is not named.
+
+Job: Every Monday, check my public receipts page for stale items.
+Material: Read [my receipts page], a Google Doc in my [RECEIPTS] folder in [GOOGLE DRIVE]. Each item ends with "checked" and a date.
+Shape: First line: today's date, as the run date. Then one line per item: its title, its checked date, and "current" or "due". An item is due when its checked date is more than 90 days before the run date. Last line: how many items are due, or "nothing due".
+Check: If an item has no checked date, mark it "due: no date". If you can't read the file, reply with one line that says so, and stop.
+Limits: Read only. Don't send, post, edit, move or delete anything.

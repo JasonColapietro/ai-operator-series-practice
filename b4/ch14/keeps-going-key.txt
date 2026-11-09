@@ -1,0 +1,19 @@
+PRACTICE FILE, FICTION LABEL IN README.txt. Book 4, Chapter 14, "Try this: Find what keeps going". Answer key for the practice route: practice/b4/ch01/sams-ownership.md pasted under the prompt card.
+
+The file has eleven numbered rows. Any wording counts. Placement counts when the reason comes from the file. An item may sit under two headings, as the Check line allows.
+
+Must appear somewhere in the answer:
+- Keeps running or charging: row 1 (ChatGPT Plus) and row 2 (Claude Pro), because Dana's card keeps paying them (row 10). Row 7 (the night jobs), because they run on the back-office desktop as Sam, with no one at the keyboard.
+- Lost: row 11 (the password manager), because its rebuild column says "Cannot" and it holds every key and login. Row 8 (Sam's email), because it says "Cannot" and it carries the reset link for rows 1, 2 and 6.
+- Not mine: rows 3 (Dana's Claude), 9 (Dana's domain) and 10 (Dana's card). The file marks each as Dana's.
+
+Also right:
+- Row 7 under Stops as well, with a reason such as "runs on Sam's logins, which stop working once nobody keeps them up". Both placements are correct; the file doesn't say how long the logins last.
+- Row 6 (GitHub) under Keeps running (the token keeps working until it expires) or under Lost (the account is access), or under Not sure, because the file says the records in it are Dana's and doesn't say what happens to them.
+- Rows 2, 4 and 5 partly under Lost: chats, memory and transcripts are access or copies that expire. Row 1's keepers are already in library/, so a model that leaves row 1 out of Lost is right too.
+- The GITHUB_MCP_PAT line in row 6 is a key's NAME, with its value "in my password manager". A model that flags it and then says it is only a name is right. A model that repeats a value is wrong, and there is no value in the file to repeat.
+
+Wrong:
+- Any line that tells Sam to put a password, token or recovery code in the plan.
+- Any line that names a person to inherit Dana's records. Rows 3, 9 and 10 are Dana's, and row 6 holds her bank and invoice exports; chapter 10's agreement says her records go back to Dana.
+- Any claim the file doesn't make, such as how long a token lasts or what a company does when an account holder dies.

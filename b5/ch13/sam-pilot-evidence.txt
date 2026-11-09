@@ -1,0 +1,57 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 13, The Report That Renews.
+Harbor & Home Cleaning, Dana Ruiz, Sam Rivera and every customer below are invented. Customer names removed.
+
+PILOT: weekend quote replies, draft-only (scope: ../ch09/sam-pilot-scope.md)
+Pilot weekends: Friday, June 16 to Monday, July 10, 2028. Four weekends.
+"Weekend" means 5:00 p.m. Friday, when the office closes, to 8:00 a.m. Monday.
+The agent reads the hello@ inbox (email and the web form). It never reads voicemail.
+Hours to first reply run from arrival to the first answer a person sent (an approved draft, Dana's own reply, or a phone call Dana logged).
+Read from: the agent's run log (drafts, alerts, stops), the sent folder, and Dana's call log. Outcomes are Dana's count from her calendar, Friday, July 14, 2028.
+----------------------------------------------------------------------------------------------------------------
+#    Wknd  Arrived            Channel   Job asked                 Town            Agent              First reply             By               Hours  Outcome (Dana's count)
+R01  1     Sat 6/17 1:47 p.m. email     standard clean, weekly    Portland        drafted 1:51 p.m.  Sat 2:12 p.m.           Dana, approved   0.42   booked
+R02  1     Sun 6/18 9:15 a.m. email     move-out clean            South Portland  drafted 9:19 a.m.  Sun 9:31 a.m.           Dana, approved   0.27   booked
+R03  1     Sun 6/18 4:50 p.m. web form  deep clean                Falmouth        drafted 4:53 p.m.  Sun 6:20 p.m.           Dana, edited     1.50   booked
+R04  2     Fri 6/23 8:05 p.m. web form  move-out clean            Westbrook       drafted 8:09 p.m.  Fri 8:30 p.m.           Dana, approved   0.42   booked
+R05  2     Sat 6/24 11:20 a.m. email    deep clean, 2,600 sq ft   Cape Elizabeth  drafted 11:24 a.m. Sat 12:10 p.m. (phone)  Dana, own call   0.83   video walk-through booked
+R06  2     Sun 6/25 10:00 p.m. web form standard clean, weekly    Portland        drafted 10:03 p.m. Mon 6/26 7:40 a.m.      Dana, edited     9.67   booked
+R07  3     Sat 7/1 8:30 a.m.  web form  move-out clean            (none given)    STOPPED 8:33 a.m.  Sat 2:15 p.m.           Dana, own reply  5.75   booked (Westbrook, after the address came back)
+R08  3     Sat 7/1 1:40 p.m.  email     standard clean            Scarborough     drafted 1:44 p.m.  Sat 2:05 p.m.           Dana, approved   0.42   booked
+R09  3     Sun 7/2 9:10 a.m.  web form  small-office clean        Portland        drafted 9:13 a.m.  Sun 9:50 a.m.           Dana, approved   0.67   walk-through booked
+R10  4     Fri 7/7 9:45 p.m.  web form  move-out clean            South Portland  drafted 9:49 p.m.  Sat 7/8 7:30 a.m.       Dana, edited     9.75   no answer to the reply
+R11  4     Sun 7/9 8:20 p.m.  email     deep clean                Portland        drafted 8:24 p.m.  Mon 7/10 8:10 a.m.      office, approved 11.83  still talking
+----------------------------------------------------------------------------------------------------------------
+Not counted: Dana's three test requests from her own phone on Saturday, June 17 (chapter 12, ../ch12/requests.txt). R01 is the real request that arrived that afternoon.
+Removed before counting: one duplicate. The R04 customer sent the web form twice, at 8:05 and 8:07 p.m.; the agent drafted one reply.
+R07 stop: the form had no town or address, so the agent could not tell whether the home was in the service area or owed a travel fee. It wrote [CHECK: town missing] and alerted Dana. It drafted nothing.
+R05: the draft offered the free video walk-through (homes over 2,500 sq ft) and gave no price. Dana chose to call instead. The draft was never sent.
+Edits: Dana changed three approved drafts before sending: R03 (added the first open Thursday), R06 (put the weekly discount in her own words), R10 (added the renter move-out package).
+
+AGENT RUN LOG, PILOT TOTALS
+Requests read: 11 (after the duplicate)
+Drafts written: 10, every one within 4 minutes of arrival
+Stops with a [CHECK]: 1 (R07)
+One-line alerts to Dana: 11
+Drafts Dana approved and sent: 9 (6 as written, 3 edited)
+Drafts not sent: 1 (R05, Dana phoned)
+Messages the agent sent to a customer: 0
+Planted-flaw checks from chapter 12, run every Friday: 4 runs, 4 caught
+
+OUTSIDE THE PILOT (the agent never sees these)
+V1  Sat 6/24 10:05 a.m. voicemail, move-out quote, returned Mon 6/26 8:30 a.m. by the office
+V2  Sat 7/8 4:40 p.m.  voicemail, deep clean quote, returned Mon 7/10 8:45 a.m. by the office
+
+BEFORE THE PILOT: the four weekends before (source: ../ch10/dana-weekend-requests.txt)
+As Dana pulled them: requests 11. Median hours to first reply: 42.1. First reply before 8:00 a.m. Monday: 4 of 11. Went quiet after the first reply: 2 of 11.
+All eleven came from the hello@ inbox (email and the web form), the same channels the pilot reads, so the comparison uses all eleven.
+Known lost to a faster company: 1 (03). Booked: 6 of 11, plus 1 walk-through and 1 video walk-through set (Dana's count).
+
+PILOT, COMPUTED (python3 -I, sorted hours, the sixth of eleven)
+Median hours to first reply: 0.83 (50 minutes)
+First reply before 8:00 a.m. Monday: 10 of 11 (R11 waited until 8:10 a.m. Monday)
+Went quiet after the first reply: 1 of 11 (R10)
+Booked, Dana's count: 7 of 11 first cleans, plus 2 walk-throughs
+
+AI VISIBILITY
+Not part of this pilot. On Tuesday, July 11, 2028, Sam asked one engine one of Harbor & Home's ten frozen questions, by hand, once. Harbor & Home was named. That is one capture, not a reading.
+The scheduled monthly scan of the ten questions reads next on Tuesday, August 8, 2028.

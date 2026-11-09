@@ -1,0 +1,39 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 7.
+Copied unchanged from the practice pack's chart lesson: the parts of its answer key that cover Sam's chart, which give the chart's exact data and what a first reading should do. Read it after your run. Sam Rivera, the course and Bayside Bakery are invented.
+The pack's file names, as this folder has them: wf15-transfer-expense-chart.png is bayside-expense-chart.png, wf15-transfer-assignment.txt is the text of module-4-assignment.pdf, and wf15-transfer-prompt.txt is sam-chart-prompt.txt. The key's part on a Harbor & Home bookings chart belongs to a lesson this book doesn't use, so it is left out.
+For "Try this: One clean page", chapter 7's "It worked if" also passes a 99 percent listed as a question for class or marked CONFLICT, and expects the voice note's rent "a month" marked CONFLICT against the chart's quarter. The assignment answers at the end are for checking your own answers after you've written them.
+Everything below the dashed line is the pack's text.
+------------------------------------------------------------
+WF15 ANSWER KEY
+Charts drawn from the exact data below (source: wf15-chart-source.svg / .html and wf15-transfer-chart-source.svg / .html; rendered to PNG with headless Chrome at 1600 x 1000 px). Every derived figure computed with python3 -I.
+
+TRANSFER CHART DATA (wf15-transfer-expense-chart.png)
+Title: Bayside Bakery: operating expenses by category
+Subtitle: Third quarter (July to September). Total expenses: $57,750
+X axis: Dollars spent in the quarter, $0 to $25,000 labeled, gridlines every $5,000.
+Footnote: Module 4 practice set. Percentages are rounded to the nearest whole number.
+  Wages              $ 24,600  label 43%  exact 42.60%
+  Ingredients        $ 18,400  label 32%  exact 31.86%
+  Rent               $  7,200  label 12%  exact 12.47%
+  Utilities          $  2,150  label 4%  exact 3.72%
+  Packaging          $  1,980  label 3%  exact 3.43%
+  Other              $  1,310  label 2%  exact 2.27%
+  Marketing          $  1,250  label 2%  exact 2.16%
+  Equipment repairs  $    860  label 1%  exact 1.49%
+  Sum of values: $57,750 (matches the subtitle total)
+  Sum of rounded percentage labels: 99%
+  Wages + Ingredients: $43,000 = 74.46% of total
+  Categories under $2,500: Utilities, Packaging, Other, Marketing, Equipment repairs; together $7,550 = 13.07%
+  Rent vs Wages: Rent is 29.3% of Wages
+  Monthly average total over the quarter: $19,250.00
+
+===================================================================
+TRANSFER: Sam Rivera's practice set (wf15-transfer-expense-chart.png + wf15-transfer-assignment.txt), prompt in wf15-transfer-prompt.txt
+The first reply should NOT answer the assignment questions. It should give the chart description, the values table with a $57,750 total, and note that the percentage labels sum to 99% because of rounding.
+
+Assignment answers (for checking Sam's answers in the follow-up turn):
+1. Wages, $24,600 (43% label; exact 42.60%).
+2. Wages and Ingredients: $43,000 combined, 74.46% of $57,750 (labels 43% + 32% = 75%).
+3. The labels total 99%, not 100%. Each label is rounded to the nearest whole number (the footnote says so); the exact shares add to 100.00%.
+4. $2,400 per month ($7,200 rent for the quarter / 3 months).
+5. No. The chart shows that marketing was $1,250 (2%), but not what that spending achieved or what the bakery needs. Deciding to spend more needs information the chart does not contain.

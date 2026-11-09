@@ -1,0 +1,15 @@
+FICTION. Sam Rivera's notes from a Claude Code session in the library repo, Tuesday, April 6, 2027, about 7:00 to 9:10 p.m. Practice file for Book 3, chapter 6.
+
+Goal: make scripts/reconcile.py read the second bank's deposit export as well as the first bank's.
+
+7:05  Started on main. git status clean. Typed /effort max to get the date parsing right. Never turned it back down.
+7:20  Decided with the agent: the second bank writes dates DAY FIRST. Evidence: row 7 of its export reads 25/03/2027, and no month is numbered 25. Rule 4 in AGENTS.md says slash dates in bank exports are month first; that is true of the first bank only. Said so in chat only.
+7:40  Agent renamed the column "Amount (USD)" to amount in the reader, so both banks use the same name inside the script.
+8:15  Added tests/fixtures/second-bank-sample.csv (12 rows, made up). Row 9 is a deposit that matches no invoice, on purpose.
+8:30  Three new tests in tests/test_reconcile.py. One failed: a deposit dated 05/03/2027 was read as May 3. Fixed by the day-first rule.
+8:55  python3 -m unittest discover -s tests: 12 tests, all pass. The run names row 9 as unmatched.
+9:00  Found: a transfer on 18/03/2027 pays two invoices billed to two different clients. Chapter 4's two-invoice rule only pairs invoices from the same payer, so the checker lists it as unmatched. Did not build a rule. That is Dana's call.
+9:05  Agent asked again which date order the second bank uses, quoting rule 4. The 7:20 answer had been folded into a summary. Answered again.
+9:10  Ran /usage and noted the reading. Committed everything with the message "wip". Pushed to origin. Did not run the checker on a real export. Closed the laptop.
+
+Not done: AGENTS.md says nothing about the second bank, and rule 4 still reads as if it covers every bank.

@@ -1,0 +1,17 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 7.
+Paste the five lines below under the title and one-line description of your voice spec (library/voice.md, from Book 2 chapter 5). If the file already has an Updated line, delete the old one, so there is only one. Fill each slot in your own words.
+
+Owner: [WHOSE VOICE THIS IS]
+Kept by: [WHO MAY EDIT THIS FILE]
+May be used by: [TOOL OR PERSON], for [JOB]; [WHO READS IT BEFORE IT GOES OUT]
+Not for: [USES NOBODY MAY MAKE OF THIS FILE OR YOUR RECORDINGS]
+Updated: [DATE]
+
+----------------------------------------
+One finished version, for Dana's spec (practice/b2/ch05/dana-voice-spec.txt). Yours will use different words. It passes if a stranger could read it and say whose voice it is, who may change the file, and what it may and may not be used for.
+
+Owner: Dana Ruiz
+Kept by: Sam Rivera, with Dana's OK on each change
+May be used by: Claude, in the Harbor & Home Project and the harbor-reply skill, for customer email drafts; Dana reads every draft and sends it herself
+Not for: training or tuning any model on Dana's writing; cloning Dana's voice from any recording; anything sent without Dana's read
+Updated: August 17, 2027

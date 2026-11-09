@@ -1,0 +1,13 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 14, On a Schedule, Under Review.
+The layout for library/schedules/monday-summary.md, one file per scheduled task. Words in capitals inside brackets are slots. New text written for this book; below the dashes it matches the chapter's Save this listing word for word.
+----------------------------------------
+# Schedule: [TASK NAME]
+Runs in: [WHOSE ACCOUNT] · When: [DAY AND TIME, TIME ZONE] · Reads: [FOLDER, AND WHERE IT LIVES]
+Handoff: [WHAT GOES IN THE FOLDER], by [DAY AND TIME]. Owner: [WHO DOES IT]
+Reading rule: read every run in full until three in a row are clean. Then read the first line and the count, with a full read on the first [DAY] of each month. Any change to the task, the file or the facts starts the count again.
+
+## Task
+[THE WHOLE TASK, FROM "Set up a scheduled task for me." TO THE LIMITS LINE]
+
+## Runs
+[DATE] · read [THE DATES THE RUN READ] · [PASS OR FAIL] · [WHAT YOU CHECKED, AND WHAT YOU CHANGED]

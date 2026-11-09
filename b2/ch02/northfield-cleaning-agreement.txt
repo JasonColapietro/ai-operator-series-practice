@@ -1,0 +1,249 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 2.
+Northfield Physical Therapy, Kestrel Commercial Cleaning, Ellen Hart, Raymond Ostrowski and everyone named here are invented, and so are the addresses, phone numbers, emails and amounts. Copied unchanged below the line of dashes from the practice pack's document-summary lesson. It is not a model for a real contract, and nothing in it tells you what any state's law requires.
+----------------------------------------
+CLEANING SERVICES AGREEMENT
+
+This Cleaning Services Agreement (the "Agreement") is made as of December 15, 2025 (the "Signing Date") between:
+
+Northfield Physical Therapy, LLC, an Ohio limited liability company, 1180 Northfield Commons Drive, Dublin, Ohio 43016 ("Client"); and
+
+Kestrel Commercial Cleaning, LLC, an Ohio limited liability company, 2275 Brandt Industrial Parkway, Columbus, Ohio 43219 ("Vendor").
+
+Client and Vendor are each a "Party" and together the "Parties."
+
+
+1. DEFINITIONS
+
+1.1 "Facilities" means the three outpatient physical therapy clinics operated by Client and listed in Exhibit A.
+
+1.2 "Services" means the cleaning services described in Section 3 and Exhibit A.
+
+1.3 "Business Day" means Monday through Friday, excluding the holidays listed in Section 3.6.
+
+1.4 "Monthly Fee" means the fixed monthly charge for a Facility stated in Section 4.1.
+
+1.5 "Service Failure" means any task listed in Exhibit A that Vendor did not perform, or performed so poorly that it must be redone, on a scheduled service night.
+
+
+2. TERM AND RENEWAL
+
+2.1 Initial Term. This Agreement begins on January 1, 2026 and continues through December 31, 2026 (the "Initial Term").
+
+2.2 Automatic Renewal. At the end of the Initial Term and each renewal term, this Agreement renews automatically for an additional twelve (12) months unless either Party gives the other written notice of non-renewal at least thirty (30) days before the end of the then-current term.
+
+2.3 Price Adjustment on Renewal. Vendor may increase the Monthly Fees for any renewal term by no more than five percent (5%) by giving Client written notice at least forty-five (45) days before the renewal term begins. Any increase greater than five percent (5%) requires Client's written consent. If Vendor does not give timely notice, the Monthly Fees for the renewal term stay the same.
+
+
+3. SERVICES
+
+3.1 Schedule. Vendor will perform the Services at each Facility five (5) nights per week, Monday through Friday, after the Facility closes. Vendor personnel will not arrive before 7:30 p.m. and will finish and leave each Facility by 5:30 a.m. the following morning.
+
+3.2 Treatment Areas. In treatment rooms, open gym areas and exercise spaces, Vendor will clean and disinfect treatment tables, mats, exercise equipment handles, door handles and other high-touch surfaces nightly, using an EPA-registered disinfectant suitable for healthcare settings, following the label contact time.
+
+3.3 Restrooms. Vendor will clean and disinfect all restrooms nightly and restock toilet tissue, paper towels and hand soap from supplies stored at the Facility.
+
+3.4 Excluded Services. The Services do not include: (a) carpet shampooing or extraction; (b) exterior window washing; (c) snow and ice removal; (d) cleanup of blood or other bodily fluids beyond routine surface disinfection; (e) pest control; (f) moving furniture or equipment weighing more than fifty (50) pounds; or (g) handling or disposing of regulated medical waste or sharps containers.
+
+3.5 Additional Services. Client may request services beyond Exhibit A, such as a one-time deep clean or post-construction cleanup, by written request at least three (3) Business Days in advance. Additional services are billed at forty-eight dollars ($48.00) per cleaner per hour, with a two (2) hour minimum per visit.
+
+3.6 Holidays. Vendor will not perform Services on New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day or Christmas Day. Monthly Fees are not reduced for these holidays. If Client wants service on a holiday, it is billed as an additional service under Section 3.5 at one and one-half (1.5) times the hourly rate.
+
+3.7 Facility Closures. If Client closes a Facility on a night that is not a holiday, Client will tell Vendor by 3:00 p.m. that day. Monthly Fees are not reduced for closures of three (3) or fewer nights in a calendar month.
+
+
+4. FEES AND PAYMENT
+
+4.1 Monthly Fees. Client will pay Vendor the following Monthly Fees during the Initial Term:
+
+   Dublin clinic:       $2,150.00 per month
+   Westerville clinic:  $1,875.00 per month
+   Grove City clinic:   $1,640.00 per month
+
+4.2 Invoices. Vendor will invoice Client on the first Business Day of each month for that month's Services, plus any additional services and supply charges from the prior month. Payment is due within thirty (30) days of the invoice date.
+
+4.3 Supplies. Vendor provides all cleaning chemicals, tools and equipment at no extra charge. Paper products (toilet tissue and paper towels) and hand soap are purchased by Vendor and billed to Client monthly at Vendor's cost plus ten percent (10%). Vendor will provide copies of supplier receipts upon request.
+
+4.4 Late Payment. Any amount not paid within fifteen (15) days of the invoice date will accrue a late charge of one and one-half percent (1.5%) per month on the unpaid balance until paid.
+
+4.5 Disputed Charges. If Client disputes any part of an invoice, Client will notify Vendor in writing within ten (10) Business Days of receiving it and will pay the undisputed portion on time. The Parties will work in good faith to resolve the dispute within thirty (30) days.
+
+
+5. VENDOR PERSONNEL
+
+5.1 Employees. Vendor will perform the Services using its own employees. Vendor will not use subcontractors without Client's prior written consent.
+
+5.2 Background Checks. Before assigning any person to a Facility, Vendor will complete a criminal background check on that person. Vendor will keep records of these checks and make them available to Client upon request.
+
+5.3 Supervision. A Vendor supervisor will inspect each Facility at least once per week during service hours. Vendor will send Client a written inspection report for each Facility by the fifth (5th) Business Day of each month.
+
+5.4 Removal of Personnel. Client may ask Vendor to remove any person from service at Client's Facilities for any lawful reason. Vendor will remove that person immediately and assign a replacement within five (5) Business Days.
+
+5.5 Identification. Vendor personnel will wear Vendor uniforms and photo identification badges at all times while at a Facility.
+
+
+6. ACCESS, KEYS AND SECURITY
+
+6.1 Keys and Codes. Client will provide Vendor with keys, key fobs and alarm codes needed to enter each Facility. Vendor will keep a written log of who holds each key and fob and give Client a copy upon request.
+
+6.2 Lost Keys. If Vendor or its personnel lose a key or fob, Vendor will tell Client within twenty-four (24) hours and will reimburse Client for the actual cost of rekeying locks or replacing fobs.
+
+6.3 Alarm Fees. Vendor will pay any false alarm fees charged to Client that result from the actions of Vendor personnel.
+
+6.4 Closing Up. Before leaving each night, Vendor personnel will lock all exterior doors, turn off lights that Client has marked to be turned off, and set the alarm.
+
+
+7. CONFIDENTIALITY AND PATIENT PRIVACY
+
+7.1 Patient Information. Vendor understands that its personnel may work in areas where patient records, schedules, computer screens or other patient information are present. Vendor personnel will not read, copy, photograph, remove or discuss any patient information or other Client records, and will not use Client computers, phones or printers.
+
+7.2 Training. Vendor will train all personnel assigned to the Facilities on the requirements of this Section 7 before their first shift and at least once each year after that, and will provide training records to Client upon request.
+
+7.3 Reporting. Vendor will report to Client's operations coordinator, within twenty-four (24) hours, any event in which Vendor personnel saw, handled or removed patient information in a way not allowed by this Section 7.
+
+7.4 Survival. The obligations in this Section 7 continue after this Agreement ends.
+
+
+8. QUALITY AND SERVICE FAILURES
+
+8.1 Reporting. Client will report a Service Failure by email to Vendor's assigned account manager within twenty-four (24) hours of the Facility opening the next morning.
+
+8.2 Correction. Vendor will correct each reported Service Failure within one (1) Business Day at no charge to Client.
+
+8.3 Service Credit. If any single Facility has three (3) or more reported Service Failures within any thirty (30) day period, Client will receive a credit equal to ten percent (10%) of that Facility's Monthly Fee for the month in which the third Service Failure occurred. The credit will appear on the next invoice.
+
+8.4 Quarterly Review. At Client's request, Vendor's account manager will meet with Client once per calendar quarter to review service quality, inspection reports and any Service Failures.
+
+
+9. INSURANCE
+
+9.1 Required Coverage. During the term of this Agreement, Vendor will carry, at its own cost: (a) commercial general liability insurance of at least $1,000,000 per occurrence and $2,000,000 in the aggregate; (b) workers' compensation insurance as required by Ohio law; (c) commercial auto liability insurance of at least $1,000,000 per accident; and (d) employee dishonesty (crime) coverage of at least $50,000 that covers loss of Client property caused by Vendor personnel.
+
+9.2 Certificates. Vendor will give Client certificates of insurance showing the coverage in Section 9.1, naming Client as an additional insured on the general liability policy, before the Initial Term begins and again at each renewal.
+
+9.3 Notice of Cancellation. Vendor will give Client at least thirty (30) days' written notice before any required policy is canceled or reduced.
+
+
+10. INDEMNIFICATION
+
+10.1 By Vendor. Vendor will defend, indemnify and hold harmless Client and its owners, employees and agents from claims, losses and expenses (including reasonable attorney fees) arising from (a) the negligence or willful misconduct of Vendor or its personnel, or (b) Vendor's breach of this Agreement.
+
+10.2 By Client. Client will defend, indemnify and hold harmless Vendor and its owners, employees and agents from claims, losses and expenses (including reasonable attorney fees) arising from the negligence or willful misconduct of Client or its employees.
+
+
+11. LIMITATION OF LIABILITY
+
+11.1 Cap. Except for (a) a Party's obligations under Section 10 for bodily injury or damage to physical property, and (b) a breach of Section 7, neither Party's total liability under this Agreement will be more than the total fees paid by Client to Vendor during the six (6) months before the event that gave rise to the claim.
+
+11.2 No Indirect Damages. Neither Party is liable to the other for lost profits or for indirect, incidental, special or consequential damages, even if told such damages were possible.
+
+
+12. TERMINATION
+
+12.1 Termination for Convenience. Either Party may end this Agreement at any time, for any reason, by giving the other Party at least sixty (60) days' written notice. If Client ends this Agreement under this Section 12.1 and the termination date falls within the first six (6) months of the Initial Term, Client will pay Vendor an early termination fee equal to one (1) month of the total Monthly Fees for all Facilities.
+
+12.2 Termination for Cause. Either Party may end this Agreement if the other Party materially breaches it and does not cure the breach within fifteen (15) days after receiving written notice describing the breach.
+
+12.3 Immediate Termination by Client. Client may end this Agreement immediately by written notice if (a) Vendor fails to maintain the insurance required by Section 9.4, or (b) Vendor or its personnel breach Section 7.
+
+12.4 After Termination. Within three (3) Business Days after this Agreement ends, Vendor will return all keys, fobs and access cards and confirm in writing that alarm codes have been removed from its records. Vendor's final invoice will charge Monthly Fees only through the last day of service, prorated by day.
+
+
+13. NON-SOLICITATION
+
+13.1 During the term of this Agreement and for twelve (12) months after it ends, Client will not hire, directly or through another company, any Vendor employee who performed Services at a Facility during the prior twelve (12) months, unless Vendor agrees in writing.
+
+13.2 If Client hires such an employee without Vendor's written agreement, Client will pay Vendor a placement fee of three thousand dollars ($3,000.00) for each person hired.
+
+
+14. INDEPENDENT CONTRACTOR
+
+Vendor is an independent contractor. Vendor is solely responsible for the wages, payroll taxes, benefits, supervision and scheduling of its personnel. Nothing in this Agreement makes Vendor personnel employees or agents of Client.
+
+
+15. ASSIGNMENT
+
+Neither Party may assign this Agreement without the other Party's written consent, except that Vendor may assign it to a buyer of all or substantially all of Vendor's business by giving Client at least thirty (30) days' written notice. Client may end this Agreement without penalty within sixty (60) days after receiving such notice.
+
+
+16. COMPLIANCE AND SAFETY
+
+16.1 Vendor will follow all laws that apply to its work, including workplace safety rules.
+
+16.2 Vendor will keep a current safety data sheet for every chemical it uses at a Facility, stored in a labeled binder at each Facility, and will give Client copies upon request.
+
+16.3 Vendor will use fragrance-free products in treatment areas unless Client agrees otherwise in writing.
+
+
+17. DISPUTE RESOLUTION
+
+If a dispute arises under this Agreement, the Parties will first try to resolve it through good-faith discussion between Client's clinic director and Vendor's owner for at least fifteen (15) days. If that does not resolve it, the Parties will try mediation in Franklin County, Ohio, with the cost of the mediator split equally, before either Party files a lawsuit. This Section does not stop either Party from seeking an urgent court order to protect property or confidential information.
+
+
+18. NOTICES
+
+18.1 General Notices. Notices under this Agreement must be in writing and delivered by hand, by certified mail with return receipt requested, or by email with confirmation of receipt, to the addresses below or to any new address a Party gives in writing.
+
+18.2 Notices of Non-Renewal or Termination. Notwithstanding Section 18.1, any notice of non-renewal under Section 2.2 or termination under Section 12 must be delivered by hand or by certified mail with return receipt requested. Email alone is not sufficient for these notices. Notice is effective on the date it is received.
+
+18.3 Addresses.
+   To Client: Northfield Physical Therapy, LLC, Attn: Clinic Director, 1180 Northfield Commons Drive, Dublin, Ohio 43016. Email: ehart@northfieldpt.example.com
+   To Vendor: Kestrel Commercial Cleaning, LLC, Attn: Owner, 2275 Brandt Industrial Parkway, Columbus, Ohio 43219. Email: accounts@kestrelclean.example.com
+
+
+19. GOVERNING LAW
+
+This Agreement is governed by the laws of the State of Ohio.
+
+
+20. ENTIRE AGREEMENT; CHANGES
+
+This Agreement, including Exhibit A, is the entire agreement between the Parties about its subject and replaces all earlier proposals and discussions. Any change must be in writing and signed by both Parties. If any part of this Agreement is found unenforceable, the rest stays in effect.
+
+
+21. COUNTERPARTS AND SIGNATURES
+
+This Agreement may be signed in counterparts and by electronic signature, each of which counts as an original.
+
+
+SIGNED:
+
+NORTHFIELD PHYSICAL THERAPY, LLC
+By: Ellen Hart, DPT
+Title: Clinic Director
+Date: December 15, 2025
+
+KESTREL COMMERCIAL CLEANING, LLC
+By: Raymond Ostrowski
+Title: Owner
+Date: December 15, 2025
+
+
+EXHIBIT A: FACILITIES AND SERVICE SCHEDULE
+
+A.1 Facilities
+
+   Dublin clinic: 1180 Northfield Commons Drive, Dublin, Ohio 43016. About 6,200 square feet.
+   Westerville clinic: 455 Heatherdown Way, Westerville, Ohio 43081. About 4,800 square feet.
+   Grove City clinic: 3090 Orchard Bend Road, Grove City, Ohio 43123. About 4,100 square feet.
+
+A.2 Nightly Tasks (each service night)
+   - Empty all trash and recycling; replace liners.
+   - Clean and disinfect treatment tables, mats and exercise equipment handles (Section 3.2).
+   - Clean and disinfect restrooms; restock paper products and soap (Section 3.3).
+   - Wipe front desk counters, check-in tablets (exterior only) and waiting room chairs.
+   - Vacuum carpeted areas and mop hard floors.
+   - Clean break room counters, sink and microwave exterior.
+
+A.3 Weekly Tasks
+   - Machine-scrub the open gym floor at each Facility.
+   - Dust reachable surfaces up to eight (8) feet, including window sills and frames.
+   - Clean interior glass on entry doors and waiting room windows.
+   - Wipe inside of break room microwave and refrigerator exterior.
+
+A.4 Monthly Tasks
+   - Wipe air vents and return grilles that can be reached from a step stool.
+   - Clean baseboards throughout.
+   - Spot-clean walls near treatment tables and in hallways.
+
+A.5 Account Manager
+   Vendor's assigned account manager for Client is Denise Albright, phone 614-555-0129, email dalbright@kestrelclean.example.com.

@@ -1,0 +1,21 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 8.
+The estimate template with its slots, for library/artifacts/estimate-template.md. New prompt text written for this book, modeled on the practice pack's estimate request; it is neither practice-pack text nor Jason's words. It names no real or fictional person: you fill the slots.
+Copy everything below the line of dashes. Words in capitals inside square brackets are slots. Leave [CHECK: what is missing] and [CHECK] exactly as written: they are markers, not slots.
+----------------------------------------
+# Estimate template: [BUSINESS]
+Saved: [TODAY'S DATE]
+Use it for: a one-page estimate or proposal that someone approves from the page alone
+
+Job: Make a one-page [ESTIMATE OR PROPOSAL] as a document for [CLIENT], [WHO THEY ARE], from me, [MY NAME AND ROLE]. [WHO ELSE WILL READ IT] will read it too, so it has to make sense to someone who never saw the request.
+
+Material: Use only [MY FACTS FILE] and [MY RULES FILE], plus the request below. Every price must come from [MY FACTS FILE].
+
+Shape: One page. A price table with a separate total for [EACH VISIT, STAGE OR OPTION], showing each line item and its price. Then an answer to every question in the request, in the order asked. Then what the price includes, what it doesn't, and [THE NEXT STEP]. [TONE]
+
+Check: Put every assumption you made about a price in a numbered Assumptions section at the end, one per line, and nowhere else. If the request asks for something [MY BUSINESS] doesn't do, say so in one sentence and suggest no one else. Don't promise a day, a time or a result the files don't give. If a fact is missing, write [CHECK: what is missing] where it would go, and list every [CHECK] under the Assumptions.
+
+The request:
+[PASTE THE REQUEST]
+
+Repair that fixed it:
+Transfer run:

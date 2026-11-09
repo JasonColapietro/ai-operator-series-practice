@@ -1,0 +1,96 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 2.
+Harbor & Home Cleaning, Dana Ruiz and the four suppliers named here are invented, and so are the addresses, phone numbers and amounts. Copied unchanged below the line of dashes from the practice pack's pull-details-into-a-table lesson, where it is the second case.
+----------------------------------------
+SUPPLIER INVOICES, OCTOBER 2026
+Saved by Dana Ruiz from email and the supplier portals. Four invoices.
+
+==============================================================================
+INVOICE 1 OF 4
+CASCO BAY JANITORIAL SUPPLY
+88 Warren Avenue, Westbrook, ME 04092 | 207-555-0133
+
+Bill to: Harbor & Home Cleaning, Attn: Dana Ruiz
+         214 Fore Street, Suite 3, Portland, ME
+
+Invoice #: INV-30417
+Invoice date: October 2, 2026
+Terms: Net 30
+Due date: November 1, 2026
+
+  Item                                                        Qty     Unit price    Amount
+  Fragrance-free all-purpose cleaner, 1 gal                    12  x $ 14.50  = $  174.00
+  Microfiber cloths, 24-pack                                    6  x $ 18.75  = $  112.50
+  Nitrile gloves, box of 100, size M                            8  x $ 11.20  = $   89.60
+  HEPA vacuum bags, 5-pack                                      4  x $ 22.00  = $   88.00
+
+  Subtotal: $464.10
+  Sales tax (5.5%): $25.53
+  Free shipping on orders over $250: $0
+  TOTAL DUE: $489.63
+
+==============================================================================
+INVOICE 2 OF 4
+PINE STATE PAPER CO.
+1200 Riverside Street, Portland, ME 04103 | 207-555-0175
+
+Bill to: Harbor & Home Cleaning, Attn: Dana Ruiz
+         214 Fore Street, Suite 3, Portland, ME
+
+Invoice #: 7781
+Invoice date: 10/05/2026
+Terms: Due on receipt
+
+  Item                                                        Qty     Unit price    Amount
+  Paper towels, case of 12 rolls                                5  x $ 31.40  = $  157.00
+  Trash bags, 13 gal, case of 200                               3  x $ 27.90  = $   83.70
+
+  Subtotal: $240.70
+  Sales tax (5.5%): $13.24
+  Delivery: $18.00
+  TOTAL DUE: $271.94
+
+==============================================================================
+INVOICE 3 OF 4
+NORTHEAST GREEN CLEAN PRODUCTS
+PO Box 417, Brunswick, ME 04011 | 207-555-0145
+
+Bill to: Harbor & Home Cleaning, Attn: Dana Ruiz
+         214 Fore Street, Suite 3, Portland, ME
+
+Invoice #: NGC-0915
+Invoice date: October 9, 2026
+Terms: Net 15
+Due date: October 23, 2026
+
+  Item                                                        Qty     Unit price    Amount
+  Pet-safe floor cleaner concentrate, 1 gal                     6  x $ 23.80  = $  142.80
+  Fragrance-free glass cleaner, 1 gal                           4  x $ 16.25  = $   65.00
+  Fume-free oven cleaner, 24 oz                                10  x $  7.95  = $   79.50
+
+  Subtotal: $287.15
+  Sales tax (5.5%): $15.79
+  Shipping: $9.95
+  TOTAL DUE: $312.89
+
+==============================================================================
+INVOICE 4 OF 4
+CASCO BAY JANITORIAL SUPPLY
+88 Warren Avenue, Westbrook, ME 04092 | 207-555-0133
+
+Bill to: Harbor & Home Cleaning, Attn: Dana Ruiz
+         214 Fore Street, Suite 3, Portland, ME
+
+Invoice #: INV-30552
+Invoice date: October 16, 2026
+Terms: Net 30
+Due date: November 15, 2026
+
+  Item                                                        Qty     Unit price    Amount
+  Mop heads, microfiber, 18 in                                 10  x $  6.40  = $   64.00
+  Spray bottles, 32 oz, with trigger                           24  x $  1.85  = $   44.40
+  Return credit: HEPA vacuum bags, 5-pack (from INV-30417)     -2  x $ 22.00  = -$44.00
+
+  Subtotal: $64.40
+  Sales tax (5.5%): $3.54
+  Shipping (order under $250): $12.50
+  TOTAL DUE: $80.44

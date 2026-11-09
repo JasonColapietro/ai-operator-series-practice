@@ -1,0 +1,15 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 12. What "Try this: Score five assets" and "Try this: Move one dependency" accept on the practice route (Sam's setup as Book 4, chapters 1 to 11 leave it). Read it after your own try.
+----------------------------------------
+Scores are judgment calls. A score is right if its reason is true of Sam's setup. These are the readings the chapter accepts.
+
+Row 1, prompt library and keepers: Prove 2. Terms 2. Transfer 2. (Transfer 1 is also accepted if your reason is that the keepers were written for one chat app's features.)
+Row 2, skills: Prove 2. Terms 2. Transfer 2. Transfer 1 is accepted if your reason is the folder link: Claude Code reads .claude/skills/ and Codex reads .agents/skills/, so a fresh machine needs the link made again.
+Row 3, checker code: 2, 2, 2.
+Row 4, the night job: Prove 1 (dated reports, nothing outside). Terms 0 or 1: 0 because it runs on Sam's personal login, whose terms Sam can't change and Dana can't take over; 1 is accepted if your reason is that clause 4.3 already says whose it should be. Transfer 0: it needs Sam's Claude login. Any reading that puts Transfer above 0 before the move is not accepted.
+Row 5, Dana's Monday summary: 1, 1, 1. Terms 2 is accepted if your reason is that it's Dana's own account and her own decision. Transfer 0 is accepted if your reason is that it lives only in Claude's scheduled-task settings (it's written in schedules.md, which is why the chapter scores it 1).
+
+The lowest Transfer score is row 4. Any row 4 move counts if, after it, the job runs with no AI login. plain_night_job.py is the chapter's route. A cron, launchd or Task Scheduler line that calls reconcile.py and monday_report.py directly, as Book 3's monday_report.py usage line shows, is just as good.
+
+It worked if: the moved job ran on a second machine, or under a second account, and its report matched (compare_report.py prints "dates and total agree", or the totals and dates match by eye), and row 4 is re-scored with a date. Transfer 2 after the move.
+
+Not accepted: moving the job to another AI vendor's scheduler. It would still depend on one login, so its Transfer score stays 0.

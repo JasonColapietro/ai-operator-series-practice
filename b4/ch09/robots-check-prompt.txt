@@ -1,0 +1,10 @@
+PRACTICE FILE (see README.txt). The prompt card for "Try this: Publish your terms and check the bots", Book 4, Chapter 9.
+Paste everything below this line, then your robots.txt and your decision.
+
+Job: Check my robots.txt against the decision I describe.
+Material: The robots.txt text and my decision, both pasted below.
+Shape: A table: each user agent named in the file, what the file
+allows or blocks for it, whether that matches my decision.
+Check: Read each Disallow under the user agent above it. If a bot
+I care about is not named, say which rule applies to it. Do not
+invent bot names.

@@ -1,0 +1,31 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 15.
+Slot values for the practice route, for Keeper #10's two cases and both runs of Keeper #9. Sam Rivera, Dana Ruiz, Harbor & Home Cleaning, Sam's class and the newsletter are invented.
+
+------------------------------------------------------------
+KEEPER #10, FIRST CASE: SAM'S DISCUSSION POST
+[DATE]                     November 20, 2026 (the Friday review that named this keeper)
+[WORD LIMIT]               250
+[WHO READS IT]             my instructor and my classmates in an evening bookkeeping class
+[THE POINT THAT MATTERS]   the comparison with closing the register at the store
+[DRAFT]                    everything below the "---" line in sam-discussion-post-9-draft.txt
+
+------------------------------------------------------------
+KEEPER #10, SECOND CASE (TRANSFER RUN): DANA'S NEWSLETTER SPOTLIGHT
+[WORD LIMIT]               75
+[WHO READS IT]             members of a local business newsletter
+[THE POINT THAT MATTERS]   the 24-hour come-back guarantee, and one way to book
+[DRAFT]                    everything below the "---" line in dana-spotlight-draft.txt
+
+------------------------------------------------------------
+KEEPER #9, PRACTICE ROUTE, FIRST RUN: DANA'S NEWSLETTER SPOTLIGHT
+[WHO I AM, IN ONE SENTENCE]   I own Harbor & Home Cleaning, a small home-cleaning business, and I do the office work myself.
+When the coach asks what real piece of work you want to use, answer:
+"A 75-word member spotlight for a local business newsletter, about Harbor & Home Cleaning, a cleaning company. My draft is 115 words. I'll paste it when a lesson needs it."
+For Lesson 3, the facts to check claims against are in practice/shared/harbor-home-business-facts.txt.
+
+------------------------------------------------------------
+KEEPER #9, PRACTICE ROUTE, TRANSFER RUN: SAM'S DISCUSSION POST
+[WHO I AM, IN ONE SENTENCE]   I work retail and take an evening bookkeeping class on Tuesdays and Thursdays from 6:30 to 9.
+When the coach asks what real piece of work you want to use, answer:
+"A 250-word discussion post for my evening bookkeeping class, explaining why a business closes its temporary accounts at the end of a period. My draft is 335 words. I'll paste it when a lesson needs it."
+For Lesson 3, the claims you mark come from the answer your own Lesson 2 prompt got back. Where to check them: the closing-entries chapter of Sam's textbook, or the instructor.

@@ -1,0 +1,25 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 3.
+What a cleaned copy of harbor-home-client-list.csv has to get right, on the practice route of "Try this: Clean the client list". Counts were computed with a Python script from the file and match the practice pack's answer key. Wording will differ, so check the rows and the flags. The service area lives in practice/shared/harbor-home-business-facts.txt (SERVICE AREA); this key points to it instead of repeating it. Every client named is invented.
+----------------------------------------
+MUST MATCH
+- Rows in: 20. Rows out: 20, in the original order. Nothing merged or deleted.
+- Row 7, Bart Kowalski: "biweekly" kept as written and flagged. It can mean twice a week or every two weeks. Changed to Every 2 weeks with no flag is a fail.
+- Row 12, Kate Sullivan, Peaks Island, and row 18, Paul Whitcomb, Gorham: towns kept as written and flagged. Neither is on the card's list of towns. A strong reply also notes that the facts file's SERVICE AREA lines rule out the islands, though the card doesn't ask for it.
+- Row 20, Helen Pratt: "monthly" kept and flagged. It isn't one of the card's frequency values.
+- Row 5, Femi Okonjo: phone stays 555-0154 and is flagged. No area code added.
+- Row 19, Quynh Tran: phone 207-555-01677 has 11 digits. Kept as written and flagged, no digit removed.
+- Row 6, Anne Fischer: email afischer@example kept as written and flagged.
+- Rows 1 and 16, Maria Alvarez: both kept, each marked "possible duplicate of row N" pointing at the other.
+
+UNKNOWN CELLS
+- 2 in all: row 5 frequency (blank) and row 9 email (blank). Each reads unknown. Neither is filled in from another row.
+
+ROWS WITH SOMETHING IN CHECK
+- 9: rows 1, 5, 6, 7, 12, 16, 18, 19 and 20.
+
+FORMATTING THAT SHOULD SIMPLY HAPPEN (no flag needed)
+- "Last, First" names turned around (row 1 becomes Maria Alvarez); "O'BRIEN, TOM" becomes Tom O'Brien; "elsa lindqvist" becomes Elsa Lindqvist.
+- S. Portland, So. Portland and Cape E. spelled out; "portland" capitalized.
+- Phones with 10 digits written like 207-555-0150.
+- Emails lowercased (LChen@Example.com becomes lchen@example.com).
+- "every two weeks", "every 2 wks" become Every 2 weeks; "one time" and "one-time" become One-time; "Move out" becomes Move-out.

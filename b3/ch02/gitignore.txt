@@ -1,0 +1,21 @@
+# PRACTICE FILE. The AI Operator Series, Book 3, Chapter 2, Listing 2.1, the starter .gitignore.
+# Rename this file to .gitignore inside library/. Lines that start with # are notes; git skips them.
+
+# Secrets: passwords and keys never go in git
+.env
+.env.*
+
+# Chat and account exports hold personal data
+exports/
+
+# Claude Code settings for this computer only, and its scratch worktrees
+.claude/settings.local.json
+.claude/worktrees/
+
+# Notes meant for this computer only
+*.local.md
+
+# Clutter from macOS, Windows and Python
+.DS_Store
+Thumbs.db
+__pycache__/

@@ -1,0 +1,83 @@
+PRACTICE FILE. The AI Operator Series, Book 5, Before This Book.
+The pieces of library/ that Book 5 leans on. Tick each one your folder holds by typing an x between its brackets, then save this file. Where yours carry your own names (a Project named for your business, a skill named for your own job), go by what's inside. Any practice-cast name you meet here (Harbor & Home, Dana Ruiz, Sam Rivera, Marcus Lee Design) is fiction. Never write a password, a key or a client's records on this sheet.
+
+After each ticked line, write whose it is: MINE, CLIENT'S (or EMPLOYER'S), or MINE, LICENSED TO [WHO]. If you can't say, write [CHECK: who owns this].
+----------------------------------------
+LIBRARY/ AS BOOK 5 FINDS IT
+
+FROM BOOKS 1 AND 2
+[ ] library/, on a computer or drive you control         Book 1, chapter 1
+[ ]   keepers.md, tested prompts in four parts            Book 1, chapters 1 and 10
+        Book 5 uses the four-part form first in: chapter 1
+[ ]   about-me.md                                         Book 1, chapter 9
+        Book 5 uses it first in: chapter 8 (a message from a named person)
+[ ]   voice.md, how you sound                             Book 2, chapter 5
+        Book 5 uses it first in: chapter 8
+[ ]   projects/<name>/ with instructions.md, facts.md,
+        brief.md, voice.md and canary.md                  Book 2, chapters 4 and 5
+        Book 5 uses it first in: chapter 12 (the no-code delivery route)
+[ ]   everything-else.md, your ranked list (P, $, U)      Book 2, chapter 12
+        Book 5 uses it first in: chapter 1, aimed at other businesses,
+        then chapter 9, where you find a client's list
+[ ]   briefs/template.md, the seven-field brief           Book 2, chapter 13
+        Book 5 uses it first in: chapter 12
+[ ]   exports/, dated copies of your own accounts         Book 1, chapter 14;
+                                                          Book 4, chapter 8
+        Private. It never goes into a repository or to a client.
+
+FROM BOOK 3
+[ ] library/ as a private repository, pushed online     Book 3, chapter 2
+        Book 5 uses it first in: chapter 12
+[ ]   AGENTS.md and CLAUDE.md, the rules both agents read Book 3, chapter 5
+        Book 5 uses it first in: chapter 12
+[ ]   .claude/settings.json with allow, ask and deny rules Book 3, chapter 3
+        Book 5 uses it first in: chapter 12 (nothing outward without a person)
+[ ]   plugins/harbor-ops/ (or your own plugin): skills,
+        hooks and the reviewer, packed to install anywhere Book 3, chapter 11
+        Book 5 uses it first in: chapter 12, then chapter 14
+[ ]   scan/, the weekly visibility scan                   Book 3, chapter 14
+        Book 5 uses it first in: chapter 6
+[ ]   incidents.md and decisions.md                       Book 3, chapters 5 to 16
+        Book 5 uses them first in: chapter 12
+[ ]   your weekly agent review, on the calendar           Book 3, chapter 16
+        Book 5 uses it first in: chapter 13
+[ ]   twenty-year-test.md                                 Book 3, chapter 16
+        Book 5 uses it first in: chapter 15
+
+FROM BOOK 4
+[ ]   OWNERSHIP.md: tools, sovereignty score and the
+        balance sheet                                     Book 4, chapters 1, 12 and 13
+        Book 5 uses it first in: chapter 2
+[ ]   ledger/terms/, one terms card per tool              Book 4, chapter 2
+        Book 5 uses it first in: chapter 11
+[ ]   ledger/labels.md and one ledger per project         Book 4, chapters 3 and 4
+        Book 5 uses them first in: chapter 11
+[ ]   receipts/, with an evidence room and public.md      Book 4, chapters 4 and 5
+        Book 5 uses it first in: chapter 7
+[ ]   disclosure.md                                       Book 4, chapter 6
+        Book 5 uses it first in: chapter 7
+[ ]   LICENSE and terms.md                                Book 4, chapter 9
+        Book 5 uses them first in: chapter 4
+[ ]   contracts/clauses.md, each clause marked
+        "attorney review before reuse"                    Book 4, chapter 10
+        Book 5 uses it first in: chapter 11
+[ ]   identity.md, your one canonical page                Book 4, chapter 11
+        Book 5 uses it first in: chapter 5
+[ ]   estate.md, pointers only, never secrets             Book 4, chapter 14
+        Book 5 uses it first in: chapter 15
+
+STARTING HERE?
+You need one file before chapter 2. Make library/OWNERSHIP.md with
+this heading, and one line under it for each thing you've built
+that works: a tested prompt, a checklist, a template, a skill, a scan.
+
+## Assets
+- [WHAT IT IS] | master copy: [WHERE IT LIVES] | owner: [WHOSE IT IS]
+
+If you finished Book 4, your balance sheet already does this job.
+Chapter 1 needs nothing but your contacts and a text editor.
+
+FOLLOWING SAM?
+Nothing to tick. Each Try this names its practice input in the box
+itself, and any file it needs sits in that chapter's folder under
+b5/. The Harbor & Home facts sit in shared/.

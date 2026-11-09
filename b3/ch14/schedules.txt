@@ -1,0 +1,29 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 14. Example schedules for Sam's library repo.
+Replace /Users/sam/Documents/library with your repo's folder and the PATH folders with what `which claude`, `which codex` and `which python3` print on your machine (on Windows, `where.exe`). A scheduled job doesn't see your terminal's PATH, so give it the folders.
+
+1. CRON (Linux; also works on a Mac). Open your table with: crontab -e
+   The reconcile every night at 1:30; the scan every Sunday at 2:00. Both skip any night the computer is off or asleep.
+
+PATH=/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/Users/sam/.local/bin
+30 1 * * * cd /Users/sam/Documents/library && python3 scripts/nightly_reconcile.py >> reports/nightly.log 2>&1
+0 2 * * 0 cd /Users/sam/Documents/library && python3 scan/run_scan.py >> scan/nightly.log 2>&1; python3 scan/report.py >> scan/nightly.log 2>&1
+
+2. LAUNCHD (a Mac). Apple's own scheduler. One property list per job in ~/Library/LaunchAgents/, with
+   ProgramArguments, WorkingDirectory, StartCalendarInterval and an EnvironmentVariables PATH entry, loaded with
+   launchctl. [VERIFY: write and load one plist on macOS at print, then print it here.]
+
+3. TASK SCHEDULER (Windows). Create a basic task that starts `py` with the argument `scan\run_scan.py` and
+   "Start in" set to the repo folder, weekly on Sunday at 2:00 a.m., and a second one for
+   scripts\nightly_reconcile.py every night. [VERIFY: create both on Windows at print and record the exact clicks.]
+
+4. CLOUD SCHEDULED TASK (the Claude half only; the laptop can be closed). In Claude Code run /schedule, or go to
+   claude.ai/code/routines, pick the library repo on GitHub, set it to run once a day, and use this prompt:
+
+Run python3 scripts/reconcile.py on the newest bank and invoice
+files in practice/harbor-home/ and save what it prints to
+reports/reconcile-<today's date>.md on a new branch. Change
+nothing else. Do not merge, deploy, send or delete anything.
+End with one line: OK, or REVIEW and the reason.
+
+   A cloud task starts from a fresh clone of the repo, reads none of your local settings and takes no
+   --max-budget-usd flag; it draws on your plan's usage. Keep the job this small.

@@ -1,0 +1,27 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 11.
+The three requests for the trigger test in "Try this: Package your most-used keeper", with what each should do. Switch the weekly-numbers skill on first, then send each request in its own new chat, outside any Project. Don't name the skill in any of them: the test is whether Claude reaches for it on its own. Harbor & Home Cleaning, Dana Ruiz and every client are invented.
+----------------------------------------
+1. SHOULD LOAD
+Attach: practice/b2/ch03/harbor-home-jobs-oct-12-16.csv and practice/shared/harbor-home-business-facts.txt
+Type:
+Monday numbers, please.
+
+Expect: a summary in the skill's six sections that ends with the line
+Counted with the weekly-numbers skill, version 1.
+The numbers are the ones in practice/b2/ch03/weekly-summary-key.txt: 27 completed jobs, $6,039.00 billed, $1,833.50 unpaid across eight jobs, H-1031 counted once and named, and H-1028, H-1041 and H-1043 in Check these. Money billed per crew hour is $36.18 (or $36), with H-1043 named as left out. The three large deep cleans may appear as "cannot confirm from the price list"; they must never be called overcharges. A version number above 1 is fine if you have uploaded a newer copy.
+
+2. NEAR MISS, SHOULD STAY QUIET
+Attach nothing.
+Type:
+Draft a short reply to a customer who wants to know why her bill went up this month.
+
+Expect: a draft reply, with no "Counted with the weekly-numbers skill" line anywhere.
+
+3. UNRELATED, SHOULD STAY QUIET
+Attach nothing.
+Type:
+Plan a 20-minute agenda for Friday's team meeting.
+
+Expect: an agenda, with no "Counted with the weekly-numbers skill" line anywhere.
+
+PASS: the last line appears under request 1 and nowhere else.

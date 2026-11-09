@@ -1,0 +1,8 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 7.
+Harbor & Home Cleaning and Dana Ruiz are invented. Written for this book, not copied from the practice pack: a draft paragraph for the About page of Harbor & Home's website, before anyone tested it. Rewrite it from practice/shared/harbor-home-business-facts.txt.
+----------------------------------------
+ABOUT US (draft)
+
+At Harbor & Home, we believe a clean home is a happy home. Our caring team treats every house like our own, with the attention to detail that has made us a trusted name in the community. Whether you need a quick refresh or a top-to-bottom transformation, we'll make it shine, so you can get back to what matters most.
+
+The customer question to test it with: Who does deep cleaning in Falmouth, Maine, and what does it cost?

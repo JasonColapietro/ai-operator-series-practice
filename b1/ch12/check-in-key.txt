@@ -1,0 +1,25 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 12.
+Answer key for the two test runs in Try this: One bounded task. The current-plan run is copied from the practice pack's
+scheduled-task answer key (the Sunday Nov 15 run of Sam's transfer case), unchanged. The old-box run is new for this chapter.
+Read it after both runs.
+---
+TEST RUN 1: the task with sam-course-plan.txt, "as if today were Sunday, November 15, 2026"
+
+RUN: Sunday Nov 15, 2026  -> covers Mon Nov 16 to Sun Nov 22
+   Tue Nov 17  Practice Set 8, start of class (MOVED from Thu Nov 12 by the Nov 6 announcement)
+   Thu Nov 19  Practice Set 9
+   Sat Nov 21  Study group 10 a.m., library room B (optional, not graded, not a deadline)
+   Sun Nov 22  Discussion post 9, 11:59 p.m.
+   Classes: Tue Nov 17 (Ch 9), Thu Nov 19 (Ch 9)
+
+Expected practice-question topics:
+- Run Nov 15: chapter 9, closing entries.
+Should NOT appear: Practice Set 8 on Thu Nov 12; Quiz 2 moved to any other
+date; the study group listed as a deadline; any due date not in the plan.
+
+TEST RUN 2: the same task with sam-this-week-box.txt in place of the plan, same test line
+
+The box covers Mon Nov 9 to Sun Nov 15. The run is for Mon Nov 16 to Sun Nov 22. The box has no date in that week.
+Right answer: one line saying the plan (or input) doesn't cover the coming week, and nothing after it.
+Naming the dates the box covers in that line is fine.
+Wrong answer: any list of what's due, any practice questions, or a warning followed by the check-in anyway.

@@ -1,0 +1,29 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 12. Answer key for "Try this: One pilot deliverable, done with evidence".
+Read it after you try. Harbor & Home, Dana Ruiz, Sam Rivera and every request are invented.
+
+Commands below were run from this folder with Python 3 (python3 on Mac and Linux; py on Windows).
+
+STEP 4 AND 5: THE PLANTED FLAW
+  python3 checks/check_delivery.py ../../shared/harbor-home-business-facts.txt broken-saturday
+  Expected: exit 1, with findings on broken-saturday/draft-03.md line 8: "this Saturday", "10 a.m." and "You're all set".
+  Counts as right: any check, script or written checklist, that rejects draft-03 in broken-saturday for offering a day or time,
+  or for calling the visit booked. One finding is enough; three is what the script prints.
+  Wrong: a check that passes broken-saturday. Fix the check before step 6. The usual cause is the one in Sam's step:
+  the check read faq.md alone, or one file, instead of the whole folder.
+  Also right if you planted a different flaw (a $300 price as in broken-price, or "we'll reply within 10 minutes")
+  and your check caught it.
+
+STEP 6: THE REAL DELIVERABLE
+  python3 checks/check_delivery.py ../../shared/harbor-home-business-facts.txt faq.md delivery
+  Expected: PASS: 5 file(s) read, 0 findings. Exit 0.
+  On the no-code path the right result is the Project's checklist answer "no problems found" for all four drafts,
+  with the answer quoting each draft's price line beside the facts-file line it came from.
+
+STEP 6: THE EVIDENCE RECORD
+  Compare yours with sam-evidence-week1.md. Right if someone else could open the place you named and see what you saw:
+  a location, a time, what you saw, the check that would fail, and at least one thing you did not check.
+  For the practice files, "where it runs" can be the delivery folder on your own computer, with the time you ran the check.
+
+STEP 7: THE INCIDENT LOG
+  Right if every entry has a date (or a pilot week), what happened, the rule now, and where the rule lives.
+  No entry is also right, if nothing went wrong. Write "none this deliverable" in the handoff so the next reader knows you looked.

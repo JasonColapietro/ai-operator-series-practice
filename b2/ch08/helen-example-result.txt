@@ -1,0 +1,66 @@
+PRACTICE FILE: FICTION, AND ONE REAL RUN. The AI Operator Series, Book 2, Chapter 8.
+Helen Marsh, Dana Ruiz and Harbor & Home are invented. Copied unchanged below the line of dashes from the practice pack's artifact lesson: one real Claude run of the pack's estimate request, made cold in a chat that had only Helen's email and the price list, with Claude's chat reply first and the document's text after it.
+Read it for its shape. It is not a model answer. Three lines in it break Harbor & Home's rules or add a promise no file makes (the carpet company, "We'll do our best" on Fridays, and "we'll talk with you before going further"), which is what chapter 8 opens on. Your run will differ.
+----------------------------------------
+[Transfer test, run cold on wf22-transfer-estimate-request.txt and shared/harbor-home-business-facts.txt with the prompt in wf22-transfer-prompt.txt. Claude's chat reply first, then the document artifact's content.]
+
+I've made the estimate as a one-page document. One price needed an assumption, which I've listed at the bottom of the page so you can check it before sending.
+
+---
+
+HARBOR & HOME CLEANING
+214 Fore Street, Suite 3, Portland, Maine · 207-555-0142 · hello@harborhome.example.com
+
+Cleaning Estimate for Helen Marsh
+Cape Elizabeth home, about 2,000 square feet, 3 bedrooms, 2 baths
+Prepared by Dana Ruiz, Owner · October 2026
+
+Thank you for reaching out, and please thank your neighbor for us. Here is what your first visit and your regular visits would cost, along with answers to your questions.
+
+FIRST VISIT: DEEP CLEAN
+Deep clean, up to 1,500 sq ft (includes inside the oven, baseboards and interior windows)   $260
+Extra 500 sq ft (your home is about 2,000 sq ft)                                              $25
+Inside the fridge                                                                              $35
+First visit total                                                                             $320
+
+REGULAR VISITS: STANDARD CLEAN EVERY OTHER WEEK
+Standard clean, up to 1,500 sq ft                                                             $140
+Extra 500 sq ft                                                                                $25
+Subtotal                                                                                      $165
+Recurring discount, 10% for every-other-week service                                         -$16.50
+Each regular visit                                                                           $148.50
+
+There is no travel fee. Cape Elizabeth is in our regular service area.
+
+YOUR QUESTIONS
+Can you shampoo the living room carpet?
+We don't offer carpet shampooing, so it isn't included here. A carpet cleaning company would be the right call for that.
+
+Can you use products that are safe for your cat?
+Yes. We use pet-safe products on request, and our standard products are fragrance-free.
+
+Can you clean the litter box each visit?
+We're sorry, we don't do pet waste cleanup, so the litter box would stay with you.
+
+Do you need to see the house first?
+No. We only ask for a short video walk-through on first visits to homes over 2,500 square feet, so we can book your deep clean directly.
+
+Fridays
+We'll do our best to schedule your regular visits on Fridays. We'll confirm a day and time when you book.
+
+GOOD TO KNOW
+- Our team brings all supplies and equipment.
+- Payment is by card or bank transfer after each visit. We don't take cash.
+- You can cancel for free up to 48 hours before a visit. Inside 48 hours there is a $50 fee.
+- If we miss something, tell us within 24 hours and we'll come back to fix it at no charge.
+- These are starting prices for a home of your size. If the house needs much more time than expected, we'll talk with you before going further.
+
+To book, reply to this email or call 207-555-0142, Monday to Friday, 8:00 a.m. to 5:00 p.m.
+
+Dana Ruiz
+Owner, Harbor & Home Cleaning
+
+ASSUMPTIONS
+- The price list shows the "$25 per extra 500 sq ft" charge on the standard clean. I applied the same $25 to the deep clean for your 2,000 sq ft home. Please confirm that's how you price deep cleans.
+- I treated "about 2,000 square feet" as one extra 500 sq ft step over the base price.
+- The 10% recurring discount applies to the regular standard cleans only, not to the first deep clean.

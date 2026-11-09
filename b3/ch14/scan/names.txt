@@ -1,0 +1,11 @@
+# PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 14.
+# The declared names. An answer counts as naming the business only if one of
+# these lines appears in it, ignoring capital letters. One name per line.
+# Every alias catches more real mentions and more false ones, so the number rises
+# while it tells you less. Add one only when a person searching would mean this
+# business and nothing else.
+# Decided by Dana Ruiz, 2027-06-03. Not added: "Harbor Home" (other businesses
+# use those two words).
+Harbor & Home Cleaning
+Harbor and Home Cleaning
+Harbor & Home

@@ -1,0 +1,41 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 5.
+What a description of Dana's five emails should catch, on the practice route of "Try this: Your voice in one page". Read it after you've run the prompt and edited the result. Wording will differ from run to run, so look for the pattern, not the phrase. The five emails are the two in practice/shared/harbor-home-voice-sample.txt and the three in dana-sent-emails.txt. Everyone named is invented.
+----------------------------------------
+Perspective (any two of these)
+- Writes as the owner, "I" for herself and "we" for the team.
+- Puts the customer's question first.
+- Says no plainly, and owns a mistake in the first sentence.
+- Also right: "practical", "treats the reader as busy", "speaks for the team", if a quoted sentence backs it.
+
+Structure (all three)
+- The answer comes in the first line or two (every customer email does it).
+- One next step at the end that the reader can answer in a line (Patel, Tom, Gagnon, Lisa). The team note ends with thanks instead; a description that notices the difference is a bonus, and one that misses it still passes.
+- Short: two to four sentences to a paragraph, no headings or bullets.
+- Also right: the complaint order in the Tom email (own it, the fix, thanks), and the no in the Gagnon email followed by what the team can do. Each shows up only once, and a description that says so has done its job.
+
+Vocabulary (any three)
+- "Hi" and the person's name; Mr. or Mrs. for a first contact.
+- "Thanks for getting in touch" (twice).
+- Contractions.
+- Short sentences, plain verbs.
+- "That's on us."
+- Team members by first name.
+- Sign-off "Dana", with the business name and phone on a first contact.
+
+Themes (any two)
+- What a price or a service includes (Patel, Gagnon).
+- Fixing a miss quickly, at no charge (Tom).
+- The crew by name (Tom, Lisa, the team note).
+- What the customer wants in their own home (the team note).
+
+Never (any two)
+- No exclamation points.
+- No long apology.
+- No "Dear" greeting, no formal sign-off.
+- No enthusiasm words or sales language.
+- Also right: anything the five emails never do that the about-me file in practice/b1/ch09/dana-about-me.txt lists under "Words I never use".
+
+Must not appear in the finished spec
+- A price ($285, 10%), a day or date (Tuesday the 14th, Thursday the 16th, Wednesday, this Thursday), a time (9 a.m., 10 a.m.) or a name used as content (Sarah, Ben and Kelly, the Thibodeau house).
+- A line such as "offers specific days and times" or "names the crew who will come". Each is one email's facts written up as a habit. The habit under the first is the next step at the end; under the second, naming crew the customer has already met.
+- If the description copied any of these, the edit in step 4 takes them out. A finished spec with none of them passes.

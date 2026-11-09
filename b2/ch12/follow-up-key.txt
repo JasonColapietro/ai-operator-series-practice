@@ -1,0 +1,37 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 12.
+What a good set of follow-ups to quiet-quotes.txt gets right, for "Try this: Run the top item". Written for this book. A follow-up is not a fixed result, so this key lists what each draft must carry and what it must leave out. It names the facts-file section behind a point instead of repeating prices. Everyone named is invented.
+----------------------------------------
+EVERY DRAFT
+- A subject line, under 120 words, signed "Dana", no exclamation points.
+- Opens with the useful part. No "just checking in," "following up," "I haven't heard back" or a reminder that they haven't replied.
+- Ends with one question the customer can answer in a line.
+- No price, discount or date anywhere, including prices Dana already sent. If a draft needs one, it carries a [CHECK: ...] (or CHECK:, the Project's spelling, which is the same marker).
+- A list under it of things to sort out before sending.
+
+THREAD 1: ELLIOT HOLLOWAY
+Must carry: Sarah's answer on the nervous dog, from Dana's notes: the dog in one room with the door shut, that room done last, and the dog let out into a finished room first.
+Must leave out: any start date. The week of February 8 is his question, and the schedule isn't in any file (project brief, rule 1). Restating the price or the recurring discount.
+A good closing question: whether that would work for his dog, or whether he'd still like Dana to check the start week he asked about (without naming the date, which the Check rules out).
+The sort-out list should catch: the schedule for the week of February 8 still hasn't been checked; pet-safe products are on request (facts, SUPPLIES), so ask whether he wants them.
+
+THREAD 2: MAYA SORENSEN
+Must carry: yes, the move-out clean covers inside the oven and the baseboards (Dana's notes, from Sarah); and an invitation to send the landlord's checklist ahead, so the team can work from it.
+Must leave out: any deal for booking both. The only discount is the recurring one (facts, SERVICES AND PRICES), and Dana already told her. The spring renters' package (facts, NEW IN SPRING): it carries a price and doesn't launch until March 1, after her move. Any yes to the carpets (facts, WHAT WE DO NOT DO). Confirming the end of the month or any date.
+A good closing question: whether she'd like to send the checklist over.
+The sort-out list should catch: the move-out clean's oven and baseboards aren't in the facts file yet, so add them there first; her move-out date isn't booked; the carpet line on her landlord's list is still hers to arrange.
+
+THREAD 3: DANIEL KWAN
+Must carry: what a deep clean covers, from the deep clean line in the facts file (inside the oven, the baseboards, the interior windows); the free 15-minute video walk-through for homes over 2,500 square feet (facts, HOW BOOKING WORKS).
+Must leave out: any price for 2,700 square feet. The facts file publishes a deep clean only up to 1,500 square feet, and its size step sits on the standard clean line, so a figure here is worked out, not approved. Any promise to finish before his parents arrive, or any February date.
+A good closing question: whether a video walk-through would suit him or Teresa, or whether Dana should send this straight to Teresa.
+The sort-out list should catch: Teresa isn't on the thread and Dana doesn't have her email; the parents' dates are only "early February"; three lines may be thin for someone who wants to see what's included, which is a reason to add more to facts.md.
+
+A RESULT THAT FAILS
+- Any figure for Daniel's house, however it was worked out.
+- A start date for Elliot, or "we'd be happy to start the week of February 8."
+- A bundle or loyalty discount for Maya.
+- A draft that opens by mentioning the earlier quote or the silence.
+Send one repair, in the same chat: "Check each draft against the Check part of my request. Take out every price, discount and date, put [CHECK: what is missing] where one was needed, and start each email with the thing I promised."
+
+REVIEW TIME
+Reading three drafts against this key, then against your own sense of each customer, should take under ten minutes. Longer than that means the job is too wide or a note is missing. Narrow it or fix the notes before you run it again.

@@ -1,0 +1,9 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 5. A blank log for the cold-agent test. One block per run.
+
+Run: [NUMBER]   Date: [YEAR-MONTH-DAY]   Tool: [CODEX CLI, CODEX IN THE DESKTOP APP, OR CLAUDE CODE]
+Questions it asked:        [EACH ONE, WORD FOR WORD, OR "none"]
+Places it stalled:         [WHAT IT WAS DOING WHEN IT STOPPED, OR "none"]
+Things it improvised:      [ANYTHING IT DECIDED THAT AGENTS.md SHOULD HAVE DECIDED, OR "none"]
+Fix made to AGENTS.md:     [THE HEADING, AND THE LINE YOU ADDED OR CHANGED]
+Files outside scripts/ and tests/ it changed: [FROM git status, OR "none"]
+Headings it listed:        [FROM ITS REPORT]

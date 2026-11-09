@@ -1,0 +1,11 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 15, Rent the Tool, Own the Work.
+The blank for the block that goes at the top of library/everything-else.md, above "## Ranked". Every word in capitals inside brackets is a slot. Matches the chapter's Save this listing word for word below this header.
+----------------------------------------
+## First job for an agent
+Job: [THE JOB, IN ONE LINE, AND HOW OFTEN]
+From: [THE LINE ON THIS LIST IT COMES FROM, AND WHAT STAYS YOURS]
+Files: [WHAT IT READS, AND WHAT ARRIVES NEW EACH TIME]
+Check: [ONE TEST A RIGHT RESULT PASSES AND A WRONG ONE FAILS]
+Rules: [THE PART OF THE METHOD YOU EXPECT TO CHANGE]
+Runs it now: [WHO, HOW, AND HOW LONG IT TAKES]
+Named: [DATE]

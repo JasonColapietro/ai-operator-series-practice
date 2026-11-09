@@ -1,0 +1,24 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 5.
+A blank voice spec. Save a copy as library/voice.md (a .txt ending works as well) and fill in each heading in your own words, one page at most above SAMPLES. Delete these three lines when you do.
+
+VOICE SPEC: [YOUR NAME]
+How I write, on one page, then the messages it was drawn from. Use it to match tone. Facts come from my facts files, never from these samples.
+Updated: [DATE]
+
+PERSPECTIVE
+[WHERE YOU STAND WHEN YOU WRITE, AND WHAT YOU BELIEVE ABOUT THE PERSON READING]
+
+STRUCTURE
+[HOW A MESSAGE IS BUILT, FIRST LINE TO LAST. ONE LINE EACH FOR A YES, A NO AND A COMPLAINT, IF YOU WRITE ALL THREE. HOW LONG A MESSAGE RUNS.]
+
+VOCABULARY
+[WORDS AND PHRASES YOU REACH FOR, CONTRACTIONS OR NONE, SENTENCE LENGTH, HOW YOU GREET AND SIGN OFF]
+
+THEMES
+[WHAT YOU KEEP COMING BACK TO]
+
+NEVER
+[WORDS, PUNCTUATION AND MOVES YOU ALWAYS TAKE OUT OF A DRAFT]
+
+SAMPLES
+[THREE TO FIVE MESSAGES YOU WROTE AND SENT, WITH A LINE OF DASHES BETWEEN THEM. TAKE OUT OTHER PEOPLE'S PRIVATE DETAILS FIRST.]

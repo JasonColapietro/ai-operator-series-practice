@@ -1,0 +1,37 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 11.
+skill-request.txt with Harbor & Home's values filled in, for the practice route of "Try this: Package your most-used keeper". The request in the middle is the weekly-summary card from practice/b2/ch03/weekly-summary-prompt.txt, copied unchanged from the Claude AI Made Practical practice pack. Harbor & Home Cleaning, Dana Ruiz and everyone in its files are invented.
+Paste everything below the line of dashes into a new chat. No file needs attaching for this step.
+----------------------------------------
+I do the same job again and again. I want Claude to know how to do it without my pasting the instructions every time.
+
+The job: a weekly summary of Harbor & Home Cleaning's jobs for Dana Ruiz, the owner, who reads it on Monday morning before the crews go out
+What I give Claude each time: the week's jobs export from the booking app (a CSV file) and the approved price list (the business facts file)
+Call the skill: weekly-numbers
+
+This is the request I paste every time. Keep every rule in it.
+I run a small home-cleaning business. Attached are this week's jobs as a CSV file and my approved price list as a text file. I want a weekly summary I can read in two minutes and trust.
+
+Use only these two files. Work every number out from the rows. Do not estimate. Follow these counting rules:
+- A job counts as completed only if the status column says Completed.
+- Lockout and Late cancel rows are charges, not completed jobs. Include their price in money billed, but show them on their own lines.
+- If two rows are exact copies, count that job once and tell me which one it was.
+
+Give me these sections, in this order:
+1. Three to five sentences on how the week went, with the key numbers.
+2. A table by service type: completed jobs and money billed, with a total row. Under it, one line for each lockout or late-cancel charge.
+3. A table by day: jobs scheduled, jobs completed, money billed.
+4. Unpaid: each unpaid job with job ID, client and amount, then the unpaid total.
+5. Money billed per crew hour, counting only completed jobs that have hours filled in. Name any job you left out.
+6. "Check these": every row where the price does not match my price list, a value is missing, or something else looks off. Give the job ID, what you found, and what the price list says. Do not correct the data. Do not flag small-office prices, because I quote those separately.
+
+Use plain words. If you had to assume how to read a column, say what you assumed.
+
+What I've learned from running it:
+- The export sometimes repeats a row word for word. Dana counts that job once.
+- The price list doesn't cover every size of every service. When it can't settle a price, Dana wants "cannot confirm from the price list," never "overcharge."
+- Small-office prices are quoted after a walk-through, so they never go in Check these.
+- The summary is for Dana. Nobody sends it anywhere.
+
+Write it for the Claude apps. The folder name and the skill's name must match. The frontmatter holds only name and description. The description is 200 characters or fewer, starts with the job, and says when to use the skill and when not to. In the body, give numbered checks that pass or fail, a section on what the skill must never do, and a last line it adds to everything it makes, ending "version 1".
+
+Turn this into a Claude Skill I can reuse.

@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "harbor-tools": {
+      "source": { "source": "github", "repo": "YOUR-NAME/library" }
+    }
+  },
+  "enabledPlugins": {
+    "harbor-ops@harbor-tools": true
+  }
+}

@@ -1,0 +1,12 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 3, Plan Before It Touches Anything.
+The prompt card for "Try this: Three rules and an audit". Paste everything below the line of dashes. Matches the chapter's prompt card word for word.
+----------------------------------------
+Audit practice/harbor-home/ for a script that will check
+bank deposits against invoices. Read briefs/reconcile.md
+first if it exists.
+Do not edit, create or delete files. Run nothing that writes.
+Report: each file and its format; every row that will not
+match one deposit to one invoice, with file and line;
+missing data; questions only Dana can answer. End with a
+short plan for the checker.
+Mark anything you are unsure of as UNSURE.

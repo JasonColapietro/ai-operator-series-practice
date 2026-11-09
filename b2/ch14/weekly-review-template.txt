@@ -1,0 +1,14 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 14, On a Schedule, Under Review.
+The layout for library/reviews/weekly-YYYY-MM-DD.md, one file per week, dated by the Friday. Words in capitals inside brackets are slots. New text written for this book.
+----------------------------------------
+# Weekly review: [MONDAY] to [FRIDAY]
+Written [DATE] in [MINUTES] minutes. Request: the weekly review request (Listing 14.3), unchanged.
+
+[THE FIVE SECTIONS CLAUDE DRAFTED, AFTER YOU CHECKED THEM: NUMBERS, LAST WEEK'S TOP 3, NEEDS A DECISION, STAFF AND SCHEDULING, TOP 3 FOR NEXT WEEK]
+Tie-out: [ONE TOTAL IN THE NUMBERS TABLE] matches [THE FIGURE FROM OUTSIDE THE DRAFT THAT YOU CHECKED IT AGAINST]
+
+## Systems
+[SCHEDULED TASK, WORKFLOW OR SKILL] · ran: [YES OR NO] · as expected: [YES OR NO, AND HOW YOU KNOW] · surprises: [NONE, OR WHAT]
+
+## Changed this week
+[ONE CHANGE, OR NONE, AND WHERE YOU LOGGED IT]

@@ -1,0 +1,27 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 10.
+Sam's Keeper #2 after its transfer run on Dana's office week (Sam's step in chapter 10). Sam Rivera and Dana Ruiz are invented. Slot values for both weeks are in second-cases.txt. The repair saved under Keeper #2 in chapter 5 is not repeated here; it stays as it was.
+
+## Keeper #2: Week plan around fixed commitments (version 2)
+Saved: [TODAY'S DATE]
+Use it for: a week of fixed commitments, with work to fit around them
+
+Job: Build a realistic plan for my week, [DATES]. I need to finish my [WORK TO FIT IN] on time without missing [WHAT I CAN'T MISS].
+
+Material: Use only my notes, pasted below. These are fixed: [WHAT'S FIXED]. Do not move them.
+
+Shape:
+- Start with a short list called "Conflicts and questions."
+- Then one section per day: a simple time list (start, end, what) from [DAY START] to [DAY END]. Show travel as its own line.
+- Give these their own line in every day's list: [EVERY DAY].
+- Break each [TASK] into blocks of [LONGEST SITTING] or less, named by task, and finish each task before its deadline.
+- End with a table: [TASK], hours needed, hours planned, deadline, day finished.
+
+Check:
+- If two fixed things overlap, do not choose between them. Name the overlap in "Conflicts and questions," plan the week as it stands, and add one line saying what would move if it changes.
+- Never plan [TASK] after [LATEST TIME] or during travel.
+- Follow every rule in my "[RULES HEADING]" notes. If you can't, say which one you broke and why.
+- Leave [FREE TIME] with nothing planned.
+- If my notes leave something unclear, ask me in the Conflicts list instead of guessing.
+
+My notes:
+[NOTES]

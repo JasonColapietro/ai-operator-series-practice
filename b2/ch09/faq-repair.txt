@@ -1,0 +1,4 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 9.
+The repair from the practice pack's FAQ lesson, copied unchanged below the line of dashes. Its first two sentences name one answer from a practice run; for your own FAQ, swap in an answer of yours that no line supports, or start at "Go through every answer", which is the card the chapter prints. Harbor & Home Cleaning is invented.
+----------------------------------------
+Some of your answers include things that aren't in my facts file. For example, your answer to "Do I need to be home while you clean?" is not supported by any line in the file. Go through every answer and compare it with the facts file. Delete any sentence that no line in the file supports. Move any question that now has no answer to "Questions I could not answer from the facts." Then list the sentences you deleted, so I can see what changed.

@@ -1,0 +1,6 @@
+PRACTICE FILE, FICTION LABEL. The AI Operator Series, Book 4, Chapter 1. The prompt card from "Try this: Every tool, one page". Paste it into ChatGPT or Claude, then paste your rough notes (or sams-rough-notes.txt) underneath. Never paste a password, key or recovery code.
+
+Job: Turn my rough notes below into a table I can keep.
+Material: Only the tools and accounts I list. Do not add any I did not name.
+Shape: One row per tool. Columns: tool, what it holds of mine, copy or access, hours to rebuild (my estimate), fix. Fill the last three columns only from my notes, and leave them blank where my notes say nothing.
+Check: If my notes do not say what a tool holds, write "Not stated" in that cell. Do not guess. If any line holds a password, key or recovery code, leave the value out and tell me.

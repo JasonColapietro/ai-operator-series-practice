@@ -1,0 +1,8 @@
+PRACTICE FILE. The AI Operator Series, Book 5, Chapter 5. The card for "Try this: An access check, bot by bot", as the chapter prints it. Fill the brackets, then paste the robots.txt underneath.
+----------------------------------------
+Job: Tell me, bot by bot, whether my robots.txt lets each one fetch my money pages.
+Material: The robots.txt pasted below, and this list of bots: OAI-SearchBot, ChatGPT-User, GPTBot, Claude-SearchBot, Claude-User, ClaudeBot, PerplexityBot, Perplexity-User, Googlebot, Google-Extended, Bingbot, CCBot. My money pages are [URL PATHS].
+Shape: A table with one row per bot: the group it follows (quote that group's User-agent line, or write "the * group"), allowed or blocked for each money page, and one line of reason.
+Check: A bot named in a group follows only that group and ignores the * group. If you can't tell which group applies, write "unverified" and say why. Don't add bots I didn't list, and don't tell me what any bot is for.
+
+[PASTE ROBOTS.TXT HERE]

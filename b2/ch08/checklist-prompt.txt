@@ -1,0 +1,18 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 8.
+The practice pack's checklist request, copied unchanged below the line of dashes: the same card the chapter prints in "A small tool that remembers". Prompt text, not Jason's words. The words in capitals inside brackets are the Okafors' values; change them for your own plan.
+Send everything below the line with okafor-master-list.txt attached.
+----------------------------------------
+Make an interactive moving checklist as an artifact for my family. We're moving from [COLUMBUS, OHIO] to [DENVER, COLORADO]. [TWO ADULTS] will use it on laptops and phones over the next [TWO MONTHS].
+
+Use only the attached notes. Work out each due date from our loading day, [SATURDAY, APRIL 17, 2027], using the timing written in the notes. Keep fixed dates, like the lease start, exactly as they are.
+
+Build it like this:
+- One row per task: a tick box, the task, the due date with its weekday, and the person if the notes name one.
+- Sort by due date. Group by week, with "Moving week" and "After we arrive" as their own groups.
+- A count at the top, such as "3 of 20 done", and a button that hides finished tasks.
+- Tasks the notes mark as done start ticked.
+- Show the loading day once at the top, and calculate every date from it.
+
+Check: if a task has no timing in the notes, put it in a "Needs a date" group. Don't invent a date. Under the checklist, list any timing you had to interpret, one line each.
+
+Keep my ticks saved so they're still there when I come back.

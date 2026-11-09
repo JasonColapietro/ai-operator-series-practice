@@ -1,0 +1,28 @@
+FICTION. Answer key for the Book 5, chapter 4 practice files. Every name and number is invented and belongs to Sam's practice run only.
+
+TRY THIS: A PRICE SHEET IN FORTY MINUTES (from sam-cost-notes.txt)
+A correct sheet reaches these totals:
+- Time: 21 hours, including the four weekly reviews (4 hours) and the review line (2 hours). At $40 an hour: $840.
+- Direct cost: $840 plus the $15 tools share = $855.
+- Overhead share: $190 a month over two deliveries = $95 a delivery.
+- Floor: $950 or more. Any floor at or above direct cost plus the overhead share counts. Sam chose $950; a reader who rounds to $1,000 is also right.
+- Standard: any number above the floor. Sam chose $1,250, about a third above it. "A third" is Sam's choice, not a rule.
+- Instant yes: any number above the standard. Sam chose $1,600.
+- Contribution at Sam's standard: $1,250 minus $855 = $395, labeled contribution, never profit.
+- Facts audit: direct cost 6 hours at $40 plus $5 = $245. Any price at or above that counts. Sam chose $350.
+- Retainer: direct cost about 6 hours at $40 plus $15 = $255 a month. Any price or range that starts at or above it counts. Sam chose $300 to $450 a month, set from the pilot's evidence.
+- Free check: $0 to the buyer, about $30 of Sam's time each (45 minutes at $40), capped at ten a month.
+- Productized agent: "not for sale until built" (or left off the ladder) is correct. A price for something that doesn't exist yet is not.
+- Price changes: any priced change list counts, as long as each change has a number. Sam's is in the chapter's Listing 4.1.
+
+Common wrong totals and their cause:
+- Direct cost $775: the review line (2 hours) was dropped.
+- Direct cost $695: the weekly reviews were dropped, because the notes give them per review rather than as a total.
+- Direct cost $840: the tools line was left out.
+- Floor $855: overhead was left out, so the floor only breaks even on the job.
+
+TRY THIS: BUY FROM YOURSELF (sam-price-note.txt against Sam's sheet)
+Two planted mismatches:
+1. The note prices the pilot at $1,200. Sam's standard is $1,250. Sam's floor is $950, so $1,200 is a price Sam could accept, but the sheet says what Sam quotes when the package fits, and this one fits.
+2. The note includes text messages as well as email at no charge. Sam's change list prices a second channel at $150, so either the note drops texts or the price rises to $1,400.
+Not a mismatch: the note leaves the retainer price open. The sheet gives a range set from the pilot's evidence, so saying it depends on the pilot is consistent. Quoting the range is also fine.

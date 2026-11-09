@@ -1,0 +1,8 @@
+PRACTICE FILE. The AI Operator Series, Book 5, Chapter 5. The card for "Try this: One page, three answers, valid markup", as the chapter prints it. Paste the questions and answers exactly as they appear on your page.
+----------------------------------------
+Job: Write FAQPage JSON-LD for the questions and answers on my page.
+Material: Only the questions and answers pasted below, exactly as they appear on the page.
+Shape: One JSON-LD block using schema.org FAQPage, with one Question and acceptedAnswer per pair. Copy every question and answer word for word.
+Check: Change no wording, and add no question, property or link I didn't give you. If an answer doesn't name the business, list it under "Not attributable" so I can fix the page first.
+
+[PASTE QUESTIONS AND ANSWERS HERE]

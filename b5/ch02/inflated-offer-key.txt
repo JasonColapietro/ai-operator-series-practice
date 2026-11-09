@@ -1,0 +1,32 @@
+ANSWER KEY, FICTION. The AI Operator Series, Book 5, Chapter 2, "Try this: Trace the agent's draft".
+Marks: F = a fact Sam can show (a file, a page, a receipt). A = something the owner does or approves. X = neither: strike it, or turn it into a question for the chapter 3 demand test.
+Other markings are right too when the reason holds. A rewrite is right if every sentence left points to a file or to something the owner does.
+------------------------------------------------------------
+
+1. "Home cleaning is a booming multibillion-dollar market, and owners are desperate to automate."
+   X. Sam has no source for the market size, and Dana would not pay more for it if Sam had one. "Desperate" is a guess about every owner.
+   As a question for chapter 3: "When did the inbox last cost you a job?"
+
+2. "Every cleaning owner we talked to told us they need this."
+   X. Sam has done this work for one owner, Dana. One owner is not every owner, and no buyer has seen this offer yet.
+   As a question for chapter 3: "Which part of this would you use, and which would you leave out?"
+
+3. "Our proven AI answers every customer instantly, 24/7, in your voice, and books jobs straight into your calendar."
+   X, three times. "Proven" has no evidence behind it. The kit drafts answers; it sends nothing, so nothing reaches a customer instantly. It books nothing; booking is excluded.
+   The traced part: the Project drafts answers from the owner's checked facts, in the owner's voice file (F: the facts file and voice file exist in the owner's account).
+
+4. "Clients get twice the bookings and a flood of five-star reviews in the first month."
+   X. There are no clients yet, and bookings and reviews are outcomes Sam does not control. This is the first line of the Excluded list.
+   As a benefit to test: fewer answers written from scratch each week (a pilot can count them).
+
+5. "We even handle your website and social media, so you never think about the front office again."
+   X. Website and social media work is excluded. The owner, or the owner's web person, publishes the FAQ.
+
+6. "Results guaranteed."
+   X. Guarantees what? No result in this offer is Sam's to guarantee. What Sam can stand behind is the acceptance tests, which the owner runs before calling the work done.
+
+Left after tracing: the name, "Front Office Kit". Nothing else survives. That is the lesson: the draft held no facts, so the rewrite starts from the one-pager.
+
+ONE TRACED REWRITE (each sentence points to a field in sam-front-office-kit.md)
+
+Front Office Kit, for home-cleaning companies with five to fifteen staff. In two weeks you get a Claude Project in your own account that drafts answers from your checked facts, an FAQ of your twenty most-asked questions with the line each answer comes from, and a Monday summary of last week's jobs and invoices. You approve every answer before it goes anywhere, nothing is sent for you, and you can edit every file without me. You get the checks in writing before work starts, and you run them yourself on the day it is done.

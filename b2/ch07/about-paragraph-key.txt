@@ -1,0 +1,18 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 7.
+What a rewrite of Harbor & Home's About paragraph has to carry, for "Try this: One paragraph, read alone". Read it after your own rewrite. Every fact it names lives in practice/shared/harbor-home-business-facts.txt; check the wording there, not here.
+----------------------------------------
+A REWRITE PASSES WHEN, QUOTED ALONE, IT SAYS:
+1. Who: the business's full name, Harbor & Home Cleaning. "We" alone fails, because a quoted paragraph loses the page around it.
+2. What: house cleaning, named plainly. Naming the deep clean passes too.
+3. Where: Portland, Maine, plus the towns on the SERVICE AREA lines. The test question names Falmouth, so Falmouth has to appear, by name or in the full list.
+4. One fact a reader could check: a "from" price with what it covers and what it includes, copied from the SERVICES AND PRICES lines. Any service passes. The deep clean answers the test question best.
+
+ALSO PASSES:
+- The owner's name, the team size, or insured and bonded, from the facts file, on top of the four above.
+- Two short paragraphs instead of one, as long as the first passes alone.
+- Any wording, in any order, that carries the four.
+
+FAILS:
+- A price that isn't on the facts file's lines, including a deep-clean price for a home larger than the deep-clean line covers. The facts file gives none.
+- "Trusted", "caring", "the best" or any other claim the facts file can't back.
+- Scarborough or Yarmouth listed as ordinary service towns, without the by-request note and its travel fee.

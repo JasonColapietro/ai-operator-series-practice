@@ -1,0 +1,13 @@
+PRACTICE FILE, FICTION LABEL IN README.txt. Book 4, Chapter 14, "Try this: Find what keeps going". The card below matches the chapter word for word.
+
+Job: Sort every line of my ownership file by what would happen
+if I could no longer sign in to anything, starting tomorrow.
+Material: Only the file pasted below.
+Shape: Four headings: Stops, Keeps running or charging, Lost,
+Not mine. One line per item: its name and the reason, in 15
+words or fewer. Then a fifth heading, Not sure, for anything
+the file doesn't settle.
+Check: Use only what the file says. If an item belongs under
+two headings, list it under both and say why. If any line looks
+like a password, key, token or recovery code, stop and tell me
+which line, without repeating what it says.

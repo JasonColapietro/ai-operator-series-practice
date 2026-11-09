@@ -1,0 +1,27 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 13, The Long Job.
+Sam's brief for the practice job, as Listing 13.1 prints it. Harbor & Home, Dana Ruiz, Sam Rivera and the suppliers are invented. Paste from "Input:" down to the last Acceptance line.
+----------------------------------------
+# Brief: January supplier invoices checked against orders
+Saved: [DATE] · Runs in: the app · Setting: Manual for the first run · Stop by: [TIME]
+Failure cases, written first: an ordinary invoice / an invoice with no order number / an invoice that disagrees with its order / one invoice saved as two files
+
+Input: The five invoice files from the invoices-january folder and Dana's order log, orders-january.txt. Use nothing else: no web search, no connected apps and no supplier websites. Where an invoice and its order disagree, the order is what Dana agreed to. Report both.
+
+Output: One spreadsheet, january-invoices.xlsx, with one row per invoice: supplier, invoice number, invoice date, order number, invoice total, order total, the difference, and the file name or names it came from. A total for each money column at the bottom. In your reply, below the file, a list headed Exceptions.
+
+Owner: Dana Ruiz accepts it and decides what gets paid. Anything you can't settle goes on the Exceptions list for her. Don't settle it yourself.
+
+Permissions: Read the files I attached and create the one spreadsheet. Don't change, rename or delete any file I attached, and don't pay, send or share anything.
+
+Limits: One pass through the files, then the checks below. If a check fails, recheck once from the files. If it fails again, stop and say which check failed.
+
+Recovery: If a file won't open or an invoice can't be read, put its file name on the Exceptions list and keep going. If you stop early, say what's finished and what isn't.
+
+Acceptance: Before you call it done, check each line and write pass or fail beside it.
+1. No invoice number appears in two rows. One invoice saved as two files is one row, with both file names.
+2. No order is matched to more than one invoice.
+3. Every invoice line is checked against its order for quantity and unit price. Any line that differs goes on the Exceptions list with both figures.
+4. An invoice with no order number is matched by supplier and items and marked (matched by items), or goes on the Exceptions list if no order fits.
+5. The invoice column's total equals the total printed at the bottom of the order log, or every difference is on the Exceptions list with the invoice line it comes from.
+
+Runs: [DATE], [PASS OR FAIL, AND WHAT YOU CHANGED]

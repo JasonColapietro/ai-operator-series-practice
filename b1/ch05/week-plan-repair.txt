@@ -1,0 +1,18 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 5.
+The repair from the practice pack's weekly-plan lesson, copied unchanged, then the one line chapter 5 adds.
+Send the text between the dashes, then the added line, as one follow-up in the same chat as the plan.
+
+WORKFLOW 20 REPAIR REQUEST
+Use this when the plan looks tidy but does not fit real life: a study block starts the minute a shift ends, with no bus ride, or a block runs past 10 pm, or study sits inside class or work time.
+
+------------------------------------------------------------
+This plan doesn't fit. Recheck every day:
+1. Add 20 minutes of travel before and after each work shift, and 25 minutes before and after each class.
+2. Move any study block that now overlaps travel, work, class or family time, or that runs past 10 pm.
+3. No study before 9 am on a morning after a shift that ends at 8 pm or later.
+4. Keep each task finished before its deadline. If something no longer fits, tell me which task is short and by how many hours. Do not shrink a task to make it fit.
+Then show the corrected days only, and the updated study table.
+------------------------------------------------------------
+
+CHAPTER 5 ADDS ONE LINE, AT THE END OF THE REPAIR:
+Also list every block that moved, with its old and new times.

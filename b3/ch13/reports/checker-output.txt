@@ -1,0 +1,9 @@
+Run on 2027-05-17 for deposits 2027-05-10 to 2027-05-14. Practice file, fiction (The AI Operator Series, Book 3, Chapter 13).
+PAID  INV-2108  Brooks, D.  $190.00 on 2027-05-12
+PAID  INV-2110  Alvarez, M.  $126.00 on 2027-05-10
+PAID  INV-2111  Kowalski, E.  $260.00 on 2027-05-11
+PAID  INV-2113  Sato, K.  $165.00 on 2027-05-11
+PAID  INV-2114  Ferreira, P.  $140.00 on 2027-05-13
+PAID  INV-2116  Nguyen, T.  $140.00 on 2027-05-14
+NO DEPOSIT YET  INV-2118  Lindqvist, R.  $165.00
+6 invoices matched, 6 deposits matched, 0 deposits with no match, 1 invoice still open. Deposits total $1021.00.

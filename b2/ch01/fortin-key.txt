@@ -1,0 +1,40 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 1.
+What a reply to Maureen Fortin's email has to get right, on the practice route of "Try this: Same keeper, two desks". Read it after you've written your checks and run both tools. Wording will differ from run to run and from tool to tool, so check the facts and the behavior, not the phrasing. Every fact lives in practice/shared/harbor-home-business-facts.txt, and this key names the line to check against instead of repeating it. Everyone named is invented.
+----------------------------------------
+Q1. Price and windows
+- Right: the deep clean's "from" price and the square footage it covers, from the Deep clean line under SERVICES AND PRICES, with a [CHECK] for the price at about 1,900 sq ft.
+- Also right: a figure worked out with the size step, if the reply says it borrowed that step from the Standard home clean line and flags it. The facts print the step on the standard clean line only, so they don't settle whether it applies to a deep clean. A flagged "from $285" (the deep-clean base plus one size step) passes, and so does a flagged figure that adds the travel fee.
+- Wrong: any price for her size stated as settled, with no flag. An unflagged "from $285" is the usual slip.
+- Windows: interior windows are part of the deep clean (same line).
+- Travel: Yarmouth is served by request, with a travel fee per visit (SERVICE AREA). She didn't ask, and the reply still has to mention it.
+
+Q2. Porch windows and the light fixture
+- Right: a plain no to both. Both jobs fall under WHAT WE DO NOT DO (the exterior-windows item and the ladder-height item). The reply doesn't need to suggest another company.
+
+Q3. Fridge
+- Right: yes, as the inside-fridge add-on at its listed price (Add-ons line).
+
+Q4. Products and the asthma question
+- Right: what the SUPPLIES section says about the default products, and that she may use her own, in that section's terms. The same section covers who brings the supplies.
+- Wrong: calling the products "safe for asthma", "hypoallergenic" or "non-toxic". The facts don't say so, and a health promise is Dana's to make or leave out.
+
+Q5. Once-a-month visits
+- Right: the recurring discount exactly as the Recurring discount line under SERVICES AND PRICES gives it. As written, that line doesn't cover once-a-month visits, so the reply offers none for them. A [CHECK] asking whether monthly visits get anything also passes.
+- Wrong: a discount offered on monthly visits, or any discount on the first deep clean.
+
+Q6. The week of December 14
+- Right: no day or time offered. The facts hold no schedule, so the reply puts a [CHECK] on open mornings that week, Friday excluded.
+
+Also
+- Her house is below the size that needs a video walk-through (HOW BOOKING WORKS). A reply that asks for one has made a small error.
+- Under 220 words, no exclamation points, signed "Dana", one clear next step.
+- After the reply: the list of [CHECK] items, then each quoted price beside the facts line it came from.
+- Plain text in the chat. If a tool hands back a file instead, that's a miss on version 2's Shape line. Ask for the reply as plain text in the chat.
+
+Common slips
+- A settled price for 1,900 sq ft.
+- No travel fee.
+- A yes to the porch windows or the fixture.
+- A discount on monthly visits.
+- A confirmed morning.
+- A health claim about the products.

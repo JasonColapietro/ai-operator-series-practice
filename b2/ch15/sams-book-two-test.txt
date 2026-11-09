@@ -1,0 +1,83 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 15, Rent the Tool, Own the Work.
+Sam's filled worksheet (book-two-test.txt), Tuesday, March 9, 2027. Sam Rivera, Dana Ruiz, Helen Marsh and Harbor & Home Cleaning are invented. Read it before you fill in your own.
+----------------------------------------
+PART 1. WHAT LIVES WHERE (from the back of a timesheet, Friday, March 5)
+
+What lives inside Claude?                 What is its copy in library/?
+1. My Harbor & Home Project: its          1. library/projects/harbor-home/
+   instructions and three files              (instructions.md, facts.md,
+                                              brief.md, voice.md)
+2. Its chats and its project memory       2. NONE
+3. My account memory                      3. NONE (memory-policy.md says
+                                              what it may hold, not what
+                                              it holds)
+4. The weekly-numbers skill, uploaded     4. library/skills/weekly-numbers/
+5. Helen Marsh's estimate, Artifacts tab  5. library/artifacts/estimate-
+                                              template.md, and the file
+                                              exported in chapter 8
+6. The Use account memory switch on       6. One line in memory-policy.md,
+   my Project                                 under SETTINGS. (Found this
+                                              one on Tuesday. See box 1.)
+
+Dana's account has its own copy of the Project, her Gmail and Google Drive
+connectors, and the Monday summary from chapter 14. Her copy rebuilds from
+the same folder; the Monday task's record is library/schedules/
+monday-summary.md.
+
+PART 2. THE BOOK 1 TEST, AIMED AT CLAUDE
+
+[x] 1. Every Project rebuilds from library/ in ten minutes
+       First run: 8 minutes. Both canaries passed in the rebuilt Project.
+       Then box 2 sent me to memory-policy.md, since I read my memory
+       against it whenever I copy it out. Its SETTINGS block
+       says the Harbor & Home Project keeps Use account memory off,
+       "because my life stays out of Dana's work." The rebuilt
+       Project had it on. The canaries couldn't see that, because they
+       only ask about facts in files.
+       Fix: a new step in the drill, after the files go in: set the
+       switches the library records for this Project (memory-policy.md,
+       and connectors.md if a connector works there).
+       Second run, switch off: 9 minutes. Both canaries passed.
+       Deleted "rebuild test" afterward, because the free plan caps
+       how many Projects I can keep.
+
+[x] 2. Memory exported
+       library/exports/2027-03-09/claude-memory.txt and
+       memory-harbor-home.txt. Both open in TextEdit.
+
+[x] 3. Artifacts exported
+       One artifact worth keeping: Helen Marsh's estimate. Exported as
+       Markdown, helen-marsh-estimate-2027-03-09.md, in today's folder.
+       It opens with Claude closed.
+
+[x] 4. One connector scoped and reviewed
+       Harbor & Home's two connectors, Gmail and Google Drive, are both
+       in Dana's account. We read their blocks in connectors.md against
+       their pages together on Monday, March 1, the first Monday of the
+       month. Every row matched.
+       Next read: Monday, April 5.
+
+Boxes ticked: 4 of 4      Date: 2027-03-09
+
+PART 3. THE EXPORT
+
+Today's folder: library/exports/2027-03-09/
+[x] Account export: requested Tuesday morning, the link came by email,
+    downloaded the same day as claude-export-2027-03-09.zip. Double-
+    clicked it; the folder inside isn't empty.
+[x] claude-memory.txt
+[x] memory-harbor-home.txt
+[x] helen-marsh-estimate-2027-03-09.md
+[x] Skills: asked for last week's numbers. The last line said version 1,
+    and so does the last line of SKILL.md. Nothing to upload.
+[x] Projects: my Project's instructions match instructions.md word for
+    word.
+[x] Connectors: see box 4.
+
+MY SETTINGS, the four lines added to keepers.md (the Shared work line on
+Wednesday, March 10, after Dana decided), plus one of my own:
+Last Claude export: 2027-03-09, library/exports/2027-03-09/
+Rebuild drill: Harbor & Home, 9 minutes, canaries passed, 2027-03-09
+Shared work: personal accounts, because Dana decided on 2027-03-10 that only she changes the files. Revisit when she does.
+Book 2 test: 4 of 4, run 2027-03-09
+If I stop working for Dana: delete my Harbor & Home Project and its chats the same day, and tell her when it's done.

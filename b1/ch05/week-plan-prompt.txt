@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 5.
+The week-plan prompt from the practice pack's weekly-plan lesson, copied unchanged. Paste Sam's notes (sams-week.txt) or your own where it says [PASTE YOUR NOTES].
+
+Job: Build a realistic plan for my week, [MONDAY NOV 2 TO SUNDAY NOV 8]. I need to finish my coursework on time without missing work, family plans or sleep.
+
+Material: Use only my notes, pasted below. My shifts, classes and family plans are fixed. Do not move them.
+
+Shape:
+- Start with a short list called "Conflicts and questions."
+- Then one section per day: a simple time list (start, end, what) from wake-up to bedtime. Show travel as its own line.
+- Break each study task into blocks of [2 HOURS] or less, named by task, and finish each task before its deadline.
+- End with a table: study task, hours needed, hours planned, deadline, day finished.
+
+Check:
+- If two fixed things overlap, do not choose between them. Name the overlap in "Conflicts and questions," plan the week as the posted schedule stands, and add one line saying what would move if it changes.
+- Never plan study after [10 PM] or during travel.
+- Follow every preference in my "How I work best" notes. If you can't, say which one you broke and why.
+- Leave [ONE EVENING] with nothing planned.
+- If my notes leave something unclear, ask me in the Conflicts list instead of guessing.
+
+My notes:
+[PASTE YOUR NOTES]

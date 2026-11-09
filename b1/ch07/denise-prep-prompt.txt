@@ -1,0 +1,19 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 7.
+Sam's prep prompt for the talk with Denise, adapted from the practice pack's hard-conversation lesson. Paste everything below the line, then paste the part of sam-denise-notes.txt below its line (or your own notes) right after "My notes:".
+---
+Help me prepare for a short talk with Denise, my store manager. I'm going to ask her to end my Tuesday and Thursday shifts by 5:00 p.m. from January 12 to April 29, so I can get to my evening class. I want to keep my hours and stay on good terms with her.
+
+Use only my notes below. Don't add store policies, labor laws or facts about her that aren't in my notes.
+
+First, list anything in my notes that is inconsistent or that you'd need me to confirm. Don't fix it silently.
+
+Then give me a one-page prep sheet with these parts:
+1. My goal for the conversation, in one sentence.
+2. The numbers: my hours and pay per week now, with the swap I'm offering, and at my floor. Show the math.
+3. My opening: what I say in the first minute, under 80 words, in plain spoken language. State what I need once, with the dates.
+4. The four most likely objections, based on my notes, each with a short reply I could say out loud.
+5. My fallback and my floor, kept separate, with when to use each.
+6. Three things not to say.
+7. A follow-up note under 120 words confirming what we agreed.
+
+My notes:

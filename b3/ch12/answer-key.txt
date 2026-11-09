@@ -1,0 +1,35 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 12, Many Agents, One Repo.
+What a correct run of "Try this: Two lanes, one merge" shows on the practice week of Monday, March 22, 2027 (the files in harbor-home/). Harbor & Home Cleaning, Dana, Sam and every client, invoice, date and amount are invented. Read this after your own run.
+----------------------------------------
+THE GOOD WEEK (bank-first, invoices, bank-second)
+Five invoices paid: INV-2051 Alvarez, INV-2052 Moreau, INV-2053 Kowalski, INV-2054 Pham (the second bank, 25/03/2027 = March 25), INV-2055 Sullivan.
+One deposit with no invoice: 2027-03-26, LAROCHE B, $95.00. Dana decides what it is.
+Two invoices with no deposit yet: INV-2048 Brooks, $190.00, and INV-2050 Haddad, $260.00. Both are older invoices still open that week.
+Deposits total $912.00.
+
+LANE A: THE TWO BROKEN FILES
+1. bank-second-2027-03-22-empty.csv has its header and no rows.
+   Right: the run stops, names that file and says it has no rows. Nothing is matched.
+   Wrong, and what the checker did before lane A: it carries on and lists INV-2054 Pham as "no deposit yet", although Pham paid.
+2. invoices-2027-03-22-renamed.csv calls its first column "invoice" instead of "invoice_no".
+   Right: the run stops, names that file and the missing column.
+   Wrong: a Python traceback that ends in KeyError. It does stop, but Dana can't read it.
+Any wording counts, as long as the file and the problem are named and nothing is matched.
+Any exit code other than 0 counts. The finished copy uses 2.
+Lane A's change must leave the good week's lines exactly as they were. If a PAID, NO MATCH, NO DEPOSIT YET or summary line reads differently after lane A, lane B's report breaks.
+
+LANE B: THE REPORT
+Run on the good week, the report:
+- names the Monday (2027-03-22) in its title or file name,
+- lists LAROCHE B $95.00 and both open invoices before the paid list,
+- carries the checker's summary line unchanged.
+Run on a stopped run (lane A's STOPPED line, or no output at all), it writes no report and says why.
+It may or may not repeat the checker's STOPPED line on screen; either counts. The finished copy repeats it, because in a pipe the checker's line goes into the report script and never reaches the screen.
+Headings and order of the paid list are your choice.
+
+AFTER BOTH MERGE
+On main, both lanes' tests pass together. Pipe the checker into the report on the empty-file week and no report is written. That one check proves the two lanes fit, and neither lane's own tests could prove it.
+The good-week report that check writes in lane B's worktree is a test print. Delete it before the push; neither branch commits it.
+
+THE CLEANUP
+git worktree list shows only the main folder. Both pull requests show as merged on GitHub.

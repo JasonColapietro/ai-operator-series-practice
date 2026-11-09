@@ -1,0 +1,12 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 10.
+Dana Ruiz, Harbor & Home Cleaning and the new cleaner are invented. The agencies named in second-cases.txt are real, and the answers must come from their pages, not from this book. This file prints no answers.
+Paste the part under MY SITUATION where Keeper #4 says [SITUATION], and the part under MY QUESTIONS where it says [QUESTIONS].
+
+MY SITUATION
+I own Harbor & Home Cleaning in Portland, Maine. My seven cleaners are all employees, not contractors. One of them leaves at the end of December, and I've hired a replacement who starts on Monday, January 4, 2027. I don't hire often, and I don't trust my memory of the paperwork.
+
+MY QUESTIONS
+1. What do I have to report to the state when someone new starts work, and how many days do I have to do it?
+2. Which forms does a new employee fill out before or on the first day, and which of them do I keep on file instead of sending in?
+3. Which workplace posters or notices am I required to display, and where do I get current copies?
+4. What is Maine's minimum wage for 2027, and where is the official number published?

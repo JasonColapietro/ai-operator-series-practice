@@ -1,0 +1,8 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 12, prompt card B, word for word below the dashed line.
+----------------------------------------
+Lane B. Write scripts/monday_report.py that turns the
+checker's printed output into reports/monday-<date>.md
+for Dana: what she must decide first, then what was
+paid. Refuse to write a report if the checker's summary
+line is missing. Touch only scripts/monday_report.py and
+tests/test_monday_report.py. Run the tests. Commit.

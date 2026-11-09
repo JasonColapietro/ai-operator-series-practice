@@ -1,0 +1,73 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 15, Rent the Tool, Own the Work.
+A worksheet for your own Claude account and your own library/ folder. Save a copy in library/ if you like; it holds no secrets. Never write a password or a code on it.
+
+======================================================================
+PART 1. WHAT LIVES WHERE
+======================================================================
+Turn a page over and draw a line down the middle, the way Sam did, or
+fill in the two columns here.
+
+What lives inside Claude?                What is its copy in library/?
+(Projects and their chats, memory,       (a file you can open with Claude
+ skills, artifacts, connectors, tasks,     closed; name the folder, or
+ Instructions in Settings)                 write NONE)
+
+1. ____________________________         1. ____________________________
+2. ____________________________         2. ____________________________
+3. ____________________________         3. ____________________________
+4. ____________________________         4. ____________________________
+5. ____________________________         5. ____________________________
+6. ____________________________         6. ____________________________
+
+Every NONE on the right is today's job: the export in Part 3, or a file
+you write into library/ before the drill.
+
+======================================================================
+PART 2. THE BOOK 1 TEST, AIMED AT CLAUDE
+======================================================================
+Tick a box only when you can show it.
+
+[ ] 1. Every Project rebuilds from library/ in ten minutes
+       Check: a new Project built from the folder alone passes every
+       canary in canary.md, and the timer reads ten minutes or less.
+       Lives in: the Rebuild drill line under "## My settings" in
+       keepers.md.
+
+[ ] 2. Memory exported
+       Check: a text copy of your account memory, and one from each
+       Project, sit in today's export folder, and they open.
+       Lives in: library/exports/YYYY-MM-DD/
+
+[ ] 3. Artifacts exported
+       Check: every artifact you'd hate to lose has a file in that
+       folder that opens without Claude.
+       Lives in: library/exports/YYYY-MM-DD/
+
+[ ] 4. One connector scoped and reviewed
+       Check: its block in connectors.md matches the connector's page
+       today, row for row, and its review date hasn't passed.
+       Lives in: library/connectors.md
+
+Boxes ticked: ___ of 4      Date: ____________
+
+======================================================================
+PART 3. THE EXPORT, ONE KIND OF THING AT A TIME
+======================================================================
+Today's folder: library/exports/____-__-__/   (year first)
+
+[ ] Account export requested. Link arrived; downloaded the same day;
+    moved into today's folder; it opens and the folder inside isn't
+    empty.
+[ ] Account memory copied out as text: claude-memory.txt
+[ ] One memory file per Project, from the question in chapter 6:
+    memory-____________.txt   memory-____________.txt
+[ ] Artifacts exported (a doc as Markdown or Word, a deck as PowerPoint
+    or PDF): ________________________________________________
+[ ] Skills: the version on the last line of an answer matches the last
+    line of SKILL.md in library/skills/. If not, upload the folder again.
+[ ] Projects: each Project's instructions read side by side with its
+    instructions.md. Any change copied into the file first.
+[ ] Connectors: each connector's page read beside its block in
+    connectors.md.
+
+Then add the four lines in my-settings-lines.txt to keepers.md.

@@ -1,0 +1,15 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 13. What counts as a right answer on the practice route (sams-lines.txt). Sam, Dana Ruiz and Harbor & Home Cleaning are invented.
+
+Your sorting may differ from sams-balance-sheet.md in wording and in a few placements. These points have to match:
+
+1. The deposit checker is two lines. The method (reconcile.py, its tests, checks and briefs) goes under Assets as Sam's, with Harbor & Home's nonexclusive license noted. Harbor & Home's running copy and the Monday report, with its settings and Dana's matching rules, go under Held for others (or Assets with Dana's name as owner; both count). Leaving the checker as one line under Assets is the mistake the chapter's Sam's step makes first.
+2. Dana's bank and invoice exports never sit under Sam's Assets. Liabilities (a custody duty with a keep-until) or Held for others both count; Sam's file lists them under Liabilities because of the copies in the history, the bundles and the backups.
+3. projects/harbor-home/, the scan results, Harbor & Home's voice policy and consent records, and Dana's own Claude account are Dana's. Any section that names Dana as owner counts.
+4. The Sunday scan that signs in with Sam's logins goes under Dependencies with a fix. Under Liabilities with a fix also counts. (The night reconcile no longer belongs here: chapter 12 moved it to Harbor & Home's own user, so it is part of Dana's copy.)
+5. Sam's email and password manager go under Dependencies, with chapter 14 as the fix.
+6. The old section 4 goes under Liabilities, with a question for a lawyer as the fix. "Unsure, ask a lawyer" counts.
+7. Sam's two AI plans paid by Harbor & Home: Dependencies is the expected answer; Liabilities counts if the fix says who pays when the work ends.
+8. The three lines a buyer would pay for most: any three of the method, the plugin, the scan runner and questions, and the Monday report's code (monday_report.py) count, as long as Dana's copy is not sold as Sam's. A1, A2 and A3 is Sam's answer.
+9. The fix for this month names one line and a date in November 2027 (by Tuesday, November 30). Sam picked the Sunday scan; any one dependency with a date counts.
+
+Wrong on any route: a password, key, token or recovery code anywhere in the file; a line with no Test mark (pass, fix or "leaves with me"); Dana's records or settings counted as Sam's assets.

@@ -1,0 +1,21 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 10.
+Dana's library/connectors.md after she connected the shop's inbox in her own account. Harbor & Home, Dana and the address are invented. Matches the listing in the chapter's section "Drafting and sending are separate permissions" word for word below this header.
+----------------------------------------
+# Connectors
+What each connected service may do, in my words. I read this on the first Monday of every month.
+
+## Gmail: hello@harborhome.example.com
+Connected: January 11, 2027
+Turned on in: new chats in the Harbor & Home Project, for the morning replies only
+Read and search: Needs approval
+Create a draft: Needs approval
+Send, reply, forward: Blocked
+Change, move, delete: Blocked
+Ceiling: draft, because every reply goes out under my name and I read it first
+Review on: February 1, 2027
+Changes:
+
+## Never delegated
+1. My voice: nothing goes to a customer under my name until I have read it.
+2. My signature: no quote, agreement or form is accepted or signed for Harbor & Home except by me.
+3. Spending: no connector buys, pays or refunds anything. If that ever changes, the cap goes here first.

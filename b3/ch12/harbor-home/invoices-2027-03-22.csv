@@ -1,0 +1,8 @@
+invoice_no,invoice_date,job_id,client,service,sq_ft,amount,status
+INV-2048,2027-03-18,H-1322,"Brooks, D.",Standard,2200,190.00,Sent
+INV-2050,2027-03-19,H-1326,"Haddad, S.",Deep,1500,260.00,Sent
+INV-2051,2027-03-22,H-1330,"Alvarez, M.",Standard (weekly),1200,126.00,Sent
+INV-2052,2027-03-23,H-1332,"Moreau, J.",Standard,1500,140.00,Sent
+INV-2053,2027-03-24,H-1334,"Kowalski, A.",Deep,1500,260.00,Sent
+INV-2054,2027-03-25,H-1336,"Pham, D.",Standard,2000,165.00,Sent
+INV-2055,2027-03-26,H-1338,"Sullivan, K.",Standard (weekly),1300,126.00,Sent

@@ -1,0 +1,12 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 15, Rent the Tool, Own the Work.
+canary.md for the Harbor & Home Project, for readers who skipped chapter 4 or lost theirs. Harbor & Home Cleaning is invented. The two questions are the ones chapter 4 prints (the first is the practice pack's own, from wf21-claude-project/prompt.txt, Part 3). Each expected answer names the section of the facts file to check, instead of repeating the facts, so every price and policy keeps one home: practice/shared/harbor-home-business-facts.txt. Save everything below the line as library/projects/harbor-home/canary.md. It stays in the folder and never goes into the Project.
+----------------------------------------
+# Canaries: Harbor & Home
+Run both inside the Project after any change to its files or instructions, and in every rebuild drill.
+
+1. Write a two-sentence reminder for clients about our cancellation policy.
+   Must name: the free-cancellation window and the fee inside it, both from HOW BOOKING WORKS in facts.md.
+
+2. Do you serve Scarborough, and is there a fee?
+   Must name: that Scarborough is served by request, and the travel fee per visit, both from SERVICE AREA in facts.md.
+   Control: in a new chat outside any Project, with memory off for that chat, the answer must not name that fee.

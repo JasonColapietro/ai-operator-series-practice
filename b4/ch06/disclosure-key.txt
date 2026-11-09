@@ -1,0 +1,53 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 6.
+What the chapter's two exercises accept on the practice route (friday-note.txt and friday-note-ledger.md). Harbor & Home, Dana, Sam and every client are invented. Wording will differ from reader to reader, so check what each answer says, not how it says it. Prices live only in practice/shared/harbor-home-business-facts.txt; no answer needs one.
+----------------------------------------
+TRY THIS: NAME THE RECORD BEHIND ONE PIECE
+
+A fair claim
+- Gives Claude the draft and gives Dana the decisions and the sending. For example: "Dana decided what this note says and sent it; Claude drafted it from her notes."
+- A claim that says only "Dana wrote this note" fails. The ledger says Claude drafted it, and the claim has to survive the ledger.
+
+The records, who holds them, and what each shows
+- The ledger entry. Sam wrote it the same day. It is the only record that says which parts came from the tool and which from Dana and Sam. Held by Sam. It persuades because it was written at the time, but a stranger has only the business's word for it.
+- The exported Claude chat. Shows Dana's notes going in and the draft coming out. Held by Sam, as a copy.
+- The sent copy in Dana's Sent folder, and the saved copy in receipts/. Shows the final text and when it went. The email provider keeps its own record that Dana's account sent it, and every client who got it holds a copy. These are the records held by someone other than Harbor & Home.
+- The draft set beside the sent copy. Shows what a person changed: the new first and last lines and the two cut sentences. Two records compared make the strongest evidence of a person's part.
+- Sam's date check. Written down only in the ledger. Mark it "rests on the ledger".
+
+Strike
+- Nothing in the ledger is bare self-description. A line such as "Dana always writes her own emails" would be struck: it points at no record.
+
+Next time
+- Save Dana's phone notes beside the chat export. They show her decisions existed before the draft did.
+
+Accept any answer that names at least one record held outside Harbor & Home (the email provider's sent record, or a client's copy) and names either the ledger or the draft-against-sent comparison as the record of the person's part.
+
+----------------------------------------
+TRY THIS: WRITE YOUR DISCLOSURE LINES
+
+1. On the work: the line under Dana's signature in the Friday note
+- 20 words or fewer.
+- Names the tool or calls it an AI assistant, and says what it did: drafted, wrote a first draft, turned Dana's notes into a draft.
+- Names what a person did: Dana chose the dates, decided, edited, rewrote, checked or sent. Mentioning Sam's date check is fine and not required.
+- Written in Dana's voice or the business's ("I" or "we") both pass.
+
+2. On the site: a short paragraph for Harbor & Home's FAQ or About page
+- Says which writing an AI tool drafts (emails and notes to clients; FAQ answers is fine too).
+- Says what a person always does: Dana reads, edits and sends every message herself; people set the schedule and the prices.
+- Says how to reach a person, or points to the contact page.
+- Names no price.
+
+3. In a client deliverable: either of these passes
+- A written estimate: says the tool drafted it from the price list and Dana checked every figure before sending.
+- The footer of Sam's Monday report to Dana (Sam works for Harbor & Home on contract, so Dana is Sam's client): says the totals come from the checker script and Sam reviewed the report before sending it.
+
+Fails, on any of the three
+- "AI-assisted." or "Made with AI." on its own. It names a category and says nothing about who did what.
+- Any line that says Dana wrote it, with no mention of the draft.
+- Any line that apologizes ("Sorry if this sounds like a robot") or hedges ("may have been partly generated").
+- Any line that names a price.
+
+One sample set (there are many right answers)
+1. Under the signature: "Drafted with Claude from my notes. I chose the dates, edited it and sent it myself." (16 words)
+2. On the FAQ page: "We use Claude, an AI assistant, to draft some of our emails and FAQ answers from our own notes. Dana reads, edits and sends every message herself, and the schedule and prices are set by people. To reach a person, call or email the office."
+3. On an estimate: "Estimate drafted with Claude from our price list. Dana checked every figure before sending it."

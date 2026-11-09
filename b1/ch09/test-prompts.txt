@@ -1,0 +1,8 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 9.
+Two test prompts for "Try this: Tell it once". Send one exactly as written, once before you save your custom instructions and once after. Leave your rules out both times: the test is whether the instructions supply them. Joan Mercer, Karen Ashby and the quiz are invented.
+
+FOR DANA (with dana-about-me.txt)
+Write a short thank-you note to Joan Mercer. She had us clean her home last spring and recommended us to her neighbor, Karen Ashby.
+
+FOR SAM (with sam-about-me.txt)
+When should I study for my quiz on Tuesday?

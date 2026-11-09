@@ -1,0 +1,39 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 11, Proposal, Contract, Invoice.
+Answer key for marcus-sow-v1.txt (sent Tuesday, June 6, 2028) against marcus-sow-v2.txt (returned Tuesday, June 13, 2028). Built from a line-by-line diff of the two files. Read it after your own try. Sam, Marcus and every number are invented; nothing here is legal advice.
+----------------------------------------
+A GOOD RESULT lists all six changes below, labels the cosmetic changes as cosmetic, says which sections did not change, and reports no change that is not on this list.
+
+CHANGED (v1 -> v2), with what each means for Sam
+
+1. Section 6.3 (v2 7.3), ownership. v1: Marcus may deliver each report to its client as soon as Sam delivers it to him, and the report becomes Marcus's "when the invoice for it is paid in full". v2: the report becomes Marcus's "when Sam delivers it"; the permission to deliver is gone because ownership now covers it. For Sam: the work changes hands while the invoice is open.
+2. Section 8.2, the deposit. v1: half ($525) on signing, the rest ($525) when the third report is accepted. v2: the full $1,050 when the third report is accepted. For Sam: no money until all three reports are done and accepted.
+3. Section 8.3, invoice terms. v1: net 15. v2: net 30. Combined with change 2, the first dollar can arrive about six weeks after the third report is delivered (up to 10 business days to accept, then 30 days after the invoice).
+4. Section 3.2, time to accept. v1: 5 business days. v2: 10 business days. (A small number change inside a sentence. The one most often missed.)
+5. Section 9 (v1), the pause clause. v1: a pause of more than 15 business days resets the dates and invoices any delivered report. v2: deleted. For Sam: a client who goes quiet holds the calendar with no end date and no invoice.
+6. Section 2.1, new last sentence. v2 adds: for 12 months after the statement ends, Sam will not offer services to any client of Marcus Lee Design. For Sam: "any client" is wider than the three sites in this statement, and Sam can't know who all of Marcus's clients are.
+
+(Changes 2 and 3 may be grouped as "payment". Count as complete if every item is present.)
+
+COSMETIC (no change in meaning)
+C1. Sections 6 and 7 swapped order: AI Tools is now 6, Who Owns What is now 7. Their text is the same, except 7.3 (change 1).
+C2. Section 2.1: "Sam never contacts" became "Sam will not contact". Same meaning.
+C3. After the pause clause was deleted, Ending moved from 10 to 9 with the same text. The header line changed from "Version 1. Sent by ..." to "Version 2. Returned by ...".
+
+UNCHANGED
+1.1 and 1.2 (the work, three sites), 3.1, 4.1, 5.1, 6.1 and 6.2 (now 7.1 and 7.2), 7.1 (now 6.1), 8.1 ($350 per site, $1,050), the 15-day pause on overdue invoices in 8.3, 10.1 (now 9.1), the signature lines.
+
+ERRORS TO WATCH FOR
+- Missing change 4 (5 to 10 business days).
+- Reporting the swapped sections 6 and 7 as deleted or new content.
+- Saying the price changed. It did not: $350 per site, $1,050 in both.
+- Reading the deleted pause clause as cosmetic because the section numbers shifted.
+- Missing that 9.1 still says "refunds any deposit left over" although v2 has no deposit. A result that flags this is right; it is a leftover, not one of the six changes.
+
+WHAT SAM DID (one way; yours can differ)
+- Change 1: held payment as the trigger, and kept Marcus's real need covered. Marcus has to hand each report to his client before his own client pays him, and v1 6.3 already lets him do that from delivery. Sam explained that on a call and restored the v1 wording. Marcus agreed.
+- Change 2: asked for the deposit back. Settled at $350 on signing (one site), the rest at acceptance of the third report.
+- Change 3: accepted net 30. It costs Sam time, not money, and it matches how Marcus's own clients pay him.
+- Change 4: accepted 10 business days.
+- Change 5: restored the pause clause, word for word.
+- Change 6: accepted a narrower version: the 12 months cover only the clients named under this statement, by name.
+- Wrote "Version 3, agreed" at the top, with both dates, and saved all three versions in library/proposals/marcus-lee-design/.

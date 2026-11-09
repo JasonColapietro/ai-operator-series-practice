@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 2.
+The prompt from the practice pack's compare-two-versions lesson, copied unchanged below the line of dashes. The words in square brackets are the ones that change for your own documents. Upload both contract files to the same chat first.
+----------------------------------------
+I'm a [FREELANCE WEB DESIGNER]. I sent [A CLIENT] a contract, and they sent it back with their own edits. The changes are not marked. Compare the two attached files and tell me every difference, so I can decide what to accept and what to discuss.
+
+Files:
+- [wf07-input-contract-v1.txt] is the version I sent (Version 1).
+- [wf07-input-contract-v2.txt] is the version they returned (Version 2).
+Use only these two files.
+
+Work section by section, from the first section to the last. Compare every number, date, dollar amount, percentage, deadline and name. Also look for sentences that were added or deleted.
+
+Give me three things:
+1. A table of every change with these columns: Section | Version 1 says | Version 2 says | What this means for me. Quote the exact words from each version, kept short. Put the changes that matter most to [ME, THE DESIGNER] first.
+2. A short list of cosmetic changes that do not change the meaning, such as reworded sentences or renumbered sections.
+3. A list of the sections that did not change.
+
+Rules:
+- If a section was only moved or renumbered, say so. Do not report it as new or deleted.
+- If you are not sure whether a change matters, list it anyway and say why you are unsure.
+- Explain in plain English. Do not give legal advice.
+- Do not skip small changes. A single changed number counts.

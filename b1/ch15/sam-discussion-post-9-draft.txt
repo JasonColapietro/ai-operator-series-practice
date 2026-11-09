@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 15.
+Sam Rivera's first draft of Discussion post 9 (week 12, Chapter 9: Closing entries), due Sunday, November 22, 2026, at 11:59 p.m. Sam, the store, the class and the instructor are invented. The accounting is real: it follows the closing method Sam's textbook uses (revenues and expenses through Income Summary, then Income Summary and Owner's Drawing to Owner's Capital).
+The [DRAFT] for Keeper #10's first case. The limit is 250 words. The draft runs long on purpose.
+
+DISCUSSION 9 (from the course page)
+In your own words, explain why a business closes its temporary accounts at the end of a period. Use an example from your own life or work. 250 words maximum.
+
+---
+
+Closing entries finally clicked for me when I thought about my closing shift at the store.
+
+At the end of every night, the register gets counted down and reset. Whatever we sold that day goes into the deposit bag, and the next morning the register starts at zero again. Nobody adds Tuesday's sales on top of Monday's. If they did, by Friday nobody could tell how any single day went.
+
+Revenue, expense and drawing accounts work the same way, except the "night" is the end of the accounting period. They're called temporary accounts because they only measure one period. At the end of the period, closing entries move their balances out so each one starts the next period at zero. In our textbook's method, revenues and expenses go into Income Summary first, so Income Summary ends up holding the net income or net loss. Then Income Summary is closed to Owner's Capital, and Owner's Drawing is closed straight to Owner's Capital.
+
+The permanent accounts, like Cash, Equipment, Accounts Payable and Owner's Capital, don't get closed. Their balances carry over into the next period, the same way the money in the deposit bag still exists the next morning. It just isn't in the register anymore.
+
+I think the reason this matters is that without closing, the income statement for March would quietly include January and February too. You'd think the business was doing way better than it really is. The post-closing trial balance is the check that it worked, because only permanent accounts should be left on it.
+
+One thing I got wrong at first: I thought Owner's Drawing was an expense, so I closed it into Income Summary. It isn't an expense. It goes straight to Owner's Capital, which is why it never changes net income.
+
+Honestly, I used to think the closing count at work was just a chore. Now I see it's the same idea as closing the books. You can't measure a day, or a month, if you never reset the count.

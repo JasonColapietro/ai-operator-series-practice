@@ -1,0 +1,48 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 6.
+Copied unchanged from the practice pack's study lesson: the first half (TURN 1) of its example result, the reply chapter 6's "Sam's step" describes. Sam Rivera, the bookkeeping course and its instructor are invented.
+This is sample output from one run, made in Claude for the practice pack with the pack's tutor prompt and Sam's week 3 notes. In this book the notes are practice/b1/ch03/sam-week3-notes.txt; the pack calls them wf12-input-course-notes.txt. A ChatGPT reply will be worded differently.
+The pack's second half grades Practice Set 3A, which chapter 11 uses, so it is left out here. Its key is practice/b1/ch11/practice-set-3a-key.txt.
+Everything below the dashed line is the pack's text.
+------------------------------------------------------------
+TURN 1 (prompt Turn 1 plus wf12-input-course-notes.txt pasted after "My notes:")
+
+---
+
+**First, one mistake in your notes.** In your "Account types" list, Owner's Drawing is marked "-> Credit." Your DEALER trick says the opposite: Drawings go up with a Debit. DEALER is right. Owner's Drawing goes up with a debit, because the owner taking money out lowers owner's equity, the opposite of Owner's Capital. Fix that line before you do the practice set, and check it against chapter 3 if you want to be sure.
+
+**1. The main idea**
+
+Every transaction changes at least two accounts, and the books always stay balanced: Assets = Liabilities + Owner's Equity.
+
+Debit and credit only tell you which side of an account you write on. Debit is the left side. Credit is the right side. Neither one means "good" or "bad," or "in" or "out."
+
+Whether the left side makes an account go up or down depends on the type of account. Use DEALER. Drawings, Expenses and Assets go up with a debit. Liabilities, Equity and Revenue go up with a credit. To make any account go down, use the opposite side.
+
+In every entry, total debits equal total credits. So if Cash goes up by $100 (a debit), some other account gets a $100 credit.
+
+**2. Your sticking point**
+
+Your instructor's hint is the answer: your bank statement shows the bank's books, not yours. To the bank, the money in your account is money it owes you, so it's a liability on the bank's books. When you get paid, the bank owes you more, and liabilities go up with a credit, so the bank "credits" your account. When you swipe your debit card, the bank owes you less, so it debits that liability. On your own books, that same money is Cash, an asset, and assets go up with a debit. Same money, opposite sides, because it's your asset and the bank's liability.
+
+**3. A worked example**
+
+*Oct 1: A dog-walking business borrows $2,000 from the bank.*
+
+Step 1: Which accounts change? Cash (the business gets money) and Loans (the business now owes the bank).
+
+Step 2: What type is each? Cash is an asset. Loans is a liability.
+
+Step 3: Up or down? Both go up. The business has more cash and owes more.
+
+Step 4: Debit or credit? Assets go up with a debit, so debit Cash. Liabilities go up with a credit, so credit Loans.
+
+Step 5: Check. Debits $2,000 = credits $2,000. The equation stays balanced: assets up $2,000, liabilities up $2,000.
+
+In your instructor's format:
+
+```
+Oct 1   Cash                 2,000
+            Loans                    2,000
+```
+
+That's where I'll stop. Try Practice Set 3A yourself (remember the fix to Owner's Drawing), then send me your answers.

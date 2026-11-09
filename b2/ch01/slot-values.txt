@@ -1,0 +1,12 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 1.
+The slot values for Keeper #1 on the practice route ("Try this: Same keeper, two desks"). Harbor & Home Cleaning, Dana Ruiz and Maureen Fortin are invented.
+Copy Keeper #1 (version 2 in keeper-1-version-2.txt, or your own version 1) into a blank TextEdit or Notepad page, put these values into its slots, brackets and all, and change nothing else. Then paste the same filled text into both tools.
+----------------------------------------
+[BUSINESS]       Harbor & Home Cleaning
+[WHO THEY ARE]   a prospective client who has not booked yet
+[NEXT STEP]      book
+[WORD LIMIT]     220
+[TONE]           Warm and direct, no exclamation points
+[SIGN-OFF]       Dana
+[FACTS]          the whole of practice/shared/harbor-home-business-facts.txt
+[EMAIL]          fortin-email.txt (everything below its line of dashes)

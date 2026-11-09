@@ -1,0 +1,9 @@
+invoice_no,invoice_date,job_id,client,service,sq_ft,amount,status
+INV-2121,2027-05-17,H-1421,"Brooks, D.",Standard,2200,190.00,Sent
+INV-2123,2027-05-17,H-1424,"Alvarez, M.",Standard (weekly),1200,126.00,Sent
+INV-2124,2027-05-17,H-1425,"Chen, L.",Standard (every 2 weeks),1900,148.50,Sent
+INV-2126,2027-05-18,H-1428,"Nguyen, T.",Deep,1400,260.00,Sent
+INV-2127,2027-05-18,H-1429,"Patel, A.",Move-out,1500,320.00,Sent
+INV-2129,2027-05-19,H-1432,"Becker, W.",Standard,1300,140.00,Sent
+INV-2130,2027-05-19,H-1433,"Haddad, S.",Deep + inside fridge,1500,295.00,Sent
+INV-2132,2027-05-20,H-1436,"Moreau, J.",Standard,1500,140.00,Sent

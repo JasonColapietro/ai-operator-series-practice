@@ -1,0 +1,25 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 6.
+Sam's finished memory policy, built from memory-policy-template.txt after the audit of sam-claude-memory.txt. Sam Rivera, Dana Ruiz and Harbor & Home Cleaning are invented. Use it as a model, then write your own.
+
+MEMORY POLICY: SAM RIVERA
+What Claude may keep about me between chats, and what it may not. I read my memory against this page once a month.
+Memory last read: 2026-12-19
+Next read: 2027-01-19
+
+CLAUDE MAY KEEP
+- What I'm working toward and when: the bookkeeping certificate, my class nights, my hours at Harbor & Home.
+- How I like work handed back: tables for plans and summaries, the answer before the explanation.
+- In the Harbor & Home Project only: how Dana wants routine work done, such as what a payment reminder includes.
+
+CLAUDE MAY NOT KEEP (and where it goes instead)
+- Anything on my never-paste list. It goes nowhere. If one turns up in memory, I change it that day and delete the topic and the chat it came from.
+- Totals, balances and who still owes. They live in that week's summary in library/, and I paste them fresh.
+- Prices, hours and policies. They live in facts.md. A price Claude picked up from an example gets deleted on sight.
+- Customers' private news, family or health. The booking app holds what the job needs, and nothing else holds any of it.
+- My own money and housing. I ask about those in a chat with memory off.
+- Rules nobody decided. If a topic says how Dana does something, I ask Dana. Her answer goes in brief.md, in her words, and the topic goes.
+
+SETTINGS
+- Harbor & Home Project: Use account memory off, because my life stays out of Dana's work and her work stays out of mine.
+- Sensitive topics in memory: off.
+- Training (Help Improve our AI models): off, set on purpose 2026-12-19, because Dana's customers are in my chats.

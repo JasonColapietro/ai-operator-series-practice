@@ -1,0 +1,69 @@
+PRACTICE FILE, FICTION. Sam Rivera and everything below are invented.
+Sam's worksheet for Book 1, Chapter 14, filled in on Sunday, November 22, 2026.
+
+======================================================================
+PART 1. TOMORROW MORNING
+======================================================================
+What would be gone?                     What would I still have, and where?
+1. Every week plan since Nov 1          1. The prompt behind them: Keeper #2
+                                           (version 2), in Documents/library
+2. The chat about my Thursday shift     2. Keeper #5, the clash prompt it
+   clash                                   turned into
+3. The Bookkeeping class Project        3. Keeper #6: its instructions word
+                                           for word, and where each file's
+                                           master copy lives
+4. My memory list (fixed in ch 9)       4. about-me.md, Documents/library
+5. The Sunday check-in task             5. Keeper #7, with its test runs
+6. The chats where I worked through     6. Nothing yet
+   the bank reconciliation unit
+
+The one thing on the left I'd miss most: number 6, the reconciliation chats.
+Is it in library/ yet?  [x] not yet: save it today
+  -> These are answers, not prompts, so they don't belong in keepers.md.
+     The export keeps a copy of every chat, these included.
+
+======================================================================
+PART 2. THE BOOK 1 TEST (first try)
+======================================================================
+[x] 1. ChatGPT export saved and dated
+       Requested Sun Nov 22. Link came by email that evening. Opened it on
+       the laptop, signed in. Saved as
+       library/exports/chatgpt-export-2026-11-22.zip
+       (named for the day I asked for it). Opens.
+
+[x] 2. Every keeper lives outside the app
+       Wi-Fi off, keepers.md opens, every keeper there and whole.
+       (Note to self: second copy of library/ went in the cloud drive
+       that came with my student account for the course.)
+
+[x] 3. Training control set on purpose
+       My settings line says OFF, set Nov 1, "class notes and Denise's
+       details". Switch matches.
+
+[x] 4. Two-factor sign-in on
+       Authenticator app, since Nov 1. Backup: text-message codes to my
+       own cell number, which moves with me if I ever lose the phone.
+
+Boxes ticked: 4 of 4
+
+======================================================================
+WHAT WAS WRONG: THE SECOND COPY (noted beside box 2)
+======================================================================
+Box 2 still passes: every keeper lives outside the app. The second copy
+was the problem. A student account belongs to the school. It can close
+when the course ends, on a schedule the school sets, and Part 2 of the
+certificate ends in the spring. A copy I could lose when someone else
+closes an account doesn't count as a copy I control. And the copy held
+the export, every chat in it, Denise's details included, on an account
+the school runs.
+
+Fix (same day): copied library/ to a USB stick that stays in the desk
+drawer at home. The laptop goes to class in my bag; the stick doesn't
+travel with it. Deleted the copy from the student drive.
+
+======================================================================
+PART 3. LINES ADDED TO keepers.md, UNDER "## My settings"
+======================================================================
+Last export: 2026-11-22, library/exports/chatgpt-export-2026-11-22.zip
+Second copy of library/: USB stick, desk drawer at home, copied 2026-11-22
+Book 1 test: 4 of 4, run 2026-11-22

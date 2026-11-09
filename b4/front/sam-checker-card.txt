@@ -1,0 +1,41 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Before This Book.
+Sam Rivera, Dana Ruiz and Harbor & Home Cleaning are invented, and so is every customer, payment and invoice mentioned here. This card is the practice route for "Try this: Ask the three questions once". It states what is true in the story at the end of Book 3 and nothing more. Where the card is silent, write [CHECK: what is missing].
+----------------------------------------
+SAM'S DEPOSIT CHECKER, AT THE END OF BOOK 3
+
+What it is
+  scripts/reconcile.py, a short Python script. It matches each of
+  Harbor & Home's bank deposits to the invoice it pays and lists every
+  deposit and every invoice that doesn't match. A second script,
+  scripts/monday_report.py, turns what it prints into Dana's Monday
+  report.
+
+Who made it
+  Sam, in Book 3, working with coding agents and reading each change
+  before committing it. Dana made the calls on the hard cases, such
+  as a transfer that pays two invoices.
+
+Where it lives
+  In Sam's library repository: a folder on Sam's laptop, pushed to a
+  private repository on GitHub under Sam's own account.
+
+What it reads
+  Harbor & Home's weekly bank exports and invoice lists, committed in
+  the same repository under practice/harbor-home/. In the story these
+  are Dana's real business records, with a customer's name on every
+  payment.
+
+The tools behind it
+  The coding agents run on Sam's own accounts: Claude Pro on Sam's
+  Claude account, and ChatGPT Plus for Codex. Harbor & Home pays for
+  both plans as a business cost. The script itself is plain Python and
+  runs without either agent.
+
+What is written down about it
+  The repository's history: every commit, with its date and a message
+  saying what changed. Handoff notes between sessions, incidents.md
+  (what went wrong) and decisions.md (what was decided).
+
+What is not written down anywhere
+  Who owns the code, and on what terms anyone else may use it.
+  Which lines an agent wrote and which Sam wrote.

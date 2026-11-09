@@ -1,0 +1,25 @@
+PRACTICE FILE, FICTION (see README.txt). The key for step 3 of "Try this: Give every data set an owner", Book 4, Chapter 8.
+
+One set that works. Run on 2026-11-06 against a copy of practice/b3/ch10/sam/ with Python 3: all twelve tests pass, and none of the five customer names is left in the file.
+
+Customer name (bank / invoice)                         Made-up name (bank / invoice)
+TRANSFER IN R PATEL / Patel, R.                         TRANSFER IN Q TESTWELL / Testwell, Q.
+TRANSFER IN M OYELARAN                                  TRANSFER IN U STRAYPAY
+Brooks, D.                                              Openbill, O.
+CARD SETTLEMENT CHEN L / Chen, L.                       CARD SETTLEMENT E EARLYBIRD / Earlybird, E.
+TRANSFER IN LINDQVIST RENTALS LLC / Lindqvist Rentals LLC (Unit A), (Unit B)
+                                                        TRANSFER IN SAMPLEDALE RENTALS LLC / Sampledale Rentals LLC (Unit A), (Unit B)
+
+Any set is right if:
+1. All the tests still pass, run from the repo root: python3 -m unittest discover -s tests
+2. None of the five customer names appears anywhere in the test file. Search for each surname.
+3. Each made-up person keeps the same two forms: INITIAL SURNAME in the bank line, Surname, Initial. on the invoice, with the same initial and surname in both.
+4. The company keeps one name across the bank line and both invoices, and the two units stay in parentheses.
+5. The names look made up. A name that could belong to a real customer will fool the next person who reads the file, which is the problem you're fixing. Names like Testwell or Openbill, or plain Customer A and Customer B, all work.
+
+Wrong:
+- Different made-up names on the bank line and the invoice for the same person. Giving Patel's bank line TRANSFER IN Q TESTWELL and the invoice Placeholder, P. fails two tests, test_names_match_in_either_order and test_payment_in_two_parts, because the checker matches on names (run on 2026-11-06).
+- Changing an amount or a date. The amounts and dates carry the traps (two equal halves, a card payment dated before its invoice); only the names change.
+- Editing the made-up names that were already there (ALDEN R, VOSS K and the invoice name in test_names_must_match_not_only_amounts). They were never customers.
+
+Commit the change with a message that says why, for example: "Replace customer names in tests with made-up names (data register, 2027-11-08)". The old names stay in the repo's history; the register already lists the repo as a place Dana's data lives, so the history is covered by the same row.

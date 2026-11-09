@@ -1,0 +1,163 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Back of the Book: Top of the Flight.
+A worksheet for your own library/ folder. Save a copy in library/ if you like; it holds no secrets. Never write a password or a code on it. Any practice-cast name you meet here is fiction.
+
+======================================================================
+PART 1. THE CAN-DO LEDGER
+======================================================================
+Read each line as a question: could I do this tomorrow, with the book closed?
+Tick yes, or tick not yet and redo that chapter's Try this.
+
+                                                                yes  not yet
+2.1  Set up Claude and run the same keeper in ChatGPT
+     and Claude.                                  chapter 1     [ ]  [ ]
+2.2  Summarize a long document with section citations
+     and list every change between two versions.  chapter 2     [ ]  [ ]
+2.3  Turn a messy CSV into a weekly table whose
+     totals reconcile.                            chapter 3     [ ]  [ ]
+2.4  Build a Project and prove with a canary test that
+     its answers come from its files.             chapter 4     [ ]  [ ]
+2.5  Write a voice spec and get a draft a friend
+     cannot tell from yours.                      chapter 5     [ ]  [ ]
+2.6  Review and edit Claude's memory and write what it
+     may and may not keep.                        chapter 6     [ ]  [ ]
+2.7  Run a Research report and audit three of its
+     citations at the source.                     chapter 7     [ ]  [ ]
+2.8  Produce a one-page proposal and a small checklist
+     tool, and export the proposal.               chapter 8     [ ]  [ ]
+2.9  Build an FAQ from a facts file plus its list of
+     unanswered questions.                        chapter 9     [ ]  [ ]
+2.10 Connect one service, scope it, and draft (not
+     send) a reply from real mail.                chapter 10    [ ]  [ ]
+2.11 Package a keeper as a skill and see Claude use it
+     on a matching task.                          chapter 11    [ ]  [ ]
+2.12 Write and rank your everything-else list and run
+     the top item as a workflow.                  chapter 12    [ ]  [ ]
+2.13 Hand Claude a multi-step task with a seven-field
+     brief and check the result against acceptance.
+                                                  chapter 13    [ ]  [ ]
+2.14 Schedule a Monday summary that stops on stale
+     input and run one weekly review.             chapter 14    [ ]  [ ]
+2.15 Rebuild any Project from library/ in ten minutes
+     and name the first job for an agent.         chapter 15    [ ]  [ ]
+
+Chapters 7, 13 and 14 each give a free route beside the paid feature.
+If you took it, tick yes. The method is the same either way.
+
+======================================================================
+PART 2. LIBRARY/ AT THE END OF BOOK 2
+======================================================================
+Open the folder beside Figure B.1 and tick what is there. File names
+below are the practice route's; yours carry your own job and Project
+names. Anything missing gets its chapter number written beside it.
+
+[ ] library/                                            Book 1, chapter 1
+[ ]   keepers.md                                        Book 1, then 1 to 15
+[ ]     Keeper #1, version 2                            chapter 1
+[ ]     Keepers #11 and #12                             chapter 2
+[ ]     Keeper #13                                      chapter 7
+[ ]     Keeper #14                                      chapter 9
+[ ]     Keeper #15                                      chapter 12
+[ ]     new lines under ## My settings                  chapters 1, 6, 15
+[ ]   about-me.md                                       Book 1 (or Before This Book)
+[ ]   reviews/two-desks.md                              chapter 1
+[ ]   reviews/blind-tests.md                            chapter 5
+[ ]   reviews/citation-audit-[DATE].md                  chapter 7
+[ ]   reviews/weekly-[DATE].md                          chapter 14
+[ ]   facts/counting-rules.md                           chapter 3
+[ ]   projects/harbor-home/ with instructions.md, facts.md,
+        brief.md, voice.md and canary.md                chapter 4
+[ ]   projects/harbor-home/faq.md and gaps.md           chapter 9
+[ ]   voice.md                                          chapter 5
+[ ]   memory-policy.md                                  chapter 6
+[ ]   artifacts/estimate-template.md                    chapter 8
+[ ]   connectors.md                                     chapter 10
+[ ]   skills/weekly-numbers/ with SKILL.md and columns.md
+                                                        chapter 11
+[ ]   everything-else.md, with the first agent job on top
+                                                        chapters 12, 15
+[ ]   briefs/template.md and one filled brief           chapter 13
+[ ]   schedules/monday-summary.md                       chapter 14
+[ ]   exports/claude-memory-[DATE].txt                  chapter 6
+[ ]   exports/ client files, named and dated            chapter 8
+[ ]   exports/[DATE]/ with the account export, memory files
+        and artifacts                                   chapter 15
+
+If you started with Book 2, your keepers run #1, then #11 to #15. The
+numbers Book 1 used stay free, and nothing is missing.
+
+Book 1 readers also keep weekly.md, scans/ and
+exports/chatgpt-export-[DATE].zip. Tick them if they're there.
+
+======================================================================
+PART 3. THE BOOK 1 TEST, AIMED AT CLAUDE
+======================================================================
+Tick a box only when you can show it. Chapter 15 says how to check each
+one, and practice/b2/ch15/book-two-test.txt has the checks written out.
+If you ran the chapter 15 drill and export this month, most of this is
+reading your own notes.
+
+[ ] 1. Every Project rebuilds from library/ in ten minutes
+[ ] 2. Memory exported
+[ ] 3. Artifacts exported
+[ ] 4. One connector scoped and reviewed
+
+Then change this line under ## My settings in keepers.md, and save:
+
+Book 2 test: [NUMBER] of 4, run [DATE]
+
+Fewer than four is still a record. Write the number you have.
+
+======================================================================
+PART 4. THE FIRST BRIEF FOR AN AGENT
+======================================================================
+Copy library/briefs/template.md to a new file in briefs/, named for the
+job (reconcile.md on the practice route). Fill it from the block at the
+top of everything-else.md, or from dana-first-agent-job.txt in the
+b2/ch15 folder. Each block line feeds one part of the brief:
+
+Block line        Goes to                 What to write
+----------        -------                 -------------
+Job               # Brief: (title)        the job, in a few words
+Files             Input                   what it reads, and nothing else;
+                                          which file wins if two disagree
+(not in block)    Output                  the file the run must leave: its
+                                          name, its parts, where it lands
+From              Owner                   whoever keeps the step that
+                                          "stays mine" accepts the result
+(not in block)    Permissions             read the Files; create only the
+                                          Output; never change, move or
+                                          delete what it reads; never send,
+                                          post, submit or pay
+(not in block)    Limits                  how many passes and recounts;
+                                          stop and say which check failed
+(not in block)    Recovery                a missing or unreadable file:
+                                          keep what's done, name the step,
+                                          tell the Owner
+Check             Acceptance, line 1      the Check line, word for word
+                  Acceptance, line 2      one more check anyone could run
+Rules             Failure cases           the case the rules must handle,
+                                          beside an ordinary input and one
+                                          with a field missing
+Runs it now       (stays in the block)    the baseline Book 3 measures
+                                          against
+
+On the header line, write today's date after "Saved:", then
+"Runs in: a coding agent (Book 3)" and "Setting: Manual". Leave
+"Stop by:" and the Runs line at the bottom blank. The first run belongs
+to Book 3.
+
+A field you can't fill yet gets [CHECK: what is missing] in place of a
+guess. That's a question for the Owner, or for Book 3.
+
+======================================================================
+LAST STEP. THE SECOND COPY
+======================================================================
+If you keep a second copy of library/ (Book 1, chapter 14), change the
+date on this line under ## My settings, and save keepers.md:
+
+Second copy of library/: [WHERE], copied [DATE]
+
+Then refresh it the way Book 1, chapter 14, did: delete the old library
+folder there first, then copy this one across. The account export in
+exports/ holds every chat you've had, so the second place has to be one
+only you control.

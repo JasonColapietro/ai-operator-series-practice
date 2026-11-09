@@ -1,0 +1,26 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Before This Book (front of the book).
+Keeper #1 from Book 1, chapter 4, copied unchanged below the line of dashes. Its prompt lines come from the practice files' customer-reply lesson, with a slot in place of every detail that belongs to one business. It names no real or fictional person: you fill the slots each time you run it.
+Copy everything from the "## Keeper #1" line down into library/keepers.md, then put today's date on the "Saved:" line. Leave [CHECK: what I need to confirm] exactly as written. It is a marker, not a slot. Leave the last two lines blank; chapter 1 gives the keeper its first run in Claude.
+----------------------------------------
+## Keeper #1: Reply from approved facts
+Saved: [TODAY'S DATE]
+Use it for: any email you answer from facts you control
+
+I run [BUSINESS], and I need a reply to a customer email. The customer is [WHO THEY ARE].
+
+Job: Write a reply I can send today. It should answer every question in the email and make it easy for them to [NEXT STEP].
+
+Material: Use only the approved facts below. Do not add prices, services, promises or dates that are not in the facts.
+
+Shape: A plain email, under [WORD LIMIT] words. [TONE]. Answer the questions in the order they were asked. End with one clear next step. Sign off as [SIGN-OFF].
+
+Check: If the email asks something the facts do not answer, do not guess. Put [CHECK: what I need to confirm] in the reply at that spot. If a price depends on a detail you do not have, explain how the price works and flag it. After the email, list each [CHECK] item, then list every price you quoted and the fact it came from.
+
+FACTS
+[FACTS]
+
+EMAIL
+[EMAIL]
+
+Repair that fixed it:
+Transfer run:

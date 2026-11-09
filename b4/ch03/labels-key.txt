@@ -1,0 +1,52 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 3. The key for sam-pieces.txt.
+Read it after your own try. Labels are for your own records; on a form, the form's definitions win. Nothing here is legal advice.
+----------------------------------------
+
+1. scripts/reconcile.py, the deposit checker
+Accepted: AI-assisted. Deciding sentence: the brief, the prompt cards
+  and the matching rules came from Sam and Dana, and Sam rewound one
+  version and read every diff. The agent wrote the code to their
+  decisions.
+Also accepted: AI-generated, if you applied a form's rule (KDP's,
+  for example, counts anything a tool created as AI-generated even
+  after edits) and wrote down that you did. Say which rule.
+Evidence: briefs/reconcile.md; the git log for scripts/ and tests/;
+  handoffs/.
+Missing (any of these counts): the agent sessions from March and
+  April 2027 (Claude Code deletes local transcripts after 30 days
+  unless you change the setting); a line-by-line record of which
+  code the agent wrote and which Sam changed.
+Who else may claim part of it: Dana, depending on the agreement
+  between them (chapter 10). "Not sure, chapter 10" is a correct
+  answer here.
+
+2. Dana's Monday summary
+Accepted: AI-generated. Deciding sentence: "Claude writes the whole
+  summary" and nobody edits it.
+Evidence: the scheduled task's run history and the summaries.
+Missing: nothing is required for this label. "None missing" is
+  correct. If you wrote that the instructions behind the task should
+  be saved in the library, that counts too.
+Who else may claim part of it: Harbor & Home, since the summary is
+  made for Dana's business. "Dana" or "Harbor & Home" are both fine.
+
+3. keepers.md
+Accepted: human-made. Deciding sentence: "wrote every keeper myself";
+  the tool ran the prompts and its answers were not kept.
+Evidence: the file; the repo's history since March 2027; dated
+  exports from Books 1 and 2.
+Missing: dates for the keepers written before March 2027, beyond what
+  the old exports show.
+Who else may claim part of it: nobody, or "not sure" if some keepers
+  were written on Harbor & Home's time. Either is fine.
+
+4. The Harbor & Home FAQ
+Accepted: "Not enough to label". The description doesn't say who
+  decided the structure or the final wording.
+Not accepted: any of the three labels, until the description is
+  rewritten as "I did X; the tool did Y".
+Missing: everything. Find the chat or the file history, then rewrite
+  the description and label it.
+
+It worked if: every label has a deciding sentence, and at least one
+piece shows missing evidence (pieces 1, 3 and 4 all do).

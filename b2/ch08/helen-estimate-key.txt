@@ -1,0 +1,37 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 8.
+What a good estimate for Helen Marsh carries, for "Try this: An estimate the client can approve". Helen, Dana and Harbor & Home are invented. Written for this book from the practice pack's artifact answer key (its PART B), with one change: the $25 size step stays a question for Dana, as it does everywhere in Book 2.
+Prices and policies live in practice/shared/harbor-home-business-facts.txt and the house rules in the project brief from chapter 4. This key names the line each check comes from instead of repeating it, and shows only the totals. Read it after your run. Wording will differ; the totals and the checks should not.
+----------------------------------------
+EACH REGULAR VISIT: $148.50
+- Standard home clean line, plus one size step for the extra 500 sq ft (her home is about 2,000 sq ft), comes to $165.
+- Recurring discount line: every other week qualifies, so take 10% off. $165 x 0.90 = $148.50.
+- No travel fee: Cape Elizabeth is on the SERVICE AREA list.
+
+FIRST VISIT: two results pass
+A. $320, with a numbered line under Assumptions that says the size step was borrowed from the standard-clean line and asks Dana to confirm it for a deep clean.
+   Sum: deep clean line + one size step + inside fridge add-on = $320. The practice pack's key reaches the same sum by following Dana's own quote to Mrs. Patel in the voice sample.
+B. A [CHECK] (or CHECK:, the same marker) where the deep-clean price for about 2,000 sq ft would go, with the deep clean shown as the facts file prints it (a "from" price up to 1,500 sq ft) and the fridge add-on priced.
+Incomplete: $320 with no word anywhere about where the size step came from. The sum matches the pack's key, but the one question Dana has to answer is hidden. Ask Claude to add it under Assumptions.
+
+HER QUESTIONS
+- Carpet shampooing: no, in one sentence (WHAT WE DO NOT DO). No other company suggested (brief rule 4).
+- Products safe for her cat: yes, on request; default products are fragrance-free (SUPPLIES).
+- Litter box each visit: no (No pet waste cleanup).
+- Do you need to see the house first: no. The free video walk-through is for first visits to homes over 2,500 sq ft (HOW BOOKING WORKS).
+- Totals: the two above, each with its line items.
+- Fridays: a preference Dana confirms when Helen books. No day or time promised (brief rule 1).
+
+SHOULD NOT APPEAR
+- A travel fee.
+- A price for carpet shampooing or the litter box.
+- A discount on the first deep clean (the recurring discount is for standard cleans).
+- Any day, date or opening Dana hasn't given.
+- Another company's name or kind ("a carpet cleaning company").
+- A promise no file makes, such as "If the house needs much more time than expected, we'll talk with you before going further." Delete it, or ask Dana whether it belongs in the brief.
+
+MAY APPEAR (all from the facts file)
+- Payment, cancellation, the 24-hour guarantee, and the team bringing all supplies.
+
+THE ASSUMPTIONS SECTION
+- Numbered, one per line, at the end, and nowhere else.
+- Result A's size-step line belongs here. So may "about 2,000 sq ft taken as one extra 500 sq ft step" and "the recurring discount applies to the regular visits only".

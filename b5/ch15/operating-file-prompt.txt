@@ -1,0 +1,6 @@
+FICTION LABEL: practice file for The AI Operator Series, Book 5, Chapter 15. The prompt card from "Try this: The operating file". Paste it into Claude Code or Codex opened in your library folder, or into a Claude Project that holds your library files.
+
+Job: Assemble library/operating-file.md from the files already in this library, using operating-file-template.md as the shape.
+Material: Only files in this folder: offers/, pricing.md, playbooks/, service-standard.md, pipeline.md, clients/, reviews/, OWNERSHIP.md and estate.md. Read estate.md for pointers only.
+Shape: The template's ten sections, in order. Each section is a one-line pointer to the file that holds the detail, plus the few lines the template asks for. One page.
+Check: Never copy a price, a password, an API key, a recovery code or a customer's personal details into this file; point to where it lives instead. Where a section has no source file, write [CHECK: what is missing] and keep going. List every [CHECK] at the end.

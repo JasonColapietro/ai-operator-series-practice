@@ -1,0 +1,12 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 9.
+The FAQ card from the practice pack's FAQ lesson, copied unchanged below the line of dashes (the pack calls it prompt.txt). Send it as printed with customer-questions.txt attached, in a chat inside your Harbor & Home Project, or with practice/shared/harbor-home-business-facts.txt attached too. For your own business, change the words in square brackets; [Source: SERVICES AND PRICES] only shows the tag format, so it stays as written. Harbor & Home Cleaning is invented.
+----------------------------------------
+I run [Harbor & Home Cleaning, a house-cleaning business in Portland, Maine]. I'm adding an FAQ page to [our website], and I want it to answer the questions people actually ask.
+
+Job: Write an FAQ for [people thinking about booking us for the first time]. I've attached two files: [our approved business facts] and [a list of real questions customers have asked us].
+
+Material: Answer only from the facts file. Every answer must be supported by a line in that file. Don't add policies, prices, times or promises that aren't there, even if they seem normal for [a cleaning business].
+
+Shape: Combine duplicate questions. Group the questions under [4 to 6] short headings, such as Prices or Booking. Write each question the way a customer would ask it, then answer it in 1 to 3 plain sentences. Tone: [warm and direct, no exclamation points]. After each answer, add the part of the facts file it came from in brackets, like [Source: SERVICES AND PRICES], so I can check it. I'll delete these tags before publishing.
+
+Check: At the end, add a section called "Questions I could not answer from the facts." List every question the facts file doesn't answer, or only partly answers, and say what's missing. Leave unanswered questions out of the FAQ. If the facts answer part of a question, answer only that part in the FAQ and also list the question here.

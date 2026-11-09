@@ -1,0 +1,31 @@
+PRACTICE FILE. The AI Operator Series, Book 1, Chapter 9.
+A blank about-me file. Save a copy as library/about-me.md (a .txt ending works as well) and fill in each heading in your own words. Delete these three lines when you do.
+
+# About me
+Updated: [TODAY'S DATE]
+
+## Who I am
+[NAME. ONE LINE ON WHAT YOU DO FOR A LIVING, OR WHAT YOU ARE STUDYING.]
+
+## What I do
+[WHAT FILLS YOUR WEEK, AND THE JOBS YOU BRING TO CHATGPT MOST OFTEN.]
+
+## Who I write to
+[THE PEOPLE WHO READ WHAT YOU SEND: CUSTOMERS, A BOSS, A TEACHER, FAMILY.]
+
+## How I sound
+[WHAT YOUR BEST MESSAGES DO: HOW THEY OPEN, HOW LONG THEY RUN, HOW THEY END, HOW YOU SIGN OFF.]
+
+## Words I never use
+[WORDS, PHRASES AND PUNCTUATION YOU ALWAYS TAKE OUT OF A DRAFT.]
+
+## Formats I like
+[HOW YOU WANT ANSWERS LAID OUT: LENGTH, LISTS OR NO LISTS, TABLES, WHERE THE OPEN ITEMS GO.]
+
+## Ask me before guessing
+[WHAT IT MUST ASK YOU, OR MARK [CHECK: what I need to confirm], INSTEAD OF FILLING IN.]
+
+---
+Pasted into custom instructions: [DATE]
+Memory last read: [DATE]
+Never in this file: anything on my never-paste list, other people's private details, or facts that change every week, such as prices and schedules.

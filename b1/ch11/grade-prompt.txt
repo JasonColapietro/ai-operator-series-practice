@@ -1,0 +1,7 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 11.
+Sam's grading request, sent in a new chat inside the Bookkeeping class Project. Everything down to "My answers:" is the practice pack's text, unchanged. The last line is added, because the answers already sit in the Project as a file.
+
+---
+Here are my answers to the practice set. Mark each one Right or Wrong. For each wrong one, give the correct answer and explain the rule I missed in one or two sentences, pointing to the rule in my notes. Then give me 3 new practice questions like the ones I got wrong, without the answers.
+
+My answers: they're in sam-practice-answers.txt in this project.

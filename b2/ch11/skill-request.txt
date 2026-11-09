@@ -1,0 +1,18 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 11.
+The request that asks Claude to draft a skill from a keeper, with its slots. It matches the chapter's card word for word below the line of dashes. New prompt text written for this book; its last line is the request Jason recommends in the Claude guide at the back of Stake Your Claim. For the practice route, open skill-request-harbor-home.txt instead: it is this card with Harbor & Home's values filled in.
+----------------------------------------
+I do the same job again and again. I want Claude to know how to do it without my pasting the instructions every time.
+
+The job: [WHAT IT PRODUCES, FOR WHOM, AND WHEN]
+What I give Claude each time: [THE FILES OR TEXT]
+Call the skill: [A NAME FOR THE JOB, IN LOWERCASE WITH HYPHENS]
+
+This is the request I paste every time. Keep every rule in it.
+[PASTE THE KEEPER]
+
+What I've learned from running it:
+[EVERY CORRECTION YOU'VE HAD TO MAKE, ONE PER LINE]
+
+Write it for the Claude apps. The folder name and the skill's name must match. The frontmatter holds only name and description. The description is 200 characters or fewer, starts with the job, and says when to use the skill and when not to. In the body, give numbered checks that pass or fail, a section on what the skill must never do, and a last line it adds to everything it makes, ending "version 1".
+
+Turn this into a Claude Skill I can reuse.

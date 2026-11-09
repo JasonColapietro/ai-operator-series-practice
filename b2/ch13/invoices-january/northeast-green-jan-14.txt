@@ -1,0 +1,23 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 13.
+An invoice Dana saved from email, typed out as text. Supplier, numbers and amounts are invented.
+----------------------------------------
+NORTHEAST GREEN CLEAN PRODUCTS
+PO Box 417, Brunswick, ME 04011 | 207-555-0145
+
+Bill to: Harbor & Home Cleaning, Attn: Dana Ruiz
+         214 Fore Street, Suite 3, Portland, ME
+
+Invoice #: NGC-1031
+Invoice date: January 14, 2027
+Your order: (none given)
+Terms: Net 15
+Due date: January 29, 2027
+
+  Item                                                       Qty     Unit price    Amount
+  Pet-safe floor cleaner concentrate, 1 gal                    4  x $ 23.80  =    $95.20
+  Fume-free oven cleaner, 24 oz                                8  x $  7.95  =    $63.60
+
+  Subtotal: $158.80
+  Sales tax (5.5%): $8.73
+  Shipping: $9.95
+  TOTAL DUE: $177.48

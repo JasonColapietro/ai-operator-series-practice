@@ -1,0 +1,4 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 8.
+The practice pack's follow-up request, copied unchanged below the line of dashes. Send it in the same chat as the checklist, with okafor-mover-email.txt attached.
+----------------------------------------
+Our movers changed the loading day. Read the attached email and update the checklist. Recalculate every date that depends on the loading day, leave fixed dates alone, add any new task the email asks for, and keep the boxes I already ticked.

@@ -1,0 +1,6 @@
+invoice_no,invoice_date,job_id,client,service,sq_ft,amount,status
+INV-2144,2027-06-07,H-1450,"Alvarez, M.",Standard (weekly),1200,126.00,Sent
+INV-2145,2027-06-08,H-1452,"Brooks, D.",Standard,2200,190.00,Sent
+INV-2146,2027-06-08,H-1453,"Patel, R.",Standard,1800,165.00,Sent
+INV-2147,2027-06-10,H-1456,"Kim, A.",Deep,1500,260.00,Sent
+INV-2148,2027-06-11,H-1458,"Sullivan, K.",Standard (weekly),1300,126.00,Sent

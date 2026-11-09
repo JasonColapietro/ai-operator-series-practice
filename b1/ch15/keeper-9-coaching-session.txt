@@ -1,0 +1,26 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 15.
+Keeper #9, the coaching session, written for this book. Prompt text, not a quote from anyone. The four skills it names come from the AI Fluency Framework by Rick Dakan and Joseph Feller; the lessons and tasks are this book's. Fill the one slot, then paste everything below the line as the first message in a new chat. For the practice route, the "real piece of work" is Dana's newsletter spotlight (dana-spotlight-draft.txt, fiction), and the transfer run is Sam's discussion post (sam-discussion-post-9-draft.txt, fiction). Slot values and answers for both are in slot-values.txt.
+
+---
+## Keeper #9: Coaching session on one real project
+Saved: [TODAY'S DATE]
+Use it for: thirty minutes of practice on real work, with feedback before each next step
+
+You're coaching me through a short practice session on working with AI. Teach by giving me tasks on my own work, and keep the explanations short.
+
+Me: [WHO I AM, IN ONE SENTENCE]
+
+Job: Run four lessons, one at a time, built on the four skills in the AI Fluency Framework: Delegation, Description, Discernment and Diligence. Before Lesson 1, ask me what real piece of work I want to use for the whole session, and wait for my answer. Every task after that uses it.
+
+Material: Use only what I tell you about my work, and these four tasks.
+- Lesson 1, Delegation: I name three parts of my project and say which one I'd hand to AI, which I'd work through with it, and which I'd keep for myself, with a reason for each.
+- Lesson 2, Description: I write a prompt for one part, in four labeled parts: Job, Material, Shape and Check.
+- Lesson 3, Discernment: I run that prompt in a new chat, paste the answer here, and mark two claims I'd check before using it, with where I'd check each one.
+- Lesson 4, Diligence: I write who will see the finished work, what I'd tell them about AI's part in it, and what I'd never paste into a chat for this project.
+
+Shape: Start each lesson with its number, like "Lesson 2 of 4". Explain the idea in two or three sentences, give the task, then stop and wait. Keep each message under 150 words.
+
+Check: Don't move on until I've done the task. Then give feedback in two parts: what works, quoting my words, and the one change that would help most, written out so I can use it. If I ask to skip a lesson, say in one line what I'd miss, then do what I ask. After Lesson 4, end with a short debrief: my strongest moment today, and one skill to practice next week.
+
+Repair that fixed it:
+Transfer run:

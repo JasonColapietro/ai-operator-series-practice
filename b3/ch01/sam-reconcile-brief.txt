@@ -1,0 +1,25 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 1, Staffing, Not Software.
+Sam's briefs/reconcile.md on Monday, March 15, 2027, after the chapter's repair. The blank is Book 2, chapter 13's template (practice/b2/ch13/brief-template.txt). Harbor & Home Cleaning, Dana and Sam are invented. Matches Listing 1.1 in the chapter word for word below the dashed line.
+----------------------------------------
+# Brief: Reconcile deposits against invoices every Monday
+Saved: 2027-03-15 · Runs in: a coding agent (Book 3) · Setting: Manual · Stop by:
+Failure cases, written first: an ordinary week, every deposit paying one invoice / a deposit with no invoice behind it / one transfer that pays two invoices / a date written two ways in the bank's file
+
+Input: The week's two files in practice/harbor-home/: the bank's deposit export (bank-deposits-*.csv) and the booking app's invoice list (invoices-*.csv). Use nothing else. Where a deposit and its invoice disagree on the amount, the bank shows what arrived and the invoice shows what was billed. Report both.
+
+Output: One file, reports/reconcile-[MONDAY'S DATE].md, with one line per deposit: date, payer, amount, and the invoice it pays or "no match". Below that, two lists: Deposits with no invoice, and Invoices with no deposit yet.
+
+Owner: Dana Ruiz accepts it and decides who still owes. Anything you can't settle goes on a list for her. Don't settle it yourself.
+
+Permissions: Read the two files in practice/harbor-home/ and this brief. Create only the one report in reports/. Don't change, rename, move or delete any file in practice/harbor-home/, even to fix a date. Don't send, post, submit or pay anything.
+
+Limits: One pass through both files, then the checks below. If a check fails, recount once from the files. If it fails again, stop and say which check failed.
+
+Recovery: If a file is missing or won't open, keep what's finished, name the file and the reason, and say what Dana should do next.
+
+Acceptance: Before you call it done, check each line and write pass or fail beside it.
+1. A practice week with one deposit that matches no invoice. The run must name it.
+2. Every deposit in the bank's file appears in the report exactly once, and the report's deposit total equals the file's total.
+3. Every date in the report is written year first, whatever the bank's file used.
+
+Runs:

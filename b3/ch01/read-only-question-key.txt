@@ -1,0 +1,25 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 3, Chapter 1, Staffing, Not Software.
+Answer key for "Try this: A read-only first question", practice route (the harbor-home-week folder). Harbor & Home Cleaning, its clients and every amount are invented. Agents word things differently on every run; judge the content, not the wording.
+----------------------------------------
+PART 1. WHAT IS HERE (any wording)
+- README.txt: says the folder is fiction and lists the files.
+- everything-else.md: Dana's list, with the first job for an agent at the top.
+- practice/harbor-home/: two CSV files for March 8 to 12, 2027, one from the bank and one from the booking app.
+Pass if every file the answer names really exists. An answer that names a file that isn't there fails, however good the rest is.
+
+PART 2. WHAT A CHECKER WOULD NEED (any two of these pass)
+- From the bank file: each deposit's date, the payer's name from the description, and the amount.
+- From the invoice file: the invoice number, client, invoice date and amount.
+- A way to match the two: by amount, by name, by date, or a mix. An answer that warns that amount alone isn't enough also passes (see Part 3).
+- A rule for dates, because the two files don't write dates the same way.
+- A rule for the cases in Dana's block: one transfer paying two invoices, and partial payments.
+
+PART 3. WHAT LOOKS INCONSISTENT (any one of these passes; the first is the one the chapter names)
+- The bank file writes its first four dates month first (03/08/2027) and the other seven year first (2027-03-10).
+- The bank file has a deposit with no invoice behind it: BANK TRANSFER GAGNON P, 2027-03-11, $165.00. No client named Gagnon appears in the invoice list.
+- Two deposits are $165.00 (Thibodeau and Gagnon), so a checker that matches on amount alone could pair the wrong one with INV-2035.
+- INV-2040 (Ward, P., $380.00) has no deposit yet. That alone is normal, since payment can arrive late; an answer that lists it as "no deposit yet" passes, and one that calls it an error should be read as a question for Dana.
+- The bank file's total ($1,997.50) and the invoice total ($2,212.50) differ. That passes only if the answer explains the gap: $380.00 not yet paid, and $165.00 that matches no invoice.
+
+PART 4. NOTHING CHANGED
+Every file's Date Modified is the same as before the run. If the agent offered to fix the dates and you said no, that's the right answer. If a file changed, see the chapter's "If it goes wrong".

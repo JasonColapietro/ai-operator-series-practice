@@ -1,0 +1,26 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 1, Sell the Work, Not the Tool.
+What a good market list from sam-market-notes.txt contains, and every answer the chapter accepts. Read it after you've built your own list. Everything named here is invented.
+----------------------------------------
+HAS TO MATCH
+
+1. Ten rows, one per business in the notes. No business the notes don't name.
+2. Every "job nobody does" cell names work a person would do if the owner hired one. "Call back quote requests the same day" passes. "AI", "automation", "a chatbot" or "ChatGPT" in that cell fails: that's a tool, not a job.
+3. Circled, because both marks say yes: Harbor & Home Cleaning, Brennan Landscaping, Casco Heating & Air. Exactly these three.
+
+ACCEPTED EITHER WAY (the notes support both readings)
+
+- Any mark: Unknown where Sam wrote No. It leaves the row uncircled either way.
+- Studio Paloma, Buyers ask AI: Unknown or No. The notes say where her new clients come from and say nothing about assistants.
+- Carver Bookkeeping, Buyers ask AI: Unknown or No (referrals from accountants).
+- Marcus Lee Design, Buyers ask AI: Unknown or No. His own buyers come by email and referral. His clients' customers do ask assistants, which is a different row; a note saying so is a good sign.
+- Studio Paloma, Missed call costs a job: Unknown. "Yes" is acceptable only if your row says the yes is your guess, because the notes talk about no-shows, not calls.
+- Fore River Auto, both marks: Unknown. A call asking whether a car is ready isn't a lost job, and the notes don't mention new customers.
+- Back Cove Property Management, Missed call costs a job: No or Unknown (tenants are already under lease).
+- Two Bridges Moving, Buyers ask AI: Unknown. It stays uncircled either way.
+- "What the gap costs" for Back Cove and Northlight: the notes hold no direct quote for either, so a short note in your own words, marked as yours, is right, and so is Unknown. A made-up quote is wrong.
+
+WRONG
+
+- Any cell filled with a guess the notes don't support and not marked as a guess.
+- A fourth circled row. If a model circles Two Bridges or Northlight, it has turned an Unknown into a yes, or a No into a yes. Send the repair line from the chapter.
+- Marcus Lee Design circled because Sam would like him as a client. The list is for finding the gap, not ranking hopes.

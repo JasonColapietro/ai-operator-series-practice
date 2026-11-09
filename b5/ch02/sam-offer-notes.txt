@@ -1,0 +1,40 @@
+SAM'S NOTES FOR A FIRST OFFER (FICTION)
+The AI Operator Series, Book 5, Chapter 2. Sam Rivera, Dana Ruiz and Harbor & Home Cleaning are invented.
+Use these notes to fill the offer one-pager if you are not using your own business.
+------------------------------------------------------------
+
+WHAT I BUILT FOR HARBOR & HOME (while keeping Dana's books part time)
+- A Claude Project in Dana's account: her facts file, a voice file built from two emails she wrote, and instructions that say to answer only from the facts and to put [CHECK: what is missing] wherever the facts run out. (Book 2)
+- An FAQ built from the questions customers actually sent in, every answer traced to a line in the facts file, plus a list of the questions the facts could not answer. Dana took that list as her to-do list. (Book 2, chapter 9)
+- The Monday summary: last week's jobs and invoices, built from the job sheet and invoice list Dana exports, on a weekly schedule. (Books 2 and 3)
+- A checker that matches bank deposits to invoices, with a test. (Book 3)
+- A visibility scan: Harbor & Home's buyer questions put to AI assistants, every answer dated. (Book 3, chapter 14)
+
+LINES FROM MY BALANCE SHEET (OWNERSHIP.md, Book 4)
+- My method and prompt library: mine. Licensed to Harbor & Home for as long as Dana uses it. Not transferred.
+- The checker's deployed copy: Dana's. The method behind it is mine.
+- Dana's facts file, her customers' questions, her job sheets: Dana's. Never reused for anyone else.
+- The Sunday scan still signs in with my own Claude and ChatGPT logins: a dependency. (The night job that writes Dana's Monday report runs under Harbor & Home's own user on the back-office desktop, with no AI login.)
+
+WHAT DANA HAD TO DO FOR ANY OF IT TO WORK
+- Check the facts file line by line before anything was written from it.
+- Send real customer questions, with names taken out.
+- Send two emails she wrote, for the voice.
+- Export the job sheet and invoice list every week.
+- Say yes to each FAQ answer before it went on the website. She published it herself.
+
+WHAT I DID NOT DO, AND WOULD NOT WANT TO
+- Send any reply for Dana. Every reply was a draft.
+- Touch the bank, card, payroll or booking accounts.
+- Work on the website itself, ads or social media.
+
+TIME
+- Most of the waiting was for checked facts, not for building.
+- Two weeks from the day the owner's inputs arrive feels honest for a second business, now that the method exists.
+
+WHO HAS ASKED ABOUT IT
+- Dana's friend who owns a cleaning company in South Portland asked what I do for Dana.
+- Nobody has asked about the visibility scan yet.
+
+THE SECOND IDEA
+- Sell the visibility scan to cleaning companies. It is the more exciting one. No owner has described that gap to me.

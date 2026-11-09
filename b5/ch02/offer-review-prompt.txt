@@ -1,0 +1,8 @@
+PROMPT CARD (The AI Operator Series, Book 5, Chapter 2). Paste everything below the line into a new chat, then paste your one-pager under it.
+------------------------------------------------------------
+Job: Review my offer one-pager the way a careful business owner would before saying yes.
+Material: Only the one-pager I paste below.
+Shape: A numbered list. For each sentence that promises a result, a date or a number, quote it and say what fact would back it. Then list any acceptance test the owner could not run alone.
+Check: Do not rewrite the offer. Do not add claims. If a sentence is fine, skip it.
+
+[PASTE YOUR ONE-PAGER HERE]

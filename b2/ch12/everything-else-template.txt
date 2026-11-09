@@ -1,0 +1,23 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 12.
+The blank for library/everything-else.md. Every word in capitals inside brackets is a slot. Matches the chapter's Save this listing word for word below this header.
+----------------------------------------
+# Everything else
+Week logged: [DATES]   Total: [HOURS] hours
+My work, not on this list: [THE WORK ONLY YOU CAN DO]
+Marks: P = someone besides me reads or hears it. $ = it states or decides a price, charge or payment. U = once it's out, I can't take it back for free.
+Rule: every task with all three marks goes under Split first. Rank the rest by hours, most first. On a tie, fewer marks first.
+
+## Ranked
+1. [TASK] · [HOURS] h · [MARKS] · [WHAT RUNS IT NOW]
+2. [TASK] · [HOURS] h · [MARKS] · [WHAT RUNS IT NOW]
+3. [TASK] · [HOURS] h · [MARKS] · [WHAT RUNS IT NOW]
+
+## Split first
+- [TASK] · [HOURS] h · P $ U · Comes off: [STEP] · Stays mine: [STEP]
+
+## Running now: [TOP TASK]
+Job: [MATERIAL] in, [RESULT] out, accepted by [PERSON]
+When: [DAY AND TIME], in [WHICH PROJECT OR CHAT]
+Keeper: [WHICH ONE]
+Review: [MINUTES] minutes on [DATE]
+Hours freed go to: [WHERE]

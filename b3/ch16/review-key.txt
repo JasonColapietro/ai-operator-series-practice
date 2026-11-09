@@ -1,0 +1,24 @@
+PRACTICE FILE, FICTION LABEL: The AI Operator Series, Book 3, Chapter 16. What a finished review and a finished Twenty-Year Test look like. Read it after your own hour.
+----------------------------------------
+THE REVIEW FILE COUNTS AS DONE WHEN
+- It is saved as reviews/weekly-agent-review-YYYY-MM-DD.md, date year first.
+- All four blocks have something in them. "Nothing new" counts, if you looked.
+- Block 1 names, by file, at least three outputs per job that you read yourself. A summary the agent wrote does not count as an output read.
+- Block 4 holds one decision, and the same decision sits above the commit log heading in decisions.md with a date, the why and who decided.
+- The first line names next week's one change.
+
+ALL OF THESE ARE RIGHT ANSWERS
+- No drift found. Write what you checked, so next week has a baseline.
+- Drift found and not fixed this week. Write it as the decision ("fix X next week, owner Y") or park it with a reason.
+- A job left no readable report. Write that as the drift finding; giving it a report is a fine decision.
+- The hour ran long. Note which block, and why.
+
+THE TWENTY-YEAR TEST COUNTS AS DONE WHEN
+- Each of the six lines ends in a date (passed) or a next step with an owner and a date (failed).
+- A failed line is a right answer. A line left blank is the only wrong one.
+- Line 3 counts on one machine in a new folder; a second machine is better.
+
+SIGNS SOMETHING SLIPPED THROUGH
+- The agent wrote "everything looks fine" in the review. The prompt card asks it to list, not judge; ask again for the raw list.
+- decisions.md has five changes from one week. Pick one, move the rest to Parked.
+- git status shows a .env file staged. Unstage it with git restore --staged <file> before anything else.

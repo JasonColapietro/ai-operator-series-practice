@@ -1,0 +1,29 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 13.
+Dana's order log for January 2027, typed out from her order confirmations. Harbor & Home Cleaning, Dana and every supplier, number and amount are invented.
+----------------------------------------
+HARBOR & HOME CLEANING: SUPPLY ORDERS, JANUARY 2027
+What I ordered, from each supplier's confirmation. An invoice should match its order.
+
+PO-0105   January 5, 2027   Casco Bay Janitorial Supply   (placed on the ordering portal)
+  Fragrance-free all-purpose cleaner, 1 gal                   10  x $ 14.50  =   $145.00
+  Microfiber cloths, 24-pack                                   4  x $ 18.75  =    $75.00
+  Nitrile gloves, box of 100, size M                           6  x $ 11.20  =    $67.20
+  Subtotal $287.20 · Sales tax (5.5%) $15.80 · Free shipping on orders over $250: $0 · ORDER TOTAL $303.00
+
+PO-0106   January 6, 2027   Pine State Paper Co.   (placed by email)
+  Paper towels, case of 12 rolls                               4  x $ 31.40  =   $125.60
+  Trash bags, 13 gal, case of 200                              2  x $ 27.90  =    $55.80
+  Subtotal $181.40 · Sales tax (5.5%) $9.98 · Delivery: $18.00 · ORDER TOTAL $209.38
+
+PO-0112   January 12, 2027   Northeast Green Clean Products   (placed by phone, confirmed by email)
+  Pet-safe floor cleaner concentrate, 1 gal                    4  x $ 23.80  =    $95.20
+  Fume-free oven cleaner, 24 oz                                8  x $  7.95  =    $63.60
+  Subtotal $158.80 · Sales tax (5.5%) $8.73 · Shipping: $9.95 · ORDER TOTAL $177.48
+
+PO-0120   January 20, 2027   Casco Bay Janitorial Supply   (placed on the ordering portal)
+  HEPA vacuum bags, 5-pack                                     6  x $ 22.00  =   $132.00
+  Fragrance-free all-purpose cleaner, 1 gal                    8  x $ 14.50  =   $116.00
+  Nitrile gloves, box of 100, size M                           2  x $ 11.20  =    $22.40
+  Subtotal $270.40 · Sales tax (5.5%) $14.87 · Free shipping on orders over $250: $0 · ORDER TOTAL $285.27
+
+Four orders. Total ordered in January: $975.13

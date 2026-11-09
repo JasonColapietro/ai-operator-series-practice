@@ -1,0 +1,38 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 5, Receipts, Not Claims.
+Harbor & Home Cleaning, Dana Ruiz, Sam Rivera, Mrs. Patel and every document below are invented.
+Prices, the service area and the guarantee live in practice/shared/harbor-home-business-facts.txt,
+their one home. This file points to them and never repeats them.
+
+WHAT DANA'S WEBSITE SAYS NOW (seven lines from the home page and the About page)
+
+1. "Fully insured and bonded."
+2. "We stand behind every clean."
+3. "Serving greater Portland."
+4. "Honest, upfront prices."
+5. "Our customers love us."
+6. "Trusted by Portland's best families."
+7. "Background-checked, highly trained team."
+
+WHAT SAM FOUND IN THE OFFICE, THE INBOX AND THE SHARED DRIVE
+
+- A certificate of insurance from Dana's insurer, emailed as a PDF. It names Harbor & Home
+  Cleaning, says general liability, and shows a policy period of July 1, 2027 to June 30, 2028.
+- No bond certificate. Dana is sure the business is bonded and thinks the paper is in the
+  filing cabinet. It hasn't turned up yet.
+- The guarantee, in writing, under GUARANTEE in the facts file. The same words are on the
+  website's price page, which shows "Last updated" with a date.
+- The service area, under SERVICE AREA in the facts file. The website's Areas page lists the
+  same towns and the travel fee.
+- The price list, under SERVICES AND PRICES in the facts file. The website's price page matches it.
+- A public business listing on a review site, with customer reviews on it. Mrs. Patel posted a
+  review there. Dana hasn't asked her whether the business may quote it (practice pack wf17).
+- Nothing about background checks: no vendor, no policy, no dates. Nobody remembers who wrote
+  that line.
+- Nothing that says who "Portland's best families" are.
+
+THE JOB
+
+Turn each line into a receipt a stranger could check, or strike it. Put each receipt's
+artifact in the evidence room with an index line, and put anything Dana says but can't show
+yet on the gaps list. Then draft a public page with five items, each with a link and the date
+you checked it. The answer key is receipts-answer-key.txt. Read it after you try.

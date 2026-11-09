@@ -1,0 +1,41 @@
+FICTION. Practice file for Book 5, chapter 4. Sam Rivera, Dana Ruiz and Harbor & Home Cleaning are invented, and so is every hour and dollar below. These are Sam's estimates for Sam's service, not a market rate.
+
+SAM'S NOTES: WHAT ONE PILOT TAKES
+Harbor & Home, thirty days: weekend quote requests answered from the facts file, draft only, Dana approves every send.
+
+TIME RATE
+- My time rate: $40 an hour. Set from what an hour has to cover once nobody else pays my half of payroll taxes, my days off or the hours I spend selling.
+
+STEPS AND HOURS (from the demand test log and the Book 3 work)
+- Kickoff call and facts check with Dana: 2 hours
+- Facts file and voice file: 3 hours
+- Twenty-question FAQ, each answer traced to a fact: 4 hours
+- Weekend quote-request drafts, tested on ten old requests: 4 hours
+- Weekly review during the pilot: 1 hour each, four of them
+- Handoff document and walkthrough: 2 hours
+
+REVIEW (kept on its own line on purpose)
+- Second read of everything a customer will see: 2 hours
+
+TOOLS
+- Share of my AI plan for this pilot's sessions, worked out from reviews/usage.md: $15
+- Nothing else is bought for one client.
+
+OVERHEAD (costs that belong to no single client)
+- Business insurance, accounting software, a share of the phone and the laptop: $190 a month
+- Planned pace while I'm still in school: two deliveries a month
+
+SMALLER RUNGS
+- Free check (ten customer questions run in two AI engines, sent back as a one-page result): about 45 minutes of my time per business. Cap: ten a month.
+- Facts audit (one page of mismatches and a draft facts file): 6 hours, plus $5 of tools
+- Retainer after a pilot: about 6 hours a month, plus the same $15 tools share
+
+PRICE CHANGES I'D ACCEPT
+- Each ten FAQ questions past twenty: 2 hours more
+- Text messages as well as email: one more channel to set up and test
+- A Monday summary for a business that has none
+- Setup in one week instead of two
+- Promising one business I won't take another cleaning company in its town for six months
+
+NOT DECIDED YET
+- Productized agent: nothing built, so nothing to sell.

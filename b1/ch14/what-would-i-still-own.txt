@@ -1,0 +1,62 @@
+PRACTICE FILE. The AI Operator Series, Book 1, Chapter 14: What Would You Still Own?
+A worksheet for your own account. Save a copy in library/ if you like; it holds no secrets.
+
+======================================================================
+PART 1. TOMORROW MORNING (a thought experiment)
+======================================================================
+Picture this: tomorrow morning your ChatGPT account won't open, and it
+isn't coming back. Write the list before you read the rest of the chapter.
+
+What would be gone?                     What would I still have, and where?
+(chats, memories, files, Projects,      (a file you can open with ChatGPT
+ tasks, instructions)                    closed; name the folder)
+
+1. ____________________________         1. ____________________________
+2. ____________________________         2. ____________________________
+3. ____________________________         3. ____________________________
+4. ____________________________         4. ____________________________
+5. ____________________________         5. ____________________________
+
+The one thing on the left I'd miss most: ____________________________
+Is it in library/ yet?  [ ] yes   [ ] not yet: save it today
+
+======================================================================
+PART 2. THE BOOK 1 TEST
+======================================================================
+Tick a box only when you can show it.
+
+[ ] 1. ChatGPT export saved and dated
+       Check: the export sits in library/exports/, its name carries the
+       date (chatgpt-export-YYYY-MM-DD.zip), and it opens. If Safari
+       unpacked it into a folder, a dated folder passes too. Date it by
+       the day you asked or the day it arrived, one rule every time.
+
+[ ] 2. Every keeper lives outside the app
+       Check: close ChatGPT, turn off Wi-Fi, open library/keepers.md.
+       Every keeper reads whole, slots and all, with nothing that says
+       "see my chat" or "use the facts from Tuesday".
+
+[ ] 3. Training control set on purpose
+       Check: the switch in Settings > Data controls matches your dated
+       line under "## My settings", and the line gives a reason.
+       On or off both pass. "Never looked" doesn't.
+
+[ ] 4. Two-factor sign-in on
+       Check: your security settings show it on (or the passkey chapter 2
+       accepted in its place), and you have a way back in that doesn't
+       depend on one phone: a backup method, such as a passkey that syncs
+       or text-message codes to a number you'll keep.
+
+Date I ran the test: ____________   Boxes ticked: ___ of 4
+
+If a box stays empty, write the one step that would tick it, and a date.
+(Waiting for the export? Write the day you asked, and tick box 1 when
+the file lands in library/exports/.)
+______________________________________________________________________
+
+======================================================================
+PART 3. LINES FOR library/keepers.md, UNDER "## My settings"
+======================================================================
+Last export: [DATE], library/exports/chatgpt-export-[DATE].zip
+Second copy of library/: [WHERE], copied [DATE]
+Book 1 test: [NUMBER] of 4, run [DATE]

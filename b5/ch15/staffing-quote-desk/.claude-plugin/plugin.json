@@ -1,0 +1,6 @@
+{
+  "name": "staffing-quote-desk",
+  "version": "0.3.0",
+  "description": "Weekend quote desk: reply drafts from an owner's approved facts file, for the owner to send, with the runbook template and license (practice files, fiction)",
+  "author": { "name": "Your Name" }
+}

@@ -1,0 +1,46 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 10, Contracts That Move Ownership.
+What "Try this: Redline three clauses" accepts on the practice route. Marcus Lee Design, Bramblewood Pottery Studio, Harbor & Home Cleaning, Dana Ruiz and Sam Rivera are invented. Read this after your own try, not before. It describes what the files say. It is not legal advice about any real contract.
+----------------------------------------
+PART 1. Bramblewood, Version 2
+File: practice/b2/ch02/wf07-input-contract-v2.txt (Book 2's copy of the practice pack's file; Version 1 sits beside it).
+
+When ownership passes
+  Must quote 9.1: "Upon delivery of each deliverable, Client will own the final site design, the page layouts made for Client, and all Client Materials."
+  Also accepted: 9.2 (Marcus keeps his pre-existing "Designer Tools" and gives the client a permanent, non-exclusive license) and 9.3 (third-party items keep their own licenses). 9.2 is unchanged from Version 1 and is the clause worth copying.
+  The plain sentence should say the client owns each piece when it is delivered, whether or not it has been paid for. In Version 1 the trigger was full payment.
+
+Credit and portfolio use
+  Must quote 11.2: "No credit link or designer name will appear on Client's site."
+  Also accepted: 11.1 (portfolio display, unchanged). Section numbers moved: Portfolio Use was section 10 in Version 1. A result that calls 11.1 new has mistaken a renumbering for a change.
+
+Indemnity
+  Must quote 14.1: "Designer will defend and hold harmless Client against any third-party claim arising from the website, including its design, code and content."
+  The plain sentence should say it runs one way, and "content" reaches material the client supplied. Version 1 was mutual, each side covering what it provided.
+  Also accepted: a mention of 13.3 (liability capped at the fees paid). Whether that cap covers the indemnity is a question for a lawyer, and a result that answers it has given legal advice.
+
+Termination and deposits
+  Must quote 12.2: "If Client ends this Agreement, Client will pay for work completed up to the end date at Designer's hourly rate of $90 per hour, less any amounts already paid."
+  Also accepted: 12.1 (seven days' notice), 12.3, and 6.2(a) (the deposit, now 25 percent). The plain sentence should notice that nothing now says the deposit is non-refundable. Version 1 said it was.
+
+PART 2. Sam's agreement
+File: practice/b4/ch10/sam-agreement.txt
+
+When ownership passes
+  Must quote section 4: "All work product belongs to Harbor & Home."
+  The plain sentence should say the clause names no moment (no payment, no delivery) and doesn't define "work product". Accepted either way: "it may reach Sam's tools and prompts made before the job" or "it isn't clear what it reaches". Both are right; that uncertainty is the point.
+  Also accepted: section 3 (Sam's own computer and accounts; Harbor & Home pays for the AI plans), if the result says it bears on who controls the work but not who owns it.
+
+Credit and portfolio use
+  "None found." Accept a result that quotes section 5 (confidentiality) under this heading only if it says confidentiality limits what Sam could show of the work.
+
+Indemnity
+  "None found."
+
+Termination and deposits
+  Must quote section 6: "Either side may end this agreement with two weeks' notice by email."
+  Deposits: none found. The agreement says nothing about what happens to Harbor & Home's records, its copy of the checker or Sam's tools when it ends.
+
+A result that suggests wording, or tells you whether to sign, broke the card's Check. Ask again with the Check pasted at the top.
+
+PART 3. Your three clauses (step 4)
+Any wording is accepted if each clause names one thing, says who owns it, and says when that changes. Compare yours with practice/b4/ch10/sam-agreement-redline.txt, one way to split Sam's work by kind. Mark every clause you keep "[attorney review before reuse]".

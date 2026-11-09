@@ -1,0 +1,15 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 15.
+Sam Rivera's first Friday review, from the chapter's opening scene. Sam, the class, the store and the course page are invented. It is an example to read, not a file to copy: your review is about your own week.
+
+---
+library/weekly.md
+
+# Weekly review
+Same day every week, ten minutes. Newest entry on top.
+
+## Friday, November 20
+What worked: the class Project. The swapped canary passed, and Practice Set 3A finally got checked.
+What failed, and my rule now: Sunday's check-in was a week behind. It read the box I pasted on Nov 8. · Rule: anything that reads something I pasted checks the date first.
+One keeper to add: the discussion post. Every Sunday night I'm over 250 words.
+One setting to check: Scheduled page. The Nov 8 check-in was still on, next to the rebuilt one. Deleted the old one.
+Next review: Friday, November 27

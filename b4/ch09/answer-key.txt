@@ -1,0 +1,77 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 9, Set Your Terms Once. Answer key.
+Harbor & Home Cleaning, Dana Ruiz and Sam Rivera are invented. Bot names are as of November 2026.
+Accept every answer below that the notes say is acceptable. Wording never has to match.
+
+TRY THIS: DECIDE, THEN LICENSE YOUR LIBRARY  (practice route: sam-library-inventory.txt)
+
+1. Whose is each folder?
+   Sam's to license: keepers.md, about-me.md, voice.md (Sam's own writing), briefs/, scripts/,
+   tests/ (the code; see the note on test data below), checks/, AGENTS.md, CLAUDE.md, decisions.md,
+   incidents.md, reviews/, handoffs/, plugins/harbor-ops/ (the method in the skills), .claude-plugin/,
+   the scan runner, prompts.md and names.txt.
+   Must come out as Dana's (Harbor & Home's), not Sam's to license:
+     - projects/harbor-home/ (her facts, prices, voice spec, Project instructions)
+     - practice/harbor-home/ (her bank and invoice exports, with customers' names), including
+       copies in the repo's history
+     - scan/results.jsonl and scan/raw/ (answers about her business, collected for her)
+   Also accept: marking tests/ as "Sam's code, but any real customer names in test data are Dana's".
+   Also accept: marking the harbor-reply skill "Sam's method, reads Dana's facts file".
+
+2. What does licensing the method to other businesses rule out?
+   A permissive open license (MIT, Apache-2.0, CC BY) on the whole repo, because it would give the
+   method away free and would claim to license Dana's material. Accept "all rights reserved with a
+   note on what's covered", or "a permissive license on a separate public folder that holds nothing
+   of Dana's". Reject any license at the root with no note excluding Dana's folders.
+
+3. Which folders travel on their own?
+   plugins/harbor-ops/ and each skill folder inside it (harbor-reply, weekly-numbers). Accept also
+   scan/ or scripts/ if the reader says they might be copied out alone. Each needs its own LICENSE
+   copy, and each skill's SKILL.md gets a license field (for example
+   "license: Proprietary. LICENSE has complete terms").
+
+Terms draft (sam-terms-draft.md): five kinds of use, each marked yes, ask me or no. Any answers are
+acceptable for Sam's own work, as long as every line has one. For anything in Dana's folders, the
+line names Dana as the owner and leaves the answer to her.
+
+TRY THIS: PUBLISH YOUR TERMS AND CHECK THE BOTS  (practice route: harbor-home-site-notes.txt)
+
+Terms page: accept any short page that has all five parts: go ahead (link, share prices with a
+link back), ask first (photo reuse, quoting more than a sentence, the name in an ad, with the email
+address), please don't (copying service pages, using photos for another business), the AI position
+(search tools welcome, training not agreed, Google left open and why), and a date.
+harbor-home-terms-page.txt is one model, not the only right answer.
+
+robots.txt: what check_bots.py (or the prompt card, or your own reading) must report.
+  OAI-SearchBot      allowed
+  Claude-SearchBot   allowed
+  PerplexityBot      allowed
+  Googlebot          allowed
+  Bingbot            allowed
+  GPTBot             blocked
+  ClaudeBot          blocked
+  CCBot              blocked
+  Google-Extended    allowed (Dana chose to leave it open; the notes or a comment in the file say why)
+  ChatGPT-User       allowed
+  Claude-User        allowed
+  Perplexity-User    allowed
+  any unnamed bot    allowed
+
+Accept all of these ways of getting there:
+  - Listing 9.2 with the Google-Extended line removed (harbor-home-robots-final.txt).
+  - Any order of groups. Crawlers pick the group that names them, wherever it sits.
+  - The search crawlers left out entirely, with no "User-agent: *" group or with one that allows
+    everything. They come out allowed either way; naming them just makes the intent readable.
+  - A "User-agent: *" group with "Allow: /" or an empty "Disallow:".
+  - The __usage_ai-training group present or absent. It blocks no crawler, so no status changes.
+    Present is closer to Dana's training answer.
+  - A Sitemap line present or absent.
+Reject:
+  - Any "User-agent: *" group with "Disallow: /" (Claude-User, ChatGPT-User, Perplexity-User and
+    unnamed bots come out blocked: Sam's first fix).
+  - Google-Extended blocked without a note that Dana changed her mind.
+  - A status of "allowed" for any bot when the live file couldn't be read. That one is "unverified".
+    The exception: an address that answers "not found" (HTTP 404 or 410) means the site has no
+    robots.txt, and every bot is "allowed", with a note saying the file is missing.
+
+Status words: allowed, blocked, unverified. "Allowed" and "blocked" describe what the file asks.
+They don't show what a crawler does.

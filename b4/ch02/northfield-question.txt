@@ -1,0 +1,30 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 2.
+Northfield Physical Therapy, Priya Shah, Dr. Ellen Hart, Marisol Vega and everyone below are invented, as are the email addresses. No patient is named in this file.
+
+The terms you read for this exercise are real. Open the vendor's own pages; nothing here tells you what they say.
+
+----- Email -----
+From: Ellen Hart <ehart@northfieldpt.example.com>
+To: Priya Shah <pshah@northfieldpt.example.com>
+Subject: Chatbot for the holiday emails?
+Date: Fri, Nov 13, 2026 7:48 AM
+
+Priya,
+
+Following up on yesterday's meeting. All three clinics are closed Thanksgiving and the Friday after, so every patient booked Thursday 11/26 or Friday 11/27 needs a new time, and the front desks have to get the holiday hours out to patients by 11/20.
+
+Marisol asked whether the front desks can use one of those AI chat programs to write the schedule-change emails. It would save them time this week. Can you find out whether that's OK and tell me yes or no by Monday, with the reason? If the answer is "it depends," tell me what it depends on.
+
+Ellen
+
+----- Priya's notes (copied from my notes app) -----
+- Asked around Friday morning. Turns out this is already happening.
+- Marisol (Grove City front desk lead): free ChatGPT app on her phone, her own account, signed in with her personal email. Last Tuesday she pasted in the day's cancellation list (patient first names and appointment times) and asked for a nicer way to say "we need to move you." Says she never opened the settings.
+- One of the Westerville part-timers: his own ChatGPT Plus account, paid for himself. Uses it for wording emails "sometimes." Hasn't changed any settings either.
+- Raj (IT): Northfield has no company AI account of any kind. Nothing to turn on or off from our side.
+- Nobody has read the terms. Including me, until today.
+
+What I need by Monday:
+1. A terms card for the tool they're actually using: personal ChatGPT accounts (Free and Plus).
+2. A yes, no or "yes, if" for Ellen, with the reason in one or two sentences.
+3. What to do about the chats that already have patient names in them.

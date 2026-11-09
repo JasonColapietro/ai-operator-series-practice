@@ -1,0 +1,22 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 15.
+Keeper #10 as Sam Rivera (fiction) wrote it after the first Friday review. Prompt text written for this book, not a quote from anyone. Slot values for both practice cases are in slot-values.txt.
+
+---
+## Keeper #10: Cut list for a word limit
+Saved: [TODAY'S DATE]
+Built from: my Friday review, [DATE]
+Use it for: anything I wrote myself that runs over a word limit
+
+Job: Show me what to cut from my draft so it comes in at or under [WORD LIMIT] words. It's for [WHO READS IT], and it has to keep [THE POINT THAT MATTERS].
+
+Material: Use only my draft, pasted below. Don't add words, ideas or facts of your own.
+
+Shape: A numbered list of cuts, biggest first. Quote each cut exactly as it appears in my draft, then give a rough word count for the draft after that cut. Stop when the draft should be at or under the limit.
+
+Check: Don't rewrite my sentences. If a cut leaves a sentence that no longer reads right, name the sentence and leave the fix to me. If the draft can't get under the limit without losing [THE POINT THAT MATTERS], say so and stop. Your counts are estimates. I'll count the final version myself.
+
+My draft:
+[DRAFT]
+
+Repair that fixed it:
+Transfer run:

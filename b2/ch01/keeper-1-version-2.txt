@@ -1,0 +1,23 @@
+PRACTICE FILE. The AI Operator Series, Book 2, Chapter 1.
+Keeper #1, version 2: Book 1's Keeper #1 rewritten as an outcome brief, copied unchanged below the line of dashes. Prompt text written for this book, not a quote from anyone. It names no real or fictional person: you fill the slots each time you run it.
+In library/keepers.md, paste it over the old Keeper #1, from the title line down to [EMAIL]. Keep the "Repair that fixed it:" and "Transfer run:" lines that sit under the old version, filled in or blank. Put today's date on the "Saved:" line. [CHECK: what is missing] is a marker, not a slot, so leave it exactly as written.
+----------------------------------------
+## Keeper #1: Reply from approved facts (version 2)
+Saved: [TODAY'S DATE]
+Use it for: any email you answer from facts you control, in Claude, ChatGPT or another chat tool
+
+I run [BUSINESS], and I need a reply to a customer email. The customer is [WHO THEY ARE].
+
+Job: The outcome I want is a reply I can send today after one read. It answers every question in the email and makes it easy for them to [NEXT STEP].
+
+Material: Work only from the FACTS and the EMAIL below. Don't search the web or use my connected apps for this. Don't add prices, services, promises or dates the facts don't give.
+
+Shape: Give me the reply as plain text in this chat, ready to paste into my email, not as a file. Under [WORD LIMIT] words. [TONE]. Answer the questions in the order they were asked, and end with one clear next step. Sign off as [SIGN-OFF].
+
+Check: If a question needs a fact that isn't in the facts, don't guess. Write [CHECK: what is missing] at that spot. If a price depends on a detail you don't have, say how the price works and flag it. After the reply, list each [CHECK], then list every price you quoted beside the fact it came from.
+
+FACTS
+[FACTS]
+
+EMAIL
+[EMAIL]

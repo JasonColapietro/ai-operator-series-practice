@@ -1,0 +1,75 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 1, Chapter 7.
+Copied unchanged from the practice pack's hard-conversation lesson: its example result for Sam's talk with Denise, the list and prep sheet that chapter 7's "Sam's step" describes. Sam Rivera, Denise, Jordan, the store and the class are invented.
+This is sample output from one run, made in Claude for the practice pack. That run used the pack's own prep prompt with Sam's notes (its first line says how). denise-prep-prompt.txt is this book's version of that prompt, so your run will be worded and laid out differently.
+The pay, the hours and the store's rule for schedule requests live in sam-denise-notes.txt. If this file and the notes ever differ, the notes win.
+Everything below the dashed line is the pack's text.
+------------------------------------------------------------
+Prompt used: the chapter's TURN 1 prompt with the five bracketed parts replaced as the transfer section says, then wf11-transfer-sam-notes.txt pasted after "My notes:". (TURN 2 practice was not run for the transfer.)
+
+---
+
+**Things to confirm first**
+
+1. **You're planning to ask one day after the deadline.** The store wants change requests in writing at least 2 weeks before the schedule is posted. The schedule for the week of January 11 goes up Friday, December 18, so the deadline is Friday, December 4. You planned to talk to Denise on Saturday, December 5. Talk to her earlier, and bring the request in writing.
+2. **The Sunday-close option only fixes one night.** Swapping one weekday shift for a Sunday close frees up Tuesday or Thursday, not both. You'd still have a 2:00 to 10:00 p.m. close on the other class night.
+3. **Your floor doesn't solve Thursday.** Cutting the Tuesday shift gets you to 24 hours, but your Thursday close (2:00 to 10:00 p.m.) would still clash with class. Decide what happens to Thursday at your floor.
+4. **The fallback depends on a recording you doubt exists.** You noted the lab is in person and probably not recorded. Check with the school before you offer to miss Tuesdays.
+5. **"Thursday: close (most weeks)."** Do you sometimes work a different Thursday shift? If so, say which, since it changes what you're asking for.
+
+---
+
+**PREP SHEET: Schedule talk with Denise**
+10 minutes. Before December 4, with a written request in hand.
+
+**1. My goal**
+Denise agrees that my Tuesday and Thursday shifts end by 5:00 p.m. from January 12 to April 29, and sees I'm still committed to the job.
+
+**2. The numbers**
+
+| | Hours a week | Pay a week |
+|---|---|---|
+| Now | 4 shifts × 8 hours = 32 | 32 × $17.25 = $552.00 |
+| With the swap (open Tue and Thu, 7:00 a.m. to 3:00 p.m.) | 32 | 32 × $17.25 = $552.00 |
+| At my floor (Tuesday shift cut) | 24 | 24 × $17.25 = $414.00 |
+
+The floor costs $138.00 a week. The class runs about 16 weeks (January 12 to April 29), so that's about $2,208 less over the term.
+
+**3. My opening (62 words)**
+"Hi Denise, do you have ten minutes? I'm starting a bookkeeping class in January, on Tuesday and Thursday nights. From January 12 to April 29, I need my Tuesday and Thursday shifts to end by 5:00 p.m. I'd like to keep my 32 hours, and I'm happy to take the opening shifts on those days. I've written it down for you here."
+
+Then hand her the note and wait.
+
+**4. Likely objections and replies**
+
+- **"I need everyone flexible right now."**
+  "I'll work the holiday weeks however you need. The change doesn't start until January 12."
+- **"Nobody wants the truck-day openings. Are you sure?"**
+  "Yes. I'll take Tuesday and Thursday openings, 7:00 to 3:00, every week of the class."
+- **"Jordan has been here three years."**
+  "I understand. I'm not asking for time off, just different hours. I'll keep my 32 hours."
+- **"I can't give you both nights."**
+  "Could we do one opening and one Sunday close? That still keeps me at 32 hours." (Only if both nights are covered. A Sunday close on its own fixes one night.)
+
+**5. Fallback and floor**
+
+- **Fallback:** a Sunday close instead of one weekday shift, plus an opening shift on the other class night. Use it only if she says two openings won't work. Do not offer to miss Tuesday class until you've confirmed the lab is recorded.
+- **Floor:** drop to 24 hours ($414.00 a week) before dropping the class. Only if nothing else works, and only once you know how Thursday gets covered.
+
+**6. Three things not to say**
+
+1. "Jordan got days off, so I should too."
+2. "It's only school, it won't affect my work." You don't need to downplay it.
+3. Your floor, unless every other option is off the table.
+
+**7. Follow-up note (in writing, for the store binder)**
+
+Hi Denise,
+
+Thanks for talking with me today. As we discussed, from January 12 to April 29, 2027, I need my Tuesday and Thursday shifts to end by 5:00 p.m. for my bookkeeping class. We agreed I'll work the opening shift (7:00 a.m. to 3:00 p.m.) on those days and keep my 32 hours a week.
+
+I'll work the holiday weeks however you need.
+
+Thank you,
+Sam Rivera
+
+(Change the second paragraph if you agree on something different.)

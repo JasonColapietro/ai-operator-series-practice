@@ -1,0 +1,42 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 9.
+Dana Ruiz's notes on Harbor & Home's move-out package for renters, typed on her phone after a team meeting. Copied unchanged below the line of dashes from the practice pack's one-message-three-channels lesson (the pack calls it wf16-input-package-notes.txt). Harbor & Home Cleaning, Dana, Miguel, Sarah, Renee, the leasing office and every price here are invented. The towns and streets are real places in and around Portland, Maine.
+Paste everything from "MOVE-OUT PACKAGE" down under "My notes:" in three-channel-prompt.txt or Keeper #14. Leave the NOT DECIDED section in: the prompt tells Claude to leave it out, and the point of the exercise is to see that it does.
+----------------------------------------
+MOVE-OUT PACKAGE: my notes for the announcement
+(Dana. Typed on my phone after Tuesday's team meeting. Messy, sorry.)
+
+WHAT IT IS
+- Move-out clean + inside fridge + inside cabinets, all for one price.
+- $380 for up to 1,500 sq ft. (Miguel floated $390. No. We settled on $380.)
+- If you booked those separately it would be $320 + $35 fridge + $45 cabinets = $400. So renters save $20.
+- Empty homes only, same as our regular move-out clean. Furniture and boxes have to be out.
+- Starts March 1. I keep saying "first week of March" in my head but it's March 1. That's what's on the facts sheet.
+
+WHO IT'S FOR
+- Renters moving out. Lots of leases around here end May 31 and Aug 31 (students, young families, people leaving the peninsula for Westbrook or South Portland because of rents).
+- Landlords and property managers sometimes book it for the tenant. That's fine, same price.
+- Past clients who are moving. We've lost a few clients this way and never even got the move-out job because they didn't think to ask us.
+
+WHY PEOPLE WANT IT
+- The last week of a lease is chaos. Nobody wants to scrub a fridge at 11 p.m. with the truck coming at 8.
+- Fridge and cabinets are the two things renters forget and landlords check first.
+- I do NOT want to say we "guarantee your deposit back." We can't. The landlord decides that. Our normal guarantee still applies: tell us within 24 hours if we missed something and we come back and fix it at no charge.
+
+WHERE IT'S GOING
+1. Email to our client list (about 310 people, current and past). Warm, short. They know us.
+2. Post on our business page. Short. People scroll fast.
+3. Flyer for apartment leasing offices. Renee at the leasing office on Brackett St said she'd pin one up by the mailboxes. Maybe two other buildings too. Half page, big print, people read it while they wait for the elevator.
+
+HOW TO BOOK
+- Phone 207-555-0142 or hello@harborhome.example.com, same as always.
+- Tell people to book at least a week ahead for late May and late August if they can (we fill up). Advice, not a rule.
+- Payment by card or bank transfer after the visit. No cash.
+- Portland, South Portland, Westbrook, Falmouth, Cape Elizabeth. Scarborough and Yarmouth by request, $15 travel fee. No islands.
+
+NOT DECIDED. DON'T PUT THESE IN ANYTHING YET.
+- "First 20 bookings get 10% off"? Sarah likes it. I'm not sure. Not approved.
+- Apartments over 1,500 sq ft. Probably $25 per extra 500 like standard cleans, but we haven't decided. For now just say: call us for a quote.
+- Adding inside oven to the package. Maybe next year.
+
+TONE
+- Like my normal emails. Plain, friendly, no exclamation points. Sign it "Dana".

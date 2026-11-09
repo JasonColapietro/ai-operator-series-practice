@@ -1,0 +1,36 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 4, Chapter 7.
+What a finished policy needs, line by line, and every answer the chapter accepts. Read it after your own rewrite of harbor-home-voice-policy-draft.md (or your own policy).
+
+THE TEST FOR EVERY LINE
+A line passes if it names a person, a tool or a channel. "Use good judgment", "be careful", "should be reliable" and "check with Dana" (with no channel) decide nothing, so they fail wherever they appear.
+
+TOP OF THE PAGE
+Owner (whose voice and face: Dana), an Updated date and a next review date. "Kept by" is optional.
+
+1. WHERE OUR VOICES AND FACES ARE
+Passes if it lists each place: Dana's greeting on the office line, the team photos on the business page (the holiday photo and the meet-the-team posts), and voice.md. Saying that calls are not recorded is a good extra, not required.
+
+2. WHAT MAY USE THEM
+Passes if it names the tool and the job (Claude, for customer email drafts, from voice.md) and the person who reads before anything goes out (Dana). "AI tools may help" fails: it names a category. A line that no tool may clone a voice or face is a good extra.
+
+3. NEW USES
+Passes if one named person approves (Dana), in writing, and every yes gets a record in consent/. It should also say AI use of a photo or recording needs its own yes. For the holiday photo with Dev, who left in January, either answer passes: ask Dev and keep a written yes, or take the photo down. Leaving it undecided fails.
+
+4. MONEY (the line that matters most)
+Passes if BOTH are true:
+  a) A new payee or changed bank details, at any amount, trigger a confirmation through a channel the request itself can't supply. Accepted channels: a call Sam places to a number already saved (not one in the message); a conversation in person; any other channel Dana set in advance, such as a shared payments sheet only she can approve in.
+  b) It says voicemail, text and email never authorize a payment on their own.
+A dollar threshold is fine as an extra, as long as it doesn't replace (a). "Payments over $500 need Dana's OK" fails on its own, because a cloned voicemail asking for $1,850 supplies exactly that OK. A code word agreed in person passes as a second check behind (a), never in place of it. Dana's own line, that she never asks for payment by voicemail, is a good extra.
+
+5. ANYTHING THAT SPEAKS OR SENDS FOR US
+Passes if it says that today nothing speaks on its own (Claude drafts, Dana sends), or answers the four questions for each tool that does:
+  1. what record proves it spoke or sent;
+  2. what a zero means, and how "couldn't check" is reported;
+  3. which account or line it speaks from, checked each time;
+  4. what it does when the outcome is unclear (stops and tells a person; never retries a send on its own).
+"None yet" with a date passes. "AI assistants should be reliable" fails.
+
+6. IF SOMEONE FAKES US
+Passes if it says to keep the message, not to reply or call any number in it, and to tell Dana the same day. Where to report is a good extra.
+
+Dana's finished version is harbor-home-voice-policy.md. Yours can use different words and still pass every line above.

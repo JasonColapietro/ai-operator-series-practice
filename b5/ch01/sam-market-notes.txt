@@ -1,0 +1,26 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 1, Sell the Work, Not the Tool.
+Sam Rivera's rough notes on ten businesses Sam can reach, typed in one sitting before the market list existed. For "Try this: Ten businesses by tonight": paste everything below the dashed line under the prompt card. Every business, owner, classmate and remark here is invented. The towns are real places around Portland, Maine. Harbor & Home's hours, prices and policies live in practice/shared/harbor-home-business-facts.txt, not here.
+----------------------------------------
+Businesses I could reach with one message
+
+Harbor & Home Cleaning. Dana Ruiz. I keep her books part time, so I see her every week. Quote requests that come in after the office closes, or on a weekend, sit until the office opens again (the hours are in her facts file). Dana: "They book whoever answers first." Missed calls cost her jobs, she says so herself. Two of her new customers told her an AI assistant listed Harbor & Home when they asked for a cleaner. The weekly scan I built for her runs on her buyer questions.
+
+Marcus Lee Design. Marcus Lee, a one-person web studio, works from home. Dana can introduce me. He builds websites for small businesses and hands them over at launch. Nobody checks the FAQ pages on those sites against what AI assistants tell his clients' customers. Marcus: "Once it's live, it's theirs." His own work comes by email and referral. Nobody books him by phone.
+
+Brennan Landscaping. Nate Brennan, Westbrook, a crew of four. A friend. I set up ChatGPT on his office laptop and nobody has opened it since. Nate is on a mower all day, his calls go to voicemail, and the office manager works mornings only. Nate: "If I don't call back by night, they've hired someone else." His last two new customers said an AI assistant gave them his name when they asked for landscapers in Westbrook.
+
+Studio Paloma. Paloma Reyes, a two-chair salon in South Portland. I get my hair cut there. Saturdays have no-shows. Nobody sends a reminder text the day before. Paloma: "A no-show is an empty chair I can't sell twice." She says her new clients come from friends and from Instagram.
+
+Carver Bookkeeping. Ines Carver, a three-person bookkeeping office. She teaches one night of my certificate class. Clients send their receipts late every month, and someone chases each one by email, one at a time. Ines: "Half my month is asking for paper." Her new clients come by referral from accountants.
+
+From my certificate class (where classmates work)
+
+Casco Heating & Air. A family HVAC company, owner Hank Doyle. A classmate does their billing and can introduce me. After 6 p.m. calls go to an answering service that only takes a message, so a no-heat call at night waits until morning. My classmate: "Hank lost two furnace jobs last January to a company that called back the same night." A new customer told Hank an AI assistant named Casco when she asked who does same-day furnace repair in Portland.
+
+Back Cove Property Management. Owner Lorraine Pike. A classmate is the office assistant there. Tenant repair requests come in by text, email and voicemail, and nobody sorts them by urgency until the next morning. Every tenant is already under a lease, so a slow reply doesn't lose them a customer. It loses them goodwill.
+
+Fore River Auto. A repair garage, owner Sal Moretti, a classmate's uncle. Customers call all day to ask whether the car is ready, and the person answering the phone is also the person under the car. Sal: "Every call about a car that's ready is a call I shouldn't get."
+
+Two Bridges Moving. Owner Keisha Moody. A classmate drives for them on weekends. Quote requests get answered in a day or two. Keisha: "By the time we quote, half of them have booked somebody else."
+
+Northlight Tutoring. Owner Arjun Mehta. A classmate tutors there. Parents email the same twenty questions about schedules, prices and makeup sessions, and Arjun answers each one by hand at night. Families sign up for a semester at a time, and nobody books by phone. Arjun has heard parents say an AI assistant recommended Northlight.

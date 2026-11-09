@@ -1,0 +1,18 @@
+job_id,date,day,start,est_hours,client,town,service,sq_ft,frequency,first_visit,crew,notes
+H-1418,02/01/2027,Mon,9:00 AM,3.0,"Alvarez, M.",Portland,Standard,1200,Weekly,no,Sarah + Ben,
+H-1419,02/01/2027,Mon,9:00 AM,3.0,"Chen, L.",South Portland,Standard,1900,Every 2 weeks,no,Miguel + Jess,"dog in back room, keep door shut"
+H-1420,02/01/2027,Mon,9:00 AM,4.5,"Lowell, B.",Falmouth,Deep,1700,One-time,no,Aisha + Tomas,
+H-1421,02/01/2027,Mon,6:00 PM,2.5,Dunlap Insurance,Portland,Small office,,Weekly,no,Miguel + Jess,
+H-1422,02/02/2027,Tue,9:00 AM,3.0,"Ito, K.",Falmouth,Standard,1600,Weekly,no,Sarah + Miguel,
+H-1423,02/02/2027,Tue,1:00 PM,2.5,"Kowalski, B.",Westbrook,Standard,1000,Every 2 weeks,no,Sarah + Miguel,
+H-1424,02/02/2027,Tue,1:00 PM,4.0,"Easton, J.",Portland,Move-out,1500,One-time,no,Aisha + Tomas,empty unit
+H-1425,02/02/2027,Tue,6:00 PM,2.0,Casco Tax Services,Portland,Small office,,Weekly,no,Aisha + Tomas,
+H-1426,02/03/2027,Wed,9:00 AM,2.5,"Lindqvist, E.",Portland,Standard,900,Weekly,no,Sarah + Ben,
+H-1427,02/03/2027,Wed,1:00 PM,2.5,"O'Brien, T.",Portland,Standard,1700,Every 2 weeks,no,Kelly + Ben,call before arriving
+H-1428,02/03/2027,Wed,6:00 PM,3.0,Fore River Design,Portland,Small office,,Every 2 weeks,no,Miguel + Jess,
+H-1429,02/04/2027,Thu,9:00 AM,2.5,"Tran, Q.",Portland,Standard,1200,Weekly,no,Sarah + Ben,
+H-1430,02/04/2027,Thu,9:00 AM,3.5,"Quarry, S.",Yarmouth,Standard,1400,One-time,yes,Kelly + Jess,
+H-1431,02/04/2027,Thu,1:00 PM,3.0,"Ng, P.",South Portland,Standard,1500,One-time,no,Kelly + Jess,
+H-1432,02/05/2027,Fri,9:00 AM,3.0,"Young, A.",Cape Elizabeth,Standard,1800,Weekly,no,Sarah + Ben,
+H-1433,02/05/2027,Fri,9:00 AM,2.5,"Abbott, N.",Westbrook,Standard,1350,Every 2 weeks,no,Kelly + Jess,
+H-1434,02/05/2027,Fri,1:00 PM,4.0,"Fiske, R.",Cape Elizabeth,Deep,1500,One-time,no,Aisha + Tomas,

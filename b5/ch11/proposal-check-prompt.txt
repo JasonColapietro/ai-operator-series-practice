@@ -1,0 +1,9 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 5, Chapter 11, Proposal, Contract, Invoice.
+The prompt card for "Try this: Proposal, SOW and invoice for one pilot". Paste everything below the line of dashes, then your proposal, price sheet and pilot scope (or sam-proposal-draft.md, Listing 4.1 from chapter 4 and ../ch09/sam-pilot-scope.md) in place of the last line. Matches the chapter's prompt card word for word. Written for this book.
+----------------------------------------
+Job: Check my one-page proposal before I send it.
+Material: The proposal, my price sheet and my pilot scope, pasted below. Nothing else.
+Shape: Three lists: any price that is not on my price sheet; any sentence that promises a result or a fixed date; any assumption written in a paragraph instead of the numbered list.
+Check: Quote each problem exactly. Do not rewrite the proposal. Do not give legal advice.
+
+[PASTE PROPOSAL, PRICE SHEET AND SCOPE HERE]

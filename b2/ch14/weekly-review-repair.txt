@@ -1,0 +1,8 @@
+PRACTICE FILE, FICTION. The AI Operator Series, Book 2, Chapter 14, On a Schedule, Under Review.
+The repair for a review whose numbers don't match the jobs export. Send it as your second message in the same chat. Copied unchanged from the practice pack (wf23-weekly-review/repair-request.txt) below the dashes.
+----------------------------------------
+Some numbers don't match my file. Recount from the CSV, one step at a time:
+1. List the job IDs with status Completed, and count them.
+2. Add up the price column for every row, and show a subtotal for each status.
+3. List the job IDs where payment says Unpaid, with the total. Put any blank payment cell on its own line.
+Then redo the Numbers table and tell me which numbers changed.
