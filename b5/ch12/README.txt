@@ -10,7 +10,8 @@ For "Try this: One pilot deliverable, done with evidence"
   delivery/                  The quote desk's four drafts for Dana to approve. The real deliverable.
   broken-saturday/           The same four drafts, with one planted flaw: a draft that books a Saturday. The practice input.
   broken-price/              The copy from Sam's step: a planted $300 price in a quote draft.
-  checks/check_delivery.py   Listing 12.1. Python standard library only; nothing to install.
+  checks/check_delivery.py   Listing 12.1 pattern scan. Python standard library only.
+  owner-review-cases/        Two drafts the owner must reject even with zero pattern findings.
   evidence-template.md       One evidence-of-done record.
   sam-evidence-week1.md      Sam's record for the first live Saturday. Figure 12.3 draws it in short form.
   sam-incidents.md           The first entry in Harbor & Home's incident log.
@@ -25,6 +26,8 @@ For your playbook folder
 Run the check from this folder:
   python3 checks/check_delivery.py ../../shared/harbor-home-business-facts.txt broken-saturday
 On Windows, type py in place of python3.
+
+Before approval, check every quoted price against its service and size limit, and confirm every offered day, time and reply promise with the owner. Record that review in the evidence entry.
 
 Never write a password, a key, a door code or a real customer's records in any of these files.
 Nothing here turns on a plugin, hook or setting in any tool until you copy a file into place yourself.

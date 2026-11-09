@@ -1,0 +1,6 @@
+Job: Draft twenty questions a real buyer might type into an AI assistant before choosing a business like [BUSINESS].
+Material: Use only the notes below: real customer emails, reviews and call notes. Keep the buyers' own words.
+Shape: Five groups of four: what this service is; the best option for [SPECIFIC CUSTOMER] in [PLACE]; [BUSINESS] versus [COMPETITOR]; how to solve [THE PROBLEM]; what it costs. Mark each question "discovery" (no business named) or "branded".
+Check: Do not invent customer situations that are not in my notes. If a group has fewer than four real sources, write fewer questions and tell me which group is thin.
+
+[PASTE NOTES HERE]

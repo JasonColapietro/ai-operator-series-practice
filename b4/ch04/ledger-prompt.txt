@@ -1,0 +1,8 @@
+Job: Draft today's entry for my AI-use ledger from this session.
+Material: Only what happened in this session: text or code you
+produced, files you created or changed, and anything I pasted in.
+Shape: Four headings: Generated, Written and decided, Sourced,
+Terms. Under Generated, one line per item, with whether I kept it.
+Leave "Written and decided" empty for me.
+Check: List only things from this session. Mark anything you are
+unsure of "unsure". Do not describe my decisions for me.

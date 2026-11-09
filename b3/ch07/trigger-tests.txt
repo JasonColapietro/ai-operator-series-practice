@@ -1,0 +1,16 @@
+BOOK 3, CHAPTER 7. Trigger requests and expected routing.
+Harbor & Home and Laura are fiction. Run each request in a fresh session.
+
+1. Draft a reply to the newest email in the inbox.
+   Expected: harbor-reply.
+2. Our supply vendor wants to move us to net-15 invoice terms. Draft a reply.
+   Expected: neither skill.
+3. Rename amt to amount_due in scripts/reconcile.py.
+   Expected: neither skill.
+4. Write Dana's Monday numbers summary from this week's export.
+   Expected: weekly-numbers.
+
+Record your expected skill and the actual skill for each tool in
+.agents/skills/harbor-reply/tests/triggers.md. For mismatches, change only the
+description and repeat all four requests. A reply to laura-email.txt must flag
+the 2,000-square-foot deep-clean price and Monday opening and confirm supplies.

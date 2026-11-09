@@ -15,3 +15,13 @@ practice/shared/harbor-home-business-facts.txt   The facts the About paragraph i
 practice/b1/ch08/link-log.txt                    Book 1's longer log, one block per point, for checking every link in a report.
 
 Nothing here turns on a plugin, hook or setting in any tool you open it with.
+
+
+Link check, November 9, 2026: the Ohio Department of Health forms URL in
+maple-street-example-result.txt returned HTTP 404 during automated inspection.
+Other ODH entry points also returned 404, so the current destination remains
+unverified. Use the chapter's "page would not open" mark and check the current
+official source in your browser. The historical example output is unchanged.
+Across both research examples (Book 1 chapter 8 and this chapter), nine of 21
+URLs were reachable, one returned 404 and eleven returned 403. A 403 leaves
+reader-browser availability unverified; it does not establish a broken link.
