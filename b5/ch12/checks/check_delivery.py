@@ -1,10 +1,11 @@
 # PRACTICE FILE, FICTION LABEL: The AI Operator Series, Book 5, Chapter 12, Deliver With Agents.
-# Listing 12.1. Checks every customer-facing file in a delivery against the client's approved facts.
+# Listing 12.1. Scans customer-facing files for price, appointment and promise patterns.
 # Harbor & Home Cleaning, Dana Ruiz and Sam Rivera are invented. Python standard library only.
 #
 # Usage: python3 check_delivery.py FACTS_FILE PATH [PATH ...]
 #   PATH may be a file or a folder. Folders are read for every .md and .txt file inside them.
-# Exit 0: no findings. Exit 1: findings, one per line. Exit 2: nothing was read, so nothing was checked.
+# Exit 0: no pattern findings; owner review is required. Exit 1: pattern findings.
+# Exit 2: nothing was read, so nothing was checked.
 import re
 import sys
 from pathlib import Path
@@ -63,7 +64,7 @@ def main(argv):
         print("\n".join(findings))
         print(f"FAIL: {len(findings)} finding(s) in {len(files)} file(s) read")
         return 1
-    print(f"PASS: {len(files)} file(s) read, 0 findings")
+    print(f"PASS: {len(files)} file(s) read, 0 pattern findings. Owner review required.")
     return 0
 
 

@@ -24,7 +24,7 @@ it, and you change nothing.
 4. A test covers one invoice paid in two parts that land in
    different months while the same client has another open
    invoice.
-5. No line in scripts/ writes to incoming/ or projects/.
+5. No line in scripts/ writes to practice/ or projects/.
 6. Every date in the report is written year first.
 
 ## Return

@@ -1,0 +1,6 @@
+Check your draft against the business facts file in this project, line by line.
+1. Remove any price, service, payment option or date that is not written in that file.
+2. Do not work out a price from the example emails in the voice sample file. Where an exact price is missing, write "CHECK:" and what's missing.
+3. If the customer asked for something the facts file says we don't do, say so plainly in one sentence.
+4. List every CHECK item under the draft.
+Keep it under 175 words and sign off "Dana".

@@ -5,10 +5,12 @@ Build a practice library in about five minutes. Use Finder or File Explorer for 
 
 1. In your Documents folder, make a folder named library. (If Documents is synced by iCloud, OneDrive or Google Drive, read the chapter's Watch out box first and make it in your home folder instead.)
 2. Inside library, make four folders: projects, skills, briefs and exports.
-3. Inside projects, make a folder named harbor-home. Copy into it the two files from the practice files' shared folder: harbor-home-business-facts.txt and harbor-home-voice-sample.txt.
+3. Inside projects, make a folder named harbor-home. Copy shared/harbor-home-business-facts.txt from the practice set's root into it and rename the copy facts.md. Copy instructions.md, brief.md and voice.md from b2/ch04 into the same folder. You now have projects/harbor-home/facts.md, instructions.md, brief.md and voice.md. Keep canary.md from b2/ch04 outside Project knowledge when you run its tests. The facts file decides prices; the old price in the voice sample is a deliberate trap.
 4. Copy the folder weekly-numbers from the practice files' b2/ch11 folder into library/skills, so you have library/skills/weekly-numbers/ with SKILL.md and columns.md inside.
 5. Copy dana-first-agent-job.txt from the practice files' b2/ch15 folder into library and rename it everything-else.md.
 6. If you wrote briefs/reconcile.md in chapter 1, put it in library/briefs. If not, copy sam-reconcile-brief.txt from the practice files' b3/ch01 folder into library/briefs and rename it reconcile.md. (Git saves files, not empty folders, so an empty briefs folder would not show up on GitHub.)
 7. Inside exports, make a plain-text file named practice-export.txt holding one line: "Stand-in for a chat export. Fiction." It exists so you can prove in chapter 2 that git leaves exports/ alone.
+
+8. Copy keeper-1-reply-from-approved-facts.txt from b2/front into library and rename the copy keepers.md. This is the Keeper #1 that chapter 7 turns into harbor-reply.
 
 That is the practice library. The chapter's Try this takes it from here.

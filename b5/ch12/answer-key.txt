@@ -15,13 +15,21 @@ STEP 4 AND 5: THE PLANTED FLAW
 
 STEP 6: THE REAL DELIVERABLE
   python3 checks/check_delivery.py ../../shared/harbor-home-business-facts.txt faq.md delivery
-  Expected: PASS: 5 file(s) read, 0 findings. Exit 0.
+  Expected: PASS: 5 file(s) read, 0 pattern findings. Owner review required. Exit 0.
   On the no-code path the right result is the Project's checklist answer "no problems found" for all four drafts,
   with the answer quoting each draft's price line beside the facts-file line it came from.
 
+OWNER-REVIEW CASES
+  Run the checker on owner-review-cases/wrong-service-price.md, then on
+  owner-review-cases/unapproved-day.md. Each returns exit 0 with owner review
+  required. Reject both: the first assigns a move-out price to an oversized
+  deep clean; the second offers a Saturday the owner never supplied.
+  A correct result records the owner's decision, reason and time for each.
+
 STEP 6: THE EVIDENCE RECORD
   Compare yours with sam-evidence-week1.md. Right if someone else could open the place you named and see what you saw:
-  a location, a time, what you saw, the check that would fail, and at least one thing you did not check.
+  a location, a time, what you saw, the pattern check, the owner review with price/service/size and availability decisions, and at least one thing you did not check.
+  Before approval, check every quoted price against its service and size limit, and confirm every offered day, time and reply promise with the owner. Record that review in the evidence entry.
   For the practice files, "where it runs" can be the delivery folder on your own computer, with the time you ran the check.
 
 STEP 7: THE INCIDENT LOG
